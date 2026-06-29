@@ -8,5 +8,15 @@
     "name_selector": "",
     "price_selector": "",
     "image_selector": "img"
+  },
+  {
+    "id": "test-euros",
+    "name": "Test Euros",
+    "url": "https://www.supermercadosmas.com/categoria/frescos/frutas",
+    "type": "html",
+    "product_selector": "",
+    "name_selector": "",
+    "price_selector": "",
+    "image_selector": "img"
   }
 ]
