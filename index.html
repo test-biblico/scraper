@@ -1,0 +1,237 @@
+¡Excelente decisión! Empezar de cero en un repositorio limpio es la mejor forma de asegurar que todo funcione a la primera. 
+
+Además, he **simplificado el sistema**: He eliminado el archivo `merge_config.py` (que nos dio tantos problemas) y he metido su lógica directamente dentro del robot. Ahora solo necesitas **5 archivos** en total.
+
+Crea tu nuevo repositorio en **https://github.com/new** (Ponle el nombre que quieras, por ejemplo `pricehunt-bot`, asegúrate de que sea **Público** y **NO marques ninguna casilla** para inicializarlo con README).
+
+Luego, crea estos 5 archivos en tu nuevo repositorio usando **"Add file" > "Create new file"**:
+
+---
+
+### Archivo 1: `config.json`
+*Nombre del archivo:* `config.json`
+*Contenido:*
+```json
+[]
+```
+
+---
+
+### Archivo 2: `data/.gitkeep`
+*Nombre del archivo:* `data/.gitkeep` *(escribelo con la barra para crear la carpeta)*
+*Contenido:* **(Déjalo completamente en blanco, no escribas nada aquí abajo)**
+
+---
+
+### Archivo 3: `scraper.py`
+*Nombre del archivo:* `scraper.py`
+*Contenido:*
+```python
+import json, re, os
+from curl_cffi import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+
+PRICE_REGEX = re.compile(r'(\d+[.,]\d{2})\s*€')
+
+def load_config():
+    with open('config.json', 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def fix_url(base, src):
+    if not src or src.startswith('data:'): return None
+    if src.startswith('//'): return 'https:' + src
+    if src.startswith('http'): return src
+    return urljoin(base, src)
+
+def scrape_site(site):
+    print(f"Scrapeando: {site['name']}...")
+    session = requests.Session(impersonate="chrome120")
+    try:
+        res = session.get(site['url'], timeout=30)
+        if res.status_code == 403:
+            print(f"Bloqueado (403): {site['name']}")
+            return []
+    except Exception as e:
+        print(f"Error de conexion: {e}")
+        return []
+
+    soup = BeautifulSoup(res.text, 'html.parser')
+    products = []
+    
+    # Si está vacío, usa 'div' por defecto para evitar errores
+    product_sel = site.get('product_selector') or 'div'
+    cards = soup.select(product_sel)
+    
+    for card in cards:
+        item = {"site": site['name'], "site_id": site['id']}
+        
+        name_sel = site.get('name_selector') or 'h1, h2, h3, a, span'
+        name_el = card.select_one(name_sel)
+        item['name'] = name_el.get_text(strip=True) if name_el else ""
+        
+        price_sel = site.get('price_selector')
+        price_el = card.select_one(price_sel) if price_sel else card
+        match = PRICE_REGEX.search(price_el.get_text(strip=True))
+        item['price'] = float(match.group(1).replace(',', '.')) if match else 0
+        
+        img_sel = site.get('image_selector') or 'img'
+        img_el = card.select_one(img_sel)
+        if img_el:
+            src = img_el.get('src') or img_el.get('data-src') or img_el.get('data-lazy-src')
+            item['image'] = fix_url(site['url'], src)
+        else:
+            item['image'] = None
+            
+        measure_sel = site.get('measure_selector')
+        if measure_sel:
+            measure_el = card.select_one(measure_sel)
+            item['measure'] = measure_el.get_text(strip=True) if measure_el else ""
+        else:
+            item['measure'] = ""
+        
+        if item['name'] and item['price'] > 0:
+            products.append(item)
+            
+    print(f"Extraidos: {len(products)} productos en {site['name']}")
+    return products
+
+def main():
+    config = load_config()
+    os.makedirs('data', exist_ok=True)
+    all_products = []
+    for site in config:
+        all_products.extend(scrape_site(site))
+        
+    with open('data/products.json', 'w', encoding='utf-8') as f:
+        json.dump(all_products, f, ensure_ascii=False, indent=2)
+    print(f"Total guardado: {len(all_products)} productos")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+### Archivo 4: `.github/workflows/scraper.yml` (El Robot)
+*Nombre del archivo:* `.github/workflows/scraper.yml` *(escríbelo con la barra)*
+*Contenido:*
+```yaml
+name: Scraper
+on:
+  issues:
+    types: [labeled]
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install curl_cffi beautifulsoup4
+      - name: Leer Issue y Guardar Config
+        if: github.event.label.name == 'nueva-web'
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python3 << 'PYEOF'
+          import os, json, re
+          body = os.environ.get("ISSUE_BODY", "")
+          match = re.search(r'```json\s*(.*?)\s*```', body, re.DOTALL)
+          if not match:
+              print("No se encontro JSON")
+              exit(1)
+          new_site = json.loads(match.group(1))
+          try:
+              with open("config.json", "r", encoding="utf-8") as f:
+                  config = json.load(f)
+          except:
+              config = []
+          config = [c for c in config if c.get("url") != new_site.get("url")]
+          config.append(new_site)
+          with open("config.json", "w", encoding="utf-8") as f:
+              json.dump(config, f, ensure_ascii=False, indent=2)
+          print("Config guardado")
+          PYEOF
+          git config --global user.name "Bot"
+          git config --global user.email "bot@github.com"
+          git add config.json
+          git commit -m "update config" || true
+          git push
+      - name: Ejecutar Scraper
+        run: python scraper.py
+      - name: Comentar y Cerrar Issue
+        if: github.event.label.name == 'nueva-web'
+        run: |
+          COUNT=$(python -c "import json; print(len(json.load(open('data/products.json'))))")
+          gh issue comment ${{ github.event.issue.number }} -b "Scraping completado. Total: $COUNT."
+          gh issue close ${{ github.event.issue.number }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+### Archivo 5: `index.html` (Tu Web)
+*Nombre del archivo:* `index.html`
+*Contenido:*
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PriceHunt</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<style>
+:root{--bg:#080c0a;--bg2:#0e1512;--card:#131d17;--fg:#e2ede6;--muted:#5e8a72;--accent:#10b981;--border:#1a2f24;--danger:#ef4444}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--fg)}
+h1,h2,h3{font-family:'Space Grotesk',sans-serif}
+::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;transition:all .2s}
+.card:hover{border-color:rgba(16,185,129,.3)}
+.input{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:10px 14px;color:var(--fg);font-size:.85rem;width:100%;outline:none;transition:border .2s}
+.input:focus{border-color:var(--accent)}
+.input::placeholder{color:var(--muted)}
+.btn{padding:10px 20px;border-radius:8px;border:none;cursor:pointer;font-size:.85rem;font-weight:600;display:inline-flex;align-items:center;gap:8px;transition:all .2s}
+.btn-p{background:var(--accent);color:#000}.btn-p:hover{opacity:.85}
+.btn-g{background:transparent;border:1px solid var(--border);color:var(--muted)}.btn-g:hover{color:var(--fg);border-color:var(--muted)}
+.btn-danger{background:transparent;border:1px solid rgba(239,68,68,.3);color:var(--danger)}.btn-danger:hover{background:rgba(239,68,68,.1)}
+select.input{cursor:pointer}select.input option{background:var(--card)}
+table{width:100%;border-collapse:collapse}
+th{background:var(--bg2);padding:10px 14px;text-align:left;font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);border-bottom:1px solid var(--border)}
+td{padding:10px 14px;border-bottom:1px solid rgba(26,47,36,.4);font-size:.85rem}
+tr:hover td{background:rgba(16,185,129,.02)}
+.badge-ok{background:#065f46;color:#6ee7b7;font-size:.65rem;padding:2px 6px;border-radius:10px;font-weight:700}
+.toast{position:fixed;bottom:20px;right:20px;background:var(--card);border:1px solid var(--border);padding:14px 22px;border-radius:12px;z-index:99;display:flex;align-items:center;gap:10px;animation:slideIn .3s ease;box-shadow:0 10px 30px rgba(0,0,0,.4)}
+@keyframes slideIn{from{transform:translateY(20px);opacity:0}to{transform:translateY(0);opacity:1}}
+.tag{background:var(--bg);padding:2px 8px;border-radius:6px;font-size:.7rem;color:var(--accent);font-weight:600}
+</style>
+</head>
+<body>
+<div style="max-width:1100px;margin:0 auto;padding:24px">
+  <header style="display:flex;justify-content:space-between;align-items:center;margin-bottom:32px;flex-wrap:wrap;gap:16px">
+    <div>
+      <h1 style="font-size:1.5rem;font-weight:700;display:flex;align-items:center;gap:10px"><i class="fas fa-tags" style="color:var(--accent)"></i> PriceHunt</h1>
+      <p style="font-size:.8rem;color:var(--muted);margin-top:2px">Añade webs y scrapea precios</p>
+    </div>
+    <div style="display:flex;gap:8px">
+      <button class="btn btn-g" onclick="loadData()"><i class="fas fa-rotate"></i> Recargar</button>
+      <button class="btn btn-p" onclick="exportCSV()"><i class="fas fa-download"></i> Exportar</button>
+    </div>
+  </header>
+  <div class="card" style="padding:24px;margin-bottom:24px">
+    <h2 style="font-size:1rem;font-weight:700;margin-bottom:16px"><i class="fas fa-plus-circle" style="color:var(--accent);margin-right:6px"></i>Añadir nueva web</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px">
+      <div
