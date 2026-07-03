@@ -38,5 +38,15 @@
     "name_selector": "h2.woocommerce-loop-product__title",
     "price_selector": "span.woocommerce-Price-amount.amount",
     "image_selector": "img.wp-post-image"
+  },
+  {
+    "id": "supermas-h",
+    "name": "supermas huevos",
+    "url": "https://www.supermas.com.py/catalogo/huevos-c49",
+    "type": "html",
+    "product_selector": "",
+    "name_selector": "",
+    "price_selector": "",
+    "image_selector": "img"
   }
 ]
