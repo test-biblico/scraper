@@ -18,5 +18,15 @@
     "name_selector": "",
     "price_selector": "",
     "image_selector": "img"
+  },
+  {
+    "id": "supermas-c",
+    "name": "supermas carnes",
+    "url": "https://www.supermas.com.py/catalogo/carnes-c100",
+    "type": "html",
+    "product_selector": "",
+    "name_selector": "",
+    "price_selector": "",
+    "image_selector": "img"
   }
 ]
