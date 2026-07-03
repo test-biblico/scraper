@@ -3,8 +3,8 @@ from curl_cffi import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-# Expresión regular adaptada a Paraguay: busca "15.000 Gs." o "25.500,50₲" o "15000.50"
-PRICE_REGEX = re.compile(r'(\d{1,3}(?:\.\d{3})*(?:,\d{2}))\s*(?:Gs\.?|₲|€)?', re.IGNORECASE)
+# Busca números con formato paraguayo: 54.500 o 25.500,50
+GUARANI_REGEX = re.compile(r'(\d{1,3}(?:\.\d{3})*(?:,\d{2})?)\b')
 
 def load_config():
     with open('config.json', 'r', encoding='utf-8') as f:
@@ -16,20 +16,38 @@ def fix_url(base, src):
     if src.startswith('http'): return src
     return urljoin(base, src)
 
-def parse_price(text):
-    match = PRICE_REGEX.search(text)
+def parse_guarani(text):
+    match = GUARANI_REGEX.search(text)
     if not match: return None
-    price_str = match.group(1)
-    # Formato paraguayo: quita el punto de los miles, cambia la coma a punto decimal
-    price_str = price_str.replace('.', '')
-    price_str = price_str.replace(',', '.')
-    try:
-        return float(price_str)
-    except:
-        return None
+    price_str = match.group(1).replace('.', '').replace(',', '.')
+    try: return float(price_str)
+    except: return None
 
-def scrape_site(site):
-    print(f"Scrapeando: {site['name']}...")
+def scrape_via_api(site):
+    base_url = site['url'].rsplit('/', 1)[0]
+    api_url = base_url + '/wp-json/wc/store/v1/products?per_page=100'
+    print(f"Intentando API: {api_url}")
+    session = requests.Session(impersonate="chrome120")
+    try:
+        res = session.get(api_url, timeout=20)
+        if res.status_code == 200:
+            data = res.json()
+            products = []
+            for p in data:
+                price = parse_guarani(p.get('price_html', '') or p.get('price', '0'))
+                if not price and p.get('price'):
+                    try: price = float(p['price'])
+                    except: price = 0
+                img = p.get('images', [{}])[0].get('src') if p.get('images') else None
+                if img: img = fix_url(base_url, img)
+                products.append({"site": site['name'], "site_id": site['id'], "name": p.get('name', ''), "price": price, "image": img, "measure": ""})
+            print(f"API exitosa: {len(products)} productos")
+            return products
+    except: pass
+    print("API no disponible, buscando en HTML...")
+    return None
+
+def scrape_via_html(site):
     session = requests.Session(impersonate="chrome120")
     try:
         res = session.get(site['url'], timeout=30)
@@ -41,44 +59,68 @@ def scrape_site(site):
         return []
 
     soup = BeautifulSoup(res.text, 'html.parser')
+    
+    # Si hay selectores personalizados, los usa
+    if site.get('product_selector'):
+        cards = soup.select(site['product_selector'])
+        products = []
+        for card in cards:
+            item = {"site": site['name'], "site_id": site['id']}
+            name_el = card.select_one(site.get('name_selector') or 'h2, h3, h4, a')
+            item['name'] = name_el.get_text(strip=True) if name_el else ""
+            price_el = card.select_one(site.get('price_selector')) if site.get('price_selector') else card
+            item['price'] = parse_guarani(price_el.get_text(strip=True)) or 0
+            img_el = card.select_one(site.get('image_selector') or 'img')
+            if img_el:
+                src = img_el.get('src') or img_el.get('data-src')
+                item['image'] = fix_url(site['url'], src)
+            else:
+                item['image'] = None
+            if item['name'] and item['price'] > 0: products.append(item)
+        print(f"Selectores: {len(products)} productos")
+        return products
+
+    # MODO AUTOMÁTICO: Busca precios en todo el HTML sin selectores
+    print("Modo automatico activado...")
+    all_elements = soup.find_all(True)
+    cards = []
+    seen = set()
+    for el in all_elements:
+        text = el.get_text(strip=True)
+        if parse_guarani(text):
+            parent = el.parent
+            for _ in range(5):
+                if parent and parent.name in ['li', 'div', 'article', 'tr']:
+                    sig = hash(str(parent)[:200])
+                    if sig not in seen:
+                        seen.add(sig)
+                        cards.append(parent)
+                        break
+                parent = parent.parent if parent else None
+            if len(seen) > 300: break
+
     products = []
-    
-    product_sel = site.get('product_selector') or 'div'
-    cards = soup.select(product_sel)
-    
     for card in cards:
         item = {"site": site['name'], "site_id": site['id']}
-        
-        name_sel = site.get('name_selector') or 'h1, h2, h3, a, span'
-        name_el = card.select_one(name_sel)
+        name_el = card.select_one('h1, h2, h3, h4, a, span, p')
         item['name'] = name_el.get_text(strip=True) if name_el else ""
-        
-        # Buscar precio en todo el texto de la tarjeta
-        price_sel = site.get('price_selector')
-        price_el = card.select_one(price_sel) if price_sel else card
-        price_text = price_el.get_text(strip=True) if price_el else ""
-        item['price'] = parse_price(price_text) or 0
-        
-        img_sel = site.get('image_selector') or 'img'
-        img_el = card.select_one(img_sel)
+        item['price'] = parse_guarani(card.get_text(strip=True)) or 0
+        img_el = card.select_one('img')
         if img_el:
-            src = img_el.get('src') or img_el.get('data-src') or img_el.get('data-lazy-src')
+            src = img_el.get('src') or img_el.get('data-src')
             item['image'] = fix_url(site['url'], src)
         else:
             item['image'] = None
-            
-        measure_sel = site.get('measure_selector')
-        if measure_sel:
-            measure_el = card.select_one(measure_sel)
-            item['measure'] = measure_el.get_text(strip=True) if measure_el else ""
-        else:
-            item['measure'] = ""
+        if item['name'] and item['price'] > 0: products.append(item)
         
-        if item['name'] and item['price'] > 0:
-            products.append(item)
-            
-    print(f"Extraidos: {len(products)} productos en {site['name']}")
+    print(f"Automatico: {len(products)} productos")
     return products
+
+def scrape_site(site):
+    print(f"\n--- Scrapeando: {site['name']} ---")
+    api_products = scrape_via_api(site)
+    if api_products is not None: return api_products
+    return scrape_via_html(site)
 
 def main():
     config = load_config()
@@ -86,10 +128,9 @@ def main():
     all_products = []
     for site in config:
         all_products.extend(scrape_site(site))
-        
     with open('data/products.json', 'w', encoding='utf-8') as f:
         json.dump(all_products, f, ensure_ascii=False, indent=2)
-    print(f"Total guardado: {len(all_products)} productos")
+    print(f"\nTotal guardado: {len(all_products)} productos")
 
 if __name__ == "__main__":
     main()
