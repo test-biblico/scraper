@@ -1,58 +1,41 @@
-name: Scraper
+name: Scraper Precios
+
 on:
-  issues:
-    types: [labeled]
   schedule:
-    - cron: '0 10 * * *'
-  workflow_dispatch:
+    - cron: '0 */2 * * *'      # cada 2 horas
+  workflow_dispatch:          # ejecutar manualmente desde la pestaña Actions
+  push:
+    paths:
+      - 'scraper.py'
+      - '.github/workflows/scraper.yml'
+
+permissions:
+  contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      issues: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-      - run: pip install curl_cffi beautifulsoup4
-      - name: Leer Issue y Guardar Config
-        if: github.event.label.name == 'nueva-web'
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-        run: |
-          python3 << 'PYEOF'
-          import os, json, re
-          body = os.environ.get("ISSUE_BODY", "")
-          match = re.search(r'```json\s*(.*?)\s*```', body, re.DOTALL)
-          if not match:
-              print("No se encontro JSON")
-              exit(1)
-          new_site = json.loads(match.group(1))
-          try:
-              with open("config.json", "r", encoding="utf-8") as f:
-                  config = json.load(f)
-          except:
-              config = []
-          config = [c for c in config if c.get("url") != new_site.get("url")]
-          config.append(new_site)
-          with open("config.json", "w", encoding="utf-8") as f:
-              json.dump(config, f, ensure_ascii=False, indent=2)
-          print("Config guardado")
-          PYEOF
-          git config --global user.name "Bot"
-          git config --global user.email "bot@github.com"
-          git add config.json
-          git commit -m "update config" || true
-          git push
-      - name: Ejecutar Scraper
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install curl_cffi beautifulsoup4
+
+      - name: Ejecutar scraper
         run: python scraper.py
-      - name: Comentar y Cerrar Issue
-        if: github.event.label.name == 'nueva-web'
+
+      - name: Commitear y pushear products.json
         run: |
-          COUNT=$(python -c "import json; print(len(json.load(open('data/products.json'))))")
-          gh issue comment ${{ github.event.issue.number }} -b "Scraping completado. Total: $COUNT."
-          gh issue close ${{ github.event.issue.number }}
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config --global user.name "PriceHunt Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add data/products.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los precios."
+          else
+            git commit -m "Actualizar precios $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

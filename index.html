@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PriceHunt</title>
+<title>PriceHunt - Comparador de Supermercados</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -22,7 +22,6 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .btn-p{background:var(--accent);color:#000}.btn-p:hover{opacity:.85}
 .btn-g{background:transparent;border:1px solid var(--border);color:var(--muted)}.btn-g:hover{color:var(--fg);border-color:var(--muted)}
 .btn-danger{background:transparent;border:1px solid rgba(239,68,68,.3);color:var(--danger)}.btn-danger:hover{background:rgba(239,68,68,.1)}
-select.input{cursor:pointer}select.input option{background:var(--card)}
 table{width:100%;border-collapse:collapse}
 th{background:var(--bg2);padding:10px 14px;text-align:left;font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);border-bottom:1px solid var(--border)}
 td{padding:10px 14px;border-bottom:1px solid rgba(26,47,36,.4);font-size:.85rem}
@@ -33,17 +32,20 @@ tr:hover td{background:rgba(16,185,129,.02)}
 .tag{background:var(--bg);padding:2px 8px;border-radius:6px;font-size:.7rem;color:var(--accent);font-weight:600}
 .loading-spinner{border:3px solid var(--border);border-top:3px solid var(--accent);border-radius:50%;width:20px;height:20px;animation:spin 1s linear infinite;display:inline-block}
 @keyframes spin{to{transform:rotate(360deg)}}
+.site-pill{padding:2px 8px;border-radius:10px;font-size:.68rem;font-weight:700}
+.site-Supermas{background:#0e3b2e;color:#6ee7b7}
+.site-Stock{background:#1e2a4d;color:#93c5fd}
 </style>
 </head>
 <body>
 <div style="max-width:1100px;margin:0 auto;padding:24px">
-  
-  <header style="display:flex;justify-content:space-between;align-items:center;margin-bottom:32px;flex-wrap:wrap;gap:16px">
+
+  <header style="display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;flex-wrap:wrap;gap:16px">
     <div>
       <h1 style="font-size:1.5rem;font-weight:700;display:flex;align-items:center;gap:10px">
         <i class="fas fa-tags" style="color:var(--accent)"></i> PriceHunt
       </h1>
-      <p style="font-size:.8rem;color:var(--muted);margin-top:2px">Añade webs, scrapea y compara precios</p>
+      <p style="font-size:.8rem;color:var(--muted);margin-top:2px">Compara precios: Supermas vs Stock</p>
     </div>
     <div style="display:flex;gap:8px">
       <button class="btn btn-g" onclick="loadData()"><i class="fas fa-rotate"></i> Recargar</button>
@@ -51,61 +53,10 @@ tr:hover td{background:rgba(16,185,129,.02)}
     </div>
   </header>
 
-  <div class="card" style="padding:24px;margin-bottom:24px">
-    <h2 style="font-size:1rem;font-weight:700;margin-bottom:16px">
-      <i class="fas fa-plus-circle" style="color:var(--accent);margin-right:6px"></i>Añadir nueva web
-    </h2>
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px">
-      <div>
-        <label style="font-size:.75rem;color:var(--muted);display:block;margin-bottom:4px">Nombre del sitio</label>
-        <input class="input" id="inName" placeholder="Ej: Supermercado Lácteos">
-      </div>
-      <div>
-        <label style="font-size:.75rem;color:var(--muted);display:block;margin-bottom:4px">URL a scrapear</label>
-        <input class="input" id="inUrl" placeholder="https://www.ejemplo.com/categoria">
-      </div>
-    </div>
-    <details style="margin-bottom:14px;cursor:pointer">
-      <summary style="font-size:.8rem;color:var(--accent);font-weight:600;margin-bottom:10px">Selectores CSS avanzados (Opcional)</summary>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;background:var(--bg2);padding:14px;border-radius:8px">
-        <div>
-          <label style="font-size:.7rem;color:var(--muted);display:block;margin-bottom:3px">Contenedor producto</label>
-          <input class="input" id="selProduct" style="font-size:.8rem" placeholder=".product-card">
-        </div>
-        <div>
-          <label style="font-size:.7rem;color:var(--muted);display:block;margin-bottom:3px">Selector nombre</label>
-          <input class="input" id="selName" style="font-size:.8rem" placeholder=".title">
-        </div>
-        <div>
-          <label style="font-size:.7rem;color:var(--muted);display:block;margin-bottom:3px">Selector precio</label>
-          <input class="input" id="selPrice" style="font-size:.8rem" placeholder=".price-value">
-        </div>
-        <div>
-          <label style="font-size:.7rem;color:var(--muted);display:block;margin-bottom:3px">Selector imagen</label>
-          <input class="input" id="selImg" style="font-size:.8rem" placeholder="img.main-img">
-        </div>
-      </div>
-    </details>
-    <button class="btn btn-p" onclick="sendToGithub()" style="width:100%;justify-content:center">
-      <i class="fab fa-github"></i> Añadir Web y Empezar Scraping
-    </button>
-  </div>
-
-  <div class="card" style="padding:20px;margin-bottom:24px">
-    <h2 style="font-size:1rem;font-weight:700;margin-bottom:14px">
-      <i class="fas fa-globe" style="color:var(--muted);margin-right:6px"></i>Webs configuradas
-    </h2>
-    <div id="sitesList">
-      <div style="text-align:center;padding:10px;color:var(--muted);font-size:.85rem" id="sitesLoading">
-        <div class="loading-spinner"></div> Cargando...
-      </div>
-    </div>
-  </div>
-
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:24px" id="stats">
-    <div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:'Space Grotesk'">-</div><div style="font-size:.75rem;color:var(--muted)">Productos</div></div>
-    <div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:'Space Grotesk'">-</div><div style="font-size:.75rem;color:var(--muted)">Webs Activas</div></div>
-    <div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:'Space Grotesk';color:var(--accent)">-</div><div style="font-size:.75rem;color:var(--muted)">Precio Mínimo</div></div>
+    <div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:'Space Grotesk'" id="stTotal">-</div><div style="font-size:.75rem;color:var(--muted)">Productos</div></div>
+    <div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:'Space Grotesk';color:var(--accent)" id="stMin">-</div><div style="font-size:.75rem;color:var(--muted)">Más barato</div></div>
+    <div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:'Space Grotesk'" id="stSites">-</div><div style="font-size:.75rem;color:var(--muted)">Supermercados</div></div>
   </div>
 
   <div class="card" style="padding:16px;margin-bottom:20px">
@@ -115,21 +66,21 @@ tr:hover td{background:rgba(16,185,129,.02)}
         <input class="input" id="search" placeholder="Buscar producto..." oninput="renderTable()" style="padding-left:34px">
       </div>
       <select class="input" id="siteFilter" onchange="renderTable()" style="width:auto">
-        <option value="">Todos</option>
+        <option value="">Todos los supermercados</option>
       </select>
     </div>
   </div>
 
   <div class="card" style="overflow:hidden">
-    <div style="overflow-x:auto;max-height:60vh;overflow-y:auto">
+    <div style="overflow-x:auto;max-height:62vh;overflow-y:auto">
       <table>
-        <thead><tr><th>Producto</th><th>Sitio</th><th>Medida</th><th>Precio</th></tr></thead>
+        <thead><tr><th>Producto</th><th>Supermercado</th><th>Precio</th></tr></thead>
         <tbody id="tbody"></tbody>
       </table>
     </div>
     <div id="emptyState" style="padding:50px;text-align:center">
       <i class="fas fa-inbox" style="font-size:2rem;color:var(--border);margin-bottom:10px;display:block"></i>
-      <p style="color:var(--muted)">Esperando datos. Añade tu primera web arriba.</p>
+      <p style="color:var(--muted)">Esperando datos. Pulsa Recargar.</p>
     </div>
   </div>
 
@@ -138,242 +89,98 @@ tr:hover td{background:rgba(16,185,129,.02)}
 <div id="toastBox"></div>
 
 <script>
-var GH_USER = "test-biblico";
-var GH_REPO = "scraper";
-var config = [];
 var products = [];
+var currency = "Gs.";
 
-function safeGet(id) {
-  var el = document.getElementById(id);
-  return el ? el.value : "";
-}
+function fmt(n){ if(n==null) return "-"; return currency + " " + n.toLocaleString("es-PY",{maximumFractionDigits:0}); }
 
-async function loadData() {
-  try {
-    var c = await fetch("https://raw.githubusercontent.com/" + GH_USER + "/" + GH_REPO + "/main/config.json?t=" + Date.now());
-    if (!c.ok) throw new Error("No encontrado");
-    config = await c.json();
-  } catch(e) {
-    config = [];
-  }
-  renderSites();
+function norm(s){ return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g,"").replace(/\s+/g," ").trim(); }
 
-  try {
-    var p = await fetch("data/products.json?t=" + Date.now());
-    if (!p.ok) throw new Error("No encontrado");
+async function loadData(){
+  try{
+    var p = await fetch("data/products.json?t="+Date.now());
+    if(!p.ok) throw new Error("No encontrado");
     products = await p.json();
-  } catch(e) {
-    products = [];
+  }catch(e){
+    products=[];
+    showToast("Sin datos","No se pudo cargar data/products.json.","error");
   }
-  
   initFilters();
   renderTable();
   updateStats();
 }
 
-function renderSites() {
-  var el = document.getElementById("sitesList");
-  if (!config.length) {
-    el.innerHTML = '<p style="color:var(--muted);font-size:.85rem;text-align:center;padding:10px">No hay webs configuradas todavía.</p>';
-    return;
-  }
-  
-  var html = "";
-  for (var i = 0; i < config.length; i++) {
-    var s = config[i];
-    var tagHtml = s.product_selector 
-      ? '<span class="tag">Custom CSS</span>' 
-      : '<span class="tag" style="color:var(--muted);background:var(--border)">Auto</span>';
-    
-    html += '<div style="display:flex;justify-content:space-between;align-items:center;background:var(--bg2);padding:12px;border-radius:8px;margin-bottom:8px">';
-    html += '  <div style="min-width:0;flex:1">';
-    html += '    <div style="font-weight:600;font-size:.88rem">' + s.name + '</div>';
-    html += '    <div style="font-size:.72rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + s.url + '</div>';
-    html += '  </div>';
-    html += '  <div style="display:flex;gap:6px;align-items:center">' + tagHtml;
-    html += '    <button class="btn btn-danger" style="padding:6px 10px;font-size:.75rem" onclick="removeSite(' + i + ')"><i class="fas fa-trash"></i></button>';
-    html += '  </div>';
-    html += '</div>';
-  }
-  el.innerHTML = html;
+function initFilters(){
+  var sites={};
+  products.forEach(function(x){ sites[x.site]=true; });
+  var sel=document.getElementById("siteFilter");
+  sel.innerHTML='<option value="">Todos los supermercados</option>';
+  Object.keys(sites).forEach(function(s){ var o=document.createElement("option"); o.value=s; o.textContent=s; sel.appendChild(o); });
 }
 
-function sendToGithub() {
-  var name = safeGet("inName").trim();
-  var url = safeGet("inUrl").trim();
-  
-  if (!name || !url) {
-    showToast("Error", "Nombre y URL son obligatorios", "error");
-    return;
-  }
-  if (!url.startsWith("http")) {
-    showToast("Error", "La URL debe empezar por http:// o https://", "error");
-    return;
-  }
-
-  var payload = {
-    id: name.toLowerCase().replace(/\s+/g, "-").substring(0, 10),
-    name: name,
-    url: url,
-    type: "html",
-    product_selector: safeGet("selProduct").trim(),
-    name_selector: safeGet("selName").trim(),
-    price_selector: safeGet("selPrice").trim(),
-    image_selector: safeGet("selImg").trim() || "img"
-  };
-
-  var bodyText = "Añade esta web al sistema y ejecuta el scraper.\n\n```json\n" + JSON.stringify(payload, null, 2) + "\n```";
-  var encodedBody = encodeURIComponent(bodyText);
-  var encodedTitle = encodeURIComponent("Nueva web: " + name);
-  
-  var githubUrl = "https://github.com/" + GH_USER + "/" + GH_REPO + "/issues/new?title=" + encodedTitle + "&body=" + encodedBody + "&labels=nueva-web";
-  
-  window.open(githubUrl, "_blank");
-  showToast("Proceso iniciado", "Confirma el Issue en GitHub. Los datos aparecerán aquí en 1-2 minutos.", "ok");
-  
-  document.getElementById("inName").value = "";
-  document.getElementById("inUrl").value = "";
-  
-  setTimeout(loadData, 40000);
-  setTimeout(loadData, 120000);
+function updateStats(){
+  if(!products.length){ stTotal.textContent="-"; stMin.textContent="-"; stSites.textContent="-"; return; }
+  var prices=products.map(function(x){return x.price;});
+  stTotal.textContent=products.length;
+  stMin.textContent=fmt(Math.min.apply(null,prices));
+  var sites={}; products.forEach(function(x){sites[x.site]=true;});
+  stSites.textContent=Object.keys(sites).length;
 }
 
-function removeSite(index) {
-  var site = config[index];
-  if (!site) return;
-  if (confirm("¿Eliminar '" + site.name + "' del scraper?")) {
-    var bodyText = "POR FAVOR ELIMINA del config.json la web con id: '" + site.id + "' y url: '" + site.url + "'. Luego ejecuta el scraper de nuevo.";
-    var encodedBody = encodeURIComponent(bodyText);
-    var encodedTitle = encodeURIComponent("Eliminar web: " + site.name);
-    var githubUrl = "https://github.com/" + GH_USER + "/" + GH_REPO + "/issues/new?title=" + encodedTitle + "&body=" + encodedBody + "&labels=nueva-web";
-    window.open(githubUrl, "_blank");
+function renderTable(){
+  var q=document.getElementById("search").value.toLowerCase();
+  var site=document.getElementById("siteFilter").value;
+  var filtered=products.filter(function(p){
+    return (!q || p.name.toLowerCase().indexOf(q)!==-1) && (!site || p.site===site);
+  });
+  filtered.sort(function(a,b){ return a.price-b.price; });
+  var tbody=document.getElementById("tbody");
+  var empty=document.getElementById("emptyState");
+  if(!filtered.length){ tbody.innerHTML=""; empty.style.display=""; return; }
+  empty.style.display="none";
+  var minPrice=filtered[0].price;
+  var limit=Math.min(filtered.length,500);
+  var html="";
+  for(var j=0;j<limit;j++){
+    var d=filtered[j];
+    var imgHtml=d.image
+      ? '<img src="'+d.image+'" style="width:40px;height:40px;border-radius:6px;object-fit:cover;background:var(--bg)" onerror="this.style.display=\'none\'">'
+      : '<div style="width:40px;height:40px;border-radius:6px;background:var(--bg2);flex-shrink:0"></div>';
+    var priceStyle=d.price===minPrice?'color:var(--accent)':'';
+    var badgeHtml=d.price===minPrice?'<span class="badge-ok" style="margin-left:6px">MÍNIMO</span>':'';
+    var pill='<span class="site-pill site-'+d.site+'">'+d.site+'</span>';
+    html+='<tr>';
+    html+='  <td><div style="display:flex;align-items:center;gap:10px">'+imgHtml+'<span style="font-weight:500">'+d.name+'</span></div></td>';
+    html+='  <td>'+pill+'</td>';
+    html+='  <td><span style="font-family:Space Grotesk;font-weight:700;'+priceStyle+'">'+fmt(d.price)+'</span>'+badgeHtml+(d.url?' <a href="'+d.url+'" target="_blank" style="color:var(--muted);font-size:.75rem"><i class="fas fa-external-link-alt"></i></a>':'')+'</td>';
+    html+='</tr>';
   }
+  tbody.innerHTML=html;
 }
 
-function initFilters() {
-  var sitesSet = {};
-  for (var i = 0; i < products.length; i++) {
-    sitesSet[products[i].site] = true;
+function exportCSV(){
+  if(!products.length){ showToast("Sin datos","No hay productos para exportar","warn"); return; }
+  var csv="Supermercado,Nombre,Precio,URL\n";
+  for(var i=0;i<products.length;i++){
+    var d=products[i];
+    csv+='"'+d.site+'","'+d.name.replace(/"/g,'""')+'","'+fmt(d.price)+'","'+(d.url||'')+'"\n';
   }
-  var sitesList = Object.keys(sitesSet);
-  
-  var sel = document.getElementById("siteFilter");
-  var html = '<option value="">Todos</option>';
-  for (var j = 0; j < sitesList.length; j++) {
-    html += '<option value="' + sitesList[j] + '">' + sitesList[j] + '</option>';
-  }
-  sel.innerHTML = html;
+  var blob=new Blob(["﻿"+csv],{type:"text/csv;charset=utf-8;"});
+  var a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download="precios_comparados.csv"; a.click();
+  showToast("Exportado","CSV descargado correctamente","ok");
 }
 
-function updateStats() {
-  var minPrice = "-";
-  if (products.length > 0) {
-    var min = products[0].price;
-    for (var i = 1; i < products.length; i++) {
-      if (products[i].price < min) min = products[i].price;
-    }
-    minPrice = min.toFixed(2) + "€";
-  }
-  
-  document.getElementById("stats").innerHTML = 
-    '<div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:Space Grotesk">' + products.length + '</div><div style="font-size:.75rem;color:var(--muted)">Productos</div></div>' +
-    '<div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:Space Grotesk">' + config.length + '</div><div style="font-size:.75rem;color:var(--muted)">Webs Activas</div></div>' +
-    '<div class="card" style="padding:16px"><div style="font-size:1.5rem;font-weight:700;font-family:Space Grotesk;color:var(--accent)">' + minPrice + '</div><div style="font-size:.75rem;color:var(--muted)">Precio Mínimo</div></div>';
-}
-
-function renderTable() {
-  var q = document.getElementById("search").value.toLowerCase();
-  var site = document.getElementById("siteFilter").value;
-  
-  var filtered = [];
-  for (var i = 0; i < products.length; i++) {
-    var p = products[i];
-    var matchQ = !q || p.name.toLowerCase().indexOf(q) !== -1;
-    var matchS = !site || p.site === site;
-    if (matchQ && matchS) filtered.push(p);
-  }
-  
-  filtered.sort(function(a, b) { return a.price - b.price; });
-  
-  var tbody = document.getElementById("tbody");
-  var empty = document.getElementById("emptyState");
-  
-  if (!filtered.length) {
-    tbody.innerHTML = "";
-    empty.style.display = "";
-    return;
-  }
-  
-  empty.style.display = "none";
-  var minPrice = filtered[0].price;
-  var html = "";
-  
-  var limit = Math.min(filtered.length, 200);
-  for (var j = 0; j < limit; j++) {
-    var d = filtered[j];
-    var imgHtml = "";
-    if (d.image) {
-      imgHtml = '<img src="' + d.image + '" style="width:40px;height:40px;border-radius:6px;object-fit:cover;background:var(--bg)" onerror="this.style.display=\'none\'">';
-    } else {
-      imgHtml = '<div style="width:40px;height:40px;border-radius:6px;background:var(--bg2);flex-shrink:0"></div>';
-    }
-    
-    var priceStyle = d.price === minPrice ? 'color:var(--accent)' : '';
-    var badgeHtml = d.price === minPrice ? '<span class="badge-ok" style="margin-left:6px">MÍNIMO</span>' : '';
-    
-    html += '<tr>';
-    html += '  <td><div style="display:flex;align-items:center;gap:10px">' + imgHtml + '<span style="font-weight:500">' + d.name + '</span></div></td>';
-    html += '  <td style="color:var(--muted);font-size:.8rem">' + d.site + '</td>';
-    html += '  <td style="color:var(--muted);font-size:.8rem">' + (d.measure || '-') + '</td>';
-    html += '  <td><span style="font-family:Space Grotesk;font-weight:700;' + priceStyle + '">' + d.price.toFixed(2) + '€</span>' + badgeHtml + '</td>';
-    html += '</tr>';
-  }
-  
-  tbody.innerHTML = html;
-  updateStats();
-}
-
-function exportCSV() {
-  if (!products.length) {
-    showToast("Sin datos", "No hay productos para exportar", "warn");
-    return;
-  }
-  var csv = "Nombre,Supermercado,Medida,Precio\n";
-  for (var i = 0; i < products.length; i++) {
-    var d = products[i];
-    csv += '"' + d.name.replace(/"/g, '""') + '","' + d.site + '","' + (d.measure || '') + '",' + d.price + "\n";
-  }
-  var blob = new Blob(["\ufeff" + csv], { type: "text/csv;charset=utf-8;" });
-  var a = document.createElement("a");
-  a.href = URL.createObjectURL(blob);
-  a.download = "precios.csv";
-  a.click();
-  showToast("Exportado", "CSV descargado correctamente", "ok");
-}
-
-function showToast(title, msg, type) {
-  var c = document.getElementById("toastBox");
-  var icon = type === "ok" ? "fa-check-circle" : "fa-exclamation-triangle";
-  var color = type === "ok" ? "var(--accent)" : "var(--danger)";
-  
-  var el = document.createElement("div");
-  el.className = "toast";
-  el.innerHTML = '<i class="fas ' + icon + '" style="color:' + color + ';font-size:1.1rem"></i><div><div style="font-weight:600;font-size:.85rem">' + title + '</div><div style="font-size:.78rem;color:var(--muted);max-width:300px">' + msg + '</div></div>';
-  
+function showToast(title,msg,type){
+  var c=document.getElementById("toastBox");
+  var icon=type==="ok"?"fa-check-circle":"fa-exclamation-triangle";
+  var color=type==="ok"?"var(--accent)":"var(--danger)";
+  var el=document.createElement("div"); el.className="toast";
+  el.innerHTML='<i class="fas '+icon+'" style="color:'+color+';font-size:1.1rem"></i><div><div style="font-weight:600;font-size:.85rem">'+title+'</div><div style="font-size:.78rem;color:var(--muted);max-width:300px">'+msg+'</div></div>';
   c.appendChild(el);
-  setTimeout(function() { 
-    if (el.parentNode) el.parentNode.removeChild(el); 
-  }, 5000);
+  setTimeout(function(){ if(el.parentNode) el.parentNode.removeChild(el); },5000);
 }
 
-window.onload = function() {
-  try {
-    loadData();
-  } catch(e) {
-    console.error("Error al cargar:", e);
-    document.getElementById("sitesList").innerHTML = '<p style="color:var(--danger);text-align:center">Error al cargar.</p>';
-  }
-};
+window.onload=function(){ try{ loadData(); }catch(e){ console.error(e); } };
 </script>
 </body>
 </html>
