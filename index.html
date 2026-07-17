@@ -22,6 +22,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .btn-p{background:var(--accent);color:#000}.btn-p:hover{opacity:.85}
 .btn-g{background:transparent;border:1px solid var(--border);color:var(--muted)}.btn-g:hover{color:var(--fg);border-color:var(--muted)}
 .btn-danger{background:transparent;border:1px solid rgba(239,68,68,.3);color:var(--danger)}.btn-danger:hover{background:rgba(239,68,68,.1)}
+.btn:disabled{opacity:.4;cursor:not-allowed}
 table{width:100%;border-collapse:collapse}
 th{background:var(--bg2);padding:10px 14px;text-align:left;font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);border-bottom:1px solid var(--border)}
 td{padding:10px 14px;border-bottom:1px solid rgba(26,47,36,.4);font-size:.85rem}
@@ -35,6 +36,7 @@ tr:hover td{background:rgba(16,185,129,.02)}
 .site-pill{padding:2px 8px;border-radius:10px;font-size:.68rem;font-weight:700}
 .site-Supermas{background:#0e3b2e;color:#6ee7b7}
 .site-Stock{background:#1e2a4d;color:#93c5fd}
+.site-pill-empty{background:#2a2a2a;color:#888}
 </style>
 </head>
 <body>
@@ -47,9 +49,10 @@ tr:hover td{background:rgba(16,185,129,.02)}
       </h1>
       <p style="font-size:.8rem;color:var(--muted);margin-top:2px">Compara precios: Supermas vs Stock</p>
     </div>
-    <div style="display:flex;gap:8px">
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
       <button class="btn btn-g" onclick="loadData()"><i class="fas fa-rotate"></i> Recargar</button>
       <button class="btn btn-p" onclick="exportCSV()"><i class="fas fa-download"></i> Exportar</button>
+      <button class="btn btn-g" disabled title="Próximamente: añade más supermercados al comparador"><i class="fas fa-plus"></i> Agregar supermercado</button>
     </div>
   </header>
 
@@ -60,13 +63,19 @@ tr:hover td{background:rgba(16,185,129,.02)}
   </div>
 
   <div class="card" style="padding:16px;margin-bottom:20px">
-    <div style="display:flex;gap:10px;flex-wrap:wrap">
-      <div style="position:relative;flex:1;min-width:200px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px">
+      <div style="position:relative;grid-column:span 2">
         <i class="fas fa-search" style="position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:.8rem"></i>
         <input class="input" id="search" placeholder="Buscar producto..." oninput="renderTable()" style="padding-left:34px">
       </div>
-      <select class="input" id="siteFilter" onchange="renderTable()" style="width:auto">
+      <select class="input" id="siteFilter" onchange="renderTable()">
         <option value="">Todos los supermercados</option>
+      </select>
+      <select class="input" id="brandFilter" onchange="renderTable()">
+        <option value="">Todas las marcas</option>
+      </select>
+      <select class="input" id="measureFilter" onchange="renderTable()">
+        <option value="">Todas las medidas</option>
       </select>
     </div>
   </div>
@@ -74,7 +83,7 @@ tr:hover td{background:rgba(16,185,129,.02)}
   <div class="card" style="overflow:hidden">
     <div style="overflow-x:auto;max-height:62vh;overflow-y:auto">
       <table>
-        <thead><tr><th>Producto</th><th>Supermercado</th><th>Precio</th></tr></thead>
+        <thead><tr><th>Producto</th><th>Supermercado</th><th>Marca</th><th>Medida</th><th>Precio</th></tr></thead>
         <tbody id="tbody"></tbody>
       </table>
     </div>
@@ -96,14 +105,23 @@ function fmt(n){ if(n==null) return "-"; return currency + " " + n.toLocaleStrin
 
 function norm(s){ return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g,"").replace(/\s+/g," ").trim(); }
 
+// Carga products.json con fallback para file:// (doble clic) y para Pages.
 async function loadData(){
-  try{
-    var p = await fetch("data/products.json?t="+Date.now());
-    if(!p.ok) throw new Error("No encontrado");
-    products = await p.json();
-  }catch(e){
+  var sources = ["data/products.json?t="+Date.now(), "data/products.json"];
+  var loaded = false;
+  for(var i=0;i<sources.length && !loaded;i++){
+    try{
+      var p = await fetch(sources[i]);
+      if(!p.ok) continue;
+      products = await p.json();
+      loaded = true;
+    }catch(e){ /* probar siguiente */ }
+  }
+  if(!loaded || !products.length){
     products=[];
-    showToast("Sin datos","No se pudo cargar data/products.json.","error");
+    showToast("Sin datos","No se pudo cargar data/products.json. Si abriste el archivo con doble clic, sírvelo por HTTP o usa la web.", "error");
+    initFilters(); renderTable(); updateStats();
+    return;
   }
   initFilters();
   renderTable();
@@ -111,11 +129,21 @@ async function loadData(){
 }
 
 function initFilters(){
-  var sites={};
-  products.forEach(function(x){ sites[x.site]=true; });
-  var sel=document.getElementById("siteFilter");
-  sel.innerHTML='<option value="">Todos los supermercados</option>';
-  Object.keys(sites).forEach(function(s){ var o=document.createElement("option"); o.value=s; o.textContent=s; sel.appendChild(o); });
+  var sites={}, brands={}, measures={};
+  products.forEach(function(x){
+    if(x.site) sites[x.site]=true;
+    if(x.brand) brands[x.brand]=true;
+    if(x.measure) measures[x.measure]=true;
+  });
+  var sf=document.getElementById("siteFilter");
+  sf.innerHTML='<option value="">Todos los supermercados</option>';
+  Object.keys(sites).forEach(function(s){ var o=document.createElement("option"); o.value=s; o.textContent=s; sf.appendChild(o); });
+  var bf=document.getElementById("brandFilter");
+  bf.innerHTML='<option value="">Todas las marcas</option>';
+  Object.keys(brands).sort().forEach(function(b){ var o=document.createElement("option"); o.value=b; o.textContent=b; bf.appendChild(o); });
+  var mf=document.getElementById("measureFilter");
+  mf.innerHTML='<option value="">Todas las medidas</option>';
+  Object.keys(measures).sort().forEach(function(m){ var o=document.createElement("option"); o.value=m; o.textContent=m; mf.appendChild(o); });
 }
 
 function updateStats(){
@@ -130,8 +158,14 @@ function updateStats(){
 function renderTable(){
   var q=document.getElementById("search").value.toLowerCase();
   var site=document.getElementById("siteFilter").value;
+  var brand=document.getElementById("brandFilter").value;
+  var measure=document.getElementById("measureFilter").value;
   var filtered=products.filter(function(p){
-    return (!q || p.name.toLowerCase().indexOf(q)!==-1) && (!site || p.site===site);
+    var nm=(p.name||"").toLowerCase();
+    return (!q || nm.indexOf(q)!==-1)
+        && (!site || p.site===site)
+        && (!brand || p.brand===brand)
+        && (!measure || p.measure===measure);
   });
   filtered.sort(function(a,b){ return a.price-b.price; });
   var tbody=document.getElementById("tbody");
@@ -148,10 +182,14 @@ function renderTable(){
       : '<div style="width:40px;height:40px;border-radius:6px;background:var(--bg2);flex-shrink:0"></div>';
     var priceStyle=d.price===minPrice?'color:var(--accent)':'';
     var badgeHtml=d.price===minPrice?'<span class="badge-ok" style="margin-left:6px">MÍNIMO</span>':'';
-    var pill='<span class="site-pill site-'+d.site+'">'+d.site+'</span>';
+    var pill=d.site?'<span class="site-pill site-'+d.site+'">'+d.site+'</span>':'<span class="site-pill site-pill-empty">?</span>';
+    var brandHtml=d.brand?'<span class="tag">'+d.brand+'</span>':'<span style="color:var(--border)">-</span>';
+    var measureHtml=d.measure?d.measure:'<span style="color:var(--border)">-</span>';
     html+='<tr>';
     html+='  <td><div style="display:flex;align-items:center;gap:10px">'+imgHtml+'<span style="font-weight:500">'+d.name+'</span></div></td>';
     html+='  <td>'+pill+'</td>';
+    html+='  <td>'+brandHtml+'</td>';
+    html+='  <td>'+measureHtml+'</td>';
     html+='  <td><span style="font-family:Space Grotesk;font-weight:700;'+priceStyle+'">'+fmt(d.price)+'</span>'+badgeHtml+(d.url?' <a href="'+d.url+'" target="_blank" style="color:var(--muted);font-size:.75rem"><i class="fas fa-external-link-alt"></i></a>':'')+'</td>';
     html+='</tr>';
   }
@@ -160,10 +198,10 @@ function renderTable(){
 
 function exportCSV(){
   if(!products.length){ showToast("Sin datos","No hay productos para exportar","warn"); return; }
-  var csv="Supermercado,Nombre,Precio,URL\n";
+  var csv="Supermercado,Marca,Medida,Nombre,Precio,URL\n";
   for(var i=0;i<products.length;i++){
     var d=products[i];
-    csv+='"'+d.site+'","'+d.name.replace(/"/g,'""')+'","'+fmt(d.price)+'","'+(d.url||'')+'"\n';
+    csv+='"'+d.site+'"'+',"'+String(d.brand||"").replace(/"/g,'""')+'"'+',"'+String(d.measure||"").replace(/"/g,'""')+'"'+',"'+d.name.replace(/"/g,'""')+'"'+',"'+fmt(d.price)+'"'+',"'+String(d.url||"").replace(/"/g,'""')+'"\n';
   }
   var blob=new Blob(["﻿"+csv],{type:"text/csv;charset=utf-8;"});
   var a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download="precios_comparados.csv"; a.click();
