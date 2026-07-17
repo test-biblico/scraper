@@ -148,9 +148,19 @@ def scrape_supermas():
         for card in cards:
             name_el = card.select_one("h2.woocommerce-loop-product__title")
             name = name_el.get_text(strip=True) if name_el else ""
-            price_el = card.select_one("span.price span.amount") or card.select_one("span.price")
-            price_text = price_el.get_text(strip=True) if price_el else ""
-            price = parse_guarani(price_text) or 0.0
+            # El precio puede estar en varios span.amount; tomar el PRIMERO
+            # con texto no vacío dentro de span.price (evita el <ins> vacío).
+            price = 0.0
+            price_box = card.select_one("span.price")
+            if price_box:
+                for amt in price_box.select("span.amount"):
+                    ptxt = amt.get_text(strip=True)
+                    p = parse_guarani(ptxt)
+                    if p:
+                        price = p
+                        break
+                if price == 0.0:
+                    price = parse_guarani(price_box.get_text()) or 0.0
             img_el = card.select_one("img.wp-post-image") or card.select_one("img")
             img = fix_url(SUPERMAS_BASE, img_el.get("data-src") or img_el.get("src")) if img_el else None
             link_el = card.select_one("a.woocommerce-LoopProduct-link")
