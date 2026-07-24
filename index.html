@@ -73,6 +73,9 @@ tr:hover td{background:rgba(16,185,129,.02)}
       <select class="input" id="brandFilter" onchange="renderTable()">
         <option value="">Todas las marcas</option>
       </select>
+      <select class="input" id="categoryFilter" onchange="renderTable()">
+        <option value="">Todas las categorías</option>
+      </select>
       <select class="input" id="measureFilter" onchange="renderTable()">
         <option value="">Todas las medidas</option>
       </select>
@@ -128,11 +131,12 @@ async function loadData(){
 }
 
 function initFilters(){
-  var sites={}, brands={}, measures={};
+  var sites={}, brands={}, measures={}, categories={};
   products.forEach(function(x){
     if(x.site) sites[x.site]=true;
     if(x.brand) brands[x.brand]=true;
     if(x.measure) measures[x.measure]=true;
+    if(x.category) categories[x.category]=true;
   });
   var sf=document.getElementById("siteFilter");
   sf.innerHTML='<option value="">Todos los supermercados</option>';
@@ -140,6 +144,9 @@ function initFilters(){
   var bf=document.getElementById("brandFilter");
   bf.innerHTML='<option value="">Todas las marcas</option>';
   Object.keys(brands).sort().forEach(function(b){ var o=document.createElement("option"); o.value=b; o.textContent=b; bf.appendChild(o); });
+  var cf=document.getElementById("categoryFilter");
+  cf.innerHTML='<option value="">Todas las categorías</option>';
+  Object.keys(categories).sort(function(a,b){return a.localeCompare(b,"es");}).forEach(function(c){ var o=document.createElement("option"); o.value=c; o.textContent=c; cf.appendChild(o); });
   var mf=document.getElementById("measureFilter");
   mf.innerHTML='<option value="">Todas las medidas</option>';
   Object.keys(measures).sort().forEach(function(m){ var o=document.createElement("option"); o.value=m; o.textContent=m; mf.appendChild(o); });
@@ -158,12 +165,14 @@ function renderTable(){
   var q=document.getElementById("search").value.toLowerCase();
   var site=document.getElementById("siteFilter").value;
   var brand=document.getElementById("brandFilter").value;
+  var category=document.getElementById("categoryFilter").value;
   var measure=document.getElementById("measureFilter").value;
   var filtered=products.filter(function(p){
     var nm=(p.name||"").toLowerCase();
     return (!q || nm.indexOf(q)!==-1)
         && (!site || p.site===site)
         && (!brand || p.brand===brand)
+        && (!category || p.category===category)
         && (!measure || p.measure===measure);
   });
   filtered.sort(function(a,b){ return a.price-b.price; });
