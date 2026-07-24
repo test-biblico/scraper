@@ -73,8 +73,11 @@ tr:hover td{background:rgba(16,185,129,.02)}
       <select class="input" id="brandFilter" onchange="renderTable()">
         <option value="">Todas las marcas</option>
       </select>
-      <select class="input" id="categoryFilter" onchange="renderTable()">
+      <select class="input" id="catL1" onchange="onCatChange(1)">
         <option value="">Todas las categorías</option>
+      </select>
+      <select class="input" id="catL2" onchange="onCatChange(2)" style="display:none">
+        <option value="">— subcategoría —</option>
       </select>
       <select class="input" id="measureFilter" onchange="renderTable()">
         <option value="">Todas las medidas</option>
@@ -131,12 +134,15 @@ async function loadData(){
 }
 
 function initFilters(){
-  var sites={}, brands={}, measures={}, categories={};
+  var sites={}, brands={}, measures={}, l1={};
   products.forEach(function(x){
     if(x.site) sites[x.site]=true;
     if(x.brand) brands[x.brand]=true;
     if(x.measure) measures[x.measure]=true;
-    if(x.category) categories[x.category]=true;
+    // Jerarquia: nivel 1 = primer elemento de category_path
+    var p = (x.category_path && x.category_path.length) ? x.category_path : [x.category||x.subcategory||""];
+    var k = p[0];
+    if(k) l1[k]=true;
   });
   var sf=document.getElementById("siteFilter");
   sf.innerHTML='<option value="">Todos los supermercados</option>';
@@ -144,12 +150,39 @@ function initFilters(){
   var bf=document.getElementById("brandFilter");
   bf.innerHTML='<option value="">Todas las marcas</option>';
   Object.keys(brands).sort().forEach(function(b){ var o=document.createElement("option"); o.value=b; o.textContent=b; bf.appendChild(o); });
-  var cf=document.getElementById("categoryFilter");
-  cf.innerHTML='<option value="">Todas las categorías</option>';
-  Object.keys(categories).sort(function(a,b){return a.localeCompare(b,"es");}).forEach(function(c){ var o=document.createElement("option"); o.value=c; o.textContent=c; cf.appendChild(o); });
+  var l1s=document.getElementById("catL1");
+  l1s.innerHTML='<option value="">Todas las categorías</option>';
+  Object.keys(l1).sort(function(a,b){return a.localeCompare(b,"es");}).forEach(function(c){ var o=document.createElement("option"); o.value=c; o.textContent=c; l1s.appendChild(o); });
+  document.getElementById("catL2").style.display="none";
+  document.getElementById("catL2").innerHTML='<option value="">— subcategoría —</option>';
   var mf=document.getElementById("measureFilter");
   mf.innerHTML='<option value="">Todas las medidas</option>';
   Object.keys(measures).sort().forEach(function(m){ var o=document.createElement("option"); o.value=m; o.textContent=m; mf.appendChild(o); });
+}
+
+// Al cambiar un nivel, poblar el siguiente nivel solo con las subcategorias
+// que cuelgan del path elegido (refleja el arbol real de cada super).
+function onCatChange(level){
+  var l1v=document.getElementById("catL1").value;
+  if(level===1 || !l1v){
+    // reconstruir L2 a partir de L1
+    var l2={};
+    if(l1v){
+      products.forEach(function(x){
+        var p=(x.category_path&&x.category_path.length)?x.category_path:[x.category||""];
+        if(p[0]===l1v && p.length>1){ l2[p.slice(1).join(" > ")]=true; }
+      });
+    }
+    var l2s=document.getElementById("catL2");
+    if(Object.keys(l2).length){
+      l2s.innerHTML='<option value="">— subcategoría —</option>';
+      Object.keys(l2).sort(function(a,b){return a.localeCompare(b,"es");}).forEach(function(c){ var o=document.createElement("option"); o.value=c; o.textContent=c; l2s.appendChild(o); });
+      l2s.style.display="";
+    } else {
+      l2s.style.display="none"; l2s.innerHTML='<option value="">— subcategoría —</option>';
+    }
+  }
+  renderTable();
 }
 
 function updateStats(){
@@ -165,14 +198,26 @@ function renderTable(){
   var q=document.getElementById("search").value.toLowerCase();
   var site=document.getElementById("siteFilter").value;
   var brand=document.getElementById("brandFilter").value;
-  var category=document.getElementById("categoryFilter").value;
+  var catL1=document.getElementById("catL1").value;
+  var catL2=document.getElementById("catL2").value;
   var measure=document.getElementById("measureFilter").value;
   var filtered=products.filter(function(p){
     var nm=(p.name||"").toLowerCase();
+    // match de categoria jerarquico: compara contra category_path
+    var path=(p.category_path&&p.category_path.length)?p.category_path:[(p.category||""),(p.subcategory||"")];
+    var matchCat=true;
+    if(catL1){
+      if(path[0]!==catL1) matchCat=false;
+      else if(catL2){
+        // L2 almacena el resto del path unido por ' > '
+        var rest=path.slice(1).join(" > ");
+        if(rest!==catL2) matchCat=false;
+      }
+    }
     return (!q || nm.indexOf(q)!==-1)
         && (!site || p.site===site)
         && (!brand || p.brand===brand)
-        && (!category || p.category===category)
+        && matchCat
         && (!measure || p.measure===measure);
   });
   filtered.sort(function(a,b){ return a.price-b.price; });

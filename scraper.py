@@ -193,6 +193,7 @@ def scrape_supermas():
                         "measure": extract_measure(name),
                         "category": cat_name,
                         "subcategory": cat_name,
+                        "category_path": [cat_name],
                     })
             page += 1
         time.sleep(0.1)
@@ -206,6 +207,8 @@ STOCK_BASE = "https://www.stock.com.py"
 
 
 def get_stock_categories(session):
+    """Extrae categorías del menú de Stock conservando la jerarquía embebida
+    en la URL: 'N-padre-sub-hijo.aspx' -> [padre, sub, hijo]."""
     r = fetch(session, STOCK_BASE + "/")
     cats = []
     if r:
@@ -217,17 +220,20 @@ def get_stock_categories(session):
                 full = h if h.startswith("http") else urljoin(STOCK_BASE, h)
                 if full not in seen:
                     seen.add(full)
-                    cats.append(full)
+                    seg = full.rstrip("/").split("/")[-1]  # '3-almacen-aderezoscondimentos-aceites.aspx'
+                    m = re.match(r"\d+-(.+)\.aspx$", seg)
+                    path = m.group(1).split("-") if m else [a.get_text(strip=True) or seg]
+                    cats.append((a.get_text(strip=True), full, path))
     return cats
 
 
 def scrape_stock():
     session = get_session()
-    cats = get_stock_categories(session)
-    print(f"Stock: {len(cats)} categorias (TODAS)", flush=True)
+    raw = get_stock_categories(session)
+    print(f"Stock: {len(raw)} categorias (TODAS)", flush=True)
     all_products = []
     seen_urls = set()
-    for i, c in enumerate(cats, 1):
+    for i, (cat_label, c, path) in enumerate(raw, 1):
         page = 1
         while page <= 100:
             url = c if page == 1 else f"{c}?pageindex={page}"
@@ -245,7 +251,6 @@ def scrape_stock():
                 price = None
                 price_el = card.select_one("div.prices") or card.select_one("span.price-label")
                 if price_el:
-                    # Recorrer spans de precio y quedarse con el primero válido.
                     spans = price_el.select("span, strong, div")
                     if not spans:
                         spans = [price_el]
@@ -263,16 +268,21 @@ def scrape_stock():
                 purl = fix_url(STOCK_BASE, link_el.get("href")) if link_el else None
                 if name and 0 < price <= 5000000 and purl and purl not in seen_urls:
                     seen_urls.add(purl)
+                    cat = path[0] if path else cat_label
+                    sub = path[-1] if len(path) > 1 else cat_label
                     all_products.append({
                         "site": "Stock", "site_id": "stock",
                         "name": name, "price": price, "currency": CURRENCY,
                         "image": img, "url": purl,
                         "brand": extract_brand(name),
                         "measure": extract_measure(name),
+                        "category": cat,
+                        "subcategory": sub,
+                        "category_path": path,
                     })
             page += 1
         time.sleep(0.3)
-        print(f"  [{i}/{len(cats)}] OK", flush=True)
+        print(f"  [{i}/{len(raw)}] {cat_label} OK", flush=True)
     print(f"Stock: {len(all_products)} productos (sin duplicados)", flush=True)
     return all_products
 
