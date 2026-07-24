@@ -65,7 +65,7 @@ tr:hover td{background:rgba(16,185,129,.02)}
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px">
       <div style="position:relative;grid-column:span 2">
         <i class="fas fa-search" style="position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:.8rem"></i>
-        <input class="input" id="search" placeholder="Buscar producto..." oninput="renderTable()" style="padding-left:34px">
+        <input class="input" id="search" placeholder="Buscar producto..." oninput="filterCatOptions();renderTable()" style="padding-left:34px">
       </div>
       <select class="input" id="siteFilter" onchange="renderTable()">
         <option value="">Todos los supermercados</option>
@@ -110,6 +110,88 @@ function fmt(n){ if(n==null) return "-"; return currency + " " + n.toLocaleStrin
 
 function norm(s){ return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9 ]/g,"").replace(/\s+/g," ").trim(); }
 
+// Mapa de sinonimos: agrupa categorias equivalentes de ambos supers bajo un
+// label canonico. NO reescribe category_path del JSON (el arbol de las webs
+// queda intacto); solo unifica el dropdown de filtro.
+// Cada canon tiene:
+//   raws: category_path[0] reales que caen en el grupo (Supermas plano, Stock plano)
+//   subs: subcategorias (texto del menu) que identifican al grupo en Stock
+//         cuando el category_path es plano (ej: Stock "Almacen" contiene
+//         subcat "Aceites" que es el aceite real).
+var SYNONYM_MAP = {
+  "Aceites":            {raws:["ACEITES"], subs:["Aceites","aceites"]},
+  "Almacén":            {raws:["ALMACEN","Almacen"], subs:[]},
+  "Aderezos":           {raws:["ADEREZOS"], subs:["Aderezos/Salsas","Aderezos","aderezos"]},
+  "Bebidas":            {raws:["BEBIDAS","Bebidas"], subs:[]},
+  "Café":               {raws:["CAFÉ","Cafe"], subs:[]},
+  "Carnes":             {raws:["CARNES Y POLLOS","Carnes","Vacunoaves"], subs:[]},
+  "Cereales":           {raws:["CEREALES","Cerealessemillas"], subs:[]},
+  "Chocolates":         {raws:["Chocolates"], subs:[]},
+  "Confitería":         {raws:["COCINA","Confiteria"], subs:[]},
+  "Desodorantes":       {raws:["DESODORANTES","Desodorantes"], subs:[]},
+  "Dulces y mermeladas":{raws:["DULCES Y MERMELADAS","Dulces","Dulcesmermeladasmiel"], subs:[]},
+  "Fiambres":           {raws:["FIAMBRERIA"], subs:[]},
+  "Frutas y verduras":  {raws:["FRUTAS Y VERDURAS","Frutas"], subs:[]},
+  "Galletitas":         {raws:["GALLETITAS","Galletitas","Galletitaspostres"], subs:[]},
+  "Golosinas":          {raws:["GOLOSINAS","Carameloschicles"], subs:[]},
+  "Harina y azúcar":    {raws:["HARINA Y AZUCAR","Harinas"], subs:[]},
+  "Higiene bucal":      {raws:["HIGIENE BUCAL"], subs:[]},
+  "Huevos":             {raws:["HUEVOS"], subs:[]},
+  "Jabones":            {raws:["JABONES"], subs:[]},
+  "Jugos en polvo":     {raws:["JUGOS EN POLVO"], subs:[]},
+  "Lácteos":            {raws:["LACTEOS","Leche"], subs:[]},
+  "Legumbres":          {raws:["LEGUMBRES","Legumbres"], subs:[]},
+  "Limpieza":           {raws:["LIMPIEZA","Limpieza","Limpiadores","Lavandinas","Lavadoplanchado","Papeles","Panuelosesponjas","Detergentes","Insecticidas","Repelentes"], subs:[]},
+  "Línea diet":         {raws:["LINEA DIET","Dietbajas"], subs:[]},
+  "Mascotas":           {raws:["MASCOTAS"], subs:[]},
+  "Pañales":            {raws:["PAÑALES"], subs:[]},
+  "Pastoreo/quesos":    {raws:["QUESOS RALLADOS","Regianitoparmesano","Cremososcuartirolo"], subs:[]},
+  "Pisos":              {raws:["PISOS"], subs:[]},
+  "Plásticos":          {raws:["PLASTICOS"], subs:[]},
+  "Postres":            {raws:["PREPARADO POSTRES","Postres","Masitastortasfacturas","Reposteria","Chocolatadasbatidos"], subs:[]},
+  "Snacks":             {raws:["SNACKS"], subs:[]},
+  "Sopas y caldos":     {raws:["SOPAS Y CALDOS"], subs:[]},
+  "Tomates":            {raws:["TOMATES","Tomatados"], subs:[]},
+  "Té":                 {raws:["TÉ","Te"], subs:[]},
+  "Vinagres":           {raws:["VINAGRES"], subs:[]},
+  "Yerba":              {raws:["YERBA","Yerba"], subs:[]},
+  "Atún/mariscos":      {raws:["Atunmariscossardinas","Patepicadilloconservas"], subs:[]},
+  "Azúcar/endulzantes": {raws:["AZUCARENDULZANTES","Azucarendulzantes"], subs:[]},
+  "Bebé":               {raws:["Bebes"], subs:[]},
+  "Fideos/pastas":      {raws:["FIDEOLASANAPASTA"], subs:[]},
+  "Galletitas dulces":  {raws:["Alfajores","Turrones"], subs:[]},
+  "Juguetería":         {raws:["JUGUETERIA","Jugueteria"], subs:[]},
+  "Perfumería":         {raws:["PERFUMERIA","Perfumeria","Cuidado","Johnsons","Palmolive","Mision","Los","No","Uso"], subs:[]},
+  "Bazar":              {raws:["BAZAR","Bazar","Organizadores","Decoracion","Velasfosforo"], subs:[]},
+  "Farmacia":           {raws:["FARMACIA","Farmacia"], subs:[]},
+  "Electrodomésticos":  {raws:["ELECTRODOMESTICOS","Electrodomesticos"], subs:[]},
+  "Librería":           {raws:["LIBRERIA","Libreria"], subs:[]},
+  "Piscina":            {raws:["PISCINA","Piscina"], subs:[]},
+  "Panadería":          {raws:["PANADERIA Y CONFITERIA"], subs:[]},
+  "Sal":                {raws:["SALES"], subs:[]},
+  "Cervezas/whisky":    {raws:["WHISKYS"], subs:[]}
+};
+// Construir indice inverso: category_path[0] real -> canon
+var CANON_BY_RAW = {};
+Object.keys(SYNONYM_MAP).forEach(function(canon){
+  SYNONYM_MAP[canon].raws.forEach(function(raw){ CANON_BY_RAW[raw] = canon; });
+});
+function canonOf(rawL1){ return CANON_BY_RAW[rawL1] || rawL1; }
+// ¿El producto p pertenece al canon? (revisa category_path[0] y subcategory)
+function matchesCanon(p, canon){
+  var entry = SYNONYM_MAP[canon];
+  if(!entry) return false;
+  var path=(p.category_path&&p.category_path.length)?p.category_path:[p.category||""];
+  if(entry.raws.indexOf(path[0])!==-1) return true;
+  if(entry.subs && entry.subs.length){
+    var sub=(p.subcategory||"");
+    for(var i=0;i<entry.subs.length;i++){
+      if(norm(sub)===norm(entry.subs[i])) return true;
+    }
+  }
+  return false;
+}
+
 // Carga products.json con fallback para file:// (doble clic) y para Pages.
 async function loadData(){
   var sources = ["data/products.json?t="+Date.now(), "data/products.json"];
@@ -134,15 +216,14 @@ async function loadData(){
 }
 
 function initFilters(){
-  var sites={}, brands={}, measures={}, l1={};
+  var sites={}, brands={}, measures={}, canonSet={};
   products.forEach(function(x){
     if(x.site) sites[x.site]=true;
     if(x.brand) brands[x.brand]=true;
     if(x.measure) measures[x.measure]=true;
-    // Jerarquia: nivel 1 = primer elemento de category_path
-    var p = (x.category_path && x.category_path.length) ? x.category_path : [x.category||x.subcategory||""];
-    var k = p[0];
-    if(k) l1[k]=true;
+    var p=(x.category_path&&x.category_path.length)?x.category_path:[x.category||""];
+    var c=canonOf(p[0]);
+    if(c) canonSet[c]=true;
   });
   var sf=document.getElementById("siteFilter");
   sf.innerHTML='<option value="">Todos los supermercados</option>';
@@ -150,14 +231,32 @@ function initFilters(){
   var bf=document.getElementById("brandFilter");
   bf.innerHTML='<option value="">Todas las marcas</option>';
   Object.keys(brands).sort().forEach(function(b){ var o=document.createElement("option"); o.value=b; o.textContent=b; bf.appendChild(o); });
+  // catL1 usa canones (agrupa supers).
   var l1s=document.getElementById("catL1");
   l1s.innerHTML='<option value="">Todas las categorías</option>';
-  Object.keys(l1).sort(function(a,b){return a.localeCompare(b,"es");}).forEach(function(c){ var o=document.createElement("option"); o.value=c; o.textContent=c; l1s.appendChild(o); });
+  Object.keys(canonSet).sort(function(a,b){return a.localeCompare(b,"es");}).forEach(function(c){
+    var o=document.createElement("option");
+    o.value=c; o.textContent=c;
+    l1s.appendChild(o);
+  });
   document.getElementById("catL2").style.display="none";
   document.getElementById("catL2").innerHTML='<option value="">— subcategoría —</option>';
   var mf=document.getElementById("measureFilter");
   mf.innerHTML='<option value="">Todas las medidas</option>';
   Object.keys(measures).sort().forEach(function(m){ var o=document.createElement("option"); o.value=m; o.textContent=m; mf.appendChild(o); });
+  filterCatOptions();
+}
+
+// Autofiltra las opciones visibles de catL1 segun el texto del buscador.
+function filterCatOptions(){
+  var q=norm(document.getElementById("search").value);
+  var sel=document.getElementById("catL1");
+  Array.prototype.forEach.call(sel.options, function(o){
+    if(o.value===""){ o.style.display=""; return; }
+    if(!q){ o.style.display=""; return; }
+    var match = norm(o.textContent).indexOf(q)!==-1 || norm(o.value).indexOf(q)!==-1;
+    o.style.display = match ? "" : "none";
+  });
 }
 
 // Al cambiar un nivel, poblar el siguiente nivel solo con las subcategorias
@@ -165,12 +264,11 @@ function initFilters(){
 function onCatChange(level){
   var l1v=document.getElementById("catL1").value;
   if(level===1 || !l1v){
-    // reconstruir L2 a partir de L1
     var l2={};
     if(l1v){
       products.forEach(function(x){
         var p=(x.category_path&&x.category_path.length)?x.category_path:[x.category||""];
-        if(p[0]===l1v && p.length>1){ l2[p.slice(1).join(" > ")]=true; }
+        if(matchesCanon(x, l1v) && p.length>1){ l2[p.slice(1).join(" > ")]=true; }
       });
     }
     var l2s=document.getElementById("catL2");
@@ -203,13 +301,12 @@ function renderTable(){
   var measure=document.getElementById("measureFilter").value;
   var filtered=products.filter(function(p){
     var nm=(p.name||"").toLowerCase();
-    // match de categoria jerarquico: compara contra category_path
     var path=(p.category_path&&p.category_path.length)?p.category_path:[(p.category||""),(p.subcategory||"")];
     var matchCat=true;
     if(catL1){
-      if(path[0]!==catL1) matchCat=false;
+      // el producto pasa si pertenece al canon (category_path[0] o subcategory)
+      if(!matchesCanon(p, catL1)) matchCat=false;
       else if(catL2){
-        // L2 almacena el resto del path unido por ' > '
         var rest=path.slice(1).join(" > ");
         if(rest!==catL2) matchCat=false;
       }
