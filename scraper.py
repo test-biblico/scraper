@@ -126,57 +126,78 @@ def fetch(session, url, tries=3):
 # ---------------- Supermas ----------------
 SUPERMAS_BASE = "https://www.supermas.com.py"
 SUPERMAS_LIST = SUPERMAS_BASE + "/productos"
-SUPERMAS_PAGE = SUPERMAS_BASE + "/productos.{}"
+
+
+def get_supermas_categories(session):
+    """Extrae las categorías del menú principal de Supermas."""
+    r = fetch(session, SUPERMAS_BASE + "/")
+    cats = []
+    if r:
+        soup = BeautifulSoup(r.text, "html.parser")
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            h = a["href"]
+            if "catalogo/" in h and re.search(r"-c\d+", h):
+                full = h if h.startswith("http") else urljoin(SUPERMAS_BASE, h)
+                name = a.get_text(strip=True)
+                if full not in seen and name:
+                    seen.add(full)
+                    cats.append((name.upper(), full))
+    return cats
 
 
 def scrape_supermas():
     session = get_session()
+    cats = get_supermas_categories(session)
+    print(f"Supermas: {len(cats)} categorias (menu)", flush=True)
     all_products = []
     seen_urls = set()
-    page = 1
-    url = SUPERMAS_LIST
-    while page <= 250:
-        r = fetch(session, url)
-        if not r:
+    for cat_name, cat_url in cats:
+        page = 1
+        while page <= 100:  # tope amplio; se detiene solo cuando no hay cards
+            url = cat_url if page == 1 else (cat_url.rstrip("/") + f".{page}")
+            r = fetch(session, url)
+            if not r:
+                break
+            soup = BeautifulSoup(r.text, "html.parser")
+            cards = soup.select("div.product")
+            if not cards:
+                break
+            for card in cards:
+                name_el = card.select_one("h2.woocommerce-loop-product__title")
+                name = name_el.get_text(strip=True) if name_el else ""
+                # El precio puede estar en varios span.amount; tomar el PRIMERO
+                # con texto no vacío dentro de span.price (evita el <ins> vacío).
+                price = 0.0
+                price_box = card.select_one("span.price")
+                if price_box:
+                    for amt in price_box.select("span.amount"):
+                        ptxt = amt.get_text(strip=True)
+                        p = parse_guarani(ptxt)
+                        if p:
+                            price = p
+                            break
+                    if price == 0.0:
+                        price = parse_guarani(price_box.get_text()) or 0.0
+                img_el = card.select_one("img.wp-post-image") or card.select_one("img")
+                img = fix_url(SUPERMAS_BASE, img_el.get("data-src") or img_el.get("src")) if img_el else None
+                link_el = card.select_one("a.woocommerce-LoopProduct-link")
+                purl = fix_url(SUPERMAS_BASE, link_el.get("href")) if link_el else None
+                if name and price > 0 and purl and purl not in seen_urls:
+                    seen_urls.add(purl)
+                    all_products.append({
+                        "site": "Supermas", "site_id": "supermas",
+                        "name": name, "price": price, "currency": CURRENCY,
+                        "image": img, "url": purl,
+                        "brand": extract_brand(name),
+                        "measure": extract_measure(name),
+                        "category": cat_name,
+                        "subcategory": cat_name,
+                    })
             page += 1
-            url = SUPERMAS_PAGE.format(page)
-            continue
-        soup = BeautifulSoup(r.text, "html.parser")
-        cards = soup.select("div.product")
-        if not cards:
-            break
-        for card in cards:
-            name_el = card.select_one("h2.woocommerce-loop-product__title")
-            name = name_el.get_text(strip=True) if name_el else ""
-            # El precio puede estar en varios span.amount; tomar el PRIMERO
-            # con texto no vacío dentro de span.price (evita el <ins> vacío).
-            price = 0.0
-            price_box = card.select_one("span.price")
-            if price_box:
-                for amt in price_box.select("span.amount"):
-                    ptxt = amt.get_text(strip=True)
-                    p = parse_guarani(ptxt)
-                    if p:
-                        price = p
-                        break
-                if price == 0.0:
-                    price = parse_guarani(price_box.get_text()) or 0.0
-            img_el = card.select_one("img.wp-post-image") or card.select_one("img")
-            img = fix_url(SUPERMAS_BASE, img_el.get("data-src") or img_el.get("src")) if img_el else None
-            link_el = card.select_one("a.woocommerce-LoopProduct-link")
-            purl = fix_url(SUPERMAS_BASE, link_el.get("href")) if link_el else None
-            if name and price > 0 and purl and purl not in seen_urls:
-                seen_urls.add(purl)
-                all_products.append({
-                    "site": "Supermas", "site_id": "supermas",
-                    "name": name, "price": price, "currency": CURRENCY,
-                    "image": img, "url": purl,
-                    "brand": extract_brand(name),
-                    "measure": extract_measure(name),
-                })
-        page += 1
-        url = SUPERMAS_PAGE.format(page)
-    print(f"Supermas: {len(all_products)} productos (sin duplicados)")
+        time.sleep(0.1)
+        print(f"  [{len(all_products)}] {cat_name} OK", flush=True)
+    print(f"Supermas: {len(all_products)} productos (sin duplicados)", flush=True)
     return all_products
 
 
