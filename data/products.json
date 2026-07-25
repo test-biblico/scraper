@@ -291566,6 +291566,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "MATE COCIDO TOST C/AZUCAR ORG 20UN KURUPI",
+    "price": 7100.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0214894_500.jpeg",
+    "url": "https://www.stock.com.py/products/310917-mate-cocido-tost-cazucar-org-20un-kurupi.aspx",
+    "brand": "",
+    "measure": "20 UN",
+    "category": "yerba",
+    "subcategory": "Yerba",
+    "category_path": [
+      "yerba"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "YERBA MATE COMPUESTA CEDRÓN KAPI'I Y MENTA KURUPI 500GR",
     "price": 12500.0,
     "currency": "Gs.",
@@ -296713,26 +296729,6 @@
     "url": "https://www.stock.com.py/products/252839-mani-scascara-300gr-agroli-bsa.aspx",
     "brand": "",
     "measure": "300 GR",
-    "category": "almacen",
-    "subcategory": "fritas",
-    "category_path": [
-      "almacen",
-      "alimentos",
-      "secos",
-      "papas",
-      "fritas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAPA FRITA RALLADA TRADIC 80GR ZAELI BSA",
-    "price": 9500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0175308_500.jpeg",
-    "url": "https://www.stock.com.py/products/286769-papa-frita-rallada-tradic-80gr-zaeli-bsa.aspx",
-    "brand": "",
-    "measure": "80 GR",
     "category": "almacen",
     "subcategory": "fritas",
     "category_path": [
@@ -309061,24 +309057,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN?ALES TAM P HUGGIES SUPREME CARE 50UN",
-    "price": 117000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0206465_500.jpeg",
-    "url": "https://www.stock.com.py/products/323113-panales-tam-p-huggies-supreme-care-50un.aspx",
-    "brand": "Huggies",
-    "measure": "50 UN",
-    "category": "bebes",
-    "subcategory": "desechables",
-    "category_path": [
-      "bebes",
-      "perfumeria",
-      "desechables"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAÑAL CONFORT SEC G 60UN PAMPERS PAQ",
     "price": 110300.0,
     "currency": "Gs.",
@@ -312257,24 +312235,6 @@
     "url": "https://www.stock.com.py/products/311932-munich-ultra-cerveza-premium-269-ml.aspx",
     "brand": "",
     "measure": "269 ML",
-    "category": "bebidas",
-    "subcategory": "blancas",
-    "category_path": [
-      "bebidas",
-      "alcoholicas",
-      "blancas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CERVEZA AMERICAN IPA EISENBAHN 350 ML",
-    "price": 6050.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0206107_500.jpeg",
-    "url": "https://www.stock.com.py/products/313639-cerveza-american-ipa-eisenbahn-350-ml.aspx",
-    "brand": "",
-    "measure": "350 ML",
     "category": "bebidas",
     "subcategory": "blancas",
     "category_path": [
@@ -317436,6 +317396,26 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "AGUA MINERAL S/GAS 10LT BES BOT",
+    "price": 15900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0172703_500.jpeg",
+    "url": "https://www.stock.com.py/products/148639-agua-mineral-sgas-10lt-bes-bot.aspx",
+    "brand": "Bes",
+    "measure": "10 LT",
+    "category": "bebidas",
+    "subcategory": "mineralizadas",
+    "category_path": [
+      "bebidas",
+      "no",
+      "alcoholicas",
+      "aguas",
+      "mineralizadas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "AGUA TONICA BES 1 LITRO",
     "price": 5050.0,
     "currency": "Gs.",
@@ -317503,6 +317483,26 @@
     "url": "https://www.stock.com.py/products/11060-agua-mineral-bes-nat-sgas-bot-2lt.aspx",
     "brand": "Natura",
     "measure": "2 LT",
+    "category": "bebidas",
+    "subcategory": "mineralizadas",
+    "category_path": [
+      "bebidas",
+      "no",
+      "alcoholicas",
+      "aguas",
+      "mineralizadas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "AGUA MINERAL BES NATURAL SIN GAS BOTELLA 5LT",
+    "price": 8500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0172689_500.jpeg",
+    "url": "https://www.stock.com.py/products/10852-agua-mineral-bes-nat-sgas-bot-5lt.aspx",
+    "brand": "Natura",
+    "measure": "5 LT",
     "category": "bebidas",
     "subcategory": "mineralizadas",
     "category_path": [
@@ -318529,25 +318529,6 @@
     "url": "https://www.stock.com.py/products/271034-gaseosa-sabor-limon-sin-azucar-sprite-500ml.aspx",
     "brand": "Sprite",
     "measure": "500 ML",
-    "category": "bebidas",
-    "subcategory": "light",
-    "category_path": [
-      "bebidas",
-      "no",
-      "alcoholicas",
-      "light"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GASEOSA COLA ZERO 2LT DESCARTABLE 2UN COCA COLA PACK",
-    "price": 28300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0213549_500.jpeg",
-    "url": "https://www.stock.com.py/products/267062-gaseosa-cola-zero-2lt-descartable-2un-coca-cola-pack.aspx",
-    "brand": "",
-    "measure": "2 LT",
     "category": "bebidas",
     "subcategory": "light",
     "category_path": [
@@ -323676,6 +323657,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PECHUGA CON HUESO CONGELADA EN PAQUETE KZERO POR KILO",
+    "price": 18000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0215074_500.png",
+    "url": "https://www.stock.com.py/products/324500-pechuga-con-hueso-congelada-en-paquete-kzero-por-kilo.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "perecedero",
+    "subcategory": "pollos",
+    "category_path": [
+      "perecedero",
+      "carnes",
+      "pollos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "KZERO CADERITAS DE POLLO MUSLO SUPERIOR CONGELADO 850 GR",
     "price": 22750.0,
     "currency": "Gs.",
@@ -323989,24 +323988,6 @@
     "url": "https://www.stock.com.py/products/128593-filet-de-pechuga-fresca-kzero-xkg.aspx",
     "brand": "",
     "measure": "KG",
-    "category": "perecedero",
-    "subcategory": "pollos",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "pollos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PECHUGA DE POLLO DESHUESADA SIN PIEL KZERO POR KILO",
-    "price": 37350.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0202031_500.png",
-    "url": "https://www.stock.com.py/products/3204-pechuga-de-pollo-deshuesada-sin-piel-kzero-por-kilo.aspx",
-    "brand": "",
-    "measure": "",
     "category": "perecedero",
     "subcategory": "pollos",
     "category_path": [
@@ -324925,24 +324906,6 @@
     "url": "https://www.stock.com.py/products/4443-milanesa-frescapollo-pechugon-se-1-kg.aspx",
     "brand": "",
     "measure": "1 KG",
-    "category": "perecedero",
-    "subcategory": "pollos",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "pollos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MEDIO POLLO SIN MENUDO FRESCO",
-    "price": 18950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/14855-medio-pollo-sin-menudo-fresco.aspx",
-    "brand": "",
-    "measure": "",
     "category": "perecedero",
     "subcategory": "pollos",
     "category_path": [
@@ -328015,6 +327978,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "HAMBURGUESA CARNE VACUNA GUARANI 60 UNIDADES",
+    "price": 119400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0206741_500.jpeg",
+    "url": "https://www.stock.com.py/products/4609-hamburguesa-carne-vacuna-guarani-60-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "perecedero",
+    "subcategory": "vacuna",
+    "category_path": [
+      "perecedero",
+      "congelados",
+      "hamburguesa",
+      "vacuna"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "HAMBURGUESAS DE CARNE VACUNA GUARANI 16UNID.",
     "price": 31950.0,
     "currency": "Gs.",
@@ -329896,26 +329878,6 @@
     "url": "https://www.stock.com.py/products/72609-chorizo-toscano-cfinas-hierbas-xkg-upisa.aspx",
     "brand": "",
     "measure": "",
-    "category": "perecedero",
-    "subcategory": "despacho",
-    "category_path": [
-      "perecedero",
-      "fiambreria",
-      "embutidos",
-      "al",
-      "despacho"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CHORIZO CON QUESO X KG OCHSI",
-    "price": 46900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0162759_500.jpeg",
-    "url": "https://www.stock.com.py/products/233774-chorizo-con-queso-x-kg-ochsi.aspx",
-    "brand": "",
-    "measure": "KG",
     "category": "perecedero",
     "subcategory": "despacho",
     "category_path": [
@@ -332099,27 +332061,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "QUESO DAMBO EN FETAS TREBOL 400GR",
-    "price": 42000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0215331_500.png",
-    "url": "https://www.stock.com.py/products/294116-queso-dambo-en-fetas-trebol-400gr.aspx",
-    "brand": "Trebol",
-    "measure": "400 GR",
-    "category": "perecedero",
-    "subcategory": "env",
-    "category_path": [
-      "perecedero",
-      "queseria",
-      "quesos",
-      "semi",
-      "blandos",
-      "env"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "QUESO CREAM CHEESE LIGHT ZERO LACTOSA POLENGHI 150GR",
     "price": 25400.0,
     "currency": "Gs.",
@@ -332799,27 +332740,6 @@
     "url": "https://www.stock.com.py/products/285521-queso-danbo-granulado-lactolanda-500gr.aspx",
     "brand": "Lactolanda",
     "measure": "500 GR",
-    "category": "perecedero",
-    "subcategory": "env",
-    "category_path": [
-      "perecedero",
-      "queseria",
-      "quesos",
-      "semi",
-      "blandos",
-      "env"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "QUESO FETEADO DANBO SIN LACTOSA LACTOLANDA 100gr",
-    "price": 9500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0186402_500.jpeg",
-    "url": "https://www.stock.com.py/products/285595-queso-feteado-danbo-sin-lactosa-lactolanda-100gr.aspx",
-    "brand": "Lactolanda",
-    "measure": "100 GR",
     "category": "perecedero",
     "subcategory": "env",
     "category_path": [
@@ -333565,6 +333485,26 @@
     "url": "https://www.stock.com.py/products/13877-queso-fundido-dietetico-180-gr.aspx",
     "brand": "",
     "measure": "180 GR",
+    "category": "perecedero",
+    "subcategory": "env",
+    "category_path": [
+      "perecedero",
+      "queseria",
+      "quesos",
+      "untables",
+      "env"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "QUESO REQUESON TREBOL SACHET 250GR",
+    "price": 16000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0148513_500.jpeg",
+    "url": "https://www.stock.com.py/products/9855-queso-requeson-trebol-sachet-250gr.aspx",
+    "brand": "Trebol",
+    "measure": "250 GR",
     "category": "perecedero",
     "subcategory": "env",
     "category_path": [
@@ -337621,26 +337561,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BEBIDA LACTEA SABORIZADA VAINILLA 350GR TAMBO BLANCO",
-    "price": 3650.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/272416-bebida-lactea-saborizada-vainilla-350gr-tambo-blanco.aspx",
-    "brand": "",
-    "measure": "350 GR",
-    "category": "perecedero",
-    "subcategory": "refrigeradas",
-    "category_path": [
-      "perecedero",
-      "lacteos",
-      "bebidas",
-      "lacteas",
-      "refrigeradas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BEBIDA LACTEA SABORIZADA DE FRUTILLA 350GR LA PRADERA",
     "price": 3650.0,
     "currency": "Gs.",
@@ -337726,6 +337646,26 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0167376_500.jpeg",
     "url": "https://www.stock.com.py/products/116777-crema-dleche-uat-200gr-parmalat-tetra.aspx",
+    "brand": "",
+    "measure": "200 GR",
+    "category": "perecedero",
+    "subcategory": "vida",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "cremas",
+      "larga",
+      "vida"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CREMA D/LECHE 2X200GR NESTLE TETRA PACK",
+    "price": 14900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0162238_500.jpeg",
+    "url": "https://www.stock.com.py/products/259330-crema-dleche-2x200gr-nestle-tetra-pack.aspx",
     "brand": "",
     "measure": "200 GR",
     "category": "perecedero",
@@ -338330,6 +338270,26 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "LECHE LIQ. SEMIDESCREMADA SIN LACTOSA UAT TREBOL 1LT",
+    "price": 9950.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0167383_500.jpeg",
+    "url": "https://www.stock.com.py/products/151018-leche-liq-semidescremada-sin-lactosa-uat-trebol-1lt.aspx",
+    "brand": "Trebol",
+    "measure": "1 LT",
+    "category": "perecedero",
+    "subcategory": "vida",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "leches",
+      "larga",
+      "vida"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "LECHE ENTERA 500ML TREBOL TETRA",
     "price": 4450.0,
     "currency": "Gs.",
@@ -338747,6 +338707,25 @@
     "image": "https://www.stock.com.py/images/thumbs/0161565_500.jpeg",
     "url": "https://www.stock.com.py/products/903-leche-lactolanda-sch-1-lt-sa.aspx",
     "brand": "Lactolanda",
+    "measure": "1 LITRO",
+    "category": "perecedero",
+    "subcategory": "refrigeradas",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "leches",
+      "refrigeradas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "LECHE ENTERA TREBOL 1 LITRO SACHET",
+    "price": 6250.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0148460_500.jpeg",
+    "url": "https://www.stock.com.py/products/2000-leche-en-sachet-trebol-sch-1-lt-entera.aspx",
+    "brand": "Trebol",
     "measure": "1 LITRO",
     "category": "perecedero",
     "subcategory": "refrigeradas",
@@ -339225,6 +339204,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "FLAN TREBOL POTE 140 GR",
+    "price": 3150.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0148483_500.jpeg",
+    "url": "https://www.stock.com.py/products/2016-flan-trebol-pot-140-gr.aspx",
+    "brand": "Trebol",
+    "measure": "140 GR",
+    "category": "perecedero",
+    "subcategory": "flanes",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "flanes"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "GELATINA SABOR TUTTI FRUTTI PARMALAT 125GR",
     "price": 2000.0,
     "currency": "Gs.",
@@ -339559,25 +339556,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "YOGHURT DIETETICO DURAZNO 200 GR LOS COLONOS POTE",
-    "price": 3700.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0205479_500.jpeg",
-    "url": "https://www.stock.com.py/products/279092-yoghurt-dietetico-durazno-200-gr-los-colonos-pote.aspx",
-    "brand": "",
-    "measure": "200 GR",
-    "category": "perecedero",
-    "subcategory": "descremados",
-    "category_path": [
-      "perecedero",
-      "lacteos",
-      "yogures",
-      "descremados"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "YOGHURT DESCREMADO SIN LACTOSA NATURAL 350GR TREBOL",
     "price": 5200.0,
     "currency": "Gs.",
@@ -339692,6 +339670,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "YOGURT DIETETICO TREBOL COCO POTE 350ML",
+    "price": 5200.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0201034_500.png",
+    "url": "https://www.stock.com.py/products/2015-yogurt-dietetico-trebol-coco-pote-350ml.aspx",
+    "brand": "Trebol",
+    "measure": "350 ML",
+    "category": "perecedero",
+    "subcategory": "descremados",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "descremados"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "YOGHURT DIETETICO VAINILLA 350 GR LOS COLONOS POTE",
     "price": 5000.0,
     "currency": "Gs.",
@@ -339718,25 +339715,6 @@
     "url": "https://www.stock.com.py/products/279094-yoghurt-dietetico-durazno-350-gr-los-colonos-pote.aspx",
     "brand": "",
     "measure": "350 GR",
-    "category": "perecedero",
-    "subcategory": "descremados",
-    "category_path": [
-      "perecedero",
-      "lacteos",
-      "yogures",
-      "descremados"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "YOGHURT DIETETICO VAINILLA 200 GR LOS COLONOS POTE",
-    "price": 3700.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0183208_500.jpeg",
-    "url": "https://www.stock.com.py/products/279099-yoghurt-dietetico-vainilla-200-gr-los-colonos-pote.aspx",
-    "brand": "",
-    "measure": "200 GR",
     "category": "perecedero",
     "subcategory": "descremados",
     "category_path": [
@@ -340376,6 +340354,44 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "YOGURT TREBOL BIO FIBRA CIRUELA LIGHT X180GR",
+    "price": 3400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0148518_500.jpeg",
+    "url": "https://www.stock.com.py/products/14207-yogurth-trebol-bio-fibra-ciruela-light-x180gr.aspx",
+    "brand": "Trebol",
+    "measure": "180 GR",
+    "category": "perecedero",
+    "subcategory": "descremados",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "descremados"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "YOGURT BIOFIBRAS VAINILLA POT",
+    "price": 3400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0148512_500.jpeg",
+    "url": "https://www.stock.com.py/products/8528-yogurth-biofibras-vainilla-pot.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "perecedero",
+    "subcategory": "descremados",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "descremados"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "YOGURT CON CEREAL DE CHOCOLATE KIDS UP PARMALAT 148GR",
     "price": 2950.0,
     "currency": "Gs.",
@@ -340471,6 +340487,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "TREBOL GRIEGUR YOGUR GRIEGO CON PULPA DE ACAI 200 GR",
+    "price": 6900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0214538_500.jpeg",
+    "url": "https://www.stock.com.py/products/303151-trebol-griegur-yogur-griego-con-pulpa-de-acai-200-gr.aspx",
+    "brand": "Trebol",
+    "measure": "200 GR",
+    "category": "perecedero",
+    "subcategory": "enteros",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "enteros"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "BEBIDA LACTEA SABOR COCO SAN LOREN 1LT",
     "price": 6300.0,
     "currency": "Gs.",
@@ -340516,6 +340551,25 @@
     "url": "https://www.stock.com.py/products/20843-yogurt-sabor-vainilla-sachet-san-loren-1lt.aspx",
     "brand": "",
     "measure": "1 LT",
+    "category": "perecedero",
+    "subcategory": "enteros",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "enteros"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "YOGUR DESCR TREBOL GRIEGUR NATURAL 200GR",
+    "price": 6900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0207961_500.jpeg",
+    "url": "https://www.stock.com.py/products/325910-yogur-descr-trebol-griegur-natural-200gr.aspx",
+    "brand": "Natura",
+    "measure": "200 GR",
     "category": "perecedero",
     "subcategory": "enteros",
     "category_path": [
@@ -341540,6 +341594,25 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0167463_500.jpeg",
     "url": "https://www.stock.com.py/products/660-yoghurt-trebolin-pot-140gr-coco.aspx",
+    "brand": "Trebol",
+    "measure": "140 GR",
+    "category": "perecedero",
+    "subcategory": "enteros",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "enteros"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "YOGURT TREBOLIN POTE 140GR VAINILLA",
+    "price": 2700.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0167462_500.png",
+    "url": "https://www.stock.com.py/products/656-yoghurt-trebolin-pot-140gr-vainilla.aspx",
     "brand": "Trebol",
     "measure": "140 GR",
     "category": "perecedero",
@@ -347011,11 +347084,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TRAPO DE PISO ELSON DE PRIMERA 45X50 CM",
-    "price": 6100.0,
+    "name": "2 PAÑO SEK CON ESPONJA",
+    "price": 14250.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/295026-trapo-de-piso-elson-de-primera-45x50-cm.aspx",
+    "url": "https://www.stock.com.py/products/17106-2-pano-sek-con-esponja.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
@@ -347124,6 +347197,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/296624-rejilla-blanca-lava-1000-38cm-x-41cm.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO DE PISO ELSON DE PRIMERA 45X50 CM",
+    "price": 6100.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/295026-trapo-de-piso-elson-de-primera-45x50-cm.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
@@ -349770,6 +349861,22 @@
     "url": "https://www.stock.com.py/products/2354-detergente-zitron-ep-1-lt.aspx",
     "brand": "",
     "measure": "1 LITRO",
+    "category": "detergentes",
+    "subcategory": "Detergentes",
+    "category_path": [
+      "detergentes"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "DETERGENTE INCABRIL MANZANA 5 LITRO",
+    "price": 35300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0164980_500.jpeg",
+    "url": "https://www.stock.com.py/products/1277-detergente-incabril-manzana-5-lt.aspx",
+    "brand": "",
+    "measure": "5 LITRO",
     "category": "detergentes",
     "subcategory": "Detergentes",
     "category_path": [
@@ -353235,22 +353342,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "DESODORANTE PISO  PINO  5LT PINO LECHE",
-    "price": 45950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0167127_500.jpeg",
-    "url": "https://www.stock.com.py/products/1499-desod-piso-pino-leche-pino-5lt-pino-leche.aspx",
-    "brand": "",
-    "measure": "5 LT",
-    "category": "limpiadores",
-    "subcategory": "Limpiadores",
-    "category_path": [
-      "limpiadores"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LIMPIADOR LIQUIDO DE CRISTALES 35ML INCALENT FCO",
     "price": 15750.0,
     "currency": "Gs.",
@@ -353875,6 +353966,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PAPEL HIGIENICO HOJA SIMPLE 1x30MTS DAYO",
+    "price": 1500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0200224_500.jpeg",
+    "url": "https://www.stock.com.py/products/309490-papel-higienico-hoja-simple-1x30mts-dayo.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "papeles",
+    "subcategory": "Papeles",
+    "category_path": [
+      "papeles"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "SERVILLETA UNA HOJA 24X24CM ELITE 200UNID",
     "price": 25900.0,
     "currency": "Gs.",
@@ -354275,6 +354382,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "SERVILLETA UNA HOJA 30X30CM ELITE 100UNID",
+    "price": 19900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0174843_500.jpeg",
+    "url": "https://www.stock.com.py/products/263606-servilleta-una-hoja-30x30cm-elite-100unid.aspx",
+    "brand": "",
+    "measure": "100 UN",
+    "category": "papeles",
+    "subcategory": "Papeles",
+    "category_path": [
+      "papeles"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PAPEL HIGIENICO PERSONAL VIP DOBLE HOJ 8UN PERSONAL",
     "price": 38900.0,
     "currency": "Gs.",
@@ -354488,22 +354611,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0149734_500.jpeg",
     "url": "https://www.stock.com.py/products/3777-papel-hig-higienol-texturado-paq-4-un.aspx",
-    "brand": "",
-    "measure": "4 UN",
-    "category": "papeles",
-    "subcategory": "Papeles",
-    "category_path": [
-      "papeles"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAPEL HIGIENICO HIGIENOL SIN FIN PAQUETE 4UN",
-    "price": 11450.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0149733_500.jpeg",
-    "url": "https://www.stock.com.py/products/3971-papel-higienico-higienol-sin-fin-paq-4un.aspx",
     "brand": "",
     "measure": "4 UN",
     "category": "papeles",
@@ -364236,6 +364343,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "CAMA P/MASCOTA PE DAYO ATS21 003",
+    "price": 32650.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/300934-cama-pmascota-pe-dayo-ats21-003.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "no",
+    "subcategory": "gatos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "veterinaria",
+      "accesorios",
+      "p",
+      "perros",
+      "y",
+      "gatos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "AFRECHO DE TRIGO A GRANEL",
     "price": 2950.0,
     "currency": "Gs.",
@@ -365776,6 +365906,27 @@
     "url": "https://www.stock.com.py/products/294093-alimento-master-dog-sabor-carne-y-leche-para-perro-cachorro-1-kg.aspx",
     "brand": "",
     "measure": "1 KG",
+    "category": "no",
+    "subcategory": "perros",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "veterinaria",
+      "alimento",
+      "de",
+      "perros"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ALIMENTO PARA PERRO CACHORRO MASTER DOG TROCITOS CARNE 85 GR",
+    "price": 7450.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0184297_500.jpeg",
+    "url": "https://www.stock.com.py/products/294094-alimento-para-perro-cachorro-master-dog-trocitos-carne-85-gr.aspx",
+    "brand": "",
+    "measure": "85 GR",
     "category": "no",
     "subcategory": "perros",
     "category_path": [
@@ -368928,6 +369079,23 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "BUDIN MARMOLADO UND PL",
+    "price": 9300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0213316_500.jpeg",
+    "url": "https://www.stock.com.py/products/318163-budin-marmolado-und-pl.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "confiteria",
+    "subcategory": "budines",
+    "category_path": [
+      "confiteria",
+      "budines"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "BUDIN INGLES UND PL",
     "price": 9300.0,
     "currency": "Gs.",
@@ -369272,6 +369440,44 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PAN DE MOLDE CSEMILLAS BIANCA CHICO PV",
+    "price": 4500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216000_500.jpeg",
+    "url": "https://www.stock.com.py/products/316532-pan-de-molde-csemillas-bianca-chico-pv.aspx",
+    "brand": "Bianca",
+    "measure": "",
+    "category": "perecedero",
+    "subcategory": "frescos",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "panes",
+      "frescos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN DE MOLDE INTEGRAL BIANCA 390GR PV",
+    "price": 4500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0215999_500.jpeg",
+    "url": "https://www.stock.com.py/products/316531-pan-de-molde-integral-bianca-390gr-pv.aspx",
+    "brand": "Bianca",
+    "measure": "390 GR",
+    "category": "perecedero",
+    "subcategory": "frescos",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "panes",
+      "frescos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PAN LACTEADO CHICO",
     "price": 4500.0,
     "currency": "Gs.",
@@ -369391,6 +369597,25 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0211551_500.png",
     "url": "https://www.stock.com.py/products/149727-pan-fransecito-xkg-se.aspx",
+    "brand": "",
+    "measure": "KG",
+    "category": "perecedero",
+    "subcategory": "frescos",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "panes",
+      "frescos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN SANDWICHERO XKG S/E PL",
+    "price": 13750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0209423_500.jpeg",
+    "url": "https://www.stock.com.py/products/293639-pan-sandwichero-xkg-se-pl.aspx",
     "brand": "",
     "measure": "KG",
     "category": "perecedero",
@@ -370286,25 +370511,6 @@
     "url": "https://www.stock.com.py/products/145981-chipita-piru-200gr-primicia-paq.aspx",
     "brand": "Primicia",
     "measure": "200 GR",
-    "category": "perecedero",
-    "subcategory": "arabe",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "arabe"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAN ARABE MONTE LIBANO 10UNID",
-    "price": 15900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0186980_500.jpeg",
-    "url": "https://www.stock.com.py/products/244662-pan-arabe-monte-libano-10unid.aspx",
-    "brand": "",
-    "measure": "10 UN",
     "category": "perecedero",
     "subcategory": "arabe",
     "category_path": [
@@ -393208,6 +393414,24 @@
     "url": "https://www.stock.com.py/products/332502-polvo-paraflan-schocolate-bianca-50g.aspx",
     "brand": "Bianca",
     "measure": "50 GR",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TORTA SAN VALENTIN  X UND PL",
+    "price": 32900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/332592-torta-san-valentin-x-und-pl.aspx",
+    "brand": "",
+    "measure": "",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
