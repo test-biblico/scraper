@@ -51651,7 +51651,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "PAPA FRITA LAYS CLASICO 133gr.",
-    "price": 8950.0,
+    "price": 16900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/papa-frita-lays-clasico-133gr-p60730",
@@ -63331,7 +63331,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "QUESO RALLADO ILOLAY 40  GR",
-    "price": 5850.0,
+    "price": 6150.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/12161.jpg",
     "url": "https://www.supermas.com.py/queso-rallado-ilolay-40-gr-p1093",
@@ -99651,7 +99651,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "JAMONADA PERDIGAO KG",
-    "price": 22500.0,
+    "price": 22533.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3170.jpg",
     "url": "https://www.supermas.com.py/jamonada-perdigao-kg-p31379",
@@ -359547,6 +359547,38 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
+    "price": 8800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/284593-encendedor-para-parrilla-5-un-parana-cja.aspx",
+    "brand": "",
+    "measure": "5 UN",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VELAS NRO 5 COMISA 8UN PAQ",
+    "price": 12050.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
+    "brand": "",
+    "measure": "8 UN",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ALCOHOL E/PASTILLA 180GR CARIMBO 77 PLAS",
     "price": 19500.0,
     "currency": "Gs.",
@@ -359586,38 +359618,6 @@
     "url": "https://www.stock.com.py/products/270667-vela-rilape-n1-8-unidades-bsa.aspx",
     "brand": "",
     "measure": "",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
-    "price": 8800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/284593-encendedor-para-parrilla-5-un-parana-cja.aspx",
-    "brand": "",
-    "measure": "5 UN",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELAS NRO 5 COMISA 8UN PAQ",
-    "price": 12050.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
-    "brand": "",
-    "measure": "8 UN",
     "category": "velasfosforo",
     "subcategory": "Velas/Fosforo",
     "category_path": [
@@ -390516,278 +390516,6 @@
     "subcategory": "",
     "category_path": [
       "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE MUN?ECA MEU DOCINHO SIDNYL RF1385",
-    "price": 14900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/328691-juguete-muneca-meu-docinho-sidnyl-rf1385.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "AUTO SPEED C/FRICCION 4UN JUGUETE REF430",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334409-auto-speed-cfriccion-4un-juguete-ref430.aspx",
-    "brand": "",
-    "measure": "4 UN",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE BAMBOLA MALETIN C/SORPRESA 882",
-    "price": 72900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334719-juguete-bambola-maletin-csorpresa-882.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY SET P/PULSERAS REF730",
-    "price": 12900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335545-juguete-tiny-set-ppulseras-ref730.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY BURBUJERO REF818",
-    "price": 19900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335548-juguete-tiny-burbujero-ref818.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY MUNECA FASHION 53767",
-    "price": 22900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335549-juguete-tiny-muneca-fashion-53767.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY SET P/PULSERAS REF REF736",
-    "price": 9500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335552-juguete-tiny-set-ppulseras-ref-ref736.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY SET P/PULSERAS REF REF319",
-    "price": 9500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335553-juguete-tiny-set-ppulseras-ref-ref319.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY BURBUJERO REF816",
-    "price": 16500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335554-juguete-tiny-burbujero-ref816.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY MICROFONO C/ACC REF124",
-    "price": 22900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335557-juguete-tiny-microfono-cacc-ref124.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY SET D/ACC P/CABELLO REF347",
-    "price": 49900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335558-juguete-tiny-set-dacc-pcabello-ref347.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY VARITA D/LUNA REF753",
-    "price": 21500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335561-juguete-tiny-varita-dluna-ref753.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY VARITA D/ESTRELLA REF740",
-    "price": 21500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335562-juguete-tiny-varita-destrella-ref740.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY MUNECA FASHION 55026",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335563-juguete-tiny-muneca-fashion-55026.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY MUNECA HADA 54455",
-    "price": 26900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335564-juguete-tiny-muneca-hada-54455.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY MUNECA C/ACC REF397",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335565-juguete-tiny-muneca-cacc-ref397.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE TINY MUNECA C/ACC REF398",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/335566-juguete-tiny-muneca-cacc-ref398.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
-    "subcategory": "",
-    "category_path": [
-      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
     ]
   },
   {
