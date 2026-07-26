@@ -99091,7 +99091,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "JAMONADA PERDIGAO KG",
-    "price": 22533.0,
+    "price": 22500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3170.jpg",
     "url": "https://www.supermas.com.py/jamonada-perdigao-kg-p31379",
@@ -293631,25 +293631,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MANI GUAZU PAQUETE 250 GR GIGANTE",
-    "price": 15250.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0206940_500.jpeg",
-    "url": "https://www.stock.com.py/products/2692-mani-guazu-paq-250-gr-gigante.aspx",
-    "brand": "",
-    "measure": "250 GR",
-    "category": "almacen",
-    "subcategory": "mani",
-    "category_path": [
-      "almacen",
-      "alimentos",
-      "secos",
-      "mani"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "MANI TOSTADO GUAZU SIN SAL GIGANTE PAQUETE 184GR",
     "price": 9700.0,
     "currency": "Gs.",
@@ -305559,6 +305540,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "MANIJA ACRI P/CER 450ML SANREMO SR3010/1                     x 40",
+    "price": 6900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/305583-manija-acri-pcer-450ml-sanremo-sr30101-x-40.aspx",
+    "brand": "",
+    "measure": "450 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "COPA NADIR COÑAC WINDSOR 330ML X UN",
     "price": 12000.0,
     "currency": "Gs.",
@@ -305620,24 +305619,6 @@
     "url": "https://www.stock.com.py/products/293194-salero-d-plastico-jaguar-ref-1402.aspx",
     "brand": "",
     "measure": "",
-    "category": "bazar",
-    "subcategory": "vidrio",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "vidrio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MANIJA ACRI P/CER 450ML SANREMO SR3010/1                     x 40",
-    "price": 6900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/305583-manija-acri-pcer-450ml-sanremo-sr30101-x-40.aspx",
-    "brand": "",
-    "measure": "450 ML",
     "category": "bazar",
     "subcategory": "vidrio",
     "category_path": [
@@ -354430,26 +354411,6 @@
     "url": "https://www.stock.com.py/products/304121-jabon-polvo-kinder-antibacterial-1-kg.aspx",
     "brand": "",
     "measure": "1 KG",
-    "category": "limpieza",
-    "subcategory": "polvo",
-    "category_path": [
-      "limpieza",
-      "ropa",
-      "detergente",
-      "en",
-      "polvo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "OMO DETERGENTE LIQUIDO PARA ROPAS LAVANDA 900 ML",
-    "price": 16300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209273_500.png",
-    "url": "https://www.stock.com.py/products/311498-omo-detergente-liquido-para-ropas-lavanda-900-ml.aspx",
-    "brand": "",
-    "measure": "900 ML",
     "category": "limpieza",
     "subcategory": "polvo",
     "category_path": [
