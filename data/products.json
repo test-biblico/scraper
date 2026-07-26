@@ -304556,6 +304556,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
     "price": 50200.0,
     "currency": "Gs.",
@@ -304653,29 +304676,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -357969,6 +357969,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
+    "price": 15000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "VELA AROMATICA FLOR DE COCO 4 UN RILAPE BLIS",
     "price": 15100.0,
     "currency": "Gs.",
@@ -357992,6 +358008,38 @@
     "url": "https://www.stock.com.py/products/9130-velas-amarillo-06i-paq.aspx",
     "brand": "",
     "measure": "",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
+    "price": 8800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/284593-encendedor-para-parrilla-5-un-parana-cja.aspx",
+    "brand": "",
+    "measure": "5 UN",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VELAS NRO 5 COMISA 8UN PAQ",
+    "price": 12050.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
+    "brand": "",
+    "measure": "8 UN",
     "category": "velasfosforo",
     "subcategory": "Velas/Fosforo",
     "category_path": [
@@ -358038,54 +358086,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/270667-vela-rilape-n1-8-unidades-bsa.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
-    "price": 8800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/284593-encendedor-para-parrilla-5-un-parana-cja.aspx",
-    "brand": "",
-    "measure": "5 UN",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELAS NRO 5 COMISA 8UN PAQ",
-    "price": 12050.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
-    "brand": "",
-    "measure": "8 UN",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
-    "price": 15000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "velasfosforo",
@@ -373358,11 +373358,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
-    "price": 13000.0,
+    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
+    "price": 18000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
+    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
@@ -373378,11 +373378,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
-    "price": 18000.0,
+    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
+    "price": 13000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
+    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
