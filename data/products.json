@@ -23651,7 +23651,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CARAMELO BERBAU HORTELA X 400G",
-    "price": 3030.0,
+    "price": 8300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/caramelo-berbau-hortela-x-400g-p62833",
@@ -23843,7 +23843,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCOLATE POTE PELOTITA 12X100UN KIKAKAU",
-    "price": 14960.0,
+    "price": 32750.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/chocolate-pote-pelotita-12x100un-kikakau-p62850",
@@ -23859,7 +23859,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCOLATE SOMBRILLITA 06X50 KIKAKAU",
-    "price": 10290.0,
+    "price": 26300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/chocolate-sombrillita-06x50-kikakau-p62851",
@@ -23907,7 +23907,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCO.HUEVITO POTE KIKAKAU.",
-    "price": 14100.0,
+    "price": 32750.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/chocohuevito-pote-kikakau-p62854",
@@ -38585,6 +38585,38 @@
     "url": "https://www.supermas.com.py/yerba-taragui-1-kg-p2210",
     "brand": "",
     "measure": "1 KG",
+    "category": "YERBA",
+    "subcategory": "YERBA",
+    "category_path": [
+      "YERBA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "YERBA TARAGUI 250GR",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/18076.png",
+    "url": "https://www.supermas.com.py/yerba-taragui-250gr-p2212",
+    "brand": "",
+    "measure": "250 GR",
+    "category": "YERBA",
+    "subcategory": "YERBA",
+    "category_path": [
+      "YERBA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "YERBA TARAGUI NARANJA 500GR",
+    "price": 22800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/18093.jpg",
+    "url": "https://www.supermas.com.py/yerba-taragui-naranja-500gr-p2216",
+    "brand": "",
+    "measure": "500 GR",
     "category": "YERBA",
     "subcategory": "YERBA",
     "category_path": [
@@ -56018,6 +56050,54 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "TE TARAGUI FRUTAS ROJAS 20 X 2 GR",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/18065.jpg",
+    "url": "https://www.supermas.com.py/te-taragui-frutas-rojas-20-x-2-gr-p2209",
+    "brand": "",
+    "measure": "2 GR",
+    "category": "TÉ",
+    "subcategory": "TÉ",
+    "category_path": [
+      "TÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TE TARAGUI NEGRO 25   SAQUITOS",
+    "price": 5550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/18078.jpg",
+    "url": "https://www.supermas.com.py/te-taragui-negro-25-saquitos-p2213",
+    "brand": "",
+    "measure": "",
+    "category": "TÉ",
+    "subcategory": "TÉ",
+    "category_path": [
+      "TÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TE TARAGUI NEGRO 50 SAQUITOS",
+    "price": 10500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/18079.jpg",
+    "url": "https://www.supermas.com.py/te-taragui-negro-50-saquitos-p2214",
+    "brand": "",
+    "measure": "",
+    "category": "TÉ",
+    "subcategory": "TÉ",
+    "category_path": [
+      "TÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "TE SUPREMO LA RENDIDORA X 20 UNIDADES",
     "price": 6050.0,
     "currency": "Gs.",
@@ -59911,6 +59991,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/te-taragui-limon-miel-jengibre-20un-p58802",
+    "brand": "",
+    "measure": "20 UN",
+    "category": "TÉ",
+    "subcategory": "TÉ",
+    "category_path": [
+      "TÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TE TARAGUI AVELLANAS 20un",
+    "price": 13200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/te-taragui-avellanas-20un-p58803",
     "brand": "",
     "measure": "20 UN",
     "category": "TÉ",
@@ -86130,6 +86226,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "AGUA DE LA COSTA S/GAS 5LT",
+    "price": 8050.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/105188.png",
+    "url": "https://www.supermas.com.py/agua-de-la-costa-s-gas-5lt-p31316",
+    "brand": "",
+    "measure": "5 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "BEBIDA POWERADE MOUNTAIN 990ml",
     "price": 11350.0,
     "currency": "Gs.",
@@ -89842,6 +89954,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CERVEZA MUNICH ORIGINAL LATA 269cc",
+    "price": 3150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/116670.jpg",
+    "url": "https://www.supermas.com.py/cerveza-munich-original-lata-269cc-p26333",
+    "brand": "",
+    "measure": "269 CC",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CERVEZA STELLA ARTOIS LATA 350cc",
     "price": 5550.0,
     "currency": "Gs.",
@@ -90697,6 +90825,22 @@
     "url": "https://www.supermas.com.py/cerveza-stella-artois-pure-gold-269ml-lata-p62754",
     "brand": "",
     "measure": "269 ML",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PACK CERVEZA POLAR ICE 269cc X 15 UNID.",
+    "price": 29350.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/pack-cerveza-polar-ice-269cc-x-15-unid-p63084",
+    "brand": "",
+    "measure": "269 CC",
     "category": "BEBIDAS",
     "subcategory": "BEBIDAS",
     "category_path": [
@@ -103570,6 +103714,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "GALLETA MOLIDA SUPERMAS POR KILOGRAMO*",
+    "price": 6950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/galleta-molida-supermas-por-kilogramo-p33258",
+    "brand": "Superma",
+    "measure": "",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MASA PARA CHIPA ENV SUPERMAS PAQ",
     "price": 24000.0,
     "currency": "Gs.",
@@ -103586,12 +103746,44 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ROSCA DE PASCUA MAS X KG",
+    "price": 19500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/rosca-de-pascua-mas-x-kg-p1108",
+    "brand": "",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MEDIALUNA SIN RELLENO SUPERMAS X KG",
     "price": 29000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/16309.jpg",
     "url": "https://www.supermas.com.py/medialuna-sin-relleno-supermas-x-kg-p1898",
     "brand": "Superma",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TORTA ECONOMICA SUPER MAS X KG",
+    "price": 30000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/210.png",
+    "url": "https://www.supermas.com.py/torta-economica-super-mas-x-kg-p2723",
+    "brand": "",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
     "subcategory": "PANADERIA Y CONFITERIA",
@@ -103831,6 +104023,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/bomba-de-queso-x-kg-p14132",
+    "brand": "",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GALLETITA INTEGRAL X KG",
+    "price": 23900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/galletita-integral-x-kg-p14166",
     "brand": "",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
@@ -105698,6 +105906,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "POMELO X KG",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2990.jpg",
+    "url": "https://www.supermas.com.py/pomelo-x-kg-p4369",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JENGIBRE X KG",
     "price": 14300.0,
     "currency": "Gs.",
@@ -106153,6 +106377,22 @@
     "url": "https://www.supermas.com.py/lechuga-pirati-mazo-x-unidad-p7424",
     "brand": "",
     "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MANDARINA NACIONAL KG",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7170.png",
+    "url": "https://www.supermas.com.py/mandarina-nacional-kg-p7692",
+    "brand": "",
+    "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -164754,6 +164994,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "TOALLA DE PAPEL SORELLA ECONICO 2un",
+    "price": 5800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67782.jpg",
+    "url": "https://www.supermas.com.py/toalla-de-papel-sorella-econico-2un-p7030",
+    "brand": "",
+    "measure": "2 UN",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "SERVILLETA DE PAPEL MAXIM 31X 30 CM",
     "price": 4600.0,
     "currency": "Gs.",
@@ -165927,6 +166183,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/papel-higienico-elite-dh-ultra-br-12x20mm-p46444",
+    "brand": "",
+    "measure": "",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TOALLA PAPEL COCINA SORELLA 3x120mts",
+    "price": 17750.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/toalla-papel-cocina-sorella-3x120mts-p46570",
     "brand": "",
     "measure": "",
     "category": "LIMPIEZA",
@@ -194146,6 +194418,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CORTA UÑAS PARA MASCOTAS",
+    "price": 15950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/corta-unas-para-mascotas-p44635",
+    "brand": "",
+    "measure": "",
+    "category": "MASCOTAS",
+    "subcategory": "MASCOTAS",
+    "category_path": [
+      "MASCOTAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "COLLAR REFORZADO P/MASCOTA ANTIALERGICO 70CM.",
     "price": 21500.0,
     "currency": "Gs.",
@@ -194402,11 +194690,43 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JUGUETES ENTRETENIDOS X 2ACCESORIOS PARA  GATOS",
+    "price": 16200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/138250.jpg",
+    "url": "https://www.supermas.com.py/juguetes-entretenidos-x-2accesorios-para-gatos-p49027",
+    "brand": "",
+    "measure": "",
+    "category": "MASCOTAS",
+    "subcategory": "MASCOTAS",
+    "category_path": [
+      "MASCOTAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JUGUETES ENTRETENIDOS PARA  GATOS",
     "price": 12000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/138249.jpg",
     "url": "https://www.supermas.com.py/juguetes-entretenidos-para-gatos-p49028",
+    "brand": "",
+    "measure": "",
+    "category": "MASCOTAS",
+    "subcategory": "MASCOTAS",
+    "category_path": [
+      "MASCOTAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "JUGUETE PIOLA CON ACCESORIOS PARA PERROS",
+    "price": 20400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/138251.jpg",
+    "url": "https://www.supermas.com.py/juguete-piola-con-accesorios-para-perros-p49031",
     "brand": "",
     "measure": "",
     "category": "MASCOTAS",
@@ -194679,6 +194999,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/cadena-metalica-n-4-25-6-p60145",
+    "brand": "",
+    "measure": "",
+    "category": "MASCOTAS",
+    "subcategory": "MASCOTAS",
+    "category_path": [
+      "MASCOTAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PLATO P/MASCOTA GATOS EN FORMA DE HUELLAS",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/plato-p-mascota-gatos-en-forma-de-huellas-p61358",
     "brand": "",
     "measure": "",
     "category": "MASCOTAS",
@@ -202706,6 +203042,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CINTA EMBALAJE TRANSPARENTE 48X100TPL",
+    "price": 14700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/cinta-embalaje-transparente-48x100tpl-p36159",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "Z-REMERITA ML SURT NENA/NENE",
     "price": 24500.0,
     "currency": "Gs.",
@@ -205490,6 +205842,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "BOLSOS TERMICOS PARA BEBES DISEÑOS SURTIDOS",
+    "price": 18600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/bolsos-termicos-para-bebes-disenos-surtidos-p39108",
+    "brand": "Bes",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "SET DE AGOGO RL 278624",
     "price": 5400.0,
     "currency": "Gs.",
@@ -207975,6 +208343,54 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/billteras-damas-disenos-surtidos-p42536",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PORTA RETRATO GRANDE",
+    "price": 15600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/porta-retrato-grande-p42539",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PORTA RETRATO M",
+    "price": 12000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/porta-retrato-m-p42540",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PORTA RETRATO VARIOS M",
+    "price": 13250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/porta-retrato-varios-m-p42541",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -212546,6 +212962,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PINZA INOXI.PARA ALIMENTOS",
+    "price": 14000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/pinza-inoxipara-alimentos-p46781",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CINTA DE EMBALAJE 40CM. EMBALAGE X 6 UNID.",
     "price": 5950.0,
     "currency": "Gs.",
@@ -212903,6 +213335,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/bolso-termico-adulto-colores-varios-p47058",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "RODILLO QUITA PELUSA",
+    "price": 10800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/rodillo-quita-pelusa-p47060",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -225522,6 +225970,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PERCHERITOS DISEÑOS VARIOS",
+    "price": 10650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/percheritos-disenos-varios-p56238",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LIMPIA NARIZ PARA BEBE",
+    "price": 10650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/limpia-nariz-para-bebe-p56239",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "FILTRO PARA CANILLA",
     "price": 12500.0,
     "currency": "Gs.",
@@ -225559,6 +226039,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/mono-p-cabello-para-ninas-disenos-y-colores-vario-p56247",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MANGA REPOSTERO CON ACCESORIOS",
+    "price": 12500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/manga-repostero-con-accesorios-p56248",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -225810,6 +226306,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "KEPIES PARA ADULTOS",
+    "price": 18750.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/kepies-para-adultos-p56375",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "AGOGO ROSA DE SEDA",
     "price": 7500.0,
     "currency": "Gs.",
@@ -225991,6 +226503,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/z-corrector-hf0097-p56511",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "Z- LABIAL HX091 MATTE DH",
+    "price": 11250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/z-labial-hx091-matte-dh-p56514",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -226535,198 +227063,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/flotador-asiento-hadas-106cm-annecy-33108-p56855",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "SILLA DE PEZCA COLORES SURTIDOS 48X48X80CM ANNECY",
-    "price": 78900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/silla-de-pezca-colores-surtidos-48x48x80cm-annecy-p56884",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "SILLA DE PEZCA BICOLOR 51X51X91CM ANNECY",
-    "price": 144400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/silla-de-pezca-bicolor-51x51x91cm-annecy-p56885",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "REPASADOR NAVIDEÑO 30X50CM",
-    "price": 12250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/repasador-navideno-30x50cm-p56960",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "LLAVEROS MINI JUGADORES REF CP251458",
-    "price": 8900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/llaveros-mini-jugadores-ref-cp251458-p56964",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "LLAVEROS CON LUZ CAPIBARA  CP251473",
-    "price": 13400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/llaveros-con-luz-capibara-cp251473-p56965",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-BIKINI SIN COSTURA",
-    "price": 8000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-bikini-sin-costura-p57158",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-SHORT JEANS LC KIDS",
-    "price": 28350.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-short-jeans-lc-kids-p57204",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-MAYA NIÑA UNICORNIO 2-8",
-    "price": 42000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-maya-nina-unicornio-2-8-p57227",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-PINZA METAL Y UNIDAD",
-    "price": 4250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-pinza-metal-y-unidad-p57298",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-ARO BEBE",
-    "price": 7600.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-aro-bebe-p57300",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-ANILLO",
-    "price": 4100.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-anillo-p57301",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "Z-ANILLO ACERO",
-    "price": 5250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/z-anillo-acero-p57302",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -238866,6 +239202,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CANDADO PARA BICICLETA GRANDE",
+    "price": 27500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/candado-para-bicicleta-grande-p15999",
+    "brand": "",
+    "measure": "",
+    "category": "FERRETERIA",
+    "subcategory": "FERRETERIA",
+    "category_path": [
+      "FERRETERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ELEVADOR PH. 1,5 kg.",
     "price": 67900.0,
     "currency": "Gs.",
@@ -241815,6 +242167,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/kit-de-brochas-espatula-pintor-p61874",
+    "brand": "",
+    "measure": "",
+    "category": "FERRETERIA",
+    "subcategory": "FERRETERIA",
+    "category_path": [
+      "FERRETERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SET CEPILLITOS DE LIMPIEZA MULTIUSO X4",
+    "price": 11900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/set-cepillitos-de-limpieza-multiuso-x4-p61938",
     "brand": "",
     "measure": "",
     "category": "FERRETERIA",
@@ -245410,6 +245778,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CUCHARONA MELAMINA DE 27CM.",
+    "price": 6500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/cucharona-melamina-de-27cm-p46774",
+    "brand": "",
+    "measure": "",
+    "category": "COCINA",
+    "subcategory": "COCINA",
+    "category_path": [
+      "COCINA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "JUEGO REPOSTERO DE SILICONA X3",
+    "price": 18000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/juego-repostero-de-silicona-x3-p46786",
+    "brand": "",
+    "measure": "",
+    "category": "COCINA",
+    "subcategory": "COCINA",
+    "category_path": [
+      "COCINA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "GARIBALDI BOMBILLA CROMO 17 19CM ANILLO STICKER",
     "price": 7950.0,
     "currency": "Gs.",
@@ -245591,6 +245991,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/vaso-chop-forrado-disenos-varios-p53291",
+    "brand": "",
+    "measure": "",
+    "category": "COCINA",
+    "subcategory": "COCINA",
+    "category_path": [
+      "COCINA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CARPETITAS DE POYVI COLORES VARIOS",
+    "price": 10000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/carpetitas-de-poyvi-colores-varios-p53302",
     "brand": "",
     "measure": "",
     "category": "COCINA",
@@ -300189,6 +300605,42 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "CUCHILLO P/COCINA MANGO PLASTICO DAYO 10 REF PU323",
+    "price": 19900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "cubiertos",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "cubiertos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CUCHARON NEGRO TRAMONTINA",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/316417-cucharon-negro-tramontina.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "cubiertos",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "cubiertos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "CUCHARA D/MESA NEW COLOR NEGRO X UN TRAMONTINA S/E",
     "price": 3600.0,
     "currency": "Gs.",
@@ -300266,42 +300718,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/277088-cuchillo-carnicero-6pulg-mango-blanco-superutil-blis.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "cubiertos",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "cubiertos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CUCHILLO P/COCINA MANGO PLASTICO DAYO 10 REF PU323",
-    "price": 19900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "cubiertos",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "cubiertos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CUCHARON NEGRO TRAMONTINA",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/316417-cucharon-negro-tramontina.aspx",
     "brand": "",
     "measure": "",
     "category": "bazar",
@@ -320804,25 +321220,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GASEOSA CERO CALORIAS SABOR POMELO PIRI 2LTS",
-    "price": 4850.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0199114_500.jpeg",
-    "url": "https://www.stock.com.py/products/16269-gaseosa-cero-calorias-sabor-pomelo-piri-2lts.aspx",
-    "brand": "",
-    "measure": "2 LTS",
-    "category": "bebidas",
-    "subcategory": "normal",
-    "category_path": [
-      "bebidas",
-      "no",
-      "alcoholicas",
-      "normal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GASEOSA SABOR LIMA LIMON PIRI 1LT",
     "price": 2950.0,
     "currency": "Gs.",
@@ -337328,26 +337725,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BEBIDA LACTEA ULTRA SACHET SOM BERG 1LT",
-    "price": 4750.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0188535_500.jpeg",
-    "url": "https://www.stock.com.py/products/4559-bebida-lactea-ultra-sachet-som-berg-1lt.aspx",
-    "brand": "",
-    "measure": "1 LT",
-    "category": "perecedero",
-    "subcategory": "refrigeradas",
-    "category_path": [
-      "perecedero",
-      "lacteos",
-      "bebidas",
-      "lacteas",
-      "refrigeradas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LECHE SEMIDESCREMADA CON VITAMINAS SACHET SAN LOREN 500ML",
     "price": 3000.0,
     "currency": "Gs.",
@@ -344143,24 +344520,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLIGRAFOS 2UN ROJO/AZUL BIC CRISTAL BLI",
-    "price": 3400.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/119978-boligrafos-2un-rojoazul-bic-cristal-bli.aspx",
-    "brand": "",
-    "measure": "2 UN",
-    "category": "libreria",
-    "subcategory": "marcadores",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "marcadores"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BOLIGRAFOS 2UN AZUL/NEGRO BIC CRISTAL BLI",
     "price": 3400.0,
     "currency": "Gs.",
@@ -344222,6 +344581,24 @@
     "url": "https://www.stock.com.py/products/277153-canilla-baja-cruz-viqua-blis.aspx",
     "brand": "",
     "measure": "",
+    "category": "libreria",
+    "subcategory": "marcadores",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "marcadores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLIGRAFOS 2UN ROJO/AZUL BIC CRISTAL BLI",
+    "price": 3400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/119978-boligrafos-2un-rojoazul-bic-cristal-bli.aspx",
+    "brand": "",
+    "measure": "2 UN",
     "category": "libreria",
     "subcategory": "marcadores",
     "category_path": [
@@ -372261,11 +372638,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -372297,11 +372674,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -394953,6 +395330,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
+    "price": 7900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "TERMO D/INOX DAYO AZUL C/TAP 2L REF E003",
     "price": 68900.0,
     "currency": "Gs.",
@@ -395066,24 +395461,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/336091-mediafina-dayo-pdama-soquete-md25-006.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-002",
-    "price": 3500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "mision",
@@ -395223,13 +395600,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
-    "price": 7900.0,
+    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
+    "price": 68900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
+    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
     "brand": "Dayo",
-    "measure": "",
+    "measure": "2 LT",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
@@ -395241,13 +395618,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
-    "price": 68900.0,
+    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-002",
+    "price": 3500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
+    "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
     "brand": "Dayo",
-    "measure": "2 LT",
+    "measure": "",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
