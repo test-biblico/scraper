@@ -102962,22 +102962,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "QUESO PATEGRAS LACTEAR KG",
-    "price": 96800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/queso-pategras-lactear-kg-p55537",
-    "brand": "",
-    "measure": "KG",
-    "category": "FIAMBRERIA",
-    "subcategory": "FIAMBRERIA",
-    "category_path": [
-      "FIAMBRERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "QUESO DANBO SIN LACTOSA LACTOLANDA PAQ 100GR",
     "price": 7850.0,
     "currency": "Gs.",
@@ -119299,7 +119283,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TAPA P/LASAÑA HILDEBRAND 500gr",
-    "price": 7950.0,
+    "price": 7920.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/139996.jpg",
     "url": "https://www.supermas.com.py/tapa-p-lasana-hildebrand-500gr-p50837",
@@ -302459,60 +302443,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COLADOR D/PLASTICO N 9 JAGUAR REF 1614.",
-    "price": 4900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/295540-colador-dplastico-n-9-jaguar-ref-1614.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPATULA D/MADERA S/E DAYO REF WO1085",
-    "price": 13900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/276270-espatula-dmadera-se-dayo-ref-wo1085.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ABRIDOR S/E DAYO REF OP0015",
-    "price": 9900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/276272-abridor-se-dayo-ref-op0015.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "SET MOLDES PARA EMPANADAS SUPERUTIL BLI",
     "price": 36800.0,
     "currency": "Gs.",
@@ -302626,6 +302556,60 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/276257-martillo-pcarne-inox-se-dayo-ref-kg1601.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "COLADOR D/PLASTICO N 9 JAGUAR REF 1614.",
+    "price": 4900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/295540-colador-dplastico-n-9-jaguar-ref-1614.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ESPATULA D/MADERA S/E DAYO REF WO1085",
+    "price": 13900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/276270-espatula-dmadera-se-dayo-ref-wo1085.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ABRIDOR S/E DAYO REF OP0015",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/276272-abridor-se-dayo-ref-op0015.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "bazar",
@@ -308091,29 +308075,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
     "price": 50200.0,
     "currency": "Gs.",
@@ -308211,6 +308172,29 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -345997,24 +345981,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLIGRAFOS 2UN ROJO/AZUL BIC CRISTAL BLI",
-    "price": 3400.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/119978-boligrafos-2un-rojoazul-bic-cristal-bli.aspx",
-    "brand": "",
-    "measure": "2 UN",
-    "category": "libreria",
-    "subcategory": "marcadores",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "marcadores"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BOLIGRAFOS 2UN AZUL/NEGRO BIC CRISTAL BLI",
     "price": 3400.0,
     "currency": "Gs.",
@@ -346076,6 +346042,24 @@
     "url": "https://www.stock.com.py/products/277153-canilla-baja-cruz-viqua-blis.aspx",
     "brand": "",
     "measure": "",
+    "category": "libreria",
+    "subcategory": "marcadores",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "marcadores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLIGRAFOS 2UN ROJO/AZUL BIC CRISTAL BLI",
+    "price": 3400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/119978-boligrafos-2un-rojoazul-bic-cristal-bli.aspx",
+    "brand": "",
+    "measure": "2 UN",
     "category": "libreria",
     "subcategory": "marcadores",
     "category_path": [
