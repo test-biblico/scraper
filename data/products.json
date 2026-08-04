@@ -323,7 +323,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "AZUCAR  GRANEL KG",
-    "price": 5750.0,
+    "price": 4700.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/370.png",
     "url": "https://www.supermas.com.py/azucar-granel-kg-p5113",
@@ -16355,7 +16355,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TURRON ARCOR 27 GR",
-    "price": 1100.0,
+    "price": 950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/21588.png",
     "url": "https://www.supermas.com.py/turron-arcor-27-gr-p2777",
@@ -30947,7 +30947,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "EXTRACTO TOMATE SAB.AREGUA 60gr DOY P.",
-    "price": 1400.0,
+    "price": 1050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/128478.jpeg",
     "url": "https://www.supermas.com.py/extracto-tomate-sabaregua-60gr-doy-p-p38866",
@@ -36738,11 +36738,11 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "CAFE BON AROMA GOLD 50  GR",
+    "name": "CAFE BON AROMA GOLD 50gr",
     "price": 19200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/84121.png",
-    "url": "https://www.supermas.com.py/cafe-bon-aroma-gold-50-gr-p10146",
+    "url": "https://www.supermas.com.py/cafe-bon-aroma-gold-50gr-p10146",
     "brand": "",
     "measure": "50 GR",
     "category": "CAFÉ",
@@ -43939,7 +43939,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "GALLETITAS CRIOLLITAS BAGLEY 100GR",
-    "price": 3750.0,
+    "price": 3250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/60457.png",
     "url": "https://www.supermas.com.py/galletitas-criollitas-bagley-100gr-p6013",
@@ -77938,22 +77938,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "YOGHURT KISSY VAINILLA SACHET 1 LT",
-    "price": 8400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/86320.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-kissy-vainilla-sachet-1-lt-p10509",
-    "brand": "",
-    "measure": "1 LT",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "YOGHURT  GRIEGO LA PRADERA FRUTILLA POTE 100  GR",
     "price": 4350.0,
     "currency": "Gs.",
@@ -83235,7 +83219,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "GASEOSA PULP NARANJA PET 250 CC",
-    "price": 2700.0,
+    "price": 2450.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88234.jpg",
     "url": "https://www.supermas.com.py/gaseosa-pulp-naranja-pet-250-cc-p11039",
@@ -83427,7 +83411,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "SIX PACK MINI GASEOSA COCA COLA 6x250ml",
-    "price": 17200.0,
+    "price": 16250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106649.jpg",
     "url": "https://www.supermas.com.py/six-pack-mini-gaseosa-coca-cola-6x250ml-p15338",
@@ -83443,7 +83427,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "SIX PACK GASEOSA COCA ZERO 6x250ml",
-    "price": 17200.0,
+    "price": 16250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106650.jpg",
     "url": "https://www.supermas.com.py/six-pack-gaseosa-coca-zero-6x250ml-p15339",
@@ -83511,6 +83495,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67274.png",
     "url": "https://www.supermas.com.py/gaseosa-fanta-pina-retornable-2-lt-p15767",
+    "brand": "",
+    "measure": "2 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GASEO COCA COLA ZERO RETORNABLE 2 LT",
+    "price": 9500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67787.png",
+    "url": "https://www.supermas.com.py/gaseo-coca-cola-zero-retornable-2-lt-p15769",
     "brand": "",
     "measure": "2 LT",
     "category": "BEBIDAS",
@@ -83607,6 +83607,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111673.jpg",
     "url": "https://www.supermas.com.py/six-pack-fanta-misterio-chucky-punck-6x250ml-p21112",
+    "brand": "",
+    "measure": "250 ML",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SIX PACK MINI FANTA GUARANA 6x250ml",
+    "price": 16250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111674.jpg",
+    "url": "https://www.supermas.com.py/six-pack-mini-fanta-guarana-6x250ml-p21113",
     "brand": "",
     "measure": "250 ML",
     "category": "BEBIDAS",
@@ -83817,6 +83833,22 @@
     "url": "https://www.supermas.com.py/gaseosa-sprite-1lt-retornable-vidrio-p29759",
     "brand": "Sprite",
     "measure": "1 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GASEOSA COCA COLA 1,5Lt. RETORNABLE",
+    "price": 7700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/120000.jpg",
+    "url": "https://www.supermas.com.py/gaseosa-coca-cola-1-5lt-retornable-p29760",
+    "brand": "",
+    "measure": "1,5 LT",
     "category": "BEBIDAS",
     "subcategory": "BEBIDAS",
     "category_path": [
@@ -84055,6 +84087,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/134747.jpg",
     "url": "https://www.supermas.com.py/gaseosa-fanta-naranja-retorn1-lt-p45388",
+    "brand": "",
+    "measure": "1 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GASEOSA RETORNABLE FANTA GUARANA 1L",
+    "price": 5500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/134748.jpg",
+    "url": "https://www.supermas.com.py/gaseosa-retornable-fanta-guarana-1l-p45389",
     "brand": "",
     "measure": "1 LT",
     "category": "BEBIDAS",
@@ -99026,6 +99074,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CHORIZO PARRI C/P  LA PORKCINA X KG",
+    "price": 25300.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/51102.png",
+    "url": "https://www.supermas.com.py/chorizo-parri-c-p-la-porkcina-x-kg-p39400",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CHORIZO PARRI C/QUESO LA PORKCINA X KG",
     "price": 30800.0,
     "currency": "Gs.",
@@ -99106,6 +99170,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "MORCILLA LA PORKCINA X KG",
+    "price": 22000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/50945.png",
+    "url": "https://www.supermas.com.py/morcilla-la-porkcina-x-kg-p39407",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MINI PATE 125 GR LA PORKCINA",
     "price": 3050.0,
     "currency": "Gs.",
@@ -99113,6 +99193,38 @@
     "url": "https://www.supermas.com.py/mini-pate-125-gr-la-porkcina-p39496",
     "brand": "",
     "measure": "125 GR",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PATE 250 GR LA PORKCINA",
+    "price": 6050.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/129070.png",
+    "url": "https://www.supermas.com.py/pate-250-gr-la-porkcina-p39497",
+    "brand": "",
+    "measure": "250 GR",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PANCHO E/V X6 U LA PORKCINA",
+    "price": 8600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/129072.png",
+    "url": "https://www.supermas.com.py/pancho-e-v-x6-u-la-porkcina-p39499",
+    "brand": "",
+    "measure": "",
     "category": "FIAMBRERIA",
     "subcategory": "FIAMBRERIA",
     "category_path": [
@@ -100322,6 +100434,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "FIAMBRE PARIS PAQ 200 LA PORKCINA",
+    "price": 5500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/fiambre-paris-paq-200-la-porkcina-p39491",
+    "brand": "",
+    "measure": "",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "FIAMBRE PRIMAVERA PAQ 200 LA PORKCINA",
     "price": 5500.0,
     "currency": "Gs.",
@@ -100487,6 +100615,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/fiambre-surtido-chorti-x-kg-p41207",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MORTADELA TRIPA FINA S/PIC PORKCINA KG",
+    "price": 21500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/mortadela-tripa-fina-s-pic-porkcina-kg-p44202",
     "brand": "",
     "measure": "KG",
     "category": "FIAMBRERIA",
@@ -103208,6 +103352,22 @@
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/92404.jpg",
     "url": "https://www.supermas.com.py/palito-grissines-mas-kg-p12456",
     "brand": "",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PAN 3 SEMILLAS SUPERMAS X KG*",
+    "price": 10300.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/93865.jpg",
+    "url": "https://www.supermas.com.py/pan-3-semillas-supermas-x-kg-p12830",
+    "brand": "Superma",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
     "subcategory": "PANADERIA Y CONFITERIA",
@@ -117827,7 +117987,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TAPA P/LASAÑA HILDEBRAND 500gr",
-    "price": 7950.0,
+    "price": 7920.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/139996.jpg",
     "url": "https://www.supermas.com.py/tapa-p-lasana-hildebrand-500gr-p50837",
@@ -117891,7 +118051,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ÑOQUIS C/PAPAS HILDEBRAND 500gr",
-    "price": 6460.0,
+    "price": 6500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140001.jpg",
     "url": "https://www.supermas.com.py/noquis-c-papas-hildebrand-500gr-p50861",
@@ -304638,6 +304798,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
     "price": 50200.0,
     "currency": "Gs.",
@@ -304735,29 +304918,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
