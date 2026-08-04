@@ -272354,13 +272354,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "HARINA TRIGO PRIMICIA 500GR",
-    "price": 3050.0,
+    "name": "ALMIDON DE MANDIOCA 1 KG AMELIA PAQ",
+    "price": 9750.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/316251-harina-trigo-primicia-500gr.aspx",
-    "brand": "Primicia",
-    "measure": "500 GR",
+    "url": "https://www.stock.com.py/products/284421-almidon-de-mandioca-1-kg-amelia-paq.aspx",
+    "brand": "",
+    "measure": "1 KG",
     "category": "harinas",
     "subcategory": "almidon",
     "category_path": [
@@ -272371,13 +272371,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ALMIDON DE MANDIOCA 1 KG AMELIA PAQ",
-    "price": 9750.0,
+    "name": "HARINA TRIGO PRIMICIA 500GR",
+    "price": 3050.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/284421-almidon-de-mandioca-1-kg-amelia-paq.aspx",
-    "brand": "",
-    "measure": "1 KG",
+    "url": "https://www.stock.com.py/products/316251-harina-trigo-primicia-500gr.aspx",
+    "brand": "Primicia",
+    "measure": "500 GR",
     "category": "harinas",
     "subcategory": "almidon",
     "category_path": [
@@ -304638,29 +304638,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
     "price": 50200.0,
     "currency": "Gs.",
@@ -304758,6 +304735,29 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -358254,6 +358254,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
+    "price": 15000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "VELA AROMATICA FLOR DE COCO 4 UN RILAPE BLIS",
     "price": 15100.0,
     "currency": "Gs.",
@@ -358355,22 +358371,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/270667-vela-rilape-n1-8-unidades-bsa.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
-    "price": 15000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "velasfosforo",
