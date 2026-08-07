@@ -24114,6 +24114,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "HARINA ERSA LEUDANTE 1 KG",
+    "price": 6000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/22871.jpeg",
+    "url": "https://www.supermas.com.py/harina-ersa-leudante-1-kg-p2906",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "HARINA ERSA SALVADO X 350  GR",
     "price": 5650.0,
     "currency": "Gs.",
@@ -31986,22 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "SALSA BARBACOA HELLMANS 1 KG",
-    "price": 26950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/60217.png",
-    "url": "https://www.supermas.com.py/salsa-barbacoa-hellmans-1-kg-p5989",
-    "brand": "",
-    "measure": "1 KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "COCINERO FRITOLIM MANTECA 120  GR",
     "price": 37250.0,
     "currency": "Gs.",
@@ -32195,7 +32195,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ACEITE GIRASOL NATURA 1.5 LT",
-    "price": 37200.0,
+    "price": 30500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24685.png",
     "url": "https://www.supermas.com.py/aceite-girasol-natura-15-lt-p3383",
@@ -32211,7 +32211,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ACEITE GIRASOL NATURA 3 LT",
-    "price": 76250.0,
+    "price": 68950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24686.png",
     "url": "https://www.supermas.com.py/aceite-girasol-natura-3-lt-p3384",
@@ -32227,7 +32227,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ACEITE GIRASOL NATURA 500 ML",
-    "price": 13650.0,
+    "price": 12950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24687.png",
     "url": "https://www.supermas.com.py/aceite-girasol-natura-500-ml-p3385",
@@ -32243,7 +32243,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ACEITE GIRASOL NATURA 5 LT",
-    "price": 118750.0,
+    "price": 109750.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24697.jpg",
     "url": "https://www.supermas.com.py/aceite-girasol-natura-5-lt-p3386",
@@ -33309,6 +33309,22 @@
     "subcategory": "ACEITES",
     "category_path": [
       "ACEITES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SALSA BARBACOA HELLMANS 1 KG",
+    "price": 26950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/60217.png",
+    "url": "https://www.supermas.com.py/salsa-barbacoa-hellmans-1-kg-p5989",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
     ]
   },
   {
@@ -71522,22 +71538,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "SURUBI RODAJAS X KG",
-    "price": 115000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82563.png",
-    "url": "https://www.supermas.com.py/surubi-rodajas-x-kg-p18744",
-    "brand": "",
-    "measure": "KG",
-    "category": "CARNES Y POLLOS",
-    "subcategory": "CARNES Y POLLOS",
-    "category_path": [
-      "CARNES Y POLLOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "PACU X KG",
     "price": 51900.0,
     "currency": "Gs.",
@@ -83251,7 +83251,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "GASEOSA PULP NARANJA BOT.3 LT",
-    "price": 16100.0,
+    "price": 16950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82153.jpg",
     "url": "https://www.supermas.com.py/gaseosa-pulp-naranja-bot3-lt-p9755",
@@ -83267,7 +83267,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "GASEOSA PULP POMELO BOTELLA 3 LT",
-    "price": 16100.0,
+    "price": 16950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82154.jpg",
     "url": "https://www.supermas.com.py/gaseosa-pulp-pomelo-botella-3-lt-p9756",
@@ -84451,7 +84451,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "GASEOSA PULP GUARANA  BOT.3L.",
-    "price": 16100.0,
+    "price": 16950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82155.jpg",
     "url": "https://www.supermas.com.py/gaseosa-pulp-guarana-bot3l-p52648",
@@ -84627,7 +84627,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "PACK GAS.SCHWEPPES POMELO S/A 6x250ml",
-    "price": 16250.0,
+    "price": 17350.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/pack-gasschweppes-pomelo-s-a-6x250ml-p63161",
@@ -99234,6 +99234,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CHORIZO DE VIENA LA PORKCINA X KG",
+    "price": 24200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/50902.png",
+    "url": "https://www.supermas.com.py/chorizo-de-viena-la-porkcina-x-kg-p39397",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CHORIZO DE VIENA C/P LA PORKCINA X KG",
     "price": 24200.0,
     "currency": "Gs.",
@@ -100871,6 +100887,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/fiambre-surtido-chorti-x-kg-p41207",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MORTADELA TRIPA FINA S/PIC PORKCINA KG",
+    "price": 21500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/mortadela-tripa-fina-s-pic-porkcina-kg-p44202",
     "brand": "",
     "measure": "KG",
     "category": "FIAMBRERIA",
@@ -104088,22 +104120,6 @@
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/66610.jpg",
     "url": "https://www.supermas.com.py/masita-roja-supermas-xkg-p18137",
     "brand": "Superma",
-    "measure": "KG",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "TARTA DE FRUTILLA MAS xKG",
-    "price": 50000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/tarta-de-frutilla-mas-xkg-p20028",
-    "brand": "",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
     "subcategory": "PANADERIA Y CONFITERIA",
@@ -170690,6 +170706,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "BOLSAS P/BAÑO POLIFOAM 40 LT",
+    "price": 3000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/95246.jpg",
+    "url": "https://www.supermas.com.py/bolsas-p-bano-polifoam-40-lt-p13255",
+    "brand": "",
+    "measure": "40 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ESPONJA LISA EXTRA VIRULANA 1 UNIDADES",
     "price": 3100.0,
     "currency": "Gs.",
@@ -182713,6 +182745,22 @@
     "url": "https://www.supermas.com.py/desodorante-quatro-manzana-5-lt-p3902",
     "brand": "",
     "measure": "5 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ESCURRIDOR POLIFOAM RESPUESTO 35 CM X UNIDAD",
+    "price": 14650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/27263.png",
+    "url": "https://www.supermas.com.py/escurridor-polifoam-respuesto-35-cm-x-unidad-p3904",
+    "brand": "",
+    "measure": "",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -300491,42 +300539,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CUCHARA D/MESA NEW COLOR NEGRO X UN TRAMONTINA S/E",
-    "price": 3600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/236641-cuchara-dmesa-new-color-negro-x-un-tramontina-se.aspx",
-    "brand": "",
-    "measure": "UN",
-    "category": "bazar",
-    "subcategory": "cubiertos",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "cubiertos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CUCHARON NEGRO TRAMONTINA",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/316417-cucharon-negro-tramontina.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "cubiertos",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "cubiertos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TABLA MADERA CUADRADO 27 X 27 CM REF 2313",
     "price": 36000.0,
     "currency": "Gs.",
@@ -300606,6 +300618,42 @@
     "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
     "brand": "Dayo",
     "measure": "",
+    "category": "bazar",
+    "subcategory": "cubiertos",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "cubiertos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CUCHARON NEGRO TRAMONTINA",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/316417-cucharon-negro-tramontina.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "cubiertos",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "cubiertos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CUCHARA D/MESA NEW COLOR NEGRO X UN TRAMONTINA S/E",
+    "price": 3600.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/236641-cuchara-dmesa-new-color-negro-x-un-tramontina-se.aspx",
+    "brand": "",
+    "measure": "UN",
     "category": "bazar",
     "subcategory": "cubiertos",
     "category_path": [
@@ -306803,6 +306851,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
     "price": 50200.0,
     "currency": "Gs.",
@@ -306900,29 +306971,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -360547,38 +360595,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
-    "price": 8800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/284593-encendedor-para-parrilla-5-un-parana-cja.aspx",
-    "brand": "",
-    "measure": "5 UN",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELAS NRO 5 COMISA 8UN PAQ",
-    "price": 12050.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
-    "brand": "",
-    "measure": "8 UN",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "ALCOHOL E/PASTILLA 180GR CARIMBO 77 PLAS",
     "price": 19500.0,
     "currency": "Gs.",
@@ -360618,6 +360634,38 @@
     "url": "https://www.stock.com.py/products/270667-vela-rilape-n1-8-unidades-bsa.aspx",
     "brand": "",
     "measure": "",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
+    "price": 8800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/284593-encendedor-para-parrilla-5-un-parana-cja.aspx",
+    "brand": "",
+    "measure": "5 UN",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VELAS NRO 5 COMISA 8UN PAQ",
+    "price": 12050.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
+    "brand": "",
+    "measure": "8 UN",
     "category": "velasfosforo",
     "subcategory": "Velas/Fosforo",
     "category_path": [
