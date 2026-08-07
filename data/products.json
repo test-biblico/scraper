@@ -3123,7 +3123,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ NORTE TIPO II BOLSA 1kg.",
-    "price": 4150.0,
+    "price": 4300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/arroz-norte-tipo-ii-bolsa-1kg-p57733",
@@ -3171,7 +3171,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ NORTE TIPO I 5 kg",
-    "price": 20500.0,
+    "price": 23500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/arroz-norte-tipo-i-5-kg-p57736",
@@ -3187,7 +3187,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ NORTE TIPO I 1kg",
-    "price": 4450.0,
+    "price": 4600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/arroz-norte-tipo-i-1kg-p57737",
@@ -6953,6 +6953,22 @@
     "url": "https://www.supermas.com.py/tempero-arisco-completo-x-300-gr-p3584",
     "brand": "",
     "measure": "300 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TEMPERO ARISCO COMPLETO 1 KG",
+    "price": 21850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/25389.jpg",
+    "url": "https://www.supermas.com.py/tempero-arisco-completo-1-kg-p3585",
+    "brand": "",
+    "measure": "1 KG",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -28867,7 +28883,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCLO SAN SEBASTIAN 200  GR",
-    "price": 4900.0,
+    "price": 5900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/65603.jpg",
     "url": "https://www.supermas.com.py/choclo-san-sebastian-200-gr-p6653",
@@ -31986,22 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "KETCHUP PONTEVEDRA  C/ TAPA 1 KG",
-    "price": 21800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/79828.png",
-    "url": "https://www.supermas.com.py/ketchup-pontevedra-c-tapa-1-kg-p9283",
-    "brand": "",
-    "measure": "1 KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "COCINERO FRITOLIM MANTECA 120  GR",
     "price": 37250.0,
     "currency": "Gs.",
@@ -33309,6 +33309,22 @@
     "subcategory": "ACEITES",
     "category_path": [
       "ACEITES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "KETCHUP PONTEVEDRA  C/ TAPA 1 KG",
+    "price": 21800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/79828.png",
+    "url": "https://www.supermas.com.py/ketchup-pontevedra-c-tapa-1-kg-p9283",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
     ]
   },
   {
@@ -45954,6 +45970,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "GALLETITA RELLENA PIRAQUE BRIGADEIRO 160gr",
+    "price": 2500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/114733.jpg",
+    "url": "https://www.supermas.com.py/galletita-rellena-piraque-brigadeiro-160gr-p24306",
+    "brand": "",
+    "measure": "160 GR",
+    "category": "GALLETITAS",
+    "subcategory": "GALLETITAS",
+    "category_path": [
+      "GALLETITAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GAL.RELLENA PIRAQUE CHOCO DARK C/VAIN 160gr",
+    "price": 3000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/114734.jpg",
+    "url": "https://www.supermas.com.py/galrellena-piraque-choco-dark-c-vain-160gr-p24307",
+    "brand": "",
+    "measure": "160 GR",
+    "category": "GALLETITAS",
+    "subcategory": "GALLETITAS",
+    "category_path": [
+      "GALLETITAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "WAFER NIKITO MORANGO 100gr",
     "price": 3450.0,
     "currency": "Gs.",
@@ -47415,6 +47463,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/139858.jpg",
     "url": "https://www.supermas.com.py/gallpiraque-choco-jalea-limon-80gr-p50701",
+    "brand": "",
+    "measure": "80 GR",
+    "category": "GALLETITAS",
+    "subcategory": "GALLETITAS",
+    "category_path": [
+      "GALLETITAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GALL.PIRAQUE CHEESECAKE-FRUTAS ROJAS 80gr",
+    "price": 3950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/139859.jpg",
+    "url": "https://www.supermas.com.py/gallpiraque-cheesecake-frutas-rojas-80gr-p50702",
     "brand": "",
     "measure": "80 GR",
     "category": "GALLETITAS",
@@ -67826,6 +67890,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DULCE LECHE PRADERA REPOSTERO 5 KG",
+    "price": 118250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/60811.jpg",
+    "url": "https://www.supermas.com.py/dulce-leche-pradera-repostero-5-kg-p6061",
+    "brand": "",
+    "measure": "5 KG",
+    "category": "DULCES Y MERMELADAS",
+    "subcategory": "DULCES Y MERMELADAS",
+    "category_path": [
+      "DULCES Y MERMELADAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DULCE DE BATATA DUL CESAR 500  GR",
     "price": 9650.0,
     "currency": "Gs.",
@@ -69618,6 +69698,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "MERMELADA DE FRUTILLA LINEA 12X230G",
+    "price": 10995.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/138426.jpg",
+    "url": "https://www.supermas.com.py/mermelada-de-frutilla-linea-12x230g-p49201",
+    "brand": "",
+    "measure": "230 GR",
+    "category": "DULCES Y MERMELADAS",
+    "subcategory": "DULCES Y MERMELADAS",
+    "category_path": [
+      "DULCES Y MERMELADAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MERMELADA DE GUAYABA LINEA 12X230G",
     "price": 10995.0,
     "currency": "Gs.",
@@ -69721,6 +69817,22 @@
     "url": "https://www.supermas.com.py/mermelada-la-pradera-guayaba-450gr-p52869",
     "brand": "La Pradera",
     "measure": "450 GR",
+    "category": "DULCES Y MERMELADAS",
+    "subcategory": "DULCES Y MERMELADAS",
+    "category_path": [
+      "DULCES Y MERMELADAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MERMELADA DE GUAYABA REPOSTERO SACHET 1K",
+    "price": 14850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/mermelada-de-guayaba-repostero-sachet-1k-p54172",
+    "brand": "",
+    "measure": "",
     "category": "DULCES Y MERMELADAS",
     "subcategory": "DULCES Y MERMELADAS",
     "category_path": [
@@ -72343,6 +72455,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/69252.jpg",
     "url": "https://www.supermas.com.py/molleja-de-pollo-cong-paq-kzero-x-kg-p42423",
+    "brand": "",
+    "measure": "KG",
+    "category": "CARNES Y POLLOS",
+    "subcategory": "CARNES Y POLLOS",
+    "category_path": [
+      "CARNES Y POLLOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "HIGADO FRESCO PECHUGON X KG",
+    "price": 14450.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/56140.jpg",
+    "url": "https://www.supermas.com.py/higado-fresco-pechugon-x-kg-p43879",
     "brand": "",
     "measure": "KG",
     "category": "CARNES Y POLLOS",
@@ -75426,6 +75554,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "YOGHURT LA PRADERA BEBIBLE  NATURAL X 1 LT",
+    "price": 10800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13045.jpg",
+    "url": "https://www.supermas.com.py/yoghurt-la-pradera-bebible-natural-x-1-lt-p1279",
+    "brand": "La Pradera",
+    "measure": "1 LT",
+    "category": "LACTEOS",
+    "subcategory": "LACTEOS",
+    "category_path": [
+      "LACTEOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "YOGHURT LA PRADERA DIET FRUTILLA 160  GR",
     "price": 2650.0,
     "currency": "Gs.",
@@ -77842,6 +77986,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "YOGHURT CREMOSO FRUTILLA 140  GR",
+    "price": 2200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/92819.jpg",
+    "url": "https://www.supermas.com.py/yoghurt-cremoso-frutilla-140-gr-p12572",
+    "brand": "",
+    "measure": "140 GR",
+    "category": "LACTEOS",
+    "subcategory": "LACTEOS",
+    "category_path": [
+      "LACTEOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "YOGHURT CREMOSO COCO LA PRADERA 140  GR",
     "price": 2200.0,
     "currency": "Gs.",
@@ -77929,6 +78089,22 @@
     "url": "https://www.supermas.com.py/yoghurt-diet-frutilla-500-gr-la-prad-p13191",
     "brand": "",
     "measure": "500 GR",
+    "category": "LACTEOS",
+    "subcategory": "LACTEOS",
+    "category_path": [
+      "LACTEOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "YOGHURT DIET VAINILLA SACHET 1 LT",
+    "price": 8400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94731.jpg",
+    "url": "https://www.supermas.com.py/yoghurt-diet-vainilla-sachet-1-lt-p13192",
+    "brand": "",
+    "measure": "1 LT",
     "category": "LACTEOS",
     "subcategory": "LACTEOS",
     "category_path": [
@@ -97635,7 +97811,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "BUTIFARRA MUTTI X KG",
-    "price": 38900.0,
+    "price": 33100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3260.png",
     "url": "https://www.supermas.com.py/butifarra-mutti-x-kg-p4809",
@@ -99139,7 +99315,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FIAMBRE MUTTI X KG",
-    "price": 21400.0,
+    "price": 18200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2120.png",
     "url": "https://www.supermas.com.py/fiambre-mutti-x-kg-p2752",
@@ -99475,7 +99651,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "JAMONADA MUTTI PRIMERA KG",
-    "price": 28500.0,
+    "price": 24250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/81687.jpg",
     "url": "https://www.supermas.com.py/jamonada-mutti-primera-kg-p9702",
@@ -100711,6 +100887,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7185.png",
     "url": "https://www.supermas.com.py/queso-paraguay-la-pradera-x-kg-p7706",
+    "brand": "La Pradera",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "QUESO CUARTIROLO LA PRADERA KG",
+    "price": 53500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7187.jpg",
+    "url": "https://www.supermas.com.py/queso-cuartirolo-la-pradera-kg-p7708",
     "brand": "La Pradera",
     "measure": "KG",
     "category": "FIAMBRERIA",
@@ -109027,7 +109219,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "HAMBURGUESAS BURGUETTI 60 UNIDADES",
-    "price": 97650.0,
+    "price": 83050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97825.png",
     "url": "https://www.supermas.com.py/hamburguesas-burguetti-60-unidades-p14129",
@@ -109433,22 +109625,6 @@
     "url": "https://www.supermas.com.py/ensalada-rusa-fruto-maipo-500gr-p1463",
     "brand": "",
     "measure": "500 GR",
-    "category": "CONGELADOS",
-    "subcategory": "CONGELADOS",
-    "category_path": [
-      "CONGELADOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "FRUTILLA CONGELADO SABROSON 1 KG",
-    "price": 43400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88806.png",
-    "url": "https://www.supermas.com.py/frutilla-congelado-sabroson-1-kg-p11241",
-    "brand": "",
-    "measure": "1 KG",
     "category": "CONGELADOS",
     "subcategory": "CONGELADOS",
     "category_path": [
@@ -113826,22 +114002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "EDULCORANTE LIQUIDO SUCRALOSA X 75ML",
-    "price": 26200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/138554.jpg",
-    "url": "https://www.supermas.com.py/edulcorante-liquido-sucralosa-x-75ml-p49338",
-    "brand": "",
-    "measure": "75 ML",
-    "category": "LINEA DIET",
-    "subcategory": "LINEA DIET",
-    "category_path": [
-      "LINEA DIET"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "EDULC.EN POLVO SUCRALOSA 50 BOLSITAS",
     "price": 19700.0,
     "currency": "Gs.",
@@ -114073,22 +114233,6 @@
     "url": "https://www.supermas.com.py/edulcorante-linea-100-stevia-60ml-p52051",
     "brand": "",
     "measure": "60 ML",
-    "category": "LINEA DIET",
-    "subcategory": "LINEA DIET",
-    "category_path": [
-      "LINEA DIET"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "EDULCORANTE LINEA 100% STEVIA 25ml",
-    "price": 12250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/edulcorante-linea-100-stevia-25ml-p52052",
-    "brand": "",
-    "measure": "25 ML",
     "category": "LINEA DIET",
     "subcategory": "LINEA DIET",
     "category_path": [
@@ -116327,22 +116471,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/61423.jpg",
     "url": "https://www.supermas.com.py/ravioles-carne-edward-550-gr-p6158",
-    "brand": "",
-    "measure": "550 GR",
-    "category": "OTROS ALIMENTOS",
-    "subcategory": "OTROS ALIMENTOS",
-    "category_path": [
-      "OTROS ALIMENTOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "RAVIOLES POLLO EDWARD 550  GR",
-    "price": 27250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/61424.jpg",
-    "url": "https://www.supermas.com.py/ravioles-pollo-edward-550-gr-p6159",
     "brand": "",
     "measure": "550 GR",
     "category": "OTROS ALIMENTOS",
@@ -135730,6 +135858,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESODORANTE LADY STICK SPEED CLIN. POWER 150 ML",
+    "price": 25150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7154.jpg",
+    "url": "https://www.supermas.com.py/desodorante-lady-stick-speed-clin-power-150-ml-p7663",
+    "brand": "",
+    "measure": "150 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD. REXONA MEN XTRA COOL 50GR BARRA",
     "price": 21200.0,
     "currency": "Gs.",
@@ -135769,6 +135913,22 @@
     "url": "https://www.supermas.com.py/desodorante-rexona-men-xtra-cool-150ml-aer-p7881",
     "brand": "",
     "measure": "150 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DESODORANTE SPEED STICK MULTIPRO ROLL ON X 50 ML",
+    "price": 12600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/72871.jpg",
+    "url": "https://www.supermas.com.py/desodorante-speed-stick-multipro-roll-on-x-50-ml-p7927",
+    "brand": "",
+    "measure": "50 ML",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -135986,6 +136146,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESOD.ACLARADOR PERF. VIT. E BARRA 45 GR",
+    "price": 17100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/89205.jpg",
+    "url": "https://www.supermas.com.py/desodaclarador-perf-vit-e-barra-45-gr-p11346",
+    "brand": "",
+    "measure": "45 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD.SPEED STICK POWDER FRESH BARRA 45GR",
     "price": 18200.0,
     "currency": "Gs.",
@@ -136009,6 +136185,22 @@
     "url": "https://www.supermas.com.py/desodorante-roll-on-power-fresh-roll-on-x-50-ml-p11348",
     "brand": "",
     "measure": "50 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DESODORANTE SPEED STICK STAING SPRAY 100  GR",
+    "price": 20550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/89214.jpg",
+    "url": "https://www.supermas.com.py/desodorante-speed-stick-staing-spray-100-gr-p11351",
+    "brand": "",
+    "measure": "100 GR",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -136242,6 +136434,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESODORANTE LADY SPEED STICK PRO 5EN1 91 GR AER",
+    "price": 20600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97860.jpg",
+    "url": "https://www.supermas.com.py/desodorante-lady-speed-stick-pro-5en1-91-gr-aer-p14145",
+    "brand": "",
+    "measure": "91 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESODORANTE NIVEA FRESH ICE FOR MEN 150 ML AEROSOL",
     "price": 27300.0,
     "currency": "Gs.",
@@ -136281,6 +136489,22 @@
     "url": "https://www.supermas.com.py/desodorante-lady-clin-comp-pow-barra-45gr-p14774",
     "brand": "",
     "measure": "45 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DESODORANTE SPEED STICK CLIN COMP PROT DRY 91 GR",
+    "price": 25150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/99719.jpg",
+    "url": "https://www.supermas.com.py/desodorante-speed-stick-clin-comp-prot-dry-91-gr-p14777",
+    "brand": "",
+    "measure": "91 GR",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -136409,6 +136633,22 @@
     "url": "https://www.supermas.com.py/desodrexona-w-ap-antibact-in-150ml-p21285",
     "brand": "",
     "measure": "150 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PACK x2LADY SPEED.S BARRA INVISIBLE FLORAL 150C",
+    "price": 28900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/112949.jpg",
+    "url": "https://www.supermas.com.py/pack-x2lady-speeds-barra-invisible-floral-150c-p22435",
+    "brand": "",
+    "measure": "",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -137730,6 +137970,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESOD.LADY SPEED STICK CREAM NIGHT 70gr",
+    "price": 9500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/desodlady-speed-stick-cream-night-70gr-p59996",
+    "brand": "",
+    "measure": "70 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD.LADY SPEED STICK PRACTI CREAM  70gr",
     "price": 9500.0,
     "currency": "Gs.",
@@ -138818,6 +139074,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JABON LIQUIDO PROTEX FOR MEN SPORT 250 ML",
+    "price": 12700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82591.jpg",
+    "url": "https://www.supermas.com.py/jabon-liquido-protex-for-men-sport-250-ml-p9856",
+    "brand": "",
+    "measure": "250 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PACK JABON DOVE CREMOSO 3x90GR",
     "price": 19600.0,
     "currency": "Gs.",
@@ -139426,6 +139698,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JABON LIQ.PROTEX VITAM E 500ml DOY PACK",
+    "price": 22900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106536.png",
+    "url": "https://www.supermas.com.py/jabon-liqprotex-vitam-e-500ml-doy-pack-p15279",
+    "brand": "",
+    "measure": "500 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JABON GLICERINA C NEUTRO 125gr",
     "price": 5950.0,
     "currency": "Gs.",
@@ -139666,6 +139954,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JABON LIQ.PALMOLIVE APPLE FLOWER/GARDEN 221ml",
+    "price": 9800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/110180.jpg",
+    "url": "https://www.supermas.com.py/jabon-liqpalmolive-apple-flower-garden-221ml-p19515",
+    "brand": "",
+    "measure": "221 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JABON DE COCO PURO NATU COCO BLANCO 200gr",
     "price": 9150.0,
     "currency": "Gs.",
@@ -139833,6 +140137,22 @@
     "url": "https://www.supermas.com.py/pack-x3-abon-mar-nutrive-rosa-suavidad125gr-p20278",
     "brand": "",
     "measure": "125 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "JABON LIQ.CORPORAL PALMOLIVE OIL FIG ORCH 250ml",
+    "price": 12700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111320.jpg",
+    "url": "https://www.supermas.com.py/jabon-liqcorporal-palmolive-oil-fig-orch-250ml-p20749",
+    "brand": "",
+    "measure": "250 ML",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -140249,6 +140569,22 @@
     "url": "https://www.supermas.com.py/pack-jabon-cocoinca-natc-humec-3x140-p31409",
     "brand": "",
     "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "JABON PALMOLIVE KIDS 85gr",
+    "price": 3800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/jabon-palmolive-kids-85gr-p31411",
+    "brand": "",
+    "measure": "85 GR",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -141362,6 +141698,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JABON TOC PALMOLIVE OLIVA / ALOE 125gr",
+    "price": 5900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/jabon-toc-palmolive-oliva-aloe-125gr-p59733",
+    "brand": "",
+    "measure": "125 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JABON PALMOLIVE LUMINOUS OILS FIGO 200gr",
     "price": 10100.0,
     "currency": "Gs.",
@@ -141449,6 +141801,22 @@
     "url": "https://www.supermas.com.py/jabon-liqarom-corp-avena-alm-750ml-doy-pack-p61919",
     "brand": "",
     "measure": "750 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PACK x6 JABON PROTEX CREAM 125gr",
+    "price": 32950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/pack-x6-jabon-protex-cream-125gr-p62063",
+    "brand": "",
+    "measure": "125 GR",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -142946,6 +143314,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CEPILLO DENTAL COLGATE VALUE KIDS + 2 AÑOS",
+    "price": 9200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/42980.jpg",
+    "url": "https://www.supermas.com.py/cepillo-dental-colgate-value-kids-2-anos-p5509",
+    "brand": "Colgate",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CEPILLO COLGATE EXTRA CLEAN MEDIO 2 X 1",
+    "price": 15700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/42981.jpg",
+    "url": "https://www.supermas.com.py/cepillo-colgate-extra-clean-medio-2-x-1-p5510",
+    "brand": "Colgate",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ENJUAGUE BUCAL COLGATE PLAX 500 ML",
     "price": 26400.0,
     "currency": "Gs.",
@@ -143266,6 +143666,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CREMA DENTAL TANDY MORANGO 50GR",
+    "price": 10550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/43375.jpg",
+    "url": "https://www.supermas.com.py/crema-dental-tandy-morango-50gr-p5558",
+    "brand": "",
+    "measure": "50 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CREMA DENTAL TANDY TUTTI FRUTI 50GR",
     "price": 10550.0,
     "currency": "Gs.",
@@ -143273,6 +143689,22 @@
     "url": "https://www.supermas.com.py/crema-dental-tandy-tutti-fruti-50gr-p5559",
     "brand": "",
     "measure": "50 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CEPILLO DENTAL KOLYNOS MEDIA 2 EN 1",
+    "price": 13900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/43388.jpg",
+    "url": "https://www.supermas.com.py/cepillo-dental-kolynos-media-2-en-1-p5561",
+    "brand": "",
+    "measure": "",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -143368,6 +143800,22 @@
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/cepillo-dental-morning-kiss-bi-accion-medio-p5572",
     "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "HILO DENTAL COLGATE FRUOR Y MENTA 25 MT",
+    "price": 16500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/62339.jpg",
+    "url": "https://www.supermas.com.py/hilo-dental-colgate-fruor-y-menta-25-mt-p6256",
+    "brand": "Colgate",
     "measure": "",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
@@ -144114,6 +144562,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ENJUAGUE BUCAL COLGATE PLAX ICE INFINITY 1000 ML",
+    "price": 48400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/99711.jpg",
+    "url": "https://www.supermas.com.py/enjuague-bucal-colgate-plax-ice-infinity-1000-ml-p14770",
+    "brand": "Colgate",
+    "measure": "1000 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CREMA DENTAL CLOSE UP TRIPLE HORTELA 70  GR",
     "price": 4150.0,
     "currency": "Gs.",
@@ -144402,6 +144866,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CEPILLO DENTAL SORRISO TRIPLE 3PAQ.",
+    "price": 18850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111321.jpg",
+    "url": "https://www.supermas.com.py/cepillo-dental-sorriso-triple-3paq-p20750",
+    "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CREMA DENTAL KOLYNOS COMPLETE CLEAN 90gr",
     "price": 12150.0,
     "currency": "Gs.",
@@ -144520,6 +145000,22 @@
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/112952.jpg",
     "url": "https://www.supermas.com.py/cepillo-dental-slimsoft-punta-azul-2paq-p22438",
     "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CEPILLO DENTAL COLGATE COLORES 5pk",
+    "price": 37450.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/112953.jpg",
+    "url": "https://www.supermas.com.py/cepillo-dental-colgate-colores-5pk-p22439",
+    "brand": "Colgate",
     "measure": "",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
@@ -145138,6 +145634,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CEPILLO COLGATE ZZ CHARCOAL 1PK",
+    "price": 16500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/133980.jpg",
+    "url": "https://www.supermas.com.py/cepillo-colgate-zz-charcoal-1pk-p44608",
+    "brand": "Colgate",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CREMA D.COLGATE PRO ALIVIO INM.60gr",
     "price": 17550.0,
     "currency": "Gs.",
@@ -145282,12 +145794,44 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CEPILLO COLG. SUPER FLEXI 2 PACK C/ PORTA CABEZA",
+    "price": 13150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/cepillo-colg-super-flexi-2-pack-c-porta-cabeza-p57058",
+    "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PACK x2 CREMA DENTAL ORAL-B 3D WHITE 90gr",
     "price": 36850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/pack-x2-crema-dental-oral-b-3d-white-90gr-p57361",
     "brand": "",
+    "measure": "90 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CREMA D.COLGATE NATURALS BICARB 90gr",
+    "price": 17200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/crema-dcolgate-naturals-bicarb-90gr-p58440",
+    "brand": "Colgate",
     "measure": "90 GR",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
@@ -145330,6 +145874,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CREMA D.COLGATE LUMINOUS WHITE COR 70gr",
+    "price": 17350.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/148035.jpg",
+    "url": "https://www.supermas.com.py/crema-dcolgate-luminous-white-cor-70gr-p59055",
+    "brand": "Colgate",
+    "measure": "70 GR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CEPILLO DENTAL COLGATE KIDS SUAVE x2",
+    "price": 20950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/cepillo-dental-colgate-kids-suave-x2-p59735",
+    "brand": "Colgate",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ENJUAGUE BUCAL COLGATE PLAX SANDIA 500ml",
     "price": 22900.0,
     "currency": "Gs.",
@@ -145337,6 +145913,38 @@
     "url": "https://www.supermas.com.py/enjuague-bucal-colgate-plax-sandia-500ml-p60668",
     "brand": "Colgate",
     "measure": "500 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CEPILLO DENTAL COLGTE PRO CUIDADO x4un",
+    "price": 35050.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/cepillo-dental-colgte-pro-cuidado-x4un-p60669",
+    "brand": "",
+    "measure": "4 UN",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CREMA DENTAL COLGATE SMILE HARRY POT 75ml",
+    "price": 20200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/crema-dental-colgate-smile-harry-pot-75ml-p60670",
+    "brand": "Colgate",
+    "measure": "75 ML",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -149129,10 +149737,10 @@
     "url": "https://www.supermas.com.py/acondicionador-pantene-restauracion-10-ml-p14082",
     "brand": "",
     "measure": "10 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149145,10 +149753,10 @@
     "url": "https://www.supermas.com.py/tinte-excelence-nro-7-p14151",
     "brand": "",
     "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149161,10 +149769,10 @@
     "url": "https://www.supermas.com.py/tinte-loreal-magic-spary-canas-75-ml-p14218",
     "brand": "",
     "measure": "75 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149177,10 +149785,10 @@
     "url": "https://www.supermas.com.py/tinte-loreal-magic-castano-spray-75-ml-p14219",
     "brand": "",
     "measure": "75 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149193,10 +149801,10 @@
     "url": "https://www.supermas.com.py/tinte-loreal-magic-castano-claro-spray-75-ml-p14220",
     "brand": "",
     "measure": "75 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149209,10 +149817,10 @@
     "url": "https://www.supermas.com.py/tinte-loreal-magic-rubio-oscuro-spray-75-ml-p14221",
     "brand": "",
     "measure": "75 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149225,10 +149833,10 @@
     "url": "https://www.supermas.com.py/tinte-loreal-magic-rubio-claro-spray-75-ml-p14222",
     "brand": "",
     "measure": "75 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149241,10 +149849,10 @@
     "url": "https://www.supermas.com.py/shampoo-pantene-restauracion-700-ml-p14488",
     "brand": "",
     "measure": "700 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149257,10 +149865,10 @@
     "url": "https://www.supermas.com.py/shampoo-pantene-control-caida-700-ml-p14489",
     "brand": "",
     "measure": "700 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149273,10 +149881,10 @@
     "url": "https://www.supermas.com.py/shampoo-pantene-hidratacion-extremo-700-ml-p14490",
     "brand": "",
     "measure": "700 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149289,10 +149897,10 @@
     "url": "https://www.supermas.com.py/shampoo-pantene-rizos-definidos-700-ml-p14491",
     "brand": "",
     "measure": "700 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149305,10 +149913,10 @@
     "url": "https://www.supermas.com.py/acondicpantene-control-caida-700-ml-p14496",
     "brand": "",
     "measure": "700 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149321,10 +149929,10 @@
     "url": "https://www.supermas.com.py/acondicionador-klasse-sin-sal-1lt-p14735",
     "brand": "",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149337,10 +149945,10 @@
     "url": "https://www.supermas.com.py/tratamiento-kgass-cabellos-secos-1lt-p14736",
     "brand": "",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149353,10 +149961,10 @@
     "url": "https://www.supermas.com.py/shampoo-klasse-cabellos-secos-1000-ml-p14737",
     "brand": "",
     "measure": "1000 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149369,10 +149977,10 @@
     "url": "https://www.supermas.com.py/acondicionador-klasse-cabellos-secos-1000-ml-p14738",
     "brand": "",
     "measure": "1000 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149385,10 +149993,10 @@
     "url": "https://www.supermas.com.py/acondicionador-brillo-y-suave-kids-750-ml-p14740",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149401,10 +150009,10 @@
     "url": "https://www.supermas.com.py/aconicionador-pantene-reatauracion-700-ml-p14844",
     "brand": "",
     "measure": "700 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149417,10 +150025,10 @@
     "url": "https://www.supermas.com.py/shampoo-ballerina-sin-sal-coco-jazmin-750-ml-p14885",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149433,10 +150041,10 @@
     "url": "https://www.supermas.com.py/acondballerina-sin-sal-granada-750ml-p14886",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149449,10 +150057,10 @@
     "url": "https://www.supermas.com.py/shampoo-ballerina-sin-sal-aguacate-750-ml-p14887",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149465,10 +150073,10 @@
     "url": "https://www.supermas.com.py/acondballerina-sin-sal-coco-j-750ml-p14889",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149481,10 +150089,10 @@
     "url": "https://www.supermas.com.py/acondballerina-sin-sal-aguacate-750ml-p14890",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149497,10 +150105,10 @@
     "url": "https://www.supermas.com.py/shampoo-elvive-color-vive-680ml-p15149",
     "brand": "",
     "measure": "680 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149513,10 +150121,10 @@
     "url": "https://www.supermas.com.py/shampoo-dove-regextrema-400ml-p15258",
     "brand": "Dove",
     "measure": "400 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149529,10 +150137,10 @@
     "url": "https://www.supermas.com.py/acondicionador-dove-regextrema-400ml-p15259",
     "brand": "Dove",
     "measure": "400 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149545,10 +150153,10 @@
     "url": "https://www.supermas.com.py/shampoo-dove-recon-complet400-ac200ml-rega-p15556",
     "brand": "Dove",
     "measure": "200 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149561,10 +150169,10 @@
     "url": "https://www.supermas.com.py/shampoo-clear-caida-control-200ml-p15806",
     "brand": "",
     "measure": "200 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149577,10 +150185,10 @@
     "url": "https://www.supermas.com.py/acondicionador-klasse-cab-mixtos-1lt-p15841",
     "brand": "",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149593,10 +150201,10 @@
     "url": "https://www.supermas.com.py/excellence-nro-5-1-p15873",
     "brand": "",
     "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -164418,6 +165026,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PAPEL HIG.FOFINHO ABS.HS 4x 60mts",
+    "price": 24500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/papel-higfofinho-abshs-4x-60mts-p54261",
+    "brand": "",
+    "measure": "",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PAPEL HIG.ELVIS DH NEUTRO 32x 20mts",
     "price": 49800.0,
     "currency": "Gs.",
@@ -168489,6 +169113,22 @@
     "url": "https://www.supermas.com.py/limpia-vidrios-procenex-doy-pack-420-ml-p9095",
     "brand": "",
     "measure": "420 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LIMPIA VIDRIO PROCENEX GATILLO 500 ML",
+    "price": 25550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/78988.png",
+    "url": "https://www.supermas.com.py/limpia-vidrio-procenex-gatillo-500-ml-p9096",
+    "brand": "",
+    "measure": "500 ML",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -182754,6 +183394,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "LIMPIADOR PROCENEX PERFUME FLORES JARDIN 5 LT",
+    "price": 38290.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87406.png",
+    "url": "https://www.supermas.com.py/limpiador-procenex-perfume-flores-jardin-5-lt-p10795",
+    "brand": "",
+    "measure": "5 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LIMPIADOR LIQUIDO PROCENEX ORIGINAL 5 LT",
+    "price": 43365.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88561.jpg",
+    "url": "https://www.supermas.com.py/limpiador-liquido-procenex-original-5-lt-p11143",
+    "brand": "",
+    "measure": "5 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESODORANTE AMBIENTE PINO LECHE FLOR COCO 950 ML",
     "price": 10550.0,
     "currency": "Gs.",
@@ -186009,6 +186681,22 @@
     "url": "https://www.supermas.com.py/balde-puloil-c-rejilla-p-escurrir-p50347",
     "brand": "",
     "measure": "",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LIMPIA VANISH ALFOMBRA AER.600ml",
+    "price": 120000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/limpia-vanish-alfombra-aer600ml-p50648",
+    "brand": "",
+    "measure": "600 ML",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -259613,24 +260301,6 @@
     "url": "https://www.stock.com.py/products/124528-vinagre-agrin-blanco-castelo-pla.aspx",
     "brand": "",
     "measure": "",
-    "category": "almacen",
-    "subcategory": "vinagres",
-    "category_path": [
-      "almacen",
-      "aderezoscondimentos",
-      "vinagres"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGO DE LIMON 250ML DULCESAR",
-    "price": 4900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0165753_500.png",
-    "url": "https://www.stock.com.py/products/39109-jugo-de-limon-250ml-dulcesar-plas.aspx",
-    "brand": "",
-    "measure": "250 ML",
     "category": "almacen",
     "subcategory": "vinagres",
     "category_path": [
