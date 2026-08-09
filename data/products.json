@@ -297707,6 +297707,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "CUCHARON NEGRO TRAMONTINA",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/316417-cucharon-negro-tramontina.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "cubiertos",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "cubiertos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "CUCHARA D/MESA NEW COLOR NEGRO X UN TRAMONTINA S/E",
     "price": 3600.0,
     "currency": "Gs.",
@@ -297802,24 +297820,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/270125-tabla-madera-cuadrado-27-x-27-cm-ref-2313.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "cubiertos",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "cubiertos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CUCHARON NEGRO TRAMONTINA",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/316417-cucharon-negro-tramontina.aspx",
     "brand": "",
     "measure": "",
     "category": "bazar",
@@ -352066,22 +352066,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0191853_500.jpeg",
     "url": "https://www.stock.com.py/products/290285-papel-higienico-hoja-simple-perfumado-8x30m-higienol-paq.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "papeles",
-    "subcategory": "Papeles",
-    "category_path": [
-      "papeles"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "HIGIENOL PREMIUM PAPEL HIGIENICO DOBLE HOJA 8 ROLLOS",
-    "price": 33900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0190723_500.jpeg",
-    "url": "https://www.stock.com.py/products/290244-higienol-premium-papel-higienico-doble-hoja-8-rollos.aspx",
     "brand": "",
     "measure": "",
     "category": "papeles",
