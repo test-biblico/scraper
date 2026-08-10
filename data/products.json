@@ -18130,6 +18130,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "MANTEQUILLA NATURE FIT COCONUT 220GR",
+    "price": 21800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/95797.jpg",
+    "url": "https://www.supermas.com.py/mantequilla-nature-fit-coconut-220gr-p13455",
+    "brand": "",
+    "measure": "220 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MANTEQUILLA NATURE FIT ALMENDRAS 220GR",
     "price": 61300.0,
     "currency": "Gs.",
@@ -18137,6 +18153,22 @@
     "url": "https://www.supermas.com.py/mantequilla-nature-fit-almendras-220gr-p13456",
     "brand": "",
     "measure": "220 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MANTEQUILLA MANI 100% NATURE FIT 370  GR",
+    "price": 26100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/95799.jpg",
+    "url": "https://www.supermas.com.py/mantequilla-mani-100-nature-fit-370-gr-p13457",
+    "brand": "",
+    "measure": "370 GR",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -18841,6 +18873,22 @@
     "url": "https://www.supermas.com.py/chocolate-classic-nestle-80gr-p17168",
     "brand": "",
     "measure": "80 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ALMENDRAS C/CHOCO BCO 35gr NATURE FIT",
+    "price": 11200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/103358.jpg",
+    "url": "https://www.supermas.com.py/almendras-c-choco-bco-35gr-nature-fit-p17457",
+    "brand": "",
+    "measure": "35 GR",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -31954,54 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "MOSTAZA PONTEVEDRA CON TAPA X 200  GR",
-    "price": 6250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/73447.jpg",
-    "url": "https://www.supermas.com.py/mostaza-pontevedra-con-tapa-x-200-gr-p8064",
-    "brand": "",
-    "measure": "200 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "MUSTARD DELI FRENCH 340 GR",
-    "price": 26000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7380.jpg",
-    "url": "https://www.supermas.com.py/mustard-deli-french-340-gr-p8130",
-    "brand": "",
-    "measure": "340 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "KETCHUP PONTEVEDRA LIGHT 200  GR",
-    "price": 8700.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/74545.png",
-    "url": "https://www.supermas.com.py/ketchup-pontevedra-light-200-gr-p8284",
-    "brand": "",
-    "measure": "200 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "COCINERO FRITOLIM MANTECA 120  GR",
     "price": 37250.0,
     "currency": "Gs.",
@@ -33293,6 +33293,54 @@
     "subcategory": "ACEITES",
     "category_path": [
       "ACEITES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MOSTAZA PONTEVEDRA CON TAPA X 200  GR",
+    "price": 6250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/73447.jpg",
+    "url": "https://www.supermas.com.py/mostaza-pontevedra-con-tapa-x-200-gr-p8064",
+    "brand": "",
+    "measure": "200 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MUSTARD DELI FRENCH 340 GR",
+    "price": 26000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7380.jpg",
+    "url": "https://www.supermas.com.py/mustard-deli-french-340-gr-p8130",
+    "brand": "",
+    "measure": "340 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "KETCHUP PONTEVEDRA LIGHT 200  GR",
+    "price": 8700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/74545.png",
+    "url": "https://www.supermas.com.py/ketchup-pontevedra-light-200-gr-p8284",
+    "brand": "",
+    "measure": "200 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
     ]
   },
   {
@@ -70290,6 +70338,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PATITA DE CERDO X KG",
+    "price": 4600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1380.jpg",
+    "url": "https://www.supermas.com.py/patita-de-cerdo-x-kg-p1485",
+    "brand": "",
+    "measure": "KG",
+    "category": "CARNES Y POLLOS",
+    "subcategory": "CARNES Y POLLOS",
+    "category_path": [
+      "CARNES Y POLLOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "LOMITO CERDO X KG",
     "price": 36500.0,
     "currency": "Gs.",
@@ -93843,7 +93907,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "VINO ESTANCIA MENDOZA CABERNET MALBEC 750 ML",
-    "price": 22500.0,
+    "price": 20500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/14279.png",
     "url": "https://www.supermas.com.py/vino-estancia-mendoza-cabernet-malbec-750-ml-p1549",
@@ -97314,6 +97378,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "BUTIFARRA OCHSI  X KG",
+    "price": 50450.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3460.jpg",
+    "url": "https://www.supermas.com.py/butifarra-ochsi-x-kg-p4911",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CHORIZO PARRILLERO GRANDE X KG",
     "price": 19600.0,
     "currency": "Gs.",
@@ -100770,6 +100850,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "QUESO SANDWICH LAVALLEJA X KG",
+    "price": 46200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/56980.jpg",
+    "url": "https://www.supermas.com.py/queso-sandwich-lavalleja-x-kg-p27034",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "QUESO MUZZARELLA LAVALLEJA X KG",
     "price": 46200.0,
     "currency": "Gs.",
@@ -103826,6 +103922,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "TOMATE LIZA KG",
+    "price": 14000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2550.jpg",
+    "url": "https://www.supermas.com.py/tomate-liza-kg-p3615",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CEBOLLA KG",
     "price": 12050.0,
     "currency": "Gs.",
@@ -103874,6 +103986,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "LECHUGA PIRATI x2 MAZO",
+    "price": 2100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2590.png",
+    "url": "https://www.supermas.com.py/lechuga-pirati-x2-mazo-p3656",
+    "brand": "",
+    "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "LOCOTE ROJO X KG",
     "price": 26600.0,
     "currency": "Gs.",
@@ -103911,6 +104039,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2620.jpg",
     "url": "https://www.supermas.com.py/locote-amarillo-x-kg-p3738",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PIÑA NACIONAL X KG",
+    "price": 8600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2630.jpg",
+    "url": "https://www.supermas.com.py/pina-nacional-x-kg-p3763",
     "brand": "",
     "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
@@ -104114,6 +104258,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "REMOLACHA KG",
+    "price": 5950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2840.jpg",
+    "url": "https://www.supermas.com.py/remolacha-kg-p4086",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ZAPALLITO DE TRONCO KG",
     "price": 10950.0,
     "currency": "Gs.",
@@ -104185,6 +104345,22 @@
     "url": "https://www.supermas.com.py/acelga-x-mazo-p4274",
     "brand": "",
     "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FRUTILLA X KG",
+    "price": 28800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/294.png",
+    "url": "https://www.supermas.com.py/frutilla-x-kg-p4300",
+    "brand": "",
+    "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -104290,6 +104466,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "APIO X UNIDAD",
+    "price": 2100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5000.jpg",
+    "url": "https://www.supermas.com.py/apio-x-unidad-p5803",
+    "brand": "",
+    "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ESPINACA X UNIDAD",
     "price": 1400.0,
     "currency": "Gs.",
@@ -104297,6 +104489,22 @@
     "url": "https://www.supermas.com.py/espinaca-x-unidad-p5820",
     "brand": "",
     "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CHOCLO FRESCO X KG",
+    "price": 13900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5030.jpg",
+    "url": "https://www.supermas.com.py/choclo-fresco-x-kg-p5837",
+    "brand": "",
+    "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -104359,6 +104567,38 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5110.png",
     "url": "https://www.supermas.com.py/mburucuya-x-kg-p5854",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DURAZNO KG",
+    "price": 46000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5120.png",
+    "url": "https://www.supermas.com.py/durazno-kg-p5855",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PELON X KG",
+    "price": 35000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5130.png",
+    "url": "https://www.supermas.com.py/pelon-x-kg-p5856",
     "brand": "",
     "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
@@ -104578,6 +104818,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "LIMON JAPONES X KG",
+    "price": 6300.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5630.png",
+    "url": "https://www.supermas.com.py/limon-japones-x-kg-p5916",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "LECHUGA BLANCA X MAZO",
     "price": 3950.0,
     "currency": "Gs.",
@@ -104642,6 +104898,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ESPINACA NEGRA  X UNIDAD",
+    "price": 1400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6320.jpg",
+    "url": "https://www.supermas.com.py/espinaca-negra-x-unidad-p6336",
+    "brand": "",
+    "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ROMERO X UNIDAD",
+    "price": 2100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6491.png",
+    "url": "https://www.supermas.com.py/romero-x-unidad-p6563",
+    "brand": "",
+    "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "LECHUGA MORADA X MAZO",
     "price": 4200.0,
     "currency": "Gs.",
@@ -104665,6 +104953,38 @@
     "url": "https://www.supermas.com.py/naranja-nacional-x-kg-p6920",
     "brand": "",
     "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "POROTO PEKY CON CASCARA X KG",
+    "price": 21000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6730.png",
+    "url": "https://www.supermas.com.py/poroto-peky-con-cascara-x-kg-p6945",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LECHUGA PIRATI MAZO X UNIDAD",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7042.png",
+    "url": "https://www.supermas.com.py/lechuga-pirati-mazo-x-unidad-p7424",
+    "brand": "",
+    "measure": "",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -104850,6 +105170,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "POROTO MANTECA CON CASCARA KG",
+    "price": 16800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/99915.png",
+    "url": "https://www.supermas.com.py/poroto-manteca-con-cascara-kg-p14915",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "AJO EN MALLA x3",
     "price": 4850.0,
     "currency": "Gs.",
@@ -104946,11 +105282,43 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CURCUMA X KG",
+    "price": 54900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94707.jpg",
+    "url": "https://www.supermas.com.py/curcuma-x-kg-p33164",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "AGUACATE IMPORT X KG",
     "price": 9800.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/55243.jpg",
     "url": "https://www.supermas.com.py/aguacate-import-x-kg-p36022",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ARANDANOS X KG",
+    "price": 169900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/58898.jpg",
+    "url": "https://www.supermas.com.py/arandanos-x-kg-p38612",
     "brand": "",
     "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
@@ -132610,6 +132978,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PAÑAL MIMO MEGA PACK MED.58un",
+    "price": 49800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/105627.jpg",
+    "url": "https://www.supermas.com.py/panal-mimo-mega-pack-med58un-p15084",
+    "brand": "",
+    "measure": "58 UN",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PROTECTOR DE CAMA PLENITUD 8un",
     "price": 35300.0,
     "currency": "Gs.",
@@ -133545,6 +133929,22 @@
     "url": "https://www.supermas.com.py/panal-capricho-super-m-4x68-p54530",
     "brand": "",
     "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PAÑAL MIMO MEGA PACK XXG 40un",
+    "price": 49800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/panal-mimo-mega-pack-xxg-40un-p55283",
+    "brand": "",
+    "measure": "40 UN",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -148425,10 +148825,10 @@
     "url": "https://www.supermas.com.py/shampoo-clear-men-antic-sports-400ml-p16824",
     "brand": "",
     "measure": "400 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -148441,10 +148841,10 @@
     "url": "https://www.supermas.com.py/acondhead-shouldhidrat-coco-300ml-p18301",
     "brand": "",
     "measure": "300 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -163634,6 +164034,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "LIMPIA VIDRIO LG LA GAUCHITA",
+    "price": 25000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/26813.JPG",
+    "url": "https://www.supermas.com.py/limpia-vidrio-lg-la-gauchita-p3820",
+    "brand": "",
+    "measure": "",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "FRANELA POLIFOAM NARANJA CHICA",
     "price": 4600.0,
     "currency": "Gs.",
@@ -166258,6 +166674,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "VELA PALOMA 7 DIAS ROJO X 1 UNIDAD",
+    "price": 19600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/46825.jpg",
+    "url": "https://www.supermas.com.py/vela-paloma-7-dias-rojo-x-1-unidad-p5669",
+    "brand": "",
+    "measure": "",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ESPONJA SCOTCH BRITE LIMPIA PARRILLA",
     "price": 12850.0,
     "currency": "Gs.",
@@ -166777,6 +167209,22 @@
     "url": "https://www.supermas.com.py/limpiavidrios-quatro-x-5-lt-p8347",
     "brand": "",
     "measure": "5 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "VELA  PALOMA 7 DIAS DE COLORES X 1 UNIDAD",
+    "price": 23350.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/75215.jpg",
+    "url": "https://www.supermas.com.py/vela-paloma-7-dias-de-colores-x-1-unidad-p8410",
+    "brand": "",
+    "measure": "",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -178727,6 +179175,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/26818.JPG",
     "url": "https://www.supermas.com.py/cepillo-multi-uso-la-gauchita-p3822",
+    "brand": "",
+    "measure": "",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CEPILLO LAVA AUTO LG",
+    "price": 25000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/26822.jpg",
+    "url": "https://www.supermas.com.py/cepillo-lava-auto-lg-p3824",
     "brand": "",
     "measure": "",
     "category": "LIMPIEZA",
@@ -224578,6 +225042,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "BANDEJA OTR RECT.CARTON MINI X 50",
+    "price": 8500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/46474.jpg",
+    "url": "https://www.supermas.com.py/bandeja-otr-rectcarton-mini-x-50-p5638",
+    "brand": "",
+    "measure": "",
+    "category": "COTILLON",
+    "subcategory": "COTILLON",
+    "category_path": [
+      "COTILLON"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "BANDEJA OTR RECT.CARTON N¦ 1 x 50",
     "price": 7900.0,
     "currency": "Gs.",
@@ -228882,11 +229362,11 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "PAJITAS DE PAPEL 6MM-MOTAS ROJO (PQX20)",
+    "name": "PAJITAS DE PAPEL 6MM-MOTAS ROSA CLARO (PQX20)",
     "price": 6750.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/pajitas-de-papel-6mm-motas-rojo-pqx20-p31820",
+    "url": "https://www.supermas.com.py/pajitas-de-papel-6mm-motas-rosa-claro-pqx20-p31821",
     "brand": "",
     "measure": "",
     "category": "COTILLON",
@@ -302563,29 +303043,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
     "price": 50200.0,
     "currency": "Gs.",
@@ -302683,6 +303140,29 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -332458,6 +332938,26 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "MUÑECA MEU BEBE BEIJINHO CJA SID NYL REF 1050",
+    "price": 14900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216142_500.jpeg",
+    "url": "https://www.stock.com.py/products/277099-muneca-meu-bebe-beijinho-cja-sid-nyl-ref-1050.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "jugueteria",
+    "subcategory": "ninas",
+    "category_path": [
+      "jugueteria",
+      "jugueteria",
+      "juguetes",
+      "de",
+      "ninas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "JUGUETE MUN?ECA C/TINA SIDNYL REF1052",
     "price": 30900.0,
     "currency": "Gs.",
@@ -332483,26 +332983,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0167634_500.jpeg",
     "url": "https://www.stock.com.py/products/277095-muneca-bebe-cbiberon-tekinha-cja-sid-nyl-ref-980.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "jugueteria",
-    "subcategory": "ninas",
-    "category_path": [
-      "jugueteria",
-      "jugueteria",
-      "juguetes",
-      "de",
-      "ninas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MUÑECA MEU BEBE BEIJINHO CJA SID NYL REF 1050",
-    "price": 14900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/277099-muneca-meu-bebe-beijinho-cja-sid-nyl-ref-1050.aspx",
     "brand": "",
     "measure": "",
     "category": "jugueteria",
@@ -332659,7 +333139,7 @@
     "name": "CAMION TUMBA C/CONTROL MK REF H423468",
     "price": 19900.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "image": "https://www.stock.com.py/images/thumbs/0216124_500.jpeg",
     "url": "https://www.stock.com.py/products/267132-camion-tumba-ccontrol-mk-ref-h423468.aspx",
     "brand": "",
     "measure": "",
@@ -345454,7 +345934,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "DESINFECTANTE DE AMBIENTES WHITEX 350ml",
-    "price": 23000.0,
+    "price": 18400.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186173_500.jpeg",
     "url": "https://www.stock.com.py/products/256072-desinfectante-de-ambientes-whitex-350ml.aspx",
@@ -346878,7 +347358,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "MAPEX INSECTICIDA AEROSOL MATA MOSQUITOS SIN OLOR 330 ML",
-    "price": 35300.0,
+    "price": 26500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0199194_500.jpeg",
     "url": "https://www.stock.com.py/products/311119-mapex-insecticida-aerosol-mata-mosquitos-sin-olor-330-ml.aspx",
@@ -346894,7 +347374,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "MAPEX INSECTICIDA AEROSOL MULTI INSECTOS SIN OLOR 330 ML",
-    "price": 35300.0,
+    "price": 26500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0199193_500.jpeg",
     "url": "https://www.stock.com.py/products/311117-mapex-insecticida-aerosol-multi-insectos-sin-olor-330-ml.aspx",
@@ -346942,7 +347422,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA LIQUIDO PARA CASA Y JARDIN MAPEX 1Litro",
-    "price": 18500.0,
+    "price": 13900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186215_500.jpeg",
     "url": "https://www.stock.com.py/products/293541-insecticida-liquido-para-casa-y-jardin-mapex-1litro.aspx",
@@ -346958,7 +347438,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "DESINFECTANTE DE AMBIENTES WHITEX 350ml",
-    "price": 23000.0,
+    "price": 18400.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186197_500.jpeg",
     "url": "https://www.stock.com.py/products/275027-desinfectante-de-ambientes-whitex-350ml.aspx",
@@ -346974,7 +347454,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA FUMIGADOR DE INSECTOS MAPEX 300ml",
-    "price": 31900.0,
+    "price": 23900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186176_500.jpeg",
     "url": "https://www.stock.com.py/products/268426-insecticida-fumigador-de-insectos-mapex-300ml.aspx",
@@ -346990,7 +347470,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "HORMIGUICIDA EN POLVO MAPEX 500gr",
-    "price": 29800.0,
+    "price": 22350.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186151_500.jpeg",
     "url": "https://www.stock.com.py/products/151545-hormiguicida-en-polvo-mapex-500gr.aspx",
@@ -347006,7 +347486,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA MATA DENGUE MAPEX 330ml",
-    "price": 28900.0,
+    "price": 23100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186150_500.jpeg",
     "url": "https://www.stock.com.py/products/138659-insecticida-mata-dengue-mapex-330ml.aspx",
@@ -347022,7 +347502,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA DE INSECTOS MATATODO MAPEX 330ml",
-    "price": 28900.0,
+    "price": 23100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186126_500.jpeg",
     "url": "https://www.stock.com.py/products/15072-insecticida-de-insectos-matatodo-mapex-330ml.aspx",
@@ -347038,7 +347518,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA PREMIUM FULMINANTE MAPEX 300ml",
-    "price": 28900.0,
+    "price": 23100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186121_500.jpeg",
     "url": "https://www.stock.com.py/products/4121-insecticida-premium-fulminante-mapex-300ml.aspx",
@@ -347054,7 +347534,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA PARA INSECTOS MAPEX 800ml",
-    "price": 10500.0,
+    "price": 7900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186105_500.jpeg",
     "url": "https://www.stock.com.py/products/1872-insecticida-para-insectos-mapex-800ml.aspx",
@@ -347070,7 +347550,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA PARA INSECTOS VOLADORES MAPEX 330ml",
-    "price": 28900.0,
+    "price": 23100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186101_500.jpeg",
     "url": "https://www.stock.com.py/products/1466-insecticida-para-insectos-voladores-mapex-330ml.aspx",
@@ -347086,7 +347566,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA PARA INSECTOS RASTREROS MAPEX 350ml",
-    "price": 28900.0,
+    "price": 23100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186100_500.jpeg",
     "url": "https://www.stock.com.py/products/2095-insecticida-para-insectos-rastreros-mapex-350ml.aspx",
@@ -347102,7 +347582,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "HORMIGUICIDA EN POLVO MAPEX 500gr",
-    "price": 17100.0,
+    "price": 12900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186099_500.jpeg",
     "url": "https://www.stock.com.py/products/1867-hormiguicida-en-polvo-mapex-500gr.aspx",
@@ -347118,7 +347598,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "HORMIGUICIDA EN POLVO MAPEX 1Kg",
-    "price": 29500.0,
+    "price": 22500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186098_500.jpeg",
     "url": "https://www.stock.com.py/products/3112-hormiguicida-en-polvo-mapex-1kg.aspx",
@@ -347486,7 +347966,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "CEBO RATICIDA EN GRANOS MAPEX RAT CAJA 1 UNIDAD",
-    "price": 11700.0,
+    "price": 8900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0148362_500.jpeg",
     "url": "https://www.stock.com.py/products/1933-raticida-mapex-cja-1-un-en-pas.aspx",
@@ -349406,7 +349886,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "LIQUIDO LIMPIA VIDRIOS MACIP 500ml",
-    "price": 19800.0,
+    "price": 13900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186193_500.jpeg",
     "url": "https://www.stock.com.py/products/285870-liquido-limpia-vidrios-macip-500ml.aspx",
@@ -349422,7 +349902,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA PARA PISOS MAPEX 1Litro",
-    "price": 13500.0,
+    "price": 10500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186177_500.jpeg",
     "url": "https://www.stock.com.py/products/269456-insecticida-para-pisos-mapex-1litro.aspx",
@@ -351374,7 +351854,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "MAPEX ESPIRALES TRIPLES LAVANDA 12 UNIDADES",
-    "price": 8200.0,
+    "price": 6150.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0201177_500.jpeg",
     "url": "https://www.stock.com.py/products/311120-mapex-espirales-triples-lavanda-12-unidades.aspx",
@@ -351726,7 +352206,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ESPIRALES ANTI MOSQUITOS MATRA 12Unidades",
-    "price": 5900.0,
+    "price": 4500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186192_500.jpeg",
     "url": "https://www.stock.com.py/products/274418-espirales-anti-mosquitos-matra-12unidades.aspx",
@@ -351742,7 +352222,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "REPUESTO LIQUIDO REPELENTE MAPEX",
-    "price": 32000.0,
+    "price": 24000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186189_500.jpeg",
     "url": "https://www.stock.com.py/products/265723-repuesto-liquido-repelente-mapex.aspx",
@@ -351758,7 +352238,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "PASTILLAS PARA MOSQUITOS CON INCIENSO MAPEX 24Unidades",
-    "price": 17600.0,
+    "price": 13200.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186178_500.jpeg",
     "url": "https://www.stock.com.py/products/275622-pastillas-para-mosquitos-con-incienso-mapex-24unidades.aspx",
@@ -351774,7 +352254,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ESPIRALES TRIO CON INCIENSO MAPEX 12Unidades",
-    "price": 8200.0,
+    "price": 6150.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186174_500.jpeg",
     "url": "https://www.stock.com.py/products/254910-espirales-trio-con-incienso-mapex-12unidades.aspx",
@@ -351790,7 +352270,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ESPIRALES TRIO CON METOFLUTHRIN MAPEX 12Unidades",
-    "price": 5500.0,
+    "price": 4100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186169_500.jpeg",
     "url": "https://www.stock.com.py/products/151546-espirales-trio-con-metofluthrin-mapex-12unidades.aspx",
@@ -351806,7 +352286,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "PASTILLAS PARA MOSQUITOS CLASICO MAPEX 24Unidades",
-    "price": 17600.0,
+    "price": 13200.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186149_500.jpeg",
     "url": "https://www.stock.com.py/products/254902-pastillas-para-mosquitos-clasico-mapex-24unidades.aspx",
@@ -351822,7 +352302,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "PASTILLAS PARA MOSQUITOS CLASICO MAPEX 12Unidades",
-    "price": 9200.0,
+    "price": 6900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186148_500.jpeg",
     "url": "https://www.stock.com.py/products/251977-pastillas-para-mosquitos-clasico-mapex-12unidades.aspx",
@@ -351838,7 +352318,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "PASTILLAS MATA MOSQUITOS CON CITRONELLA MAPEX 24Unidades",
-    "price": 17600.0,
+    "price": 13200.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186146_500.jpeg",
     "url": "https://www.stock.com.py/products/126970-pastillas-mata-mosquitos-con-citronella-mapex-24unidades.aspx",
@@ -351854,7 +352334,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ESPIRALES TRIO CON CITRONELLA MAPEX 12Unidades",
-    "price": 8200.0,
+    "price": 6150.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186145_500.jpeg",
     "url": "https://www.stock.com.py/products/129160-espirales-trio-con-citronella-mapex-12unidades.aspx",
@@ -351870,7 +352350,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ESPIRALES TRIO CON METOFLUTHRIN MAPEX 12Unidades",
-    "price": 6200.0,
+    "price": 4650.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186141_500.jpeg",
     "url": "https://www.stock.com.py/products/138905-espirales-trio-con-metofluthrin-mapex-12unidades.aspx",
@@ -351886,7 +352366,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "HORMIGUICIDA EN POLVO MAPEX 120gr",
-    "price": 9900.0,
+    "price": 7500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186113_500.jpeg",
     "url": "https://www.stock.com.py/products/1866-hormiguicida-en-polvo-mapex-120gr.aspx",
@@ -351902,7 +352382,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "TABLETAS MATA MOSQUITOS MAPEX 32Unid.",
-    "price": 22000.0,
+    "price": 16500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186111_500.jpeg",
     "url": "https://www.stock.com.py/products/2452-tabletas-mata-mosquitos-mapex-32unid.aspx",
@@ -352062,7 +352542,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "CALENTADOR ELECTRICO MAPEX CON TOMA GIRATORIA Y PASTILLAS",
-    "price": 32800.0,
+    "price": 24600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0148363_500.jpeg",
     "url": "https://www.stock.com.py/products/9314-aparato-mapex-electrico-cpast.aspx",
@@ -352542,7 +353022,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON POLVO KINDER ANTIBACTERIAL 3KG",
-    "price": 42500.0,
+    "price": 31900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0211860_500.png",
     "url": "https://www.stock.com.py/products/304109-jabon-polvo-kinder-antibacterial-3kg.aspx",
@@ -352562,7 +353042,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON POLVO KINDER ANTIBACTERIAL 1 KG",
-    "price": 15000.0,
+    "price": 10900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0211859_500.jpeg",
     "url": "https://www.stock.com.py/products/304121-jabon-polvo-kinder-antibacterial-1-kg.aspx",
@@ -353842,7 +354322,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON LIQUIDO PERFUMADO KINDER 2.8 Litros",
-    "price": 41900.0,
+    "price": 31400.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186213_500.jpeg",
     "url": "https://www.stock.com.py/products/301040-jabon-liquido-perfumado-kinder-28-litros.aspx",
@@ -353862,7 +354342,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON LIQUIDO PERFUMADO KINDER 950ml",
-    "price": 14400.0,
+    "price": 10500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186196_500.jpeg",
     "url": "https://www.stock.com.py/products/271800-jabon-liquido-perfumado-kinder-950ml.aspx",
@@ -353882,7 +354362,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON EN POLVO PERFUMADO KINDER 3Kg",
-    "price": 42500.0,
+    "price": 31900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186191_500.jpeg",
     "url": "https://www.stock.com.py/products/268679-jabon-en-polvo-perfumado-kinder-3kg.aspx",
@@ -353902,7 +354382,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON EN POLVO PERFUMADO KINDER 1KG",
-    "price": 15000.0,
+    "price": 10900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186188_500.jpeg",
     "url": "https://www.stock.com.py/products/264872-jabon-en-polvo-perfumado-kinder-1kg.aspx",
@@ -353922,7 +354402,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON EN POLVO PERFUMADO KINDER 400gr",
-    "price": 8000.0,
+    "price": 5500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186187_500.jpeg",
     "url": "https://www.stock.com.py/products/264885-jabon-en-polvo-perfumado-kinder-400gr.aspx",
@@ -353942,7 +354422,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON DE LAVAR COCO PURO MOROTI 200gr",
-    "price": 10200.0,
+    "price": 7650.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186122_500.jpeg",
     "url": "https://www.stock.com.py/products/15038-jabon-de-lavar-coco-puro-moroti-200gr.aspx",
@@ -353962,7 +354442,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON DE LAVAR CON GLICERINA MOROTI 200gr",
-    "price": 6700.0,
+    "price": 5100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186120_500.jpeg",
     "url": "https://www.stock.com.py/products/8603-jabon-de-lavar-con-glicerina-moroti-200gr.aspx",
@@ -353982,7 +354462,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON DE LAVAR COCO PURO MOROTI 400gr",
-    "price": 19300.0,
+    "price": 14500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186103_500.jpeg",
     "url": "https://www.stock.com.py/products/12142-jabon-de-lavar-coco-puro-moroti-400gr.aspx",
@@ -354322,7 +354802,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "JABON EN PAN MOROTI BLANCO CON FLOW PACK 120 GRAMOS",
-    "price": 4800.0,
+    "price": 3600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0148398_500.jpeg",
     "url": "https://www.stock.com.py/products/27574-jabon-epan-moroti-bco-cflow-pack-120gr.aspx",
@@ -358654,7 +359134,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "INSECTICIDA LIQUIDO PIRETROIDE MAPEX 100ml",
-    "price": 32800.0,
+    "price": 24600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0186104_500.jpeg",
     "url": "https://www.stock.com.py/products/64706-insecticida-liquido-piretroide-mapex-100ml.aspx",
@@ -386418,6 +386898,310 @@
       "cosmetica",
       "maquillaje",
       "plabios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE BAMBOLA MALETIN C/SORPRESA 882",
+    "price": 72900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216145_500.jpeg",
+    "url": "https://www.stock.com.py/products/334719-juguete-bambola-maletin-csorpresa-882.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE MUN?ECA MEU DOCINHO SIDNYL RF1385",
+    "price": 14900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216143_500.jpeg",
+    "url": "https://www.stock.com.py/products/328691-juguete-muneca-meu-docinho-sidnyl-rf1385.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY SET P/PULSERAS REF730",
+    "price": 12900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216141_500.jpeg",
+    "url": "https://www.stock.com.py/products/335545-juguete-tiny-set-ppulseras-ref730.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY BURBUJERO REF818",
+    "price": 19900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216140_500.jpeg",
+    "url": "https://www.stock.com.py/products/335548-juguete-tiny-burbujero-ref818.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MUNECA FASHION 53767",
+    "price": 22900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216139_500.jpeg",
+    "url": "https://www.stock.com.py/products/335549-juguete-tiny-muneca-fashion-53767.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY SET P/PULSERAS REF REF736",
+    "price": 9500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216138_500.jpeg",
+    "url": "https://www.stock.com.py/products/335552-juguete-tiny-set-ppulseras-ref-ref736.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY SET P/PULSERAS REF REF319",
+    "price": 9500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216137_500.jpeg",
+    "url": "https://www.stock.com.py/products/335553-juguete-tiny-set-ppulseras-ref-ref319.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY BURBUJERO REF816",
+    "price": 16500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216136_500.jpeg",
+    "url": "https://www.stock.com.py/products/335554-juguete-tiny-burbujero-ref816.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MICROFONO C/ACC REF124",
+    "price": 22900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216135_500.jpeg",
+    "url": "https://www.stock.com.py/products/335557-juguete-tiny-microfono-cacc-ref124.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "AUTO SPEED C/FRICCION 4UN JUGUETE REF430",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216134_500.jpeg",
+    "url": "https://www.stock.com.py/products/334409-auto-speed-cfriccion-4un-juguete-ref430.aspx",
+    "brand": "",
+    "measure": "4 UN",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY SET D/ACC P/CABELLO REF347",
+    "price": 49900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216133_500.jpeg",
+    "url": "https://www.stock.com.py/products/335558-juguete-tiny-set-dacc-pcabello-ref347.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MUNECA C/ACCE REF902",
+    "price": 19900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216132_500.jpeg",
+    "url": "https://www.stock.com.py/products/335559-juguete-tiny-muneca-cacce-ref902.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY VARITA D/LUNA REF753",
+    "price": 21500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216131_500.jpeg",
+    "url": "https://www.stock.com.py/products/335561-juguete-tiny-varita-dluna-ref753.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY VARITA D/ESTRELLA REF740",
+    "price": 21500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216130_500.jpeg",
+    "url": "https://www.stock.com.py/products/335562-juguete-tiny-varita-destrella-ref740.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MUNECA FASHION 55026",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216129_500.jpeg",
+    "url": "https://www.stock.com.py/products/335563-juguete-tiny-muneca-fashion-55026.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MUNECA HADA 54455",
+    "price": 26900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216128_500.jpeg",
+    "url": "https://www.stock.com.py/products/335564-juguete-tiny-muneca-hada-54455.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "AUTO SPEED METAL BLIST JUGUETE 5807",
+    "price": 9400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216127_500.jpeg",
+    "url": "https://www.stock.com.py/products/335411-auto-speed-metal-blist-juguete-5807.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MUNECA C/ACC REF397",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216126_500.jpeg",
+    "url": "https://www.stock.com.py/products/335565-juguete-tiny-muneca-cacc-ref397.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUGUETE TINY MUNECA C/ACC REF398",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216125_500.jpeg",
+    "url": "https://www.stock.com.py/products/335566-juguete-tiny-muneca-cacc-ref398.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal",
+    "subcategory": "",
+    "category_path": [
+      "1231-ofertas-dia-del-nino.aspx?utm_source=Stock&utm_medium=Banner-Principal&utm_campaign=D%C3%ADa+del+ni%C3%B1o&utm_id=120&utm_content=banner_ecommerce_principal"
     ]
   },
   {
