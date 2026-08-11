@@ -304061,24 +304061,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VASO ACRI P/CER 300ML SAN REMO SR3012/1",
-    "price": 6900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/305568-vaso-acri-pcer-300ml-san-remo-sr30121.aspx",
-    "brand": "",
-    "measure": "300 ML",
-    "category": "bazar",
-    "subcategory": "vidrio",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "vidrio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "COPA NADIR COÑAC WINDSOR 330ML X UN",
     "price": 12000.0,
     "currency": "Gs.",
@@ -304140,6 +304122,24 @@
     "url": "https://www.stock.com.py/products/293194-salero-d-plastico-jaguar-ref-1402.aspx",
     "brand": "",
     "measure": "",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VASO ACRI P/CER 300ML SAN REMO SR3012/1",
+    "price": 6900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/305568-vaso-acri-pcer-300ml-san-remo-sr30121.aspx",
+    "brand": "",
+    "measure": "300 ML",
     "category": "bazar",
     "subcategory": "vidrio",
     "category_path": [
@@ -371650,11 +371650,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
-    "price": 18000.0,
+    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
+    "price": 13000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
+    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
@@ -371670,11 +371670,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
-    "price": 13000.0,
+    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
+    "price": 18000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
+    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
