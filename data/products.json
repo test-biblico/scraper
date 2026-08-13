@@ -338216,6 +338216,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "YOGURT BEBIBLE VAINILL 1000GR",
+    "price": 8800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0178594_500.jpeg",
+    "url": "https://www.stock.com.py/products/14310-yogurt-bebible-vainill-1000gr.aspx",
+    "brand": "",
+    "measure": "1000 GR",
+    "category": "perecedero",
+    "subcategory": "enteros",
+    "category_path": [
+      "perecedero",
+      "lacteos",
+      "yogures",
+      "enteros"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "YOGURT BEBIBLE FRUTILL 1000GR",
     "price": 8800.0,
     "currency": "Gs.",
@@ -342855,6 +342874,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "LIMPIADOR DESINF LIQ ALEG.1.8LT POETT",
+    "price": 28900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0212769_500.jpeg",
+    "url": "https://www.stock.com.py/products/313098-limpiador-desinf-liq-aleg18lt-poett.aspx",
+    "brand": "Poett",
+    "measure": "1.8 LT",
+    "category": "desodorantes",
+    "subcategory": "Desodorantes",
+    "category_path": [
+      "desodorantes"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "GLADE CAMPOS DE LAVANDA AROMATIZANTE DE AMBIENTES EN AEROSOL FRAGANCIA CON ACEITES ESENCIALES 361,2 GR",
     "price": 19900.0,
     "currency": "Gs.",
@@ -346071,22 +346106,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "LAVANDINA AL 2.5% LAVA 1000 500CC",
-    "price": 4200.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0192344_500.jpeg",
-    "url": "https://www.stock.com.py/products/294706-lavandina-al-25-lava-1000-500cc.aspx",
-    "brand": "",
-    "measure": "500 CC",
-    "category": "lavandinas",
-    "subcategory": "Lavandinas",
-    "category_path": [
-      "lavandinas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LAVANDINA 4% LAVA 1000 500CC",
     "price": 3450.0,
     "currency": "Gs.",
@@ -348381,6 +348400,22 @@
     "image": "https://www.stock.com.py/images/thumbs/0214174_500.jpeg",
     "url": "https://www.stock.com.py/products/83900-papel-higienico-duetto-dobhj-perfx-4.aspx",
     "brand": "",
+    "measure": "",
+    "category": "papeles",
+    "subcategory": "Papeles",
+    "category_path": [
+      "papeles"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAPEL HIGIE/ELEGANT H/SIMPLE 4X30MT DAYO",
+    "price": 7100.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0211870_500.png",
+    "url": "https://www.stock.com.py/products/319620-papel-higieelegant-hsimple-4x30mt-dayo.aspx",
+    "brand": "Dayo",
     "measure": "",
     "category": "papeles",
     "subcategory": "Papeles",
@@ -362339,25 +362374,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN SANDWICHERO XKG S/E PL",
-    "price": 13850.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209423_500.jpeg",
-    "url": "https://www.stock.com.py/products/293639-pan-sandwichero-xkg-se-pl.aspx",
-    "brand": "",
-    "measure": "KG",
-    "category": "perecedero",
-    "subcategory": "frescos",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "panes",
-      "frescos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "ROSQUITA A LA MANTECA X KG PL",
     "price": 24200.0,
     "currency": "Gs.",
@@ -363232,25 +363248,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN ARABE MONTE LIBANO 10UNID",
-    "price": 15900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0186980_500.jpeg",
-    "url": "https://www.stock.com.py/products/244662-pan-arabe-monte-libano-10unid.aspx",
-    "brand": "",
-    "measure": "10 UN",
-    "category": "perecedero",
-    "subcategory": "arabe",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "arabe"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TORTILLAS DE HARINA DE TRIGO LIGHT FINITAS MAZZEI 10UNID",
     "price": 10000.0,
     "currency": "Gs.",
@@ -363432,6 +363429,26 @@
     "url": "https://www.stock.com.py/products/325258-pan-sandwich-salvado-pantodos-850gr.aspx",
     "brand": "",
     "measure": "850 GR",
+    "category": "perecedero",
+    "subcategory": "molde",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "de",
+      "molde"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BIMBO ARTESANO BRIOCHE PAN PARA HAMBURGUESA 340 GR 4 UNIDADES",
+    "price": 13100.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0209681_500.png",
+    "url": "https://www.stock.com.py/products/311314-bimbo-artesano-brioche-pan-para-hamburguesa-340-gr-4-unidades.aspx",
+    "brand": "",
+    "measure": "340 GR",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
@@ -363672,26 +363689,6 @@
     "url": "https://www.stock.com.py/products/282667-pan-para-sandwich-integral-450-gr-la-negrita-bsa.aspx",
     "brand": "",
     "measure": "450 GR",
-    "category": "perecedero",
-    "subcategory": "molde",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "de",
-      "molde"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAN SANDW. BLANCO 900 GR LA NEGRITA BSA",
-    "price": 16600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0192157_500.jpeg",
-    "url": "https://www.stock.com.py/products/285057-pan-sandw-blanco-900-gr-la-negrita-bsa.aspx",
-    "brand": "",
-    "measure": "900 GR",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
@@ -364495,13 +364492,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MASA SECA LOEB 1 UN",
-    "price": 38000.0,
+    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
+    "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
+    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
     "brand": "",
-    "measure": "1 UN",
+    "measure": "400 GR",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
@@ -364518,24 +364515,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
-    "brand": "",
-    "measure": "400 GR",
-    "category": "perecedero",
-    "subcategory": "secos",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "secos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
-    "price": 9300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -364760,25 +364739,6 @@
       "perecedero",
       "pastas",
       "lasagnas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "HILDEBRAND PASTAS FRESCAS LASA?A 500 GR",
-    "price": 8600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0215794_500.jpeg",
-    "url": "https://www.stock.com.py/products/318384-hildebrand-pastas-frescas-lasaa-500-gr.aspx",
-    "brand": "",
-    "measure": "500 GR",
-    "category": "perecedero",
-    "subcategory": "ppascualinas",
-    "category_path": [
-      "perecedero",
-      "pastas",
-      "tapas",
-      "ppascualinas"
     ]
   },
   {
@@ -365313,26 +365273,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/317143-disco-pempan-integ-mediano-horno-stock.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perecedero",
-    "subcategory": "empanadas",
-    "category_path": [
-      "perecedero",
-      "pastas",
-      "tapas",
-      "para",
-      "empanadas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "DISCO P/EMPAN INTEG GRANDE HORNO",
-    "price": 5900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/317144-disco-pempan-integ-grande-horno.aspx",
     "brand": "",
     "measure": "",
     "category": "perecedero",
@@ -373699,6 +373639,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "JABON TOCADOR SENSACION HUMECTANTE PALMOLIVE 85gr",
+    "price": 4950.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0186029_500.jpeg",
+    "url": "https://www.stock.com.py/products/273822-jabon-tocador-sensacion-humectante-palmolive-85gr.aspx",
+    "brand": "",
+    "measure": "85 GR",
+    "category": "perfumeria",
+    "subcategory": "jabones",
+    "category_path": [
+      "perfumeria",
+      "cuidado",
+      "personal",
+      "jabones"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "JABON TOCADOR SENSACION LUMINOSA PALMOLIVE 85gr",
     "price": 4950.0,
     "currency": "Gs.",
@@ -374635,6 +374594,25 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0198777_500.jpeg",
     "url": "https://www.stock.com.py/products/5960-polvo-de-fecula-para-ninos-juniors-polyana-125gr.aspx",
+    "brand": "",
+    "measure": "125 GR",
+    "category": "perfumeria",
+    "subcategory": "talcos",
+    "category_path": [
+      "perfumeria",
+      "cuidado",
+      "personal",
+      "talcos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TALCO PEDICO TOTAL FRESH MENTOLADO POLYANA 125GR",
+    "price": 13950.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0198776_500.jpeg",
+    "url": "https://www.stock.com.py/products/5988-talco-pedico-total-fresh-mentolado-polyana-125gr.aspx",
     "brand": "",
     "measure": "125 GR",
     "category": "perfumeria",
@@ -377185,6 +377163,26 @@
     "url": "https://www.stock.com.py/products/274366-desodorante-clean-speed-stick-91gr.aspx",
     "brand": "",
     "measure": "91 GR",
+    "category": "perfumeria",
+    "subcategory": "masculinos",
+    "category_path": [
+      "perfumeria",
+      "cuidado",
+      "personal",
+      "desodorantes",
+      "masculinos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "DESODORANTE 24/7 X5 SPEED STICK 50gr",
+    "price": 26800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0185991_500.jpeg",
+    "url": "https://www.stock.com.py/products/71366-desodorante-247-x5-speed-stick-50gr.aspx",
+    "brand": "",
+    "measure": "50 GR",
     "category": "perfumeria",
     "subcategory": "masculinos",
     "category_path": [
@@ -385855,6 +385853,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "YOGURT SABOR FRUTILLA SAN LOREN 120GR",
+    "price": 1500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0187661_500.jpeg",
+    "url": "https://www.stock.com.py/products/293374-yogurt-sabor-frutilla-san-loren-120gr.aspx",
+    "brand": "",
+    "measure": "120 GR",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PESCADOS PACU X KG .",
     "price": 39900.0,
     "currency": "Gs.",
@@ -386323,24 +386339,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "REPASADOR D/COCINA DAYO 33X55 REF B-10",
-    "price": 3500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/336096-repasador-dcocina-dayo-33x55-ref-b-10.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
     "price": 7900.0,
     "currency": "Gs.",
@@ -386366,6 +386364,24 @@
     "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
     "brand": "Dayo",
     "measure": "2 LT",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "REPASADOR D/COCINA DAYO 33X55 REF B-10",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/336096-repasador-dcocina-dayo-33x55-ref-b-10.aspx",
+    "brand": "Dayo",
+    "measure": "",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
