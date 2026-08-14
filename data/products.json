@@ -49938,22 +49938,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "PAPAS FRITAS PA FRITAS 100  GR",
-    "price": 8200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82434.png",
-    "url": "https://www.supermas.com.py/papas-fritas-pa-fritas-100-gr-p9833",
-    "brand": "",
-    "measure": "100 GR",
-    "category": "SNACKS",
-    "subcategory": "SNACKS",
-    "category_path": [
-      "SNACKS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "PIPOCA NATURAL SESAMI 60GR",
     "price": 3550.0,
     "currency": "Gs.",
@@ -108387,7 +108371,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MEZCLA P/ SOPA PYA ALBERDIN 750gr BANDEJA",
-    "price": 30650.0,
+    "price": 26100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/110281.jpg",
     "url": "https://www.supermas.com.py/mezcla-p-sopa-pya-alberdin-750gr-bandeja-p19623",
@@ -108403,7 +108387,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MEZCLA P/ CHIPA GUAZU ALBERDIN 750gr BANDEJA",
-    "price": 37100.0,
+    "price": 31550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/110280.jpg",
     "url": "https://www.supermas.com.py/mezcla-p-chipa-guazu-alberdin-750gr-bandeja-p19624",
@@ -118899,7 +118883,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "SORRENTINOS POLLO DESMECHADO ALBERDIN 500GR",
-    "price": 31050.0,
+    "price": 26400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/sorrentinos-pollo-desmechado-alberdin-500gr-p61238",
@@ -118915,7 +118899,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "SORRENTINO SCREMA DE CHOCLO ALBERDIN 500GR",
-    "price": 31050.0,
+    "price": 26400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/sorrentino-screma-de-choclo-alberdin-500gr-p61239",
@@ -118931,7 +118915,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ÑOQUIS DE PAPA ALBERDIN 500GR",
-    "price": 19400.0,
+    "price": 16500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/noquis-de-papa-alberdin-500gr-p61240",
@@ -347789,6 +347773,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PULOIL LIMPIADOR DESINFECTANTE MULTISUPERFICIES FLORALIFE 1800 ML",
+    "price": 18100.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0199999_500.jpeg",
+    "url": "https://www.stock.com.py/products/310822-puloil-limpiador-desinfectante-multisuperficies-floralife-1800-ml.aspx",
+    "brand": "",
+    "measure": "1800 ML",
+    "category": "limpiadores",
+    "subcategory": "Limpiadores",
+    "category_path": [
+      "limpiadores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PULOIL LIMPIADOR DESINFECTANTE MULTISUPERFICIES FLORALIFE 900 ML",
     "price": 9800.0,
     "currency": "Gs.",
@@ -349540,22 +349540,6 @@
     "url": "https://www.stock.com.py/products/290272-papel-higienico-doble-hoja-higienol-4-rollos.aspx",
     "brand": "",
     "measure": "",
-    "category": "papeles",
-    "subcategory": "Papeles",
-    "category_path": [
-      "papeles"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TOALLA DE PAPEL MILI 12X2 UN",
-    "price": 8900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0184803_500.jpeg",
-    "url": "https://www.stock.com.py/products/8979-toalla-de-papel-mili-12x2-un.aspx",
-    "brand": "",
-    "measure": "2 UN",
     "category": "papeles",
     "subcategory": "Papeles",
     "category_path": [
@@ -357868,29 +357852,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CAMA P/MASCOTA MEDIANO DAYO REF HB19 001 3",
-    "price": 47900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/285266-cama-pmascota-mediano-dayo-ref-hb19-001-3.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "no",
-    "subcategory": "gatos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "veterinaria",
-      "accesorios",
-      "p",
-      "perros",
-      "y",
-      "gatos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "CAMA P/MASCOTA EXT PEQUEÑO DAYO REF HB19 001 1",
     "price": 63900.0,
     "currency": "Gs.",
@@ -359243,6 +359204,27 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "ALIMENTO PARA PERRO CRECIMIENTO PRONTO DOG 7KG",
+    "price": 75400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0188525_500.jpeg",
+    "url": "https://www.stock.com.py/products/260712-alimento-para-perro-crecimiento-pronto-dog-7kg.aspx",
+    "brand": "",
+    "measure": "7 KG",
+    "category": "no",
+    "subcategory": "perros",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "veterinaria",
+      "alimento",
+      "de",
+      "perros"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ALIMENTO PARA PERRO CRECIMIENTO PRONTO DOG 2,7KG",
     "price": 33700.0,
     "currency": "Gs.",
@@ -360109,27 +360091,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0172710_500.jpeg",
     "url": "https://www.stock.com.py/products/21411-alim-pperro-pedigree-adulto-sch-85gr.aspx",
-    "brand": "",
-    "measure": "85 GR",
-    "category": "no",
-    "subcategory": "perros",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "veterinaria",
-      "alimento",
-      "de",
-      "perros"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ALIMENTO PARA PERRO PEDIGREE CACHORRO SACHET 85G",
-    "price": 7500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0172709_500.jpeg",
-    "url": "https://www.stock.com.py/products/11344-alim-pperro-pedigree-cachorro-sch-85g.aspx",
     "brand": "",
     "measure": "85 GR",
     "category": "no",
@@ -364329,13 +364290,53 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "EDWARD PAN DE GLUTEN 400 GR",
-    "price": 10900.0,
+    "name": "PAN P/SUPER PANCHO 6UN MY FRIEND PAQ",
+    "price": 7600.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0203745_500.jpeg",
-    "url": "https://www.stock.com.py/products/305367-edward-pan-de-gluten-400-gr.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0205490_500.jpeg",
+    "url": "https://www.stock.com.py/products/146193-pan-psuper-pancho-6un-my-friend-paq.aspx",
     "brand": "",
-    "measure": "400 GR",
+    "measure": "6 UN",
+    "category": "perecedero",
+    "subcategory": "molde",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "de",
+      "molde"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN DE HAMBURGUESA EL GERMANO 350GR",
+    "price": 10500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0198732_500.jpeg",
+    "url": "https://www.stock.com.py/products/304543-pan-de-hamburguesa-el-germano-350gr.aspx",
+    "brand": "",
+    "measure": "350 GR",
+    "category": "perecedero",
+    "subcategory": "molde",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "de",
+      "molde"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PANCITOS DE VIENA EL GERMANO 480GR",
+    "price": 11900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0194956_500.jpeg",
+    "url": "https://www.stock.com.py/products/303288-pancitos-de-viena-el-germano-480gr.aspx",
+    "brand": "",
+    "measure": "480 GR",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
@@ -364389,26 +364390,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN PARA SANDWICH BLANCO 450 GR LA NEGRITA BSA",
-    "price": 9000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0192156_500.jpeg",
-    "url": "https://www.stock.com.py/products/282652-pan-para-sandwich-blanco-450-gr-la-negrita-bsa.aspx",
-    "brand": "",
-    "measure": "450 GR",
-    "category": "perecedero",
-    "subcategory": "molde",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "de",
-      "molde"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAN PARA HAMBURGUESA EDWARD",
     "price": 8900.0,
     "currency": "Gs.",
@@ -364436,6 +364417,26 @@
     "url": "https://www.stock.com.py/products/114724-pancito-de-viena-edward-12un.aspx",
     "brand": "",
     "measure": "12 UN",
+    "category": "perecedero",
+    "subcategory": "molde",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "de",
+      "molde"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN DE GLUTEN EL GERMANO 300GR",
+    "price": 21900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0187174_500.jpeg",
+    "url": "https://www.stock.com.py/products/6942-pan-de-gluten-el-germano-300gr.aspx",
+    "brand": "",
+    "measure": "300 GR",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
@@ -364816,6 +364817,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PRE-PIZZA BLANCA GOURMET EL GERMANO 120GR",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0187191_500.jpeg",
+    "url": "https://www.stock.com.py/products/263036-pre-pizza-blanca-gourmet-el-germano-120gr.aspx",
+    "brand": "",
+    "measure": "120 GR",
+    "category": "perecedero",
+    "subcategory": "pizza",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pre",
+      "pizza"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PRE-PIZZA DE GLUTEN EL GERMANO 2UNID",
     "price": 8500.0,
     "currency": "Gs.",
@@ -364868,6 +364888,24 @@
       "panaderia",
       "pre",
       "pizza"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "EL GERMANO GRISINES INTEGRALES CON SEMILLAS 200 GR",
+    "price": 13500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0214121_500.jpeg",
+    "url": "https://www.stock.com.py/products/311220-el-germano-grisines-integrales-con-semillas-200-gr.aspx",
+    "brand": "",
+    "measure": "200 GR",
+    "category": "perecedero",
+    "subcategory": "secos",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "secos"
     ]
   },
   {
@@ -365469,25 +365507,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TAPA P/PASCUALINA HOJALDRADA 2UND QUIERO MAS PAQ",
-    "price": 8400.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0208102_500.jpeg",
-    "url": "https://www.stock.com.py/products/150690-tapa-ppascualina-hojaldrada-2und-quiero-mas-paq.aspx",
-    "brand": "",
-    "measure": "2 UN",
-    "category": "perecedero",
-    "subcategory": "ppascualinas",
-    "category_path": [
-      "perecedero",
-      "pastas",
-      "tapas",
-      "ppascualinas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TAPA PARA PASCUALINA QUIERO MAS INTEGRAL 500 GR.",
     "price": 8400.0,
     "currency": "Gs.",
@@ -365941,6 +365960,26 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/317143-disco-pempan-integ-mediano-horno-stock.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "perecedero",
+    "subcategory": "empanadas",
+    "category_path": [
+      "perecedero",
+      "pastas",
+      "tapas",
+      "para",
+      "empanadas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "DISCO P/EMPAN INTEG GRANDE HORNO",
+    "price": 5900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/317144-disco-pempan-integ-grande-horno.aspx",
     "brand": "",
     "measure": "",
     "category": "perecedero",
@@ -381045,26 +381084,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PROTECTOR DIARIO NORMAL NOSOTRAS 30UNID",
-    "price": 13600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0212368_500.jpeg",
-    "url": "https://www.stock.com.py/products/9421-protector-diario-normal-nosotras-30unid.aspx",
-    "brand": "Nosotras",
-    "measure": "30 UN",
-    "category": "perfumeria",
-    "subcategory": "diarios",
-    "category_path": [
-      "perfumeria",
-      "cuidado",
-      "personal",
-      "protectore",
-      "diarios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PROTECTORES DE LACTANCIA NOSOTRAS 12UNID",
     "price": 29350.0,
     "currency": "Gs.",
@@ -382657,42 +382676,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ESMALTE NEW COLOR PARA UNAS ZAZA Nº 552",
-    "price": 6950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0175520_500.jpeg",
-    "url": "https://www.stock.com.py/products/9371-esmalte-new-color-punas-zaza-no-552.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perfumeria",
-    "subcategory": "esmalte",
-    "category_path": [
-      "perfumeria",
-      "cosmetica",
-      "esmalte"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESMALTE N 528 VIOLETA 9ML NEW COLOR VID",
-    "price": 6950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0175517_500.jpeg",
-    "url": "https://www.stock.com.py/products/121224-esmalte-n-528-violeta-9ml-new-color-vid.aspx",
-    "brand": "",
-    "measure": "9 ML",
-    "category": "perfumeria",
-    "subcategory": "esmalte",
-    "category_path": [
-      "perfumeria",
-      "cosmetica",
-      "esmalte"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "ESMALTE NEW COLOR N 586",
     "price": 6950.0,
     "currency": "Gs.",
@@ -382765,24 +382748,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ESMALTE SUA NR 560 9ML NEWCOLOR",
-    "price": 6950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0175499_500.jpeg",
-    "url": "https://www.stock.com.py/products/278991-esmalte-sua-nr-560-9ml-newcolor.aspx",
-    "brand": "",
-    "measure": "9 ML",
-    "category": "perfumeria",
-    "subcategory": "esmalte",
-    "category_path": [
-      "perfumeria",
-      "cosmetica",
-      "esmalte"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "ESMALTE AMAIA NR.561 9ML NEWCOLOR",
     "price": 6950.0,
     "currency": "Gs.",
@@ -382824,42 +382789,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0175491_500.jpeg",
     "url": "https://www.stock.com.py/products/9367-esmalte-new-color-punas-rubi-no500.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perfumeria",
-    "subcategory": "esmalte",
-    "category_path": [
-      "perfumeria",
-      "cosmetica",
-      "esmalte"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESMALTE NEW COLOR PARA UÑAS KIWI Nº 452",
-    "price": 6950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0175483_500.jpeg",
-    "url": "https://www.stock.com.py/products/9398-esmalte-new-color-punas-kiwi-no-452.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perfumeria",
-    "subcategory": "esmalte",
-    "category_path": [
-      "perfumeria",
-      "cosmetica",
-      "esmalte"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESMALTE NEW COLOR PARA UÑAS SKY Nº453",
-    "price": 6950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0175482_500.jpeg",
-    "url": "https://www.stock.com.py/products/9399-esmalte-new-color-punas-sky-no453.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
