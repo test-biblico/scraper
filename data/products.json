@@ -278607,24 +278607,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GELATINA SABOR LIMON BIANCA 30GR",
-    "price": 1000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0188296_500.jpeg",
-    "url": "https://www.stock.com.py/products/299516-gelatina-sabor-limon-bianca-30gr.aspx",
-    "brand": "Bianca",
-    "measure": "30 GR",
-    "category": "postres",
-    "subcategory": "polvo",
-    "category_path": [
-      "postres",
-      "en",
-      "polvo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GELATINA SABOR FRUTILLA BIANCA 30GR",
     "price": 1000.0,
     "currency": "Gs.",
@@ -324015,25 +323997,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PATITA DE CERDO 1 KG",
-    "price": 4800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0188459_500.jpeg",
-    "url": "https://www.stock.com.py/products/3610-patita-de-cerdo-se-1-kg.aspx",
-    "brand": "",
-    "measure": "1 KG",
-    "category": "perecedero",
-    "subcategory": "granel",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "cerdo",
-      "granel"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PALETA DE CERDO 1KG",
     "price": 18950.0,
     "currency": "Gs.",
@@ -353268,6 +353231,26 @@
     "url": "https://www.stock.com.py/products/304121-jabon-polvo-kinder-antibacterial-1-kg.aspx",
     "brand": "",
     "measure": "1 KG",
+    "category": "limpieza",
+    "subcategory": "polvo",
+    "category_path": [
+      "limpieza",
+      "ropa",
+      "detergente",
+      "en",
+      "polvo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "OMO DETERGENTE LIQUIDO PARA ROPAS LAVANDA 900 ML",
+    "price": 16300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0209273_500.png",
+    "url": "https://www.stock.com.py/products/311498-omo-detergente-liquido-para-ropas-lavanda-900-ml.aspx",
+    "brand": "",
+    "measure": "900 ML",
     "category": "limpieza",
     "subcategory": "polvo",
     "category_path": [
