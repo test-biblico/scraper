@@ -76530,22 +76530,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "YOGHURT LACTOLANDA  VAINILLA 350  GR",
-    "price": 4300.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13173.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-lactolanda-vainilla-350-gr-p1350",
-    "brand": "Lactolanda",
-    "measure": "350 GR",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "YOGHURT CEREGURT ÑANDU CON CEREAL LACTOL. 140 GR",
     "price": 3300.0,
     "currency": "Gs.",
@@ -77081,22 +77065,6 @@
     "url": "https://www.supermas.com.py/yoghurt-fruttigurt-durazno-1-lt-p1386",
     "brand": "",
     "measure": "1 LT",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "YOGURT LACTOLANDA DURAZNO 900 GR",
-    "price": 10800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13224.png",
-    "url": "https://www.supermas.com.py/yogurt-lactolanda-durazno-900-gr-p1387",
-    "brand": "Lactolanda",
-    "measure": "900 GR",
     "category": "LACTEOS",
     "subcategory": "LACTEOS",
     "category_path": [
@@ -312789,26 +312757,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "AGUA MINERAL SIN GAS LA FUENTE 10LT",
-    "price": 18000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0188179_500.jpeg",
-    "url": "https://www.stock.com.py/products/299171-agua-mineral-sin-gas-la-fuente-10lt.aspx",
-    "brand": "",
-    "measure": "10 LT",
-    "category": "bebidas",
-    "subcategory": "mineralizadas",
-    "category_path": [
-      "bebidas",
-      "no",
-      "alcoholicas",
-      "aguas",
-      "mineralizadas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "AGUA MINERAL SIN GAS LA FUENTE 5LT",
     "price": 10000.0,
     "currency": "Gs.",
@@ -381391,6 +381339,38 @@
     "subcategory": "",
     "category_path": [
       "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ENJUAGE BUC LISTERINE SAD/MEN S/ALC 500M",
+    "price": 57400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216156_500.jpeg",
+    "url": "https://www.stock.com.py/products/336561-enjuage-buc-listerine-sadmen-salc-500m.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "1232-listerine-sandia.aspx?utm_source=Stock&utm_medium=banner-principal&utm_campaign=Listerine+Sandia&utm_id=19",
+    "subcategory": "",
+    "category_path": [
+      "1232-listerine-sandia.aspx?utm_source=Stock&utm_medium=banner-principal&utm_campaign=Listerine+Sandia&utm_id=19"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ENJUAGE LISTERINE SAN/MEN S/ALC 250ML",
+    "price": 33750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216013_500.jpeg",
+    "url": "https://www.stock.com.py/products/336560-enjuage-listerine-sanmen-salc-250ml.aspx",
+    "brand": "",
+    "measure": "250 ML",
+    "category": "1232-listerine-sandia.aspx?utm_source=Stock&utm_medium=banner-principal&utm_campaign=Listerine+Sandia&utm_id=19",
+    "subcategory": "",
+    "category_path": [
+      "1232-listerine-sandia.aspx?utm_source=Stock&utm_medium=banner-principal&utm_campaign=Listerine+Sandia&utm_id=19"
     ]
   },
   {
