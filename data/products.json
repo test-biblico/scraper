@@ -3235,7 +3235,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ NORTE TIPO II BOLSA 500gr",
-    "price": 2400.0,
+    "price": 2250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/arroz-norte-tipo-ii-bolsa-500gr-p57734",
@@ -3267,7 +3267,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ NORTE TIPO I 1kg",
-    "price": 4500.0,
+    "price": 4350.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/arroz-norte-tipo-i-1kg-p57737",
@@ -36131,7 +36131,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CAFE BELEN INSTANTANEO 200  GR",
-    "price": 37900.0,
+    "price": 35500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/19049_resultado.jpg",
     "url": "https://www.supermas.com.py/cafe-belen-instantaneo-200-gr-p2371",
@@ -36179,7 +36179,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CAFE BELEN MATINAL INST 50  GR",
-    "price": 12500.0,
+    "price": 12150.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/19063_resultado.jpg",
     "url": "https://www.supermas.com.py/cafe-belen-matinal-inst-50-gr-p2374",
@@ -70882,22 +70882,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "BOLA DE LOMO X KG",
-    "price": 59900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1030.png",
-    "url": "https://www.supermas.com.py/bola-de-lomo-x-kg-p1018",
-    "brand": "",
-    "measure": "KG",
-    "category": "CARNES Y POLLOS",
-    "subcategory": "CARNES Y POLLOS",
-    "category_path": [
-      "CARNES Y POLLOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CARNE MOLIDA POPULAR X KG",
     "price": 28900.0,
     "currency": "Gs.",
@@ -83826,6 +83810,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "GASEOSA COCA COLA 2Lt RETORNABLE",
+    "price": 9500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/15579.jpg",
+    "url": "https://www.supermas.com.py/gaseosa-coca-cola-2lt-retornable-p15725",
+    "brand": "",
+    "measure": "2 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "GASEOSA SPRITE RETORNABLE 2 LT",
     "price": 9500.0,
     "currency": "Gs.",
@@ -86889,6 +86889,22 @@
     "url": "https://www.supermas.com.py/pack-x24-agua-de-la-costa-s-gas-500ml-p62760",
     "brand": "",
     "measure": "500 ML",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "AGUA TONICA SCHWEPPES 1,5Lt",
+    "price": 7650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/agua-tonica-schweppes-1-5lt-p63471",
+    "brand": "",
+    "measure": "1,5 LT",
     "category": "BEBIDAS",
     "subcategory": "BEBIDAS",
     "category_path": [
@@ -98914,6 +98930,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "SALCHICHA RIKITOS HOT DOG X KG",
+    "price": 29150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97192.jpg",
+    "url": "https://www.supermas.com.py/salchicha-rikitos-hot-dog-x-kg-p14005",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "LOMO DE CERDO CONDIMENTADO UPISA X KG",
     "price": 51150.0,
     "currency": "Gs.",
@@ -101961,6 +101993,22 @@
     "url": "https://www.supermas.com.py/sandubom-cheddar-120-gr-schreiber-p25586",
     "brand": "",
     "measure": "120 GR",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SALSA CULINARIA SCHREIBER CHEDDAR 1,5KG",
+    "price": 64250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/116060.jpg",
+    "url": "https://www.supermas.com.py/salsa-culinaria-schreiber-cheddar-1-5kg-p25700",
+    "brand": "",
+    "measure": "1,5 KG",
     "category": "FIAMBRERIA",
     "subcategory": "FIAMBRERIA",
     "category_path": [
@@ -105714,22 +105762,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "LECHUGA REPOLLADA X KG",
-    "price": 16660.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2830.jpg",
-    "url": "https://www.supermas.com.py/lechuga-repollada-x-kg-p4064",
-    "brand": "",
-    "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "REMOLACHA KG",
     "price": 5950.0,
     "currency": "Gs.",
@@ -106281,6 +106313,22 @@
     "url": "https://www.supermas.com.py/brote-de-soja-x-unidad-p5882",
     "brand": "",
     "measure": "",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LIMON JAPONES X KG",
+    "price": 5355.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5630.png",
+    "url": "https://www.supermas.com.py/limon-japones-x-kg-p5916",
+    "brand": "",
+    "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -107593,22 +107641,6 @@
     "url": "https://www.supermas.com.py/papas-baston-trad-10x10-simplot-1-1-kg-p16703",
     "brand": "",
     "measure": "1,1 KG",
-    "category": "CONGELADOS",
-    "subcategory": "CONGELADOS",
-    "category_path": [
-      "CONGELADOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "PAPA FRITA BASTON 7X7 FINO SIMPLOT 2,5KG",
-    "price": 49500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/107593.jpg",
-    "url": "https://www.supermas.com.py/papa-frita-baston-7x7-fino-simplot-2-5kg-p16705",
-    "brand": "",
-    "measure": "2,5 KG",
     "category": "CONGELADOS",
     "subcategory": "CONGELADOS",
     "category_path": [
@@ -115746,6 +115778,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ÑOQUIS LA CRIOLLA X KG",
+    "price": 12550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6120.jpg",
+    "url": "https://www.supermas.com.py/noquis-la-criolla-x-kg-p6125",
+    "brand": "",
+    "measure": "KG",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "GRASA CERDO MUTTI KG",
     "price": 28150.0,
     "currency": "Gs.",
@@ -117378,22 +117426,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "TORTELLETIS DE CARNE Y JAMON EDWARD X 500  GR",
-    "price": 20900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94116.jpg",
-    "url": "https://www.supermas.com.py/tortelletis-de-carne-y-jamon-edward-x-500-gr-p12876",
-    "brand": "",
-    "measure": "500 GR",
-    "category": "OTROS ALIMENTOS",
-    "subcategory": "OTROS ALIMENTOS",
-    "category_path": [
-      "OTROS ALIMENTOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "RAVIOLES POLLO Y VERDURAS LA SALTEÑA X 500 GR",
     "price": 32150.0,
     "currency": "Gs.",
@@ -117433,6 +117465,22 @@
     "url": "https://www.supermas.com.py/masa-pascualina-mix-semilla-alberdin-p15487",
     "brand": "",
     "measure": "",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "RAVIOLES POLLO/ESPINACA X 500GR ALBERDIN",
+    "price": 26650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/102880.jpg",
+    "url": "https://www.supermas.com.py/ravioles-pollo-espinaca-x-500gr-alberdin-p15488",
+    "brand": "",
+    "measure": "500 GR",
     "category": "OTROS ALIMENTOS",
     "subcategory": "OTROS ALIMENTOS",
     "category_path": [
@@ -118338,6 +118386,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "SORRENTINOS CARNE DESMECHADA ALBERDIN 500GR",
+    "price": 31050.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/sorrentinos-carne-desmechada-alberdin-500gr-p61237",
+    "brand": "",
+    "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "SORRENTINOS POLLO DESMECHADO ALBERDIN 500GR",
     "price": 26400.0,
     "currency": "Gs.",
@@ -118359,6 +118423,54 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/sorrentino-screma-de-choclo-alberdin-500gr-p61239",
+    "brand": "",
+    "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ÑOQUIS DE PAPA ALBERDIN 500GR",
+    "price": 16500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/noquis-de-papa-alberdin-500gr-p61240",
+    "brand": "",
+    "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ÑOQUIS DE ESPINACA ALBERDIN 500GR",
+    "price": 19850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/noquis-de-espinaca-alberdin-500gr-p61241",
+    "brand": "",
+    "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SORRENTINOS CHEESEBURGUER ALBERDIN 500GR",
+    "price": 34800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/sorrentinos-cheeseburguer-alberdin-500gr-p61577",
     "brand": "",
     "measure": "500 GR",
     "category": "OTROS ALIMENTOS",
@@ -327271,26 +327383,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MINI MORCILLA OCHSI X KG",
-    "price": 41400.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0139564_500.jpeg",
-    "url": "https://www.stock.com.py/products/17495-mini-morcilla-ochsi-x-kg.aspx",
-    "brand": "",
-    "measure": "KG",
-    "category": "perecedero",
-    "subcategory": "despacho",
-    "category_path": [
-      "perecedero",
-      "fiambreria",
-      "embutidos",
-      "al",
-      "despacho"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "MORTADELA EXTRA GRANDE X KG .",
     "price": 26450.0,
     "currency": "Gs.",
@@ -385572,7 +385664,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "BOGA 1 KG",
-    "price": 54900.0,
+    "price": 49950.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0138483_500.jpeg",
     "url": "https://www.stock.com.py/products/2052-pescados-gra-1-kg.aspx",
