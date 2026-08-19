@@ -17106,6 +17106,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CREMA NUCITA BICOLOR 480GR",
+    "price": 22200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/22672.jpg",
+    "url": "https://www.supermas.com.py/crema-nucita-bicolor-480gr-p2878",
+    "brand": "",
+    "measure": "480 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CREMA NUCITA CHOCOLATE COCIO 48NIDADES",
     "price": 22200.0,
     "currency": "Gs.",
@@ -21874,7 +21890,7 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "TURRON NAMUR GEORGALOS 25gr",
+    "name": "TURRON NAMUR GEORGALOS 25gr.",
     "price": 1100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/104175.jpg",
@@ -31986,22 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "KETCHUP CEPERA 950  GR",
-    "price": 13550.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24406.png",
-    "url": "https://www.supermas.com.py/ketchup-cepera-950-gr-p3333",
-    "brand": "",
-    "measure": "950 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "COCINERO FRITOLIM MANTECA 120  GR",
     "price": 37250.0,
     "currency": "Gs.",
@@ -33325,6 +33325,22 @@
     "subcategory": "ACEITES",
     "category_path": [
       "ACEITES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "KETCHUP CEPERA 950  GR",
+    "price": 13550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24406.png",
+    "url": "https://www.supermas.com.py/ketchup-cepera-950-gr-p3333",
+    "brand": "",
+    "measure": "950 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
     ]
   },
   {
@@ -37154,6 +37170,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CAFE BON AROMA CLASSIC 50  GR",
+    "price": 17700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/84118.png",
+    "url": "https://www.supermas.com.py/cafe-bon-aroma-classic-50-gr-p10143",
+    "brand": "",
+    "measure": "50 GR",
+    "category": "CAFÉ",
+    "subcategory": "CAFÉ",
+    "category_path": [
+      "CAFÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CAFE BON AROMA CLASSIC 100  GR",
     "price": 27100.0,
     "currency": "Gs.",
@@ -37193,6 +37225,22 @@
     "url": "https://www.supermas.com.py/cafe-bon-aroma-gold-50gr-p10146",
     "brand": "",
     "measure": "50 GR",
+    "category": "CAFÉ",
+    "subcategory": "CAFÉ",
+    "category_path": [
+      "CAFÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CAFE BON AROMA GOLD 100  GR",
+    "price": 33500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/84122.png",
+    "url": "https://www.supermas.com.py/cafe-bon-aroma-gold-100-gr-p10147",
+    "brand": "",
+    "measure": "100 GR",
     "category": "CAFÉ",
     "subcategory": "CAFÉ",
     "category_path": [
@@ -37431,6 +37479,38 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/92410.jpg",
     "url": "https://www.supermas.com.py/cafe-bon-aroma-descafeinado-100-gr-p12459",
+    "brand": "",
+    "measure": "100 GR",
+    "category": "CAFÉ",
+    "subcategory": "CAFÉ",
+    "category_path": [
+      "CAFÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CAFE BON AROMA DESCAFEINADO GOLD 100  GR",
+    "price": 38000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/92411.jpg",
+    "url": "https://www.supermas.com.py/cafe-bon-aroma-descafeinado-gold-100-gr-p12460",
+    "brand": "",
+    "measure": "100 GR",
+    "category": "CAFÉ",
+    "subcategory": "CAFÉ",
+    "category_path": [
+      "CAFÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CAFE NOBLE ESSENCE GOLD 100  GR",
+    "price": 38500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/92412.jpg",
+    "url": "https://www.supermas.com.py/cafe-noble-essence-gold-100-gr-p12461",
     "brand": "",
     "measure": "100 GR",
     "category": "CAFÉ",
@@ -88626,6 +88706,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ALOE VERA OKF SUGARFREE ORIGINAL BOTELLA 1.5 LT",
+    "price": 28600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87467.png",
+    "url": "https://www.supermas.com.py/aloe-vera-okf-sugarfree-original-botella-15-lt-p10835",
+    "brand": "Ok",
+    "measure": "1.5 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JUGO VIVO MIFRUT MANZANA 90  GR",
     "price": 7650.0,
     "currency": "Gs.",
@@ -98818,6 +98914,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CHORIZO VIENA MUTTI X KG",
+    "price": 27850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2130.jpg",
+    "url": "https://www.supermas.com.py/chorizo-viena-mutti-x-kg-p2761",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CHORIZO VIENA UPISA X KG",
     "price": 25450.0,
     "currency": "Gs.",
@@ -99666,6 +99778,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "MAXI CON QUESO OCHSI X KG",
+    "price": 40250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87360.jpg",
+    "url": "https://www.supermas.com.py/maxi-con-queso-ochsi-x-kg-p16378",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PANCHO CON QUESO FRANZ PAQ",
     "price": 21000.0,
     "currency": "Gs.",
@@ -99785,6 +99913,22 @@
     "url": "https://www.supermas.com.py/chorizo-de-viena-con-queso-e-v-franz-unid-p34991",
     "brand": "Franz",
     "measure": "",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PANCHO BURGUETTI X KG",
+    "price": 22250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/57631.png",
+    "url": "https://www.supermas.com.py/pancho-burguetti-x-kg-p36100",
+    "brand": "",
+    "measure": "KG",
     "category": "FIAMBRERIA",
     "subcategory": "FIAMBRERIA",
     "category_path": [
@@ -100786,6 +100930,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JAMONADA MUTTI PRIMERA KG",
+    "price": 28500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/81687.jpg",
+    "url": "https://www.supermas.com.py/jamonada-mutti-primera-kg-p9702",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MORTADELA RANCHO TRIPA UPISA UNID",
     "price": 15100.0,
     "currency": "Gs.",
@@ -100793,6 +100953,22 @@
     "url": "https://www.supermas.com.py/mortadela-rancho-tripa-upisa-unid-p10252",
     "brand": "",
     "measure": "",
+    "category": "FIAMBRERIA",
+    "subcategory": "FIAMBRERIA",
+    "category_path": [
+      "FIAMBRERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "LOMO AHUMADO OCHSI X KG",
+    "price": 78800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/lomo-ahumado-ochsi-x-kg-p10517",
+    "brand": "",
+    "measure": "KG",
     "category": "FIAMBRERIA",
     "subcategory": "FIAMBRERIA",
     "category_path": [
@@ -134370,6 +134546,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ASPIRADORA NASAL BABYSUN COD 8766",
+    "price": 7500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/aspiradora-nasal-babysun-cod-8766-p56901",
+    "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "EXTRACTOR DE LECHE SET-MANUAL BABYSUN",
     "price": 44750.0,
     "currency": "Gs.",
@@ -134953,6 +135145,70 @@
     "url": "https://www.supermas.com.py/pack-toalhumbabysun-aloe-vera-6x8un-p63287",
     "brand": "",
     "measure": "8 UN",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TOA.HUMEDA 99%AGUA/PIEL SENSIBLE 50un",
+    "price": 4500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/toahumeda-99-agua-piel-sensible-50un-p63615",
+    "brand": "",
+    "measure": "50 UN",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TOALLITA HUMEDA 99%AGUA/PIEL SENSIBLE 100un",
+    "price": 6550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/toallita-humeda-99-agua-piel-sensible-100un-p63616",
+    "brand": "",
+    "measure": "100 UN",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TOALLITAS HUMEDAS ALOE VERA 50UNID",
+    "price": 4500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/toallitas-humedas-aloe-vera-50unid-p63617",
+    "brand": "",
+    "measure": "50 UN",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TOALLITAS HUMEDAS ALOE VERA 100UNID",
+    "price": 6550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/toallitas-humedas-aloe-vera-100unid-p63618",
+    "brand": "",
+    "measure": "100 UN",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -150850,6 +151106,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "TINTA NANTYR RUBIO OSCURO 6.0",
+    "price": 11850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/tinta-nantyr-rubio-oscuro-60-p13159",
+    "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "TINTE EXCELLENCE RUBIO NRO 9",
     "price": 55400.0,
     "currency": "Gs.",
@@ -151113,10 +151385,10 @@
     "url": "https://www.supermas.com.py/shampoo-klasse-sin-sal-x-100-ml-p14734",
     "brand": "",
     "measure": "100 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -151129,10 +151401,10 @@
     "url": "https://www.supermas.com.py/acondicionador-klasse-sin-sal-1lt-p14735",
     "brand": "",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -151145,10 +151417,10 @@
     "url": "https://www.supermas.com.py/tratamiento-kgass-cabellos-secos-1lt-p14736",
     "brand": "",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -151161,10 +151433,10 @@
     "url": "https://www.supermas.com.py/shampoo-klasse-cabellos-secos-1000-ml-p14737",
     "brand": "",
     "measure": "1000 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -151177,10 +151449,10 @@
     "url": "https://www.supermas.com.py/acondicionador-klasse-cabellos-secos-1000-ml-p14738",
     "brand": "",
     "measure": "1000 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -151193,10 +151465,10 @@
     "url": "https://www.supermas.com.py/acondicionador-brillo-y-suave-kids-750-ml-p14740",
     "brand": "",
     "measure": "750 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -188659,7 +188931,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERROS DOG CHOW ADULTO X 3 KG",
-    "price": 73250.0,
+    "price": 63300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31666.jpg",
     "url": "https://www.supermas.com.py/alimento-p-perros-dog-chow-adulto-x-3-kg-p4659",
@@ -188675,7 +188947,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERROS DOG CHOW ADULT 1.5 KG",
-    "price": 33950.0,
+    "price": 28850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31667.png",
     "url": "https://www.supermas.com.py/alimento-p-perros-dog-chow-adult-15-kg-p4660",
@@ -188691,7 +188963,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/PERRO DOG CHOW AD.RAZA PEQ 3kg",
-    "price": 73250.0,
+    "price": 63300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31668.png",
     "url": "https://www.supermas.com.py/alimp-perro-dog-chow-adraza-peq-3kg-p4661",
@@ -188707,7 +188979,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERROS DOG CHOW ADULTO 1.5KG",
-    "price": 33950.0,
+    "price": 28850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31669.png",
     "url": "https://www.supermas.com.py/alimento-p-perros-dog-chow-adulto-15kg-p4662",
@@ -188723,7 +188995,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO CACHORROS DOG CHOW 1.5 KG",
-    "price": 41800.0,
+    "price": 34200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31671.png",
     "url": "https://www.supermas.com.py/alimento-cachorros-dog-chow-15-kg-p4664",
@@ -188739,7 +189011,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO PARA CACHORRO DOG CHOW LIFE 1,5 KG",
-    "price": 43800.0,
+    "price": 36200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31673.png",
     "url": "https://www.supermas.com.py/alimento-para-cachorro-dog-chow-life-1-5-kg-p4666",
@@ -188931,7 +189203,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO PARA PERROS DOG CHOW ADULTO 8KG",
-    "price": 177700.0,
+    "price": 153500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/64664.png",
     "url": "https://www.supermas.com.py/alimento-para-perros-dog-chow-adulto-8kg-p6528",
@@ -188963,7 +189235,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERROS DOGUI CACHORRO GRANEL KG",
-    "price": 16450.0,
+    "price": 12600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67512.png",
     "url": "https://www.supermas.com.py/alimento-p-perros-dogui-cachorro-granel-kg-p6991",
@@ -188979,7 +189251,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "COMIDA DOGUI CACHORRO 8 KG",
-    "price": 154800.0,
+    "price": 126700.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6885.jpg",
     "url": "https://www.supermas.com.py/comida-dogui-cachorro-8-kg-p7219",
@@ -188995,7 +189267,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "COMIDA DOGUI CARNE CEREAL ARROZ 3 KG",
-    "price": 52850.0,
+    "price": 43250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6886.png",
     "url": "https://www.supermas.com.py/comida-dogui-carne-cereal-arroz-3-kg-p7222",
@@ -189107,7 +189379,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO PARA PERROS DOGUI CACHORROS 1.5 KG",
-    "price": 34200.0,
+    "price": 28000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/74974.png",
     "url": "https://www.supermas.com.py/alimento-para-perros-dogui-cachorros-15-kg-p8311",
@@ -189123,7 +189395,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERRO DOGUI CARN/ARROZ 1.5 KG",
-    "price": 28600.0,
+    "price": 23450.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/74980.png",
     "url": "https://www.supermas.com.py/alimento-p-perro-dogui-carn-arroz-15-kg-p8313",
@@ -189155,7 +189427,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "DOG CHOW ADULTO RAZA PEQ X 8 KG",
-    "price": 177700.0,
+    "price": 153500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/78118.png",
     "url": "https://www.supermas.com.py/dog-chow-adulto-raza-peq-x-8-kg-p8954",
@@ -189171,7 +189443,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERRO DOG CHOW ADULTO 21+3KG",
-    "price": 404950.0,
+    "price": 294550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82237.png",
     "url": "https://www.supermas.com.py/alimento-p-perro-dog-chow-adulto-21-3kg-p9787",
@@ -189203,7 +189475,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.DOG CHOW GRAN COMIENZO RAZA PEQUEÑA 21 KG",
-    "price": 460200.0,
+    "price": 355650.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/83643.png",
     "url": "https://www.supermas.com.py/alimdog-chow-gran-comienzo-raza-pequena-21-kg-p10034",
@@ -189299,7 +189571,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/PERROS DOG CHOW GRANEL xkg ADULTO",
-    "price": 16950.0,
+    "price": 12600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/91289.jpg",
     "url": "https://www.supermas.com.py/alimp-perros-dog-chow-granel-xkg-adulto-p11970",
@@ -189315,7 +189587,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/PERRO DOG CHOW CACHORRO xKg GRANEL",
-    "price": 19800.0,
+    "price": 13850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/91962.jpg",
     "url": "https://www.supermas.com.py/alimp-perro-dog-chow-cachorro-xkg-granel-p12237",
@@ -189491,7 +189763,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.PERRO DOG CHOW RAZAS PEQ 21kg ADULTO",
-    "price": 404950.0,
+    "price": 294550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/95549.png",
     "url": "https://www.supermas.com.py/alimperro-dog-chow-razas-peq-21kg-adulto-p13361",
@@ -189987,7 +190259,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "COMIDA PERRO DOGUI ADULTO 21kg BOLSA",
-    "price": 299300.0,
+    "price": 231300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106113.png",
     "url": "https://www.supermas.com.py/comida-perro-dogui-adulto-21kg-bolsa-p15184",
@@ -190163,7 +190435,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/PERRO DOG CHOW 15 KG ADULTO M/G",
-    "price": 275000.0,
+    "price": 221400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/109431.jpg",
     "url": "https://www.supermas.com.py/alimp-perro-dog-chow-15-kg-adulto-m-g-p18728",
@@ -190275,7 +190547,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERRO DOGUI ADULTO 8kg",
-    "price": 132650.0,
+    "price": 108550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/115250.jpg",
     "url": "https://www.supermas.com.py/alimento-p-perro-dogui-adulto-8kg-p24860",
@@ -190291,7 +190563,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/PERRO DOGUI CACHORRO 3kg",
-    "price": 61400.0,
+    "price": 50250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/116079.jpg",
     "url": "https://www.supermas.com.py/alimento-p-perro-dogui-cachorro-3kg-p25719",
@@ -190307,7 +190579,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO DOG CHOW EDAD MADURA 3KG",
-    "price": 77600.0,
+    "price": 63500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/117332.jpg",
     "url": "https://www.supermas.com.py/alimento-dog-chow-edad-madura-3kg-p27018",
@@ -190387,7 +190659,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.PERRO DOG CHOW POLLO 100gr CACHO",
-    "price": 6150.0,
+    "price": 5050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/102015.png",
     "url": "https://www.supermas.com.py/alimperro-dog-chow-pollo-100gr-cacho-p28619",
@@ -190419,7 +190691,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.PERRO DOG CHOW POLLO 100gr FESTIVAL",
-    "price": 6150.0,
+    "price": 5050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/102016.png",
     "url": "https://www.supermas.com.py/alimperro-dog-chow-pollo-100gr-festival-p32072",
@@ -190707,7 +190979,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.PERRO DOGUI CACHORROS 21 KG.",
-    "price": 339200.0,
+    "price": 262150.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/128495.jpg",
     "url": "https://www.supermas.com.py/alimperro-dogui-cachorros-21-kg-p38878",
@@ -190819,7 +191091,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.DOC CHOW CACHORROS MINIS xkg PEQUÑOS",
-    "price": 19250.0,
+    "price": 13300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/49462.jpg",
     "url": "https://www.supermas.com.py/alimdoc-chow-cachorros-minis-xkg-pequnos-p44617",
@@ -191043,7 +191315,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALI.GATO FELIX CLASSIC CON CARNE 85G",
-    "price": 5500.0,
+    "price": 4550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/aligato-felix-classic-con-carne-85g-p46795",
@@ -191059,7 +191331,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.DOG CHOW GRAN COMIENZO 3kg PPY",
-    "price": 81700.0,
+    "price": 66850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/136078.jpg",
     "url": "https://www.supermas.com.py/alimdog-chow-gran-comienzo-3kg-ppy-p46797",
@@ -191075,7 +191347,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.DOG CHOW GRAN COM,M/L 3kg PPY",
-    "price": 81700.0,
+    "price": 66850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/alimdog-chow-gran-com-m-l-3kg-ppy-p46804",
@@ -191155,7 +191427,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.DOG CHOW EDAD MADURA 8 kg",
-    "price": 192900.0,
+    "price": 166900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/alimdog-chow-edad-madura-8-kg-p52045",
@@ -191363,7 +191635,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "COMIDA CAT CHOW S/COL.PESCADO 1 KG",
-    "price": 39300.0,
+    "price": 33950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31606.png",
     "url": "https://www.supermas.com.py/comida-cat-chow-s-colpescado-1-kg-p4643",
@@ -191395,7 +191667,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO GATI ARROZ Y MAIZ 1 KG",
-    "price": 27200.0,
+    "price": 22300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/31681.png",
     "url": "https://www.supermas.com.py/alimento-gati-arroz-y-maiz-1-kg-p4670",
@@ -191555,7 +191827,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/GATOS CAT CHOW ADULTO  500GR",
-    "price": 20400.0,
+    "price": 16700.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/60608.png",
     "url": "https://www.supermas.com.py/alimento-p-gatos-cat-chow-adulto-500gr-p6037",
@@ -191571,7 +191843,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/GATOS CAT CHOW ADULTO 1 KG",
-    "price": 33550.0,
+    "price": 28500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/60609.png",
     "url": "https://www.supermas.com.py/alimento-p-gatos-cat-chow-adulto-1-kg-p6038",
@@ -191587,7 +191859,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO P/GATOS CAT CHOW S/COL.1 KG CARNE",
-    "price": 37250.0,
+    "price": 32200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/61869.png",
     "url": "https://www.supermas.com.py/alimento-p-gatos-cat-chow-s-col1-kg-carne-p6201",
@@ -191795,7 +192067,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CAT CHOW ADULTO ACT CARNE 3KG",
-    "price": 99450.0,
+    "price": 85900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/78113.png",
     "url": "https://www.supermas.com.py/cat-chow-adulto-act-carne-3kg-p8952",
@@ -192243,7 +192515,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/GATO CAT CHOW ESTERILIZADOS 1kg",
-    "price": 38550.0,
+    "price": 33300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111700.jpg",
     "url": "https://www.supermas.com.py/alimp-gato-cat-chow-esterilizados-1kg-p21142",
@@ -192403,7 +192675,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/GATO CAT CHOW PESCADO POLLO 3kg",
-    "price": 99450.0,
+    "price": 80600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/116094.jpg",
     "url": "https://www.supermas.com.py/alimp-gato-cat-chow-pescado-pollo-3kg-p25738",
@@ -192659,7 +192931,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/GATO FELIX MEGAMIX 1kg",
-    "price": 26900.0,
+    "price": 23500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/131040.jpg",
     "url": "https://www.supermas.com.py/alimp-gato-felix-megamix-1kg-p41561",
@@ -192835,7 +193107,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/GATO CAT CHOW POLLO 85gr",
-    "price": 6150.0,
+    "price": 5050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/102011.jpg",
     "url": "https://www.supermas.com.py/alimp-gato-cat-chow-pollo-85gr-p48363",
@@ -192851,7 +193123,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.CAT CHOW GATITOS PES/CAR Y VEG 15 kg",
-    "price": 395350.0,
+    "price": 289700.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/alimcat-chow-gatitos-pes-car-y-veg-15-kg-p52044",
@@ -192883,7 +193155,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.CAT CHOW ESTERILIZ.PES/CAR 3kg",
-    "price": 106100.0,
+    "price": 91800.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/alimcat-chow-esterilizpes-car-3kg-p52047",
@@ -193011,7 +193283,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIMENTO FELIX GATITOS MEGAMIX 3kg",
-    "price": 68100.0,
+    "price": 59400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/alimento-felix-gatitos-megamix-3kg-p55543",
@@ -275159,13 +275431,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ALMIDON DE MANDIOCA 1 KG AMELIA PAQ",
-    "price": 9750.0,
+    "name": "HARINA TRIGO PRIMICIA 500GR",
+    "price": 3050.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/284421-almidon-de-mandioca-1-kg-amelia-paq.aspx",
-    "brand": "",
-    "measure": "1 KG",
+    "url": "https://www.stock.com.py/products/316251-harina-trigo-primicia-500gr.aspx",
+    "brand": "Primicia",
+    "measure": "500 GR",
     "category": "harinas",
     "subcategory": "almidon",
     "category_path": [
@@ -275176,13 +275448,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "HARINA TRIGO PRIMICIA 500GR",
-    "price": 3050.0,
+    "name": "ALMIDON DE MANDIOCA 1 KG AMELIA PAQ",
+    "price": 9750.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/316251-harina-trigo-primicia-500gr.aspx",
-    "brand": "Primicia",
-    "measure": "500 GR",
+    "url": "https://www.stock.com.py/products/284421-almidon-de-mandioca-1-kg-amelia-paq.aspx",
+    "brand": "",
+    "measure": "1 KG",
     "category": "harinas",
     "subcategory": "almidon",
     "category_path": [
@@ -300476,6 +300748,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "MARTILLO P/CARNE INOX S/E DAYO REF KG1601",
+    "price": 25500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/276257-martillo-pcarne-inox-se-dayo-ref-kg1601.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "COLADOR D/PLASTICO N 9 JAGUAR REF 1614.",
     "price": 4900.0,
     "currency": "Gs.",
@@ -300501,24 +300791,6 @@
     "url": "https://www.stock.com.py/products/323389-puretera-tramontina-negra-utilita-xun.aspx",
     "brand": "",
     "measure": "UN",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MARTILLO P/CARNE INOX S/E DAYO REF KG1601",
-    "price": 25500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/276257-martillo-pcarne-inox-se-dayo-ref-kg1601.aspx",
-    "brand": "Dayo",
-    "measure": "",
     "category": "bazar",
     "subcategory": "utensilios",
     "category_path": [
@@ -307335,24 +307607,6 @@
     "url": "https://www.stock.com.py/products/312575-panales-desec-recien-nacido-pampers-20un.aspx",
     "brand": "",
     "measure": "20 UN",
-    "category": "bebes",
-    "subcategory": "desechables",
-    "category_path": [
-      "bebes",
-      "perfumeria",
-      "desechables"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAMPERS PREMIUM CARE PA?ALES DESECHABLES G 68 UNIDADES",
-    "price": 141500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0199209_500.jpeg",
-    "url": "https://www.stock.com.py/products/303493-pampers-premium-care-paales-desechables-g-68-unidades.aspx",
-    "brand": "",
-    "measure": "GR",
     "category": "bebes",
     "subcategory": "desechables",
     "category_path": [
