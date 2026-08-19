@@ -302388,13 +302388,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SOPORTE P/GLOBOS 10 UN CELESTE CORINTER BLIS",
-    "price": 7150.0,
+    "name": "VASO DESCARTABLE AMARILLO 200 ML ASIPLAST BSA",
+    "price": 8250.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279594-soporte-pglobos-10-un-celeste-corinter-blis.aspx",
+    "url": "https://www.stock.com.py/products/148453-vaso-descartable-amarillo-200-ml-asiplast-bsa.aspx",
     "brand": "",
-    "measure": "10 UN",
+    "measure": "200 ML",
     "category": "no",
     "subcategory": "descartables",
     "category_path": [
@@ -302408,13 +302408,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VASO DESCARTABLE AMARILLO 200 ML ASIPLAST BSA",
-    "price": 8250.0,
+    "name": "SOPORTE P/GLOBOS 10 UN CELESTE CORINTER BLIS",
+    "price": 7150.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/148453-vaso-descartable-amarillo-200-ml-asiplast-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279594-soporte-pglobos-10-un-celeste-corinter-blis.aspx",
     "brand": "",
-    "measure": "200 ML",
+    "measure": "10 UN",
     "category": "no",
     "subcategory": "descartables",
     "category_path": [
@@ -328265,13 +328265,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PANCETA ENTERA FRIMESA XKG S/E",
-    "price": 108000.0,
+    "name": "SALAME PEPERONI FETEADO PAQUETE CHORTI x 1",
+    "price": 134900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/263029-panceta-entera-frimesa-xkg-se.aspx",
+    "url": "https://www.stock.com.py/products/18315-salame-peperoni-feteado-paq.aspx",
     "brand": "",
-    "measure": "KG",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -328303,13 +328303,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SALAME PEPERONI FETEADO PAQUETE CHORTI x 1",
-    "price": 134900.0,
+    "name": "JAMON COCIDO D/POLLO 225KG E/V XKG OCHSI PAQ",
+    "price": 93700.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/18315-salame-peperoni-feteado-paq.aspx",
+    "url": "https://www.stock.com.py/products/118376-jamon-cocido-dpollo-225kg-ev-xkg-ochsi-paq.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "225 KG",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -328322,13 +328322,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "JAMON COCIDO D/POLLO 225KG E/V XKG OCHSI PAQ",
-    "price": 93700.0,
+    "name": "PANCETA ENTERA FRIMESA XKG S/E",
+    "price": 108000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/118376-jamon-cocido-dpollo-225kg-ev-xkg-ochsi-paq.aspx",
+    "url": "https://www.stock.com.py/products/263029-panceta-entera-frimesa-xkg-se.aspx",
     "brand": "",
-    "measure": "225 KG",
+    "measure": "KG",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -341803,6 +341803,42 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "TRAPO P/ PISO GRIS REFORZADO G 58X60CM MEDIA NARANJA",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/271975-trapo-p-piso-gris-reforzado-g-58x60cm-media-naranja.aspx",
+    "brand": "",
+    "measure": "GR",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO DE PISO ECONOMICO LAVA 1000 45CM X 70CM",
+    "price": 6750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/290430-trapo-de-piso-economico-lava-1000-45cm-x-70cm.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "TRAPO DE PISO MEDIA NARANJA BLANCO REFORZADO M CLASICO 48 X 60 CM",
     "price": 11500.0,
     "currency": "Gs.",
@@ -341862,42 +341898,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/296624-rejilla-blanca-lava-1000-38cm-x-41cm.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TRAPO P/ PISO GRIS REFORZADO G 58X60CM MEDIA NARANJA",
-    "price": 11500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/271975-trapo-p-piso-gris-reforzado-g-58x60cm-media-naranja.aspx",
-    "brand": "",
-    "measure": "GR",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TRAPO DE PISO ECONOMICO LAVA 1000 45CM X 70CM",
-    "price": 6750.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/290430-trapo-de-piso-economico-lava-1000-45cm-x-70cm.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
@@ -353905,22 +353905,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
-    "price": 15000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "VELA RILAPE N1 8 UNIDADES BSA",
     "price": 4650.0,
     "currency": "Gs.",
@@ -353953,6 +353937,38 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "VELAS AMARILLO 06I PAQUETE",
+    "price": 8150.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/9130-velas-amarillo-06i-paq.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
+    "price": 15000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ENCENDEDOR PARA PARRILLA 5 UN PARANA CJA",
     "price": 8800.0,
     "currency": "Gs.",
@@ -353976,22 +353992,6 @@
     "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
     "brand": "",
     "measure": "8 UN",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELAS AMARILLO 06I PAQUETE",
-    "price": 8150.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/9130-velas-amarillo-06i-paq.aspx",
-    "brand": "",
-    "measure": "",
     "category": "velasfosforo",
     "subcategory": "Velas/Fosforo",
     "category_path": [
@@ -355378,11 +355378,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ZAPATILLA \"ELE\" ELECT.4 SALIDAS",
-    "price": 26500.0,
+    "name": "ZAPATILLA ELE ELECTRICA DE 3 SALIDAS",
+    "price": 7100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/167981-zapatilla-ele-elect4-salidas.aspx",
+    "url": "https://www.stock.com.py/products/70074-zapatilla-ele-electrica-d3-salidas.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -355397,11 +355397,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ZAPATILLA ELE ELECTRICA DE 3 SALIDAS",
-    "price": 7100.0,
+    "name": "ZAPATILLA \"ELE\" ELECT.4 SALIDAS",
+    "price": 26500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/70074-zapatilla-ele-electrica-d3-salidas.aspx",
+    "url": "https://www.stock.com.py/products/167981-zapatilla-ele-elect4-salidas.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -361985,38 +361985,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PEPITAS LOEB BANDEJA 12 UN",
-    "price": 23500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/1462-pepitas-loeb-bja-12-un.aspx",
-    "brand": "",
-    "measure": "12 UN",
-    "category": "masitastortasfacturas",
-    "subcategory": "Masitas/Tortas/Facturas",
-    "category_path": [
-      "masitastortasfacturas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TORTA VALERIA X KILO",
-    "price": 71500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "masitastortasfacturas",
-    "subcategory": "Masitas/Tortas/Facturas",
-    "category_path": [
-      "masitastortasfacturas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GALLETITAS D/HOJALDRE HOJALMAR TRIANG 250GR PAQ",
     "price": 13900.0,
     "currency": "Gs.",
@@ -362054,6 +362022,38 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/312024-torta-bk-3kl.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "masitastortasfacturas",
+    "subcategory": "Masitas/Tortas/Facturas",
+    "category_path": [
+      "masitastortasfacturas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PEPITAS LOEB BANDEJA 12 UN",
+    "price": 23500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/1462-pepitas-loeb-bja-12-un.aspx",
+    "brand": "",
+    "measure": "12 UN",
+    "category": "masitastortasfacturas",
+    "subcategory": "Masitas/Tortas/Facturas",
+    "category_path": [
+      "masitastortasfacturas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TORTA VALERIA X KILO",
+    "price": 71500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
     "brand": "",
     "measure": "",
     "category": "masitastortasfacturas",
@@ -363722,13 +363722,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "EDWARD PAN LACTEADO 400 GR",
-    "price": 10900.0,
+    "name": "PAN P/SANWICH DESCORTEZADO BLANCO PAQ",
+    "price": 13300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/305383-edward-pan-lacteado-400-gr.aspx",
+    "url": "https://www.stock.com.py/products/287600-pan-psanwich-descortezado-blanco-paq.aspx",
     "brand": "",
-    "measure": "400 GR",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
@@ -363742,13 +363742,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN P/SANWICH DESCORTEZADO BLANCO PAQ",
-    "price": 13300.0,
+    "name": "EDWARD PAN LACTEADO 400 GR",
+    "price": 10900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287600-pan-psanwich-descortezado-blanco-paq.aspx",
+    "url": "https://www.stock.com.py/products/305383-edward-pan-lacteado-400-gr.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "400 GR",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
@@ -367290,11 +367290,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
-    "price": 13000.0,
+    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
+    "price": 18000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
+    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
@@ -367310,11 +367310,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
-    "price": 18000.0,
+    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
+    "price": 13000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
+    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
@@ -385283,24 +385283,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TERMO D/INOX DAYO AZUL C/TAP 2L REF E003",
     "price": 68900.0,
     "currency": "Gs.",
@@ -385396,6 +385378,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/336091-mediafina-dayo-pdama-soquete-md25-006.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-002",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "mision",
@@ -385553,13 +385553,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
-    "price": 68900.0,
+    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
+    "price": 7900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
+    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
     "brand": "Dayo",
-    "measure": "2 LT",
+    "measure": "",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
@@ -385571,13 +385571,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-002",
-    "price": 3500.0,
+    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
+    "price": 68900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
+    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
     "brand": "Dayo",
-    "measure": "",
+    "measure": "2 LT",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
