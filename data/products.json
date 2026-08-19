@@ -22243,7 +22243,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CARAMELO LA VACA LECHERA 576 GR",
-    "price": 34800.0,
+    "price": 17400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/caramelo-la-vaca-lechera-576-gr-p51732",
@@ -22771,7 +22771,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCOLATE ROCK MANI DOYPACK 150G X 24 PAR",
-    "price": 14200.0,
+    "price": 7100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/chocolate-rock-mani-doypack-150g-x-24-par-p57008",
@@ -47635,7 +47635,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCO RELL. VAIN 27 X 85G",
-    "price": 4200.0,
+    "price": 2100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/135184.jpg",
     "url": "https://www.supermas.com.py/choco-rell-vain-27-x-85g-p45852",
@@ -71943,6 +71943,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/90923.jpg",
     "url": "https://www.supermas.com.py/rabo-especial-neuland-x-kg-p46204",
+    "brand": "",
+    "measure": "KG",
+    "category": "CARNES Y POLLOS",
+    "subcategory": "CARNES Y POLLOS",
+    "category_path": [
+      "CARNES Y POLLOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FALDA PREMIUN E/ BANDEJA X KG",
+    "price": 33900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/falda-premiun-e-bandeja-x-kg-p46913",
     "brand": "",
     "measure": "KG",
     "category": "CARNES Y POLLOS",
@@ -382961,6 +382977,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "TOALLITAS HUM DODDY HIPOALERGE S/ALC 96U",
+    "price": 13750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0215538_500.jpeg",
+    "url": "https://www.stock.com.py/products/336014-toallitas-hum-doddy-hipoalerge-salc-96u.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ACONDICIONADOR RECONSTRUCCION CON COMPLETA DOVE 200ML",
     "price": 25500.0,
     "currency": "Gs.",
@@ -384120,6 +384154,24 @@
     "url": "https://www.stock.com.py/products/328228-discos-pempanada-medhildebrand-phor12.aspx",
     "brand": "",
     "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TOALLITA HUM TRIP/PROTECCION 48UN HUGGIE",
+    "price": 14000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0209232_500.jpeg",
+    "url": "https://www.stock.com.py/products/321012-toallita-hum-tripproteccion-48un-huggie.aspx",
+    "brand": "",
+    "measure": "48 UN",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
@@ -385602,6 +385654,96 @@
       "mision",
       "de",
       "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FRUTTIGURT ENTERO 1 L FRUTILLA",
+    "price": 9400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0162845_500.png",
+    "url": "https://www.stock.com.py/products/12796-fruttigurt-entero-1-l-frutilla.aspx",
+    "brand": "",
+    "measure": "1 LT",
+    "category": "fan",
+    "subcategory": "tete",
+    "category_path": [
+      "fan",
+      "del",
+      "tete"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FRUTTIGURT ENTERO 1 LITRO DURAZNO",
+    "price": 9400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0162842_500.png",
+    "url": "https://www.stock.com.py/products/12799-fruttigurt-entero-1-lt-durazno.aspx",
+    "brand": "",
+    "measure": "1 LITRO",
+    "category": "fan",
+    "subcategory": "tete",
+    "category_path": [
+      "fan",
+      "del",
+      "tete"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "YOGURT DESC FRUTILLA 180GR LACTOLANDA BIO POTE",
+    "price": 3400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0161609_500.png",
+    "url": "https://www.stock.com.py/products/73006-yoghurt-desc-frutilla-180gr-lactolanda-bio-pote.aspx",
+    "brand": "Lactolanda",
+    "measure": "180 GR",
+    "category": "fan",
+    "subcategory": "tete",
+    "category_path": [
+      "fan",
+      "del",
+      "tete"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "YOGURT DESC FRUTILLA 900GR LACTOLANDA BIO POTE",
+    "price": 13750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0161606_500.png",
+    "url": "https://www.stock.com.py/products/72189-yoghurt-desc-frutilla-900gr-lactolanda-bio-pote.aspx",
+    "brand": "Lactolanda",
+    "measure": "900 GR",
+    "category": "fan",
+    "subcategory": "tete",
+    "category_path": [
+      "fan",
+      "del",
+      "tete"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "YOGURT VITAL LIGTH FRUTILLA LACT. POTE 350G",
+    "price": 4900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0161598_500.png",
+    "url": "https://www.stock.com.py/products/2699-yoghurt-lactolanda-pot-350-gr.aspx",
+    "brand": "",
+    "measure": "350 GR",
+    "category": "fan",
+    "subcategory": "tete",
+    "category_path": [
+      "fan",
+      "del",
+      "tete"
     ]
   }
 ]
