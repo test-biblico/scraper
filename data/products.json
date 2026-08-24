@@ -19938,11 +19938,11 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "BOMBONES SURTIDO LACTA CAJA 480gr",
-    "price": 38800.0,
+    "name": "BOMBONES OURO BRANCO CAJA 480gr",
+    "price": 38050.0,
     "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/115411.jpg",
-    "url": "https://www.supermas.com.py/bombones-surtido-lacta-caja-480gr-p25028",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/115412.jpg",
+    "url": "https://www.supermas.com.py/bombones-ouro-branco-caja-480gr-p25027",
     "brand": "",
     "measure": "480 GR",
     "category": "ALMACEN",
@@ -19959,6 +19959,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/115410.jpg",
     "url": "https://www.supermas.com.py/bombones-surtido-lacta-bolsa-100gr-p25029",
+    "brand": "",
+    "measure": "100 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "BOMBON SONHO DE VALSA 100gr",
+    "price": 24000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/115883.jpg",
+    "url": "https://www.supermas.com.py/bombon-sonho-de-valsa-100gr-p25516",
     "brand": "",
     "measure": "100 GR",
     "category": "ALMACEN",
@@ -23929,6 +23945,38 @@
     "url": "https://www.supermas.com.py/alfajor-punta-ballena-triple-choco-55gr-p63654",
     "brand": "",
     "measure": "55 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ALFAJOR MINI LA POSESIVA BCO 24gr x6un",
+    "price": 5850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/alfajor-mini-la-posesiva-bco-24gr-x6un-p63672",
+    "brand": "",
+    "measure": "24 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ALFAJOR MINI LA POSESIVA NEGRO 24gr x6un",
+    "price": 5850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/alfajor-mini-la-posesiva-negro-24gr-x6un-p63673",
+    "brand": "",
+    "measure": "24 GR",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -31954,54 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "ACETO BALSAM ALCAZAR 250 CC",
-    "price": 12400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24589.jpg",
-    "url": "https://www.supermas.com.py/aceto-balsam-alcazar-250-cc-p3363",
-    "brand": "Alcazar",
-    "measure": "250 CC",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "TEMPERO SAZON ROJO 60  GR",
-    "price": 6700.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/25369.png",
-    "url": "https://www.supermas.com.py/tempero-sazon-rojo-60-gr-p3578",
-    "brand": "",
-    "measure": "60 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "TEMPERO SAZON VERDE 60GR",
-    "price": 6650.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/25370.png",
-    "url": "https://www.supermas.com.py/tempero-sazon-verde-60gr-p3579",
-    "brand": "",
-    "measure": "60 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "COCINERO FRITOLIM MANTECA 120  GR",
     "price": 37250.0,
     "currency": "Gs.",
@@ -33325,6 +33325,54 @@
     "subcategory": "ACEITES",
     "category_path": [
       "ACEITES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ACETO BALSAM ALCAZAR 250 CC",
+    "price": 12400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24589.jpg",
+    "url": "https://www.supermas.com.py/aceto-balsam-alcazar-250-cc-p3363",
+    "brand": "Alcazar",
+    "measure": "250 CC",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TEMPERO SAZON ROJO 60  GR",
+    "price": 6700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/25369.png",
+    "url": "https://www.supermas.com.py/tempero-sazon-rojo-60-gr-p3578",
+    "brand": "",
+    "measure": "60 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TEMPERO SAZON VERDE 60GR",
+    "price": 6650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/25370.png",
+    "url": "https://www.supermas.com.py/tempero-sazon-verde-60gr-p3579",
+    "brand": "",
+    "measure": "60 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
     ]
   },
   {
@@ -48978,6 +49026,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "GRANIX GALLETITA CEREAL 32UN X 175GR",
+    "price": 5900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/granix-galletita-cereal-32un-x-175gr-p61820",
+    "brand": "",
+    "measure": "32 UN",
+    "category": "GALLETITAS",
+    "subcategory": "GALLETITAS",
+    "category_path": [
+      "GALLETITAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "GALLETITA OREO GOLDEN 64,5gr",
     "price": 3950.0,
     "currency": "Gs.",
@@ -49799,22 +49863,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/83523.jpg",
     "url": "https://www.supermas.com.py/mani-garrapinada-sesami-100gr-p9998",
-    "brand": "",
-    "measure": "100 GR",
-    "category": "SNACKS",
-    "subcategory": "SNACKS",
-    "category_path": [
-      "SNACKS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "MANI TOSTADO SALADO SESAMI 100GR",
-    "price": 6800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/83524.jpg",
-    "url": "https://www.supermas.com.py/mani-tostado-salado-sesami-100gr-p9999",
     "brand": "",
     "measure": "100 GR",
     "category": "SNACKS",
@@ -100003,7 +100051,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "JAMONADA  GRANDE X KG",
-    "price": 22700.0,
+    "price": 22000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/61931.jpg",
     "url": "https://www.supermas.com.py/jamonada-grande-x-kg-p6204",
@@ -105299,7 +105347,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "PIÑA NACIONAL X KG",
-    "price": 8600.0,
+    "price": 9250.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2630.jpg",
     "url": "https://www.supermas.com.py/pina-nacional-x-kg-p3763",
@@ -105907,7 +105955,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MAMON NACIONAL X KG",
-    "price": 10600.0,
+    "price": 14650.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5290.jpg",
     "url": "https://www.supermas.com.py/mamon-nacional-x-kg-p5872",
@@ -106003,7 +106051,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ZAPALLITO ITALIANO X KG",
-    "price": 4300.0,
+    "price": 4650.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5840.png",
     "url": "https://www.supermas.com.py/zapallito-italiano-x-kg-p5931",
@@ -106403,7 +106451,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LIMON REAL X KG",
-    "price": 19900.0,
+    "price": 21500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/89086.jpg",
     "url": "https://www.supermas.com.py/limon-real-x-kg-p16742",
@@ -112233,6 +112281,22 @@
     "url": "https://www.supermas.com.py/galleta-arroz-chia-quinoa-b-light-110-gr-p13325",
     "brand": "",
     "measure": "110 GR",
+    "category": "LINEA DIET",
+    "subcategory": "LINEA DIET",
+    "category_path": [
+      "LINEA DIET"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MERMELADA GUAYABA LIGTH DUL CESAR 380  GR",
+    "price": 13950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/98233.jpg",
+    "url": "https://www.supermas.com.py/mermelada-guayaba-ligth-dul-cesar-380-gr-p14197",
+    "brand": "",
+    "measure": "380 GR",
     "category": "LINEA DIET",
     "subcategory": "LINEA DIET",
     "category_path": [
@@ -122183,6 +122247,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106867.jpg",
     "url": "https://www.supermas.com.py/crema-stives-reafirmante-532ml-p15913",
+    "brand": "",
+    "measure": "532 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ST IVES CR PIEL RENOVADA 532ML",
+    "price": 40650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94280.jpg",
+    "url": "https://www.supermas.com.py/st-ives-cr-piel-renovada-532ml-p16055",
     "brand": "",
     "measure": "532 ML",
     "category": "ASEO PERSONAL",
@@ -134243,7 +134323,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "PAÑAL ADULTO PLENITUD PROT GDE x8un",
-    "price": 56150.0,
+    "price": 56200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/panal-adulto-plenitud-prot-gde-x8un-p29633",
@@ -134435,7 +134515,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "PAÑAL HUGGIES SUPREME G AHORRO x60UNID",
-    "price": 102700.0,
+    "price": 102800.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/panal-huggies-supreme-g-ahorro-x60unid-p41980",
@@ -134883,7 +134963,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "PAÑ HUG NATCARE RN MEGA 6X34 2024",
-    "price": 47900.0,
+    "price": 47950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/pan-hug-natcare-rn-mega-6x34-2024-p59517",
@@ -138866,6 +138946,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JABON LIQUIDO MAR NUTRITIVE WARM VANILLA 300 ML",
+    "price": 12850.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87122.jpg",
+    "url": "https://www.supermas.com.py/jabon-liquido-mar-nutritive-warm-vanilla-300-ml-p10700",
+    "brand": "",
+    "measure": "300 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JABON PLUSBELLE HUMECTACION 125GR",
     "price": 3200.0,
     "currency": "Gs.",
@@ -141795,7 +141891,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TOALLITA HIG. KOTEX NORMAL C/ ALAS 16 UND",
-    "price": 12750.0,
+    "price": 12700.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87250.jpg",
     "url": "https://www.supermas.com.py/toallita-hig-kotex-normal-c-alas-16-und-p10727",
@@ -142291,7 +142387,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TAMPON KOTEX DIG x20un",
-    "price": 21000.0,
+    "price": 20950.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/tampon-kotex-dig-x20un-p30970",
@@ -149849,10 +149945,10 @@
     "url": "https://www.supermas.com.py/acondicionador-plusbelle-suavidad-1-lt-p20820",
     "brand": "Plusbelle",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -149865,10 +149961,10 @@
     "url": "https://www.supermas.com.py/acondicionador-plusbelle-nutricion-1-lt-p20821",
     "brand": "Plusbelle",
     "measure": "1 LT",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -170690,6 +170786,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PAÑO MULTIUSO PULOIL ABSORB.x1un",
+    "price": 6650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/pano-multiuso-puloil-absorbx1un-p45381",
+    "brand": "",
+    "measure": "1 UN",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PAÑO MULTIUSO PULOIL ABSORB.x3un",
     "price": 17600.0,
     "currency": "Gs.",
@@ -173239,6 +173351,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/139544.jpg",
     "url": "https://www.supermas.com.py/pastillas-p-inodoro-puloil-3x50gr-p50355",
+    "brand": "",
+    "measure": "50 GR",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PASTILLAS P/INODORO PULOIL 50gr",
+    "price": 15050.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/pastillas-p-inodoro-puloil-50gr-p50356",
     "brand": "",
     "measure": "50 GR",
     "category": "LIMPIEZA",
@@ -177154,6 +177282,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PERFUME P/TELAS ASI ELIMINA OLORES 300ml",
+    "price": 19950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122583.jpg",
+    "url": "https://www.supermas.com.py/perfume-p-telas-asi-elimina-olores-300ml-p32514",
+    "brand": "",
+    "measure": "300 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "SUAVIZANTE CAVALLARO FLORAL 1600ml",
     "price": 29100.0,
     "currency": "Gs.",
@@ -177721,6 +177865,38 @@
     "url": "https://www.supermas.com.py/jabon-liqkinder-libperfume-2-8lt-p32513",
     "brand": "",
     "measure": "2,8 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PERFUME P/TELAS ASI BABY DREAM 300ml",
+    "price": 19950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/perfume-p-telas-asi-baby-dream-300ml-p32516",
+    "brand": "",
+    "measure": "300 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PERFUME P/TELAS ASI PINK POWER 300ml",
+    "price": 19950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/perfume-p-telas-asi-pink-power-300ml-p32520",
+    "brand": "",
+    "measure": "300 ML",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -178546,6 +178722,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "APRESTO ASI PLANCHA FACIL 500ml DOY",
+    "price": 13050.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/apresto-asi-plancha-facil-500ml-doy-p45378",
+    "brand": "",
+    "measure": "500 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JABON LIQ.ROPA ASI F.MAX 900ml DOY PACK",
     "price": 18400.0,
     "currency": "Gs.",
@@ -178921,6 +179113,22 @@
     "url": "https://www.supermas.com.py/pack-jabagricultor-4x150gr-marron-p47863",
     "brand": "",
     "measure": "150 GR",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SUAVIZANTE ASI FLORIDA 5 Lt.",
+    "price": 31800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/138231.jpg",
+    "url": "https://www.supermas.com.py/suavizante-asi-florida-5-lt-p49008",
+    "brand": "",
+    "measure": "5 LT",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -183138,6 +183346,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESODORANTE PISO PULOIL LAVANDA 900 ML",
+    "price": 10500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/98178.jpg",
+    "url": "https://www.supermas.com.py/desodorante-piso-puloil-lavanda-900-ml-p14154",
+    "brand": "",
+    "measure": "900 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MOPA AUTO TORSION CON PALO 1570",
     "price": 86300.0,
     "currency": "Gs.",
@@ -184418,6 +184642,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESOD.PISO PULOIL FLORAL 5Lt.",
+    "price": 24650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/desodpiso-puloil-floral-5lt-p26669",
+    "brand": "",
+    "measure": "5 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD.PISO PULOIL MARINO BRISA AZUL 5Lt.",
     "price": 24650.0,
     "currency": "Gs.",
@@ -184786,6 +185026,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESOD.AMB.SMELL FRESH BEBE 262ml AER.",
+    "price": 23650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122579.jpg",
+    "url": "https://www.supermas.com.py/desodambsmell-fresh-bebe-262ml-aer-p32518",
+    "brand": "",
+    "measure": "262 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD.AMB.SMELL FRESH LAVANDA 262ml AER.",
     "price": 23650.0,
     "currency": "Gs.",
@@ -184834,6 +185090,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESOD.AMB.SMELL FRESH COCO VAIN 262ml AER.",
+    "price": 23650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122574.jpg",
+    "url": "https://www.supermas.com.py/desodambsmell-fresh-coco-vain-262ml-aer-p32523",
+    "brand": "",
+    "measure": "262 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD.AMB.SMELL FRESH JAZMIN 262ml AER.",
     "price": 23650.0,
     "currency": "Gs.",
@@ -184857,6 +185129,38 @@
     "url": "https://www.supermas.com.py/desodambsmell-fresh-flores-bca-262ml-aer-p32525",
     "brand": "",
     "measure": "262 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DESOD.MULTIUSO PULOIL MARINO 1,8lt.",
+    "price": 16700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122978.jpg",
+    "url": "https://www.supermas.com.py/desodmultiuso-puloil-marino-1-8lt-p32981",
+    "brand": "",
+    "measure": "1,8 LT",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DESOD.MULTIUSO PULOIL FLORAL 1,8lt.",
+    "price": 16700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122979.jpg",
+    "url": "https://www.supermas.com.py/desodmultiuso-puloil-floral-1-8lt-p32982",
+    "brand": "",
+    "measure": "1,8 LT",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -380324,6 +380628,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "FIDEOS SECOS BON GUSTO TIRABUZON 400 GR",
+    "price": 2900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216205_500.jpeg",
+    "url": "https://www.stock.com.py/products/336413-fideos-secos-bon-gusto-tirabuzon-400-gr.aspx",
+    "brand": "",
+    "measure": "400 GR",
+    "category": "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal",
+    "subcategory": "",
+    "category_path": [
+      "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "FIDEOS SECOS BON GUSTO SPAGUETTI 400 GR",
     "price": 2900.0,
     "currency": "Gs.",
@@ -380379,22 +380699,6 @@
     "url": "https://www.stock.com.py/products/336433-pure-de-tomate-sabores-de-aregua-120gr.aspx",
     "brand": "",
     "measure": "120 GR",
-    "category": "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal",
-    "subcategory": "",
-    "category_path": [
-      "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "FIDEOS SECOS BON GUSTO SPAGUETTI 400 GR",
-    "price": 2900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0215995_500.jpeg",
-    "url": "https://www.stock.com.py/products/336413-fideos-secos-bon-gusto-spaguetti-400-gr.aspx",
-    "brand": "",
-    "measure": "400 GR",
     "category": "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal",
     "subcategory": "",
     "category_path": [
@@ -380761,38 +381065,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0211710_500.jpeg",
     "url": "https://www.stock.com.py/products/328010-jabon-de-tocador-mio-floral-cremoso-80gr.aspx",
-    "brand": "",
-    "measure": "80 GR",
-    "category": "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal",
-    "subcategory": "",
-    "category_path": [
-      "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "FIDEOS SECOS BON GUSTO TIRABUZON 400 GR",
-    "price": 2900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0215995_500.jpeg",
-    "url": "https://www.stock.com.py/products/336413-fideos-secos-bon-gusto-tirabuzon-400-gr.aspx",
-    "brand": "",
-    "measure": "400 GR",
-    "category": "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal",
-    "subcategory": "",
-    "category_path": [
-      "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JABON DE TOCADOR MIO PUREZA CREMOSA 80GR",
-    "price": 1600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0211709_500.jpeg",
-    "url": "https://www.stock.com.py/products/328011-jabon-de-tocador-mio-pureza-cremosa-80gr.aspx",
     "brand": "",
     "measure": "80 GR",
     "category": "1081-los-imbatibles.aspx?utm_source=WebStock&utm_medium=Banner_principal",
