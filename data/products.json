@@ -2851,7 +2851,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ CHINES INTE GRAL PARBOLIZADO 1 KG",
-    "price": 13200.0,
+    "price": 14080.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/63967.jpg",
     "url": "https://www.supermas.com.py/arroz-chines-inte-gral-parbolizado-1-kg-p6451",
@@ -105346,6 +105346,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PEPINO KG",
+    "price": 5525.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5070.jpg",
+    "url": "https://www.supermas.com.py/pepino-kg-p5849",
+    "brand": "",
+    "measure": "KG",
+    "category": "FRUTAS Y VERDURAS",
+    "subcategory": "FRUTAS Y VERDURAS",
+    "category_path": [
+      "FRUTAS Y VERDURAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "UVA BRASIL X KG",
     "price": 25585.0,
     "currency": "Gs.",
@@ -115778,6 +115794,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DISCO EMPANADA QUIERO MAS P/ FREIR MED X 12 UND",
+    "price": 4650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13472.jpg",
+    "url": "https://www.supermas.com.py/disco-empanada-quiero-mas-p-freir-med-x-12-und-p1431",
+    "brand": "",
+    "measure": "12 UN",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ÑOQUIS QUIERO MAS DE PAPA 500 GR",
     "price": 7250.0,
     "currency": "Gs.",
@@ -116482,11 +116514,43 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "TAPA PASCUAL INTEGRAL EDWARD 500  GR",
+    "price": 8950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/92813.png",
+    "url": "https://www.supermas.com.py/tapa-pascual-integral-edward-500-gr-p12568",
+    "brand": "",
+    "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "RAVIOLITOS DE CARNE Y JAMON EDWARD X 500  GR",
     "price": 20900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94115.jpg",
     "url": "https://www.supermas.com.py/raviolitos-de-carne-y-jamon-edward-x-500-gr-p12875",
+    "brand": "",
+    "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TORTELLETIS DE CARNE Y JAMON EDWARD X 500  GR",
+    "price": 20900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94116.jpg",
+    "url": "https://www.supermas.com.py/tortelletis-de-carne-y-jamon-edward-x-500-gr-p12876",
     "brand": "",
     "measure": "500 GR",
     "category": "OTROS ALIMENTOS",
