@@ -8802,6 +8802,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "SEMILLA DE SESAMO MICKEY 100gr",
+    "price": 4700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106502.jpg",
+    "url": "https://www.supermas.com.py/semilla-de-sesamo-mickey-100gr-p15273",
+    "brand": "",
+    "measure": "100 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "OREGANO PRIMICIA 15GR",
     "price": 2350.0,
     "currency": "Gs.",
@@ -10793,6 +10809,22 @@
     "url": "https://www.supermas.com.py/yaguarete-ka-a-30g-x-10-p46205",
     "brand": "",
     "measure": "30 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ADEREZO A BASE DE JUGO DE LIMON 450 ML X 8",
+    "price": 5950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/135519.jpg",
+    "url": "https://www.supermas.com.py/aderezo-a-base-de-jugo-de-limon-450-ml-x-8-p46206",
+    "brand": "",
+    "measure": "450 ML",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -31970,38 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "KETCHUP CEPERA 950  GR",
-    "price": 13550.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24406.png",
-    "url": "https://www.supermas.com.py/ketchup-cepera-950-gr-p3333",
-    "brand": "",
-    "measure": "950 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "KETCHUP DAJUDA 400GR",
-    "price": 9000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24422.png",
-    "url": "https://www.supermas.com.py/ketchup-dajuda-400gr-p3334",
-    "brand": "",
-    "measure": "400 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "ACEITE COCINERO OLIVA 1 LT",
     "price": 152200.0,
     "currency": "Gs.",
@@ -33309,6 +33309,38 @@
     "subcategory": "ACEITES",
     "category_path": [
       "ACEITES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "KETCHUP CEPERA 950  GR",
+    "price": 13550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24406.png",
+    "url": "https://www.supermas.com.py/ketchup-cepera-950-gr-p3333",
+    "brand": "",
+    "measure": "950 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "KETCHUP DAJUDA 400GR",
+    "price": 9000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24422.png",
+    "url": "https://www.supermas.com.py/ketchup-dajuda-400gr-p3334",
+    "brand": "",
+    "measure": "400 GR",
+    "category": "ADEREZOS",
+    "subcategory": "ADEREZOS",
+    "category_path": [
+      "ADEREZOS"
     ]
   },
   {
@@ -61122,6 +61154,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "COLORANTE MICKEY AZUL 60 CC",
+    "price": 2650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/17401.jpg",
+    "url": "https://www.supermas.com.py/colorante-mickey-azul-60-cc-p2088",
+    "brand": "",
+    "measure": "60 CC",
+    "category": "PREPARADO POSTRES",
+    "subcategory": "PREPARADO POSTRES",
+    "category_path": [
+      "PREPARADO POSTRES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "COLORANTE MICKEY ROJO 60 CC",
+    "price": 3100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/17404.jpg",
+    "url": "https://www.supermas.com.py/colorante-mickey-rojo-60-cc-p2089",
+    "brand": "",
+    "measure": "60 CC",
+    "category": "PREPARADO POSTRES",
+    "subcategory": "PREPARADO POSTRES",
+    "category_path": [
+      "PREPARADO POSTRES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "COLORANTE MICKEY VERDE 60 CC",
     "price": 2650.0,
     "currency": "Gs.",
@@ -61161,6 +61225,38 @@
     "url": "https://www.supermas.com.py/colorante-mickey-naranjado-60-cc-p2092",
     "brand": "",
     "measure": "60 CC",
+    "category": "PREPARADO POSTRES",
+    "subcategory": "PREPARADO POSTRES",
+    "category_path": [
+      "PREPARADO POSTRES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ESENCIA MICKEY VAINILLA 120 CC",
+    "price": 5800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/17411.jpg",
+    "url": "https://www.supermas.com.py/esencia-mickey-vainilla-120-cc-p2093",
+    "brand": "",
+    "measure": "120 CC",
+    "category": "PREPARADO POSTRES",
+    "subcategory": "PREPARADO POSTRES",
+    "category_path": [
+      "PREPARADO POSTRES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ESENCIA MICKEY COCO 120 CC",
+    "price": 7600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/17413.jpg",
+    "url": "https://www.supermas.com.py/esencia-mickey-coco-120-cc-p2094",
+    "brand": "",
+    "measure": "120 CC",
     "category": "PREPARADO POSTRES",
     "subcategory": "PREPARADO POSTRES",
     "category_path": [
@@ -61977,22 +62073,6 @@
     "url": "https://www.supermas.com.py/extracto-de-malta-copalsa-250-gr-p5936",
     "brand": "",
     "measure": "250 GR",
-    "category": "PREPARADO POSTRES",
-    "subcategory": "PREPARADO POSTRES",
-    "category_path": [
-      "PREPARADO POSTRES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "MEJORADOR COPALSA FRANCES MIX 500  GR",
-    "price": 10400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/58733.jpg",
-    "url": "https://www.supermas.com.py/mejorador-copalsa-frances-mix-500-gr-p5941",
-    "brand": "",
-    "measure": "500 GR",
     "category": "PREPARADO POSTRES",
     "subcategory": "PREPARADO POSTRES",
     "category_path": [
@@ -71330,22 +71410,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "PECETO INDIVIDUAL NEULAND X KG",
-    "price": 57000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7038.jpg",
-    "url": "https://www.supermas.com.py/peceto-individual-neuland-x-kg-p7416",
-    "brand": "",
-    "measure": "KG",
-    "category": "CARNES Y POLLOS",
-    "subcategory": "CARNES Y POLLOS",
-    "category_path": [
-      "CARNES Y POLLOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "TAPA CUADRIL PUL X KG",
     "price": 78500.0,
     "currency": "Gs.",
@@ -72535,6 +72599,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1480.png",
     "url": "https://www.supermas.com.py/puchero-fresco-pechugon-x-kg-p1663",
+    "brand": "",
+    "measure": "KG",
+    "category": "CARNES Y POLLOS",
+    "subcategory": "CARNES Y POLLOS",
+    "category_path": [
+      "CARNES Y POLLOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PECHUGA DESHUESADA FRESCA PECHUGON KG",
+    "price": 34000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1490.jpg",
+    "url": "https://www.supermas.com.py/pechuga-deshuesada-fresca-pechugon-kg-p1689",
     "brand": "",
     "measure": "KG",
     "category": "CARNES Y POLLOS",
@@ -84183,6 +84263,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67274.png",
     "url": "https://www.supermas.com.py/gaseosa-fanta-pina-retornable-2-lt-p15767",
+    "brand": "",
+    "measure": "2 LT",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "GASEO COCA COLA ZERO RETORNABLE 2 LT",
+    "price": 9500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67787.png",
+    "url": "https://www.supermas.com.py/gaseo-coca-cola-zero-retornable-2-lt-p15769",
     "brand": "",
     "measure": "2 LT",
     "category": "BEBIDAS",
@@ -104226,6 +104322,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PAN INTEGRAL SEMILLAS SUPERMAS X KG",
+    "price": 16000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/98547.png",
+    "url": "https://www.supermas.com.py/pan-integral-semillas-supermas-x-kg-p14369",
+    "brand": "Superma",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MASA PARA MBEJU SUPERMAS KG*",
     "price": 33800.0,
     "currency": "Gs.",
@@ -105843,7 +105955,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TOMATE SANTA CRUZ KG",
-    "price": 9100.0,
+    "price": 10115.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2480.png",
     "url": "https://www.supermas.com.py/tomate-santa-cruz-kg-p3403",
@@ -106322,22 +106434,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "FRUTILLA X KG",
-    "price": 35200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/294.png",
-    "url": "https://www.supermas.com.py/frutilla-x-kg-p4300",
-    "brand": "",
-    "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CIRUELA NEGRA X KG",
     "price": 29240.0,
     "currency": "Gs.",
@@ -106498,22 +106594,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "PEPINO KG",
-    "price": 5525.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5070.jpg",
-    "url": "https://www.supermas.com.py/pepino-kg-p5849",
-    "brand": "",
-    "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "UVA BRASIL X KG",
     "price": 25585.0,
     "currency": "Gs.",
@@ -106585,22 +106665,6 @@
     "url": "https://www.supermas.com.py/rabanito-x-unidad-p5866",
     "brand": "",
     "measure": "",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "POROTO PEKY X KG",
-    "price": 29750.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5230.png",
-    "url": "https://www.supermas.com.py/poroto-peky-x-kg-p5867",
-    "brand": "",
-    "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -106887,22 +106951,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6711.png",
     "url": "https://www.supermas.com.py/naranja-nacional-x-kg-p6920",
-    "brand": "",
-    "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "POROTO PEKY CON CASCARA X KG",
-    "price": 17850.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6730.png",
-    "url": "https://www.supermas.com.py/poroto-peky-con-cascara-x-kg-p6945",
     "brand": "",
     "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
@@ -117527,6 +117575,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67675.png",
     "url": "https://www.supermas.com.py/ravioles-bettini-con-ricotta-1-kg-p7012",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "RAVIOLES BETTINI 4 QUESOS 1 KG",
+    "price": 40000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/67676.png",
+    "url": "https://www.supermas.com.py/ravioles-bettini-4-quesos-1-kg-p7013",
     "brand": "",
     "measure": "1 KG",
     "category": "OTROS ALIMENTOS",
@@ -190551,6 +190615,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/144387.jpg",
     "url": "https://www.supermas.com.py/monello-perro-raza-pequena-pollo-7kg-p55303",
+    "brand": "",
+    "measure": "7 KG",
+    "category": "MASCOTAS",
+    "subcategory": "MASCOTAS",
+    "category_path": [
+      "MASCOTAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MONELLO PERRO CACHORRO POLLO 7kg",
+    "price": 235200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/144385.jpg",
+    "url": "https://www.supermas.com.py/monello-perro-cachorro-pollo-7kg-p55304",
     "brand": "",
     "measure": "7 KG",
     "category": "MASCOTAS",
