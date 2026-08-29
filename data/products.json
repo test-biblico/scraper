@@ -80130,22 +80130,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "YOGHURT ENT VAINILLA LOS COLONOS 350  GR",
-    "price": 4400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97251.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-ent-vainilla-los-colonos-350-gr-p14011",
-    "brand": "",
-    "measure": "350 GR",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "YOGHURT ENT COCO LOS COLONOS 350  GR",
     "price": 4300.0,
     "currency": "Gs.",
@@ -106163,7 +106147,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "RAPIDITAS BIMBO LIGH 10 UNIDADES X 350 GR",
-    "price": 12050.0,
+    "price": 9450.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/93858.jpg",
     "url": "https://www.supermas.com.py/rapiditas-bimbo-ligh-10-unidades-x-350-gr-p12828",
@@ -106179,7 +106163,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "RAPIDITAS BIMBO 10 UNIDADES 310  GR",
-    "price": 10400.0,
+    "price": 8100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94293.jpg",
     "url": "https://www.supermas.com.py/rapiditas-bimbo-10-unidades-310-gr-p12943",
@@ -132802,6 +132786,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "SHAMPOO ALGABO KIDS DURAZNO 350 ML",
+    "price": 14550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/33200.jpg",
+    "url": "https://www.supermas.com.py/shampoo-algabo-kids-durazno-350-ml-p4827",
+    "brand": "",
+    "measure": "350 ML",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "SHAMPOO BABY BLUE MANZANILLA 100 ML",
     "price": 10600.0,
     "currency": "Gs.",
@@ -151849,10 +151849,10 @@
     "url": "https://www.supermas.com.py/shampoo-klasse-color-x-1000-ml-p10424",
     "brand": "",
     "measure": "1000 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -182003,7 +182003,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "JABON EN POLVO INCABLANK x10Kg Bolsa",
-    "price": 70100.0,
+    "price": 45565.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/jabon-en-polvo-incablank-x10kg-bolsa-p33445",
@@ -266612,7 +266612,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ARROZ SUPREMO BOLSA 1 KG 3",
-    "price": 4950.0,
+    "price": 3700.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0159193_500.jpeg",
     "url": "https://www.stock.com.py/products/3616-arroz-supremo-bsa-1-kg.aspx",
@@ -266802,7 +266802,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ARROZ SUPREMO BOLSA 500 GR 3",
-    "price": 2650.0,
+    "price": 2000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0148873_500.jpeg",
     "url": "https://www.stock.com.py/products/3617-arroz-supremo-bsa-500-gr.aspx",
@@ -266821,7 +266821,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ARROZ SUPREMO BOLSA 1 KG 2",
-    "price": 4850.0,
+    "price": 4100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0148870_500.jpeg",
     "url": "https://www.stock.com.py/products/3963-arros-supremo-bsa-1-kg.aspx",
@@ -266840,7 +266840,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ARROZ SUPREMO BOLSA 1 KG PREMIUM",
-    "price": 5250.0,
+    "price": 4500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0148868_500.jpeg",
     "url": "https://www.stock.com.py/products/3619-arroz-supremo-bsa-1-kg.aspx",
@@ -278256,7 +278256,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "HARINA DE TRIGO 000 1KG MAESTRA PAQ",
-    "price": 4500.0,
+    "price": 3800.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0182299_500.jpeg",
     "url": "https://www.stock.com.py/products/270211-harina-de-trigo-000-1kg-maestra-paq.aspx",
@@ -290483,6 +290483,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "CAFE SOLUBLE DESCAFEINADO 95 GR JUAN VALDEZ FCO",
+    "price": 115000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0176061_500.jpeg",
+    "url": "https://www.stock.com.py/products/243185-cafe-soluble-descafeinado-95-gr-juan-valdez-fco.aspx",
+    "brand": "",
+    "measure": "95 GR",
+    "category": "cafe",
+    "subcategory": "Café",
+    "category_path": [
+      "cafe"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "CAFE SOLUBLE LIOFILIZADO 95GR JUAN VALDEZ FRA",
     "price": 92000.0,
     "currency": "Gs.",
@@ -298883,6 +298899,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "YERBA CAMPESINO FITNESS 500GR CJA",
+    "price": 12500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0168187_500.jpeg",
+    "url": "https://www.stock.com.py/products/266795-yerba-campesino-fitness-500gr-cja.aspx",
+    "brand": "Campesino",
+    "measure": "500 GR",
+    "category": "yerba",
+    "subcategory": "Yerba",
+    "category_path": [
+      "yerba"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "YERBA MATE CAMPESINO MENTA Y BOLDO 100GR BSA",
     "price": 2400.0,
     "currency": "Gs.",
@@ -303372,26 +303404,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "FRASCO D/PLAST  BEIGE 2L BAND REF.2830",
-    "price": 14900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323277-frasco-dplast-beige-2l-band-ref2830.aspx",
-    "brand": "",
-    "measure": "2 LT",
-    "category": "bazar",
-    "subcategory": "pcocina",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "accs",
-      "vidrios",
-      "pcocina"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BOTELLA P/PLAST C/DIS 750ML BAND 1451",
     "price": 12500.0,
     "currency": "Gs.",
@@ -303419,6 +303431,26 @@
     "url": "https://www.stock.com.py/products/323291-botella-pplast-transl-750ml-band-1453.aspx",
     "brand": "",
     "measure": "750 ML",
+    "category": "bazar",
+    "subcategory": "pcocina",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "accs",
+      "vidrios",
+      "pcocina"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FRASCO D/PLAST  BEIGE 2L BAND REF.2830",
+    "price": 14900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323277-frasco-dplast-beige-2l-band-ref2830.aspx",
+    "brand": "",
+    "measure": "2 LT",
     "category": "bazar",
     "subcategory": "pcocina",
     "category_path": [
@@ -303900,12 +303932,12 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CUCHILLO P/COCINA MANGO PLASTICO DAYO 10 REF PU323",
-    "price": 19900.0,
+    "name": "TABLA P/ PICAR MADERA 24 CM X 24 CM PUZZLEZ BLIS",
+    "price": 17750.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
-    "brand": "Dayo",
+    "url": "https://www.stock.com.py/products/270866-tabla-p-picar-madera-24-cm-x-24-cm-puzzlez-blis.aspx",
+    "brand": "",
     "measure": "",
     "category": "bazar",
     "subcategory": "cubiertos",
@@ -303918,12 +303950,12 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TABLA P/ PICAR MADERA 24 CM X 24 CM PUZZLEZ BLIS",
-    "price": 17750.0,
+    "name": "CUCHILLO P/COCINA MANGO PLASTICO DAYO 10 REF PU323",
+    "price": 19900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/270866-tabla-p-picar-madera-24-cm-x-24-cm-puzzlez-blis.aspx",
-    "brand": "",
+    "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
+    "brand": "Dayo",
     "measure": "",
     "category": "bazar",
     "subcategory": "cubiertos",
@@ -304476,6 +304508,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PURETERA TRAMONTINA NEGRA UTILITA XUN",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323389-puretera-tramontina-negra-utilita-xun.aspx",
+    "brand": "",
+    "measure": "UN",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "BANDEJA CHICA BLANCA PUZZLEZ BLIS",
     "price": 31450.0,
     "currency": "Gs.",
@@ -304499,6 +304549,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/276238-espumadera-nylon-se-dayo-ref-kt0028c.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MARTILLO P/CARNE INOX S/E DAYO REF KG1601",
+    "price": 25500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/276257-martillo-pcarne-inox-se-dayo-ref-kg1601.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "bazar",
@@ -304537,42 +304605,6 @@
     "url": "https://www.stock.com.py/products/276272-abridor-se-dayo-ref-op0015.aspx",
     "brand": "Dayo",
     "measure": "",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MARTILLO P/CARNE INOX S/E DAYO REF KG1601",
-    "price": 25500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/276257-martillo-pcarne-inox-se-dayo-ref-kg1601.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PURETERA TRAMONTINA NEGRA UTILITA XUN",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323389-puretera-tramontina-negra-utilita-xun.aspx",
-    "brand": "",
-    "measure": "UN",
     "category": "bazar",
     "subcategory": "utensilios",
     "category_path": [
@@ -305884,126 +305916,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "JUG. SILVATO JUEZ X 8 UNID. CORINTER",
-    "price": 6300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315946-jug-silvato-juez-x-8-unid-corinter.aspx",
-    "brand": "",
-    "measure": "8 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBO LETRAS DAYO REF.ATS23-001",
-    "price": 4900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/322979-globo-letras-dayo-refats23-001.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBO REVELACION DAYO REF.ATS-23027",
-    "price": 11900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/322980-globo-revelacion-dayo-refats-23027.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBOS 25UN DAYO REF.ATS-23012",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323010-globos-25un-dayo-refats-23012.aspx",
-    "brand": "Dayo",
-    "measure": "25 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBOS 100UN DAYO REF.ATS-23016",
-    "price": 22900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323028-globos-100un-dayo-refats-23016.aspx",
-    "brand": "Dayo",
-    "measure": "100 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBO PRO PARTY AZUL 9\" CORINTER 25 UN",
-    "price": 15350.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323513-globo-pro-party-azul-9-corinter-25-un.aspx",
-    "brand": "",
-    "measure": "25 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PIÑATA MAXI ROSA 350X1UN PIC PIC BLIS",
     "price": 22600.0,
     "currency": "Gs.",
@@ -306271,6 +306183,126 @@
     "url": "https://www.stock.com.py/products/314548-jug-fusca-gordo-8-unid-corinter.aspx",
     "brand": "",
     "measure": "8 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUG. SILVATO JUEZ X 8 UNID. CORINTER",
+    "price": 6300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/315946-jug-silvato-juez-x-8-unid-corinter.aspx",
+    "brand": "",
+    "measure": "8 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBO LETRAS DAYO REF.ATS23-001",
+    "price": 4900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/322979-globo-letras-dayo-refats23-001.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBO REVELACION DAYO REF.ATS-23027",
+    "price": 11900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/322980-globo-revelacion-dayo-refats-23027.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBOS 25UN DAYO REF.ATS-23012",
+    "price": 7900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323010-globos-25un-dayo-refats-23012.aspx",
+    "brand": "Dayo",
+    "measure": "25 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBOS 100UN DAYO REF.ATS-23016",
+    "price": 22900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323028-globos-100un-dayo-refats-23016.aspx",
+    "brand": "Dayo",
+    "measure": "100 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBO PRO PARTY AZUL 9\" CORINTER 25 UN",
+    "price": 15350.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323513-globo-pro-party-azul-9-corinter-25-un.aspx",
+    "brand": "",
+    "measure": "25 UN",
     "category": "no",
     "subcategory": "decoracion",
     "category_path": [
@@ -309578,24 +309610,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COPA D/VIDRIO P/VINO 380ML DAYO REF 11SJ3212",
-    "price": 9900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/293659-copa-dvidrio-pvino-380ml-dayo-ref-11sj3212.aspx",
-    "brand": "Dayo",
-    "measure": "380 ML",
-    "category": "bazar",
-    "subcategory": "vidrio",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "vidrio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "VASO ACRI P/CER 300ML SAN REMO SR3012/1",
     "price": 6900.0,
     "currency": "Gs.",
@@ -309621,6 +309635,24 @@
     "url": "https://www.stock.com.py/products/305583-manija-acri-pcer-450ml-sanremo-sr30101-x-40.aspx",
     "brand": "",
     "measure": "450 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "COPA D/VIDRIO P/VINO 380ML DAYO REF 11SJ3212",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/293659-copa-dvidrio-pvino-380ml-dayo-ref-11sj3212.aspx",
+    "brand": "Dayo",
+    "measure": "380 ML",
     "category": "bazar",
     "subcategory": "vidrio",
     "category_path": [
@@ -316778,7 +316810,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "VINO NIETO SENETINER CABERNET SAUVIGNON 750ML",
-    "price": 42300.0,
+    "price": 47000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0179860_500.jpeg",
     "url": "https://www.stock.com.py/products/8421-vino-nieto-senetiner-cab-sauvig-750ml.aspx",
@@ -332676,13 +332708,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MORCILLA MEDITERRANEA UPISA X UNIDAD",
-    "price": 20000.0,
+    "name": "COMBO COCTAIL 800KG E/V XKG OCHSI PAQ",
+    "price": 46700.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/264462-morcilla-mediterranea-upisa-x-unidad.aspx",
+    "url": "https://www.stock.com.py/products/239619-combo-coctail-800kg-ev-xkg-ochsi-paq.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "800 KG",
     "category": "perecedero",
     "subcategory": "envasadosautoservic",
     "category_path": [
@@ -332695,13 +332727,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COMBO COCTAIL 800KG E/V XKG OCHSI PAQ",
-    "price": 46700.0,
+    "name": "MORCILLA MEDITERRANEA UPISA X UNIDAD",
+    "price": 20000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/239619-combo-coctail-800kg-ev-xkg-ochsi-paq.aspx",
+    "url": "https://www.stock.com.py/products/264462-morcilla-mediterranea-upisa-x-unidad.aspx",
     "brand": "",
-    "measure": "800 KG",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "envasadosautoservic",
     "category_path": [
@@ -339002,6 +339034,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "JUGUETE CARRITO D/BEBE DY REF0881M",
+    "price": 64900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/324698-juguete-carrito-dbebe-dy-ref0881m.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "jugueteria",
+    "subcategory": "libre",
+    "category_path": [
+      "jugueteria",
+      "jugueteria",
+      "aire",
+      "libre"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ALITAS INFLABLES BESTWAY DISNEY PRINCESA",
     "price": 16900.0,
     "currency": "Gs.",
@@ -339026,25 +339077,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/323591-colchon-inflable-infantil-dy.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "jugueteria",
-    "subcategory": "libre",
-    "category_path": [
-      "jugueteria",
-      "jugueteria",
-      "aire",
-      "libre"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE CARRITO D/BEBE DY REF0881M",
-    "price": 64900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/324698-juguete-carrito-dbebe-dy-ref0881m.aspx",
     "brand": "",
     "measure": "",
     "category": "jugueteria",
@@ -389255,24 +389287,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ACONDI CAREY NUTRILEA HIDRA FUSION 190ML",
-    "price": 15800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0215542_500.jpeg",
-    "url": "https://www.stock.com.py/products/335997-acondi-carey-nutrilea-hidra-fusion-190ml.aspx",
-    "brand": "Carey",
-    "measure": "190 ML",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "SHAMPOO CAREY NUTRILEA HIDR FUSION 340ML",
     "price": 24000.0,
     "currency": "Gs.",
@@ -389802,6 +389816,24 @@
     "url": "https://www.stock.com.py/products/334343-cereal-zucaritas-cop-dmaiz-azuc-cho-240.aspx",
     "brand": "",
     "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PANCITO CHIPS STOCK 600 GR PV",
+    "price": 12500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0214660_500.jpeg",
+    "url": "https://www.stock.com.py/products/332308-pancito-chips-stock-600-gr-pv.aspx",
+    "brand": "",
+    "measure": "600 GR",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
@@ -391487,6 +391519,114 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
+    "price": 7900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLSO DAYO TERMICO AZUL 33X20CM",
+    "price": 29900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/333520-bolso-dayo-termico-azul-33x20cm.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TAZA P/CAPPUCCINO DAYO 240ML REF KTZB40",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/333886-taza-pcappuccino-dayo-240ml-ref-ktzb40.aspx",
+    "brand": "Dayo",
+    "measure": "240 ML",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JABON LIQ PACHOLI PARA LAVAR ROPAS  3LTS",
+    "price": 38500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/334234-jabon-liq-pacholi-para-lavar-ropas-3lts.aspx",
+    "brand": "",
+    "measure": "3 LTS",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MEZCLA P/CHIPA GUASU JAKARU CONGE 750GR",
+    "price": 40500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/334322-mezcla-pchipa-guasu-jakaru-conge-750gr.aspx",
+    "brand": "",
+    "measure": "750 GR",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
+    "price": 68900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
+    "brand": "Dayo",
+    "measure": "2 LT",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "TERMO D/INOX DAYO AZUL C/TAP 2L REF E003",
     "price": 68900.0,
     "currency": "Gs.",
@@ -391566,78 +391706,6 @@
     "url": "https://www.stock.com.py/products/334436-taza-termica-dayo-dorado-150ml-ref-a002.aspx",
     "brand": "Dayo",
     "measure": "150 ML",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOLSO DAYO TERMICO AZUL 33X20CM",
-    "price": 29900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/333520-bolso-dayo-termico-azul-33x20cm.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TAZA P/CAPPUCCINO DAYO 240ML REF KTZB40",
-    "price": 9900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/333886-taza-pcappuccino-dayo-240ml-ref-ktzb40.aspx",
-    "brand": "Dayo",
-    "measure": "240 ML",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JABON LIQ PACHOLI PARA LAVAR ROPAS  3LTS",
-    "price": 38500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334234-jabon-liq-pacholi-para-lavar-ropas-3lts.aspx",
-    "brand": "",
-    "measure": "3 LTS",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MEZCLA P/CHIPA GUASU JAKARU CONGE 750GR",
-    "price": 40500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334322-mezcla-pchipa-guasu-jakaru-conge-750gr.aspx",
-    "brand": "",
-    "measure": "750 GR",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
@@ -391746,42 +391814,6 @@
     "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
     "brand": "Dayo",
     "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
-    "price": 68900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
-    "brand": "Dayo",
-    "measure": "2 LT",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
