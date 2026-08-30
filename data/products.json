@@ -13890,38 +13890,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "FIDEOS TALLARIN/MOÑITO xkg GRANEL",
-    "price": 7750.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3240.jpg",
-    "url": "https://www.supermas.com.py/fideos-tallarin-monito-xkg-granel-p4776",
-    "brand": "",
-    "measure": "KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "FIDEOS  GRANEL KG",
-    "price": 7450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/350.png",
-    "url": "https://www.supermas.com.py/fideos-granel-kg-p4956",
-    "brand": "",
-    "measure": "KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "FIDEOS HILDEBRAND SPAGHETTI FINO 5 KG",
     "price": 34100.0,
     "currency": "Gs.",
@@ -16777,22 +16745,6 @@
     "url": "https://www.supermas.com.py/chicle-arcor-topline-frutilla-11gr-p2788",
     "brand": "",
     "measure": "11 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "BARRITA CAÑONAZO 25  GR",
-    "price": 1800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/21778.jpg",
-    "url": "https://www.supermas.com.py/barrita-canonazo-25-gr-p2791",
-    "brand": "",
-    "measure": "25 GR",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -35971,7 +35923,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MAYONESA DICASA DOY PACK 240gr",
-    "price": 4250.0,
+    "price": 6000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140740.jpg",
     "url": "https://www.supermas.com.py/mayonesa-dicasa-doy-pack-240gr-p51595",
@@ -35987,7 +35939,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MAYONESA DICASA DOY PACK 480gr",
-    "price": 7550.0,
+    "price": 9700.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140741.jpg",
     "url": "https://www.supermas.com.py/mayonesa-dicasa-doy-pack-480gr-p51596",
@@ -36397,6 +36349,38 @@
     "subcategory": "ADEREZOS",
     "category_path": [
       "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FIDEOS TALLARIN/MOÑITO xkg GRANEL",
+    "price": 7750.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3240.jpg",
+    "url": "https://www.supermas.com.py/fideos-tallarin-monito-xkg-granel-p4776",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIDEOS",
+    "subcategory": "FIDEOS",
+    "category_path": [
+      "FIDEOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FIDEOS  GRANEL KG",
+    "price": 7450.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/350.png",
+    "url": "https://www.supermas.com.py/fideos-granel-kg-p4956",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIDEOS",
+    "subcategory": "FIDEOS",
+    "category_path": [
+      "FIDEOS"
     ]
   },
   {
@@ -54413,6 +54397,22 @@
     "subcategory": "TOMATES",
     "category_path": [
       "TOMATES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "BARRITA CAÑONAZO 25  GR",
+    "price": 1800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/21778.jpg",
+    "url": "https://www.supermas.com.py/barrita-canonazo-25-gr-p2791",
+    "brand": "",
+    "measure": "25 GR",
+    "category": "GOLOSINAS",
+    "subcategory": "GOLOSINAS",
+    "category_path": [
+      "GOLOSINAS"
     ]
   },
   {
@@ -302557,24 +302557,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PURETERA TRAMONTINA NEGRA UTILITA XUN",
-    "price": 39900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323389-puretera-tramontina-negra-utilita-xun.aspx",
-    "brand": "",
-    "measure": "UN",
-    "category": "bazar",
-    "subcategory": "utensilios",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "utensilios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BANDEJA CHICA BLANCA PUZZLEZ BLIS",
     "price": 31450.0,
     "currency": "Gs.",
@@ -302654,6 +302636,24 @@
     "url": "https://www.stock.com.py/products/276272-abridor-se-dayo-ref-op0015.aspx",
     "brand": "Dayo",
     "measure": "",
+    "category": "bazar",
+    "subcategory": "utensilios",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "utensilios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PURETERA TRAMONTINA NEGRA UTILITA XUN",
+    "price": 39900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323389-puretera-tramontina-negra-utilita-xun.aspx",
+    "brand": "",
+    "measure": "UN",
     "category": "bazar",
     "subcategory": "utensilios",
     "category_path": [
@@ -331649,13 +331649,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MORTADELA MINI CHORTI X KG",
-    "price": 35600.0,
+    "name": "SALAME PEPERONI FETEADO PAQUETE CHORTI x 1",
+    "price": 134900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/18152-mortadela-mini-chorti-x-kg.aspx",
+    "url": "https://www.stock.com.py/products/18315-salame-peperoni-feteado-paq.aspx",
     "brand": "",
-    "measure": "KG",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -331668,13 +331668,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SALAME PEPERONI FETEADO PAQUETE CHORTI x 1",
-    "price": 134900.0,
+    "name": "MORTADELA MINI CHORTI X KG",
+    "price": 35600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/18315-salame-peperoni-feteado-paq.aspx",
+    "url": "https://www.stock.com.py/products/18152-mortadela-mini-chorti-x-kg.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "KG",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -333894,11 +333894,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "QUESO TREBOL PROVENZAL",
+    "name": "QUESO TREBOL CON AJI",
     "price": 80550.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/303612-queso-trebol-provenzal.aspx",
+    "url": "https://www.stock.com.py/products/303613-queso-trebol-con-aji.aspx",
     "brand": "Trebol",
     "measure": "",
     "category": "perecedero",
@@ -333915,11 +333915,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "QUESO TREBOL CON AJI",
+    "name": "QUESO TREBOL PROVENZAL",
     "price": 80550.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/303613-queso-trebol-con-aji.aspx",
+    "url": "https://www.stock.com.py/products/303612-queso-trebol-provenzal.aspx",
     "brand": "Trebol",
     "measure": "",
     "category": "perecedero",
@@ -358146,22 +358146,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
-    "price": 15000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "velasfosforo",
-    "subcategory": "Velas/Fosforo",
-    "category_path": [
-      "velasfosforo"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "VELAS AMARILLO 06I PAQUETE",
     "price": 8150.0,
     "currency": "Gs.",
@@ -358217,6 +358201,22 @@
     "url": "https://www.stock.com.py/products/317805-velas-nro-5-comisa-8un-paq.aspx",
     "brand": "",
     "measure": "8 UN",
+    "category": "velasfosforo",
+    "subcategory": "Velas/Fosforo",
+    "category_path": [
+      "velasfosforo"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VELA RILAPE BLANCO N12  PAQUETE 4 UNIDADES",
+    "price": 15000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/258397-vela-rilape-blanco-n12-paquete-4-unidades.aspx",
+    "brand": "",
+    "measure": "",
     "category": "velasfosforo",
     "subcategory": "Velas/Fosforo",
     "category_path": [
@@ -360841,13 +360841,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SILICONA E/GEL 200GR JIMO PLA/CELESTE MARINE",
-    "price": 22000.0,
+    "name": "CUERDA P/REMOLQUE DAYO 6MM REF.251 7",
+    "price": 33900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/141866-silicona-egel-200gr-jimo-placeleste-marine.aspx",
-    "brand": "",
-    "measure": "200 GR",
+    "url": "https://www.stock.com.py/products/285668-cuerda-premolque-dayo-6mm-ref251-7.aspx",
+    "brand": "Dayo",
+    "measure": "",
     "category": "no",
     "subcategory": "externa",
     "category_path": [
@@ -360863,13 +360863,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CUERDA P/REMOLQUE DAYO 6MM REF.251 7",
-    "price": 33900.0,
+    "name": "SILICONA E/GEL 200GR JIMO PLA/CELESTE MARINE",
+    "price": 22000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/285668-cuerda-premolque-dayo-6mm-ref251-7.aspx",
-    "brand": "Dayo",
-    "measure": "",
+    "url": "https://www.stock.com.py/products/141866-silicona-egel-200gr-jimo-placeleste-marine.aspx",
+    "brand": "",
+    "measure": "200 GR",
     "category": "no",
     "subcategory": "externa",
     "category_path": [
@@ -366433,22 +366433,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TORTA VALERIA X KILO",
-    "price": 71500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "masitastortasfacturas",
-    "subcategory": "Masitas/Tortas/Facturas",
-    "category_path": [
-      "masitastortasfacturas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GALLETITAS D/HOJALDRE HOJALMAR TRIANG 250GR PAQ",
     "price": 13900.0,
     "currency": "Gs.",
@@ -366486,6 +366470,22 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/312024-torta-bk-3kl.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "masitastortasfacturas",
+    "subcategory": "Masitas/Tortas/Facturas",
+    "category_path": [
+      "masitastortasfacturas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TORTA VALERIA X KILO",
+    "price": 71500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
     "brand": "",
     "measure": "",
     "category": "masitastortasfacturas",
@@ -371644,11 +371644,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
-    "price": 18000.0,
+    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
+    "price": 13000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
+    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
@@ -371664,11 +371664,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GEL ALGABO EXTRA BRILLO 150 POMO",
-    "price": 13000.0,
+    "name": "GEL ALGABO CAP.FIJACION FUERTE *350",
+    "price": 18000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/315866-gel-algabo-extra-brillo-150-pomo.aspx",
+    "url": "https://www.stock.com.py/products/315524-gel-algabo-capfijacion-fuerte-350.aspx",
     "brand": "",
     "measure": "",
     "category": "perfumeria",
@@ -389637,114 +389637,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOLSO DAYO TERMICO AZUL 33X20CM",
-    "price": 29900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/333520-bolso-dayo-termico-azul-33x20cm.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TAZA P/CAPPUCCINO DAYO 240ML REF KTZB40",
-    "price": 9900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/333886-taza-pcappuccino-dayo-240ml-ref-ktzb40.aspx",
-    "brand": "Dayo",
-    "measure": "240 ML",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JABON LIQ PACHOLI PARA LAVAR ROPAS  3LTS",
-    "price": 38500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334234-jabon-liq-pacholi-para-lavar-ropas-3lts.aspx",
-    "brand": "",
-    "measure": "3 LTS",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MEZCLA P/CHIPA GUASU JAKARU CONGE 750GR",
-    "price": 40500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334322-mezcla-pchipa-guasu-jakaru-conge-750gr.aspx",
-    "brand": "",
-    "measure": "750 GR",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
-    "price": 68900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
-    "brand": "Dayo",
-    "measure": "2 LT",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TERMO D/INOX DAYO AZUL C/TAP 2L REF E003",
     "price": 68900.0,
     "currency": "Gs.",
@@ -389835,6 +389727,114 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-006",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/336091-mediafina-dayo-pdama-soquete-md25-006.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-002",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLSO DAYO TERMICO AZUL 33X20CM",
+    "price": 29900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/333520-bolso-dayo-termico-azul-33x20cm.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TAZA P/CAPPUCCINO DAYO 240ML REF KTZB40",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/333886-taza-pcappuccino-dayo-240ml-ref-ktzb40.aspx",
+    "brand": "Dayo",
+    "measure": "240 ML",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JABON LIQ PACHOLI PARA LAVAR ROPAS  3LTS",
+    "price": 38500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/334234-jabon-liq-pacholi-para-lavar-ropas-3lts.aspx",
+    "brand": "",
+    "measure": "3 LTS",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MEZCLA P/CHIPA GUASU JAKARU CONGE 750GR",
+    "price": 40500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/334322-mezcla-pchipa-guasu-jakaru-conge-750gr.aspx",
+    "brand": "",
+    "measure": "750 GR",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "FIAMBRE TIPO MORTADELA UPISA X KG",
     "price": 33500.0,
     "currency": "Gs.",
@@ -389907,11 +389907,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-006",
-    "price": 3500.0,
+    "name": "GUANTES DE LATEX DAYO TAMAÑO PEQ",
+    "price": 7900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/336091-mediafina-dayo-pdama-soquete-md25-006.aspx",
+    "url": "https://www.stock.com.py/products/332846-guantes-de-latex-dayo-tamano-peq.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "mision",
@@ -389925,13 +389925,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-002",
-    "price": 3500.0,
+    "name": "TERMO D/INOX DAYO FUCS C/TAP 2L REF E004",
+    "price": 68900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/336092-mediafina-dayo-pdama-soquete-md25-002.aspx",
+    "url": "https://www.stock.com.py/products/334415-termo-dinox-dayo-fucs-ctap-2l-ref-e004.aspx",
     "brand": "Dayo",
-    "measure": "",
+    "measure": "2 LT",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
