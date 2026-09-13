@@ -13762,38 +13762,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "FIDEOS TALLARIN/MOÑITO xkg GRANEL",
-    "price": 7750.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3240.jpg",
-    "url": "https://www.supermas.com.py/fideos-tallarin-monito-xkg-granel-p4776",
-    "brand": "",
-    "measure": "KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "FIDEOS  GRANEL KG",
-    "price": 7450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/350.png",
-    "url": "https://www.supermas.com.py/fideos-granel-kg-p4956",
-    "brand": "",
-    "measure": "KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "FIDEOS HILDEBRAND SPAGHETTI FINO 5 KG",
     "price": 34100.0,
     "currency": "Gs.",
@@ -36413,6 +36381,38 @@
     "subcategory": "ADEREZOS",
     "category_path": [
       "ADEREZOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FIDEOS TALLARIN/MOÑITO xkg GRANEL",
+    "price": 7750.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3240.jpg",
+    "url": "https://www.supermas.com.py/fideos-tallarin-monito-xkg-granel-p4776",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIDEOS",
+    "subcategory": "FIDEOS",
+    "category_path": [
+      "FIDEOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FIDEOS  GRANEL KG",
+    "price": 7450.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/350.png",
+    "url": "https://www.supermas.com.py/fideos-granel-kg-p4956",
+    "brand": "",
+    "measure": "KG",
+    "category": "FIDEOS",
+    "subcategory": "FIDEOS",
+    "category_path": [
+      "FIDEOS"
     ]
   },
   {
@@ -307786,35 +307786,12 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 25X40 X100 UNIDADES",
-    "price": 9000.0,
+    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
+    "price": 21900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
+    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
     "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PROTECTOR P/HORNALLA ALU DAYO REFHOR21",
-    "price": 9900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/303568-protector-phornalla-alu-dayo-refhor21.aspx",
-    "brand": "Dayo",
     "measure": "",
     "category": "no",
     "subcategory": "alimentos",
@@ -307901,12 +307878,35 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 40X50 X100 UNIDADES",
-    "price": 21900.0,
+    "name": "BOLSA CAMISILLA LAVA 1000 25X40 X100 UNIDADES",
+    "price": 9000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287333-bolsa-camisilla-lava-1000-40x50-x100-unidades.aspx",
+    "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
     "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PROTECTOR P/HORNALLA ALU DAYO REFHOR21",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/303568-protector-phornalla-alu-dayo-refhor21.aspx",
+    "brand": "Dayo",
     "measure": "",
     "category": "no",
     "subcategory": "alimentos",
@@ -370051,26 +370051,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0177997_500.jpeg",
     "url": "https://www.stock.com.py/products/7828-pan-de-sanwich-integral-my-friend.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perecedero",
-    "subcategory": "molde",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "de",
-      "molde"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAN SANWICH LA NEGRITA VIGILAN",
-    "price": 20000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0151180_500.jpeg",
-    "url": "https://www.stock.com.py/products/7298-pan-sanwich-paq-800-gr.aspx",
     "brand": "",
     "measure": "",
     "category": "perecedero",
