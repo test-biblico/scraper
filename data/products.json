@@ -116642,22 +116642,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "BARRA MIXED NUTS CRANBERRY 30gr",
-    "price": 4650.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/barra-mixed-nuts-cranberry-30gr-p54155",
-    "brand": "",
-    "measure": "30 GR",
-    "category": "LINEA DIET",
-    "subcategory": "LINEA DIET",
-    "category_path": [
-      "LINEA DIET"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "BARRA MIXED NUTS COCO/ALMENDRA 30gr",
     "price": 4650.0,
     "currency": "Gs.",
@@ -128535,22 +128519,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/real-color-esmalte-n-g154-esmeralda-p41027",
-    "brand": "",
-    "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "GARNIER SKINACTIVE EXPRESS ACLARA SERUM ANTI ACNE",
-    "price": 113950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/131132.png",
-    "url": "https://www.supermas.com.py/garnier-skinactive-express-aclara-serum-anti-acne-p41653",
     "brand": "",
     "measure": "",
     "category": "ASEO PERSONAL",
@@ -151833,10 +151801,10 @@
     "url": "https://www.supermas.com.py/gel-carey-pomo-efececto-humedo-150-gr-p11363",
     "brand": "Carey",
     "measure": "150 GR",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -347456,13 +347424,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "QUESO TREBOL CON AJI",
-    "price": 80550.0,
+    "name": "QUESO MUZARELLA EN FETAS TREBOL 400GR",
+    "price": 32500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/303613-queso-trebol-con-aji.aspx",
+    "url": "https://www.stock.com.py/products/294131-queso-muzarella-en-fetas-trebol-400gr.aspx",
     "brand": "Trebol",
-    "measure": "",
+    "measure": "400 GR",
     "category": "perecedero",
     "subcategory": "env",
     "category_path": [
@@ -347477,13 +347445,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "QUESO MUZARELLA EN FETAS TREBOL 400GR",
-    "price": 32500.0,
+    "name": "QUESO TREBOL CON AJI",
+    "price": 80550.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/294131-queso-muzarella-en-fetas-trebol-400gr.aspx",
+    "url": "https://www.stock.com.py/products/303613-queso-trebol-con-aji.aspx",
     "brand": "Trebol",
-    "measure": "400 GR",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "env",
     "category_path": [
@@ -364434,6 +364402,24 @@
     "url": "https://www.stock.com.py/products/320247-lapiz-de-color-x12pcs-9018.aspx",
     "brand": "",
     "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CRAYOLA 10UN REGULAR KIDART",
+    "price": 6500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320478-crayola-10un-regular-kidart.aspx",
+    "brand": "",
+    "measure": "10 UN",
     "category": "libreria",
     "subcategory": "color",
     "category_path": [
@@ -403035,13 +403021,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MASA SECA LOEB 1 UN",
-    "price": 38000.0,
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
-    "measure": "1 UN",
+    "measure": "400 GR",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
@@ -403053,13 +403039,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
-    "price": 9300.0,
+    "name": "MASA SECA LOEB 1 UN",
+    "price": 38000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
     "brand": "",
-    "measure": "400 GR",
+    "measure": "1 UN",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
