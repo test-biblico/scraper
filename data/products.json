@@ -96531,7 +96531,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "VINO CONCHA Y TORO CAB SUAV CARM 750",
-    "price": 26010.0,
+    "price": 28200.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/90396.jpg",
     "url": "https://www.supermas.com.py/vino-concha-y-toro-cab-suav-carm-750-p11607",
@@ -118553,6 +118553,22 @@
     "url": "https://www.supermas.com.py/tapa-p-lasana-hildebrand-500gr-p50837",
     "brand": "",
     "measure": "500 GR",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "RAVIOLES HILDEBRAND POLLO 1kg",
+    "price": 36600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/ravioles-hildebrand-pollo-1kg-p50844",
+    "brand": "",
+    "measure": "1 KG",
     "category": "OTROS ALIMENTOS",
     "subcategory": "OTROS ALIMENTOS",
     "category_path": [
@@ -178521,22 +178537,6 @@
     "url": "https://www.supermas.com.py/suavizante-comfort-explosao-azul-18lt-p16955",
     "brand": "",
     "measure": "1.8 LT",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "SUAVIZANTE COMFORT EXPERT CARE 1LT",
-    "price": 27500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/108153.jpeg",
-    "url": "https://www.supermas.com.py/suavizante-comfort-expert-care-1lt-p17287",
-    "brand": "",
-    "measure": "1 LT",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -245939,7 +245939,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FILTRO MELITA CAF/ELECT.N°2",
-    "price": 7600.0,
+    "price": 7480.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97814.png",
     "url": "https://www.supermas.com.py/filtro-melita-caf-electn-2-p14121",
@@ -245955,7 +245955,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FILTRO MELITTA CAFE/ELECT.N°4",
-    "price": 7948.0,
+    "price": 8100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97815.png",
     "url": "https://www.supermas.com.py/filtro-melitta-cafe-electn-4-p14122",
@@ -362378,6 +362378,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0154462_500.jpeg",
     "url": "https://www.stock.com.py/products/3445-estuche-crayones-acrilex-est-1.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CRAYOLA FABER GRIP 12C",
+    "price": 10000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/27859-crayola-faber-grip-12c.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
