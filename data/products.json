@@ -274,22 +274,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "HARINA GRANEL KG",
-    "price": 4000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/330.png",
-    "url": "https://www.supermas.com.py/harina-granel-kg-p4819",
-    "brand": "",
-    "measure": "KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "FARIÑA  GRANEL KG",
     "price": 12500.0,
     "currency": "Gs.",
@@ -8258,22 +8242,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "SALSA ARCO IRIS AJO VINAGRE 900 ML",
-    "price": 36650.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/90329.jpg",
-    "url": "https://www.supermas.com.py/salsa-arco-iris-ajo-vinagre-900-ml-p11593",
-    "brand": "",
-    "measure": "900 ML",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "SALSA ARCO IRIS MOZTAZA DIJON 900 ML",
     "price": 27800.0,
     "currency": "Gs.",
@@ -9001,22 +8969,6 @@
     "url": "https://www.supermas.com.py/condimento-arcoiris-oregano-limon-25gr-p16693",
     "brand": "",
     "measure": "25 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "MEZCLA DE HIERBAS ARCOIRIS PAQ.",
-    "price": 41800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/107296.jpg",
-    "url": "https://www.supermas.com.py/mezcla-de-hierbas-arcoiris-paq-p16730",
-    "brand": "",
-    "measure": "",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -25570,22 +25522,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "HARINA SOL BLANCA 000 5KG",
-    "price": 18500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/23040.png",
-    "url": "https://www.supermas.com.py/harina-sol-blanca-000-5kg-p2970",
-    "brand": "",
-    "measure": "5 KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "HARINA SOL BLANCA 000 1 KG",
     "price": 3800.0,
     "currency": "Gs.",
@@ -32002,6 +31938,70 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "EXTRACTO TOMATE EXCELLENT 60gr",
+    "price": 1300.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/135271.jpg",
+    "url": "https://www.supermas.com.py/extracto-tomate-excellent-60gr-p45961",
+    "brand": "Excellent",
+    "measure": "60 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "EXTRACTO TOMATE EXCELLENT 140gr",
+    "price": 2200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/extracto-tomate-excellent-140gr-p45962",
+    "brand": "Excellent",
+    "measure": "140 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "PULPA DE TOMATE DE LA HUERTA 520 GR",
+    "price": 4100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/136323.jpg",
+    "url": "https://www.supermas.com.py/pulpa-de-tomate-de-la-huerta-520-gr-p47044",
+    "brand": "",
+    "measure": "520 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SALSA CAROZZI POMAROLA PIZZA 200gr DOY PACK",
+    "price": 7950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140606.jpg",
+    "url": "https://www.supermas.com.py/salsa-carozzi-pomarola-pizza-200gr-doy-pack-p51459",
+    "brand": "",
+    "measure": "200 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ACEITE COCINERO OLIVA 1 LT",
     "price": 152200.0,
     "currency": "Gs.",
@@ -35651,7 +35651,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MAYONESA CON AJO SACHET DE 50G SABORES DE AREGUA",
-    "price": 2350.0,
+    "price": 2600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/133068.jpg",
     "url": "https://www.supermas.com.py/mayonesa-con-ajo-sachet-de-50g-sabores-de-aregua-p43662",
@@ -37251,7 +37251,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CAFE CAPUCCINO MELITTA LIGHT 140  GR",
-    "price": 20750.0,
+    "price": 20400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/65070.png",
     "url": "https://www.supermas.com.py/cafe-capuccino-melitta-light-140-gr-p6587",
@@ -38515,7 +38515,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CAFE GOURMET MELITTA CERRADO 250gr DOY P.",
-    "price": 51950.0,
+    "price": 50400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/139689.jpg",
     "url": "https://www.supermas.com.py/cafe-gourmet-melitta-cerrado-250gr-doy-p-p50513",
@@ -49330,22 +49330,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "GALLETITA OREO BTS IN&OUT 118gr",
-    "price": 6500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/galletita-oreo-bts-in-out-118gr-p63450",
-    "brand": "",
-    "measure": "118 GR",
-    "category": "GALLETITAS",
-    "subcategory": "GALLETITAS",
-    "category_path": [
-      "GALLETITAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "GALLETITA TURMIX CHOCO MARILAN 33gr",
     "price": 950.0,
     "currency": "Gs.",
@@ -54093,70 +54077,6 @@
     "subcategory": "ENLATADOS",
     "category_path": [
       "ENLATADOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "EXTRACTO TOMATE EXCELLENT 60gr",
-    "price": 1300.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/135271.jpg",
-    "url": "https://www.supermas.com.py/extracto-tomate-excellent-60gr-p45961",
-    "brand": "Excellent",
-    "measure": "60 GR",
-    "category": "TOMATES",
-    "subcategory": "TOMATES",
-    "category_path": [
-      "TOMATES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "EXTRACTO TOMATE EXCELLENT 140gr",
-    "price": 2200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/extracto-tomate-excellent-140gr-p45962",
-    "brand": "Excellent",
-    "measure": "140 GR",
-    "category": "TOMATES",
-    "subcategory": "TOMATES",
-    "category_path": [
-      "TOMATES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "PULPA DE TOMATE DE LA HUERTA 520 GR",
-    "price": 4100.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/136323.jpg",
-    "url": "https://www.supermas.com.py/pulpa-de-tomate-de-la-huerta-520-gr-p47044",
-    "brand": "",
-    "measure": "520 GR",
-    "category": "TOMATES",
-    "subcategory": "TOMATES",
-    "category_path": [
-      "TOMATES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "SALSA CAROZZI POMAROLA PIZZA 200gr DOY PACK",
-    "price": 7950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140606.jpg",
-    "url": "https://www.supermas.com.py/salsa-carozzi-pomarola-pizza-200gr-doy-pack-p51459",
-    "brand": "",
-    "measure": "200 GR",
-    "category": "TOMATES",
-    "subcategory": "TOMATES",
-    "category_path": [
-      "TOMATES"
     ]
   },
   {
@@ -60850,22 +60770,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "TE HINDU AROM SALUD CALMA/EQUIL x20un",
-    "price": 15400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/te-hindu-arom-salud-calma-equil-x20un-p62563",
-    "brand": "",
-    "measure": "20 UN",
-    "category": "TÉ",
-    "subcategory": "TÉ",
-    "category_path": [
-      "TÉ"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "TE ROJO 15gr SOBRE",
     "price": 3225.0,
     "currency": "Gs.",
@@ -64023,22 +63927,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/bizcochuelo-ersa-vainilla-540gr-p32490",
-    "brand": "",
-    "measure": "540 GR",
-    "category": "PREPARADO POSTRES",
-    "subcategory": "PREPARADO POSTRES",
-    "category_path": [
-      "PREPARADO POSTRES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "BIZCOCHUELO ERSA CHOCOLATE 540gr",
-    "price": 16500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122544.jpg",
-    "url": "https://www.supermas.com.py/bizcochuelo-ersa-chocolate-540gr-p32492",
     "brand": "",
     "measure": "540 GR",
     "category": "PREPARADO POSTRES",
@@ -72035,7 +71923,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CARNAZA NEGRA X KG",
-    "price": 52900.0,
+    "price": 65900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1020.png",
     "url": "https://www.supermas.com.py/carnaza-negra-x-kg-p982",
@@ -72259,7 +72147,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "COSTILLA DE CERDO X KG",
-    "price": 23900.0,
+    "price": 32400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1340.jpg",
     "url": "https://www.supermas.com.py/costilla-de-cerdo-x-kg-p1417",
@@ -72435,7 +72323,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "COLITA CUADRIL PUL X KG",
-    "price": 51900.0,
+    "price": 57500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/7158.png",
     "url": "https://www.supermas.com.py/colita-cuadril-pul-x-kg-p7682",
@@ -72851,7 +72739,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CARNAZA DE SEGUNDA X KG",
-    "price": 40900.0,
+    "price": 46900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/99414.png",
     "url": "https://www.supermas.com.py/carnaza-de-segunda-x-kg-p14635",
@@ -72995,7 +72883,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "BOGA X KG",
-    "price": 50900.0,
+    "price": 55000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82238.png",
     "url": "https://www.supermas.com.py/boga-x-kg-p18742",
@@ -73139,7 +73027,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "BONDIOLA DE CERDO X KG",
-    "price": 25500.0,
+    "price": 34400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/58885.jpg",
     "url": "https://www.supermas.com.py/bondiola-de-cerdo-x-kg-p32917",
@@ -73667,7 +73555,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "TAPA CUADRIL TROPA BEEF KG",
-    "price": 66000.0,
+    "price": 75600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/tapa-cuadril-tropa-beef-kg-p64062",
@@ -78738,22 +78626,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "YOGHURT LACTOLANDA POTE PIÑA 140  GR",
-    "price": 2200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13226.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-lactolanda-pote-pina-140-gr-p1388",
-    "brand": "Lactolanda",
-    "measure": "140 GR",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "YOGHURT LACTOLANDA POTE PIÑA 350  GR",
     "price": 4300.0,
     "currency": "Gs.",
@@ -78761,22 +78633,6 @@
     "url": "https://www.supermas.com.py/yoghurt-lactolanda-pote-pina-350-gr-p1389",
     "brand": "Lactolanda",
     "measure": "350 GR",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "YOGHURT FRUTTIGURT BANANA 1 LT",
-    "price": 8150.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13234.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-fruttigurt-banana-1-lt-p1390",
-    "brand": "",
-    "measure": "1 LT",
     "category": "LACTEOS",
     "subcategory": "LACTEOS",
     "category_path": [
@@ -79826,22 +79682,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "YOGHURT KISSY COCO SACHET 1 LT",
-    "price": 8150.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87507.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-kissy-coco-sachet-1-lt-p10847",
-    "brand": "",
-    "measure": "1 LT",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "YOGHURT LA PRADERA DURAZNO SACHET 500  GR",
     "price": 4400.0,
     "currency": "Gs.",
@@ -80530,22 +80370,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "YOGHURT LOS COLONOS DIET VAINILLA 200 CC",
-    "price": 3250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/99483.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-los-colonos-diet-vainilla-200-cc-p14684",
-    "brand": "",
-    "measure": "200 CC",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "YOGHURT LOS COLONOS DIET DURAZNO 200 CC",
     "price": 3250.0,
     "currency": "Gs.",
@@ -80743,22 +80567,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106957.jpg",
     "url": "https://www.supermas.com.py/yoghurt-doble-proteina-pera-180gr-la-fort-p16016",
-    "brand": "",
-    "measure": "180 GR",
-    "category": "LACTEOS",
-    "subcategory": "LACTEOS",
-    "category_path": [
-      "LACTEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "YOGHURT DOBLE PROTEINA MANGO 180GR LA FORT",
-    "price": 5450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106958.jpg",
-    "url": "https://www.supermas.com.py/yoghurt-doble-proteina-mango-180gr-la-fort-p16017",
     "brand": "",
     "measure": "180 GR",
     "category": "LACTEOS",
@@ -87433,22 +87241,6 @@
     "url": "https://www.supermas.com.py/agua-sin-gas-gond-wana-pico-sport-500ml-p27345",
     "brand": "",
     "measure": "500 ML",
-    "category": "BEBIDAS",
-    "subcategory": "BEBIDAS",
-    "category_path": [
-      "BEBIDAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "AGUA GASIFICADA GOND WANA 1Lt. BOTELLA.",
-    "price": 5450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/117805.jpg",
-    "url": "https://www.supermas.com.py/agua-gasificada-gond-wana-1lt-botella-p27346",
-    "brand": "",
-    "measure": "1 LT",
     "category": "BEBIDAS",
     "subcategory": "BEBIDAS",
     "category_path": [
@@ -97266,22 +97058,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "VINO ALMA MORA CABERNET SAUVIGNON 750cc",
-    "price": 44950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/80430.jpg",
-    "url": "https://www.supermas.com.py/vino-alma-mora-cabernet-sauvignon-750cc-p9420",
-    "brand": "",
-    "measure": "750 CC",
-    "category": "BEBIDAS",
-    "subcategory": "BEBIDAS",
-    "category_path": [
-      "BEBIDAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "VINO ALMA MORA MALBEC 750 CC",
     "price": 44950.0,
     "currency": "Gs.",
@@ -100898,22 +100674,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "MORCILLA FRANZ X KG",
-    "price": 28900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/morcilla-franz-x-kg-p38946",
-    "brand": "Franz",
-    "measure": "KG",
-    "category": "FIAMBRERIA",
-    "subcategory": "FIAMBRERIA",
-    "category_path": [
-      "FIAMBRERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CHORIZO TOSCANO LA PORKCINA X KG",
     "price": 26400.0,
     "currency": "Gs.",
@@ -102770,22 +102530,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "QUESO RANCO LAMINADO 250 GR",
-    "price": 23700.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/100258.jpg",
-    "url": "https://www.supermas.com.py/queso-ranco-laminado-250-gr-p81",
-    "brand": "",
-    "measure": "250 GR",
-    "category": "FIAMBRERIA",
-    "subcategory": "FIAMBRERIA",
-    "category_path": [
-      "FIAMBRERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "QUESO SANDWICH AL VACIO LA PRADERA X 200 GR",
     "price": 16500.0,
     "currency": "Gs.",
@@ -103545,22 +103289,6 @@
     "url": "https://www.supermas.com.py/queso-ricota-tche-x-kg-p16708",
     "brand": "",
     "measure": "KG",
-    "category": "FIAMBRERIA",
-    "subcategory": "FIAMBRERIA",
-    "category_path": [
-      "FIAMBRERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "REQUESON CULINARIO COLONOS 400GR",
-    "price": 21350.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/114300.jpg",
-    "url": "https://www.supermas.com.py/requeson-culinario-colonos-400gr-p23832",
-    "brand": "",
-    "measure": "400 GR",
     "category": "FIAMBRERIA",
     "subcategory": "FIAMBRERIA",
     "category_path": [
@@ -105186,22 +104914,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "PAN TRINCHA MAS X KG",
-    "price": 8000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/pan-trincha-mas-x-kg-p13513",
-    "brand": "",
-    "measure": "KG",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "ROSQUITA INTEGRAL MAS PAQUETE 500GR",
     "price": 14000.0,
     "currency": "Gs.",
@@ -105209,22 +104921,6 @@
     "url": "https://www.supermas.com.py/rosquita-integral-mas-paquete-500gr-p13912",
     "brand": "",
     "measure": "500 GR",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "PAN INTEGRAL SEMILLAS SUPERMAS X KG",
-    "price": 16000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/98547.png",
-    "url": "https://www.supermas.com.py/pan-integral-semillas-supermas-x-kg-p14369",
-    "brand": "Superma",
-    "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
     "subcategory": "PANADERIA Y CONFITERIA",
     "category_path": [
@@ -105458,22 +105154,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "TORTA ECONOMICA SUPER MAS X KG",
-    "price": 30000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/210.png",
-    "url": "https://www.supermas.com.py/torta-economica-super-mas-x-kg-p2723",
-    "brand": "",
-    "measure": "KG",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "MEDIALUNA CON RELLENO SMAS KG",
     "price": 29900.0,
     "currency": "Gs.",
@@ -105618,22 +105298,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "FACTURA CON RELLENO SUPERMAS KG",
-    "price": 27500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/95344.jpg",
-    "url": "https://www.supermas.com.py/factura-con-relleno-supermas-kg-p13318",
-    "brand": "Superma",
-    "measure": "KG",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "DONAS SUPERMAS X KG",
     "price": 25900.0,
     "currency": "Gs.",
@@ -105682,22 +105346,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "GALLETITA INTEGRAL X KG",
-    "price": 23900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/galletita-integral-x-kg-p14166",
-    "brand": "",
-    "measure": "KG",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "BUDIN DE NARANJA SUPERMAS X KG",
     "price": 22900.0,
     "currency": "Gs.",
@@ -105719,22 +105367,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/66700.jpg",
     "url": "https://www.supermas.com.py/galletita-de-avena-supermas-x-kg-p18132",
-    "brand": "Superma",
-    "measure": "KG",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "MASITA ROJA SUPERMAS XKG",
-    "price": 17000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/66610.jpg",
-    "url": "https://www.supermas.com.py/masita-roja-supermas-xkg-p18137",
     "brand": "Superma",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
@@ -106169,22 +105801,6 @@
     "url": "https://www.supermas.com.py/pan-sandwich-pantodos-460-gr-p1139",
     "brand": "",
     "measure": "460 GR",
-    "category": "PANADERIA Y CONFITERIA",
-    "subcategory": "PANADERIA Y CONFITERIA",
-    "category_path": [
-      "PANADERIA Y CONFITERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "PAN P/ PANCHO PANTODOS 420  GR",
-    "price": 7850.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/12468.jpg",
-    "url": "https://www.supermas.com.py/pan-p-pancho-pantodos-420-gr-p1140",
-    "brand": "",
-    "measure": "420 GR",
     "category": "PANADERIA Y CONFITERIA",
     "subcategory": "PANADERIA Y CONFITERIA",
     "category_path": [
@@ -107842,22 +107458,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "UVA BRASIL X KG",
-    "price": 30800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5100.jpg",
-    "url": "https://www.supermas.com.py/uva-brasil-x-kg-p5853",
-    "brand": "",
-    "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "MBURUCUYA X KG",
     "price": 32200.0,
     "currency": "Gs.",
@@ -107929,22 +107529,6 @@
     "url": "https://www.supermas.com.py/rabanito-x-unidad-p5866",
     "brand": "",
     "measure": "",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "POROTO PEKY X KG",
-    "price": 35000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5230.png",
-    "url": "https://www.supermas.com.py/poroto-peky-x-kg-p5867",
-    "brand": "",
-    "measure": "KG",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -108073,22 +107657,6 @@
     "url": "https://www.supermas.com.py/limon-tahiti-kg-p5881",
     "brand": "",
     "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "BROCOLI X UNIDAD",
-    "price": 16000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/5480.jpg",
-    "url": "https://www.supermas.com.py/brocoli-x-unidad-p5904",
-    "brand": "",
-    "measure": "",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -109497,22 +109065,6 @@
     "url": "https://www.supermas.com.py/papas-tradicional-aviko-450g-p18129",
     "brand": "",
     "measure": "450 GR",
-    "category": "CONGELADOS",
-    "subcategory": "CONGELADOS",
-    "category_path": [
-      "CONGELADOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "MILANESA DE MONDONGO LA CORDOBESITA  X KG",
-    "price": 32450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/89369.jpg",
-    "url": "https://www.supermas.com.py/milanesa-de-mondongo-la-cordobesita-x-kg-p18331",
-    "brand": "Bes",
-    "measure": "KG",
     "category": "CONGELADOS",
     "subcategory": "CONGELADOS",
     "category_path": [
@@ -118962,22 +118514,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "DISCO PARA EMPANADA LA CRIOLLA ECON. X 12 UND.",
-    "price": 3450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13512.png",
-    "url": "https://www.supermas.com.py/disco-para-empanada-la-criolla-econ-x-12-und-p1452",
-    "brand": "",
-    "measure": "12 UN",
-    "category": "OTROS ALIMENTOS",
-    "subcategory": "OTROS ALIMENTOS",
-    "category_path": [
-      "OTROS ALIMENTOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "TAPA CANELONES QUIERO MAS 1 KG",
     "price": 19800.0,
     "currency": "Gs.",
@@ -119351,22 +118887,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94115.jpg",
     "url": "https://www.supermas.com.py/raviolitos-de-carne-y-jamon-edward-x-500-gr-p12875",
-    "brand": "",
-    "measure": "500 GR",
-    "category": "OTROS ALIMENTOS",
-    "subcategory": "OTROS ALIMENTOS",
-    "category_path": [
-      "OTROS ALIMENTOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "TORTELLETIS DE CARNE Y JAMON EDWARD X 500  GR",
-    "price": 20900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/94116.jpg",
-    "url": "https://www.supermas.com.py/tortelletis-de-carne-y-jamon-edward-x-500-gr-p12876",
     "brand": "",
     "measure": "500 GR",
     "category": "OTROS ALIMENTOS",
@@ -120265,22 +119785,6 @@
     "url": "https://www.supermas.com.py/noquis-c-papas-hildebrand-500gr-p50861",
     "brand": "",
     "measure": "500 GR",
-    "category": "OTROS ALIMENTOS",
-    "subcategory": "OTROS ALIMENTOS",
-    "category_path": [
-      "OTROS ALIMENTOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "RAVIOLES QUIERO MAS DE POLLO 1kg",
-    "price": 29700.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140033.jpg",
-    "url": "https://www.supermas.com.py/ravioles-quiero-mas-de-pollo-1kg-p50876",
-    "brand": "",
-    "measure": "1 KG",
     "category": "OTROS ALIMENTOS",
     "subcategory": "OTROS ALIMENTOS",
     "category_path": [
@@ -140834,22 +140338,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "SECRET GEL INVISIBLE POWDER PROTECT COTTON 45GX12",
-    "price": 30150.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/135281.png",
-    "url": "https://www.supermas.com.py/secret-gel-invisible-powder-protect-cotton-45gx12-p45980",
-    "brand": "",
-    "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "SECRET CLINICAL SS POWDER PROTEC 45G X12",
     "price": 34750.0,
     "currency": "Gs.",
@@ -146898,38 +146386,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "CEPILLO DENTAL BOB ESPONJA",
-    "price": 25900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/42965.jpg",
-    "url": "https://www.supermas.com.py/cepillo-dental-bob-esponja-p5507",
-    "brand": "",
-    "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "CEPILLO KOLYNOS DENTAL MASTER PLUS",
-    "price": 9000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/43009.jpg",
-    "url": "https://www.supermas.com.py/cepillo-kolynos-dental-master-plus-p5515",
-    "brand": "",
-    "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CEPILLO JOHNSONS& JOHNSONS REACH ACCESS x 2",
     "price": 22900.0,
     "currency": "Gs.",
@@ -148121,22 +147577,6 @@
     "url": "https://www.supermas.com.py/crema-dental-colgate-tp-control-90gr-p17163",
     "brand": "Colgate",
     "measure": "90 GR",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "CREMA DENTAL COLGATE TEEN TITANS GO 60gr",
-    "price": 15050.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/108929.jpg",
-    "url": "https://www.supermas.com.py/crema-dental-colgate-teen-titans-go-60gr-p18115",
-    "brand": "Colgate",
-    "measure": "60 GR",
     "category": "ASEO PERSONAL",
     "subcategory": "ASEO PERSONAL",
     "category_path": [
@@ -151586,22 +151026,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "ACONDICIONADOR LOREAL ELVIVE TOTAL 400 ML",
-    "price": 45700.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/79708.jpg",
-    "url": "https://www.supermas.com.py/acondicionador-loreal-elvive-total-400-ml-p9229",
-    "brand": "",
-    "measure": "400 ML",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "TINTE CAPILAR CASTING LOREAL GLOSS 400 CASTAÑO",
     "price": 58300.0,
     "currency": "Gs.",
@@ -151783,22 +151207,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/81057.jpg",
     "url": "https://www.supermas.com.py/tinte-nutrise-intensa-40-castano-medio-p9572",
-    "brand": "",
-    "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "TINTE NUTRISE INTENSA 50 CASTAÑO CLARO",
-    "price": 21050.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/81059.jpg",
-    "url": "https://www.supermas.com.py/tinte-nutrise-intensa-50-castano-claro-p9574",
     "brand": "",
     "measure": "",
     "category": "ASEO PERSONAL",
@@ -152457,10 +151865,10 @@
     "url": "https://www.supermas.com.py/shampoo-olio-cebo-control-420-ml-p11909",
     "brand": "",
     "measure": "420 ML",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -152473,10 +151881,10 @@
     "url": "https://www.supermas.com.py/shampoo-plusbelle-esencia-restaur-1lt-p11918",
     "brand": "Plusbelle",
     "measure": "1 LT",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -152489,10 +151897,10 @@
     "url": "https://www.supermas.com.py/acondicionador-plusbelle-control-1ltesencia-p11922",
     "brand": "Plusbelle",
     "measure": "1 LT",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -152505,10 +151913,10 @@
     "url": "https://www.supermas.com.py/acondicionador-plusbelle-fuerza-repa-1ltesencia-p11924",
     "brand": "Plusbelle",
     "measure": "1 LT",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -152521,10 +151929,10 @@
     "url": "https://www.supermas.com.py/sedal-sh-ceramidas-12x340ml-p11938",
     "brand": "",
     "measure": "340 ML",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -152537,10 +151945,10 @@
     "url": "https://www.supermas.com.py/shampoo-sedal-rizos-definidos-190ml-p11939",
     "brand": "",
     "measure": "190 ML",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -169682,22 +169090,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "BOLSA RESIDUO BAEN PLAST COLOR 10 x150 LT",
-    "price": 7150.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/28091.png",
-    "url": "https://www.supermas.com.py/bolsa-residuo-baen-plast-color-10-x150-lt-p4042",
-    "brand": "",
-    "measure": "150 LT",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "BOLSA P/RESIDUOS COLOR 60 Lt REFORZADAS",
     "price": 2900.0,
     "currency": "Gs.",
@@ -170665,22 +170057,6 @@
     "url": "https://www.supermas.com.py/detergente-quatro-limon-500-cc-p4182",
     "brand": "",
     "measure": "500 CC",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "DETERGENTE QUATRO NEUTRO 5 LT",
-    "price": 18150.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/28771.png",
-    "url": "https://www.supermas.com.py/detergente-quatro-neutro-5-lt-p4183",
-    "brand": "",
-    "measure": "5 LT",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -182994,22 +182370,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "APRESTO ASI PLANCHA FACIL 500ml DOY",
-    "price": 13050.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/apresto-asi-plancha-facil-500ml-doy-p45378",
-    "brand": "",
-    "measure": "500 ML",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "JABON LIQ.ROPA ASI F.MAX 900ml DOY PACK",
     "price": 16100.0,
     "currency": "Gs.",
@@ -185991,22 +185351,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/27514.jpg",
     "url": "https://www.supermas.com.py/escoba-lindona-vs-38-p3959",
-    "brand": "",
-    "measure": "",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "ESCOBA LADY VS58",
-    "price": 24100.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/27521.jpg",
-    "url": "https://www.supermas.com.py/escoba-lady-vs58-p3962",
     "brand": "",
     "measure": "",
     "category": "LIMPIEZA",
@@ -192306,22 +191650,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "ALIMENTO PRIMOCAO RASA PEQ VEGETAL 1 KG",
-    "price": 22900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/98195.png",
-    "url": "https://www.supermas.com.py/alimento-primocao-rasa-peq-vegetal-1-kg-p14169",
-    "brand": "",
-    "measure": "1 KG",
-    "category": "MASCOTAS",
-    "subcategory": "MASCOTAS",
-    "category_path": [
-      "MASCOTAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "ALIMENTO GAUCHO CACHORRO  GRANEL X KG",
     "price": 9700.0,
     "currency": "Gs.",
@@ -192665,22 +191993,6 @@
     "url": "https://www.supermas.com.py/comida-perro-dogui-adulto-21kg-bolsa-p15184",
     "brand": "",
     "measure": "21 KG",
-    "category": "MASCOTAS",
-    "subcategory": "MASCOTAS",
-    "category_path": [
-      "MASCOTAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "COMIDA P/PERRO PRONTO DOG 25 KG ADULTO",
-    "price": 153450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106126.png",
-    "url": "https://www.supermas.com.py/comida-p-perro-pronto-dog-25-kg-adulto-p15187",
-    "brand": "",
-    "measure": "25 KG",
     "category": "MASCOTAS",
     "subcategory": "MASCOTAS",
     "category_path": [
@@ -193401,22 +192713,6 @@
     "url": "https://www.supermas.com.py/pronto-dog-raza-peq-xkg-granel-p40674",
     "brand": "",
     "measure": "KG",
-    "category": "MASCOTAS",
-    "subcategory": "MASCOTAS",
-    "category_path": [
-      "MASCOTAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "COMIDA P/PERRO CANES x25kg",
-    "price": 130650.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/130258.jpg",
-    "url": "https://www.supermas.com.py/comida-p-perro-canes-x25kg-p40732",
-    "brand": "",
-    "measure": "25 KG",
     "category": "MASCOTAS",
     "subcategory": "MASCOTAS",
     "category_path": [
@@ -204498,22 +203794,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "PLANTERA AQUARELA MINI - VERDE CLARO",
-    "price": 4950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/plantera-aquarela-mini-verde-claro-p34806",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "PLANTERA AQUARELA N2,5 - TIFFANY (CON PLATO)",
     "price": 15150.0,
     "currency": "Gs.",
@@ -212722,22 +212002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "ZAP.HAVAIANA COLOR BRISA LILA 37/8",
-    "price": 34000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/zaphavaiana-color-brisa-lila-37-8-p43411",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "MARCA TEXTO CLASSIC PASTEL BLISTER X 4 MAPED",
     "price": 30100.0,
     "currency": "Gs.",
@@ -213431,22 +212695,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/vincha-p-cabeza-limpieza-cutis-p44055",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "GORRO TELA PARA DUCHA",
-    "price": 22500.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/gorro-tela-para-ducha-p44057",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -220983,22 +220231,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/vianda-3pz-rojo-soprano-p51018",
-    "brand": "",
-    "measure": "",
-    "category": "NO TRADICIONALES",
-    "subcategory": "NO TRADICIONALES",
-    "category_path": [
-      "NO TRADICIONALES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "CACEROLA PANELART N°20 229",
-    "price": 41900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/cacerola-panelart-n-20-229-p51019",
     "brand": "",
     "measure": "",
     "category": "NO TRADICIONALES",
@@ -230002,6 +229234,70 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "Z-JUGUETE ANDADOR",
+    "price": 23750.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/z-juguete-andador-p57539",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "Z-ADORNO NAVIDEÑO",
+    "price": 7400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/z-adorno-navideno-p57574",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "Z-ADORNO NAVIDEÑO",
+    "price": 7400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/z-adorno-navideno-p57575",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "Z-ADORNO NAVIDEÑO",
+    "price": 13500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/z-adorno-navideno-p57577",
+    "brand": "",
+    "measure": "",
+    "category": "NO TRADICIONALES",
+    "subcategory": "NO TRADICIONALES",
+    "category_path": [
+      "NO TRADICIONALES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "FOCO PHILIPS CLARA 60W E27.",
     "price": 3650.0,
     "currency": "Gs.",
@@ -230263,22 +229559,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/foco-led-de-7w-bi-volt-luz-calida-3000k-p33025",
-    "brand": "",
-    "measure": "",
-    "category": "ELECTRICIDAD",
-    "subcategory": "ELECTRICIDAD",
-    "category_path": [
-      "ELECTRICIDAD"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "FOCO LED DE 9W BI-VOLT LUZ CALIDA 3000K",
-    "price": 13200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/foco-led-de-9w-bi-volt-luz-calida-3000k-p33026",
     "brand": "",
     "measure": "",
     "category": "ELECTRICIDAD",
@@ -230585,22 +229865,6 @@
     "url": "https://www.supermas.com.py/carbon-vegetal-arriero-3kg-p15657",
     "brand": "",
     "measure": "3 KG",
-    "category": "CARBON",
-    "subcategory": "CARBON",
-    "category_path": [
-      "CARBON"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "CARBON VEGETAL ARRIERO 5kg",
-    "price": 14950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/carbon-vegetal-arriero-5kg-p15658",
-    "brand": "",
-    "measure": "5 KG",
     "category": "CARBON",
     "subcategory": "CARBON",
     "category_path": [
@@ -231847,22 +231111,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/76229.jpg",
     "url": "https://www.supermas.com.py/vela-palito-corinter-x-10-blanco-p8612",
-    "brand": "",
-    "measure": "",
-    "category": "COTILLON",
-    "subcategory": "COTILLON",
-    "category_path": [
-      "COTILLON"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "CINTA FINA VERDE OSC. B&B-16MM X 50MTS.",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/cinta-fina-verde-osc-b-b-16mm-x-50mts-p8617",
     "brand": "",
     "measure": "",
     "category": "COTILLON",
@@ -236007,22 +235255,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/pinata-sroque-gigante-naranja-p33900",
-    "brand": "",
-    "measure": "",
-    "category": "COTILLON",
-    "subcategory": "COTILLON",
-    "category_path": [
-      "COTILLON"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "PIÑATA S.ROQUE GIGANTE ROSA LISO",
-    "price": 9100.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/pinata-sroque-gigante-rosa-liso-p33901",
     "brand": "",
     "measure": "",
     "category": "COTILLON",
@@ -241074,22 +240306,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "GLOBOS JAVYA N9 LISO BOLSA x25 - ROJO",
-    "price": 7800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/globos-javya-n9-liso-bolsa-x25-rojo-p61755",
-    "brand": "",
-    "measure": "",
-    "category": "COTILLON",
-    "subcategory": "COTILLON",
-    "category_path": [
-      "COTILLON"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "GLOBOS JAVYA N9 LISO BOLSA x25 - AZUL",
     "price": 7800.0,
     "currency": "Gs.",
@@ -243810,22 +243026,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "CINTA TEFLON 3/4 X 10M",
-    "price": 3900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/cinta-teflon-3-4-x-10m-p30535",
-    "brand": "",
-    "measure": "",
-    "category": "FERRETERIA",
-    "subcategory": "FERRETERIA",
-    "category_path": [
-      "FERRETERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "LINTERNA RAYOVAC 2D LED",
     "price": 22250.0,
     "currency": "Gs.",
@@ -245522,22 +244722,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "CINTA AISLADORA 18MM X 20M",
-    "price": 11630.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/cinta-aisladora-18mm-x-20m-p53504",
-    "brand": "",
-    "measure": "",
-    "category": "FERRETERIA",
-    "subcategory": "FERRETERIA",
-    "category_path": [
-      "FERRETERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CINTA AISLADORA 19MM X 10M",
     "price": 6470.0,
     "currency": "Gs.",
@@ -245879,22 +245063,6 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/toma-externa-shuko-p53550",
-    "brand": "",
-    "measure": "",
-    "category": "FERRETERIA",
-    "subcategory": "FERRETERIA",
-    "category_path": [
-      "FERRETERIA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "RESISTENCIA P/ DUCHA ELECTRICA MAXI 3T220V5400W",
-    "price": 45300.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/resistencia-p-ducha-electrica-maxi-3t220v5400w-p53552",
     "brand": "",
     "measure": "",
     "category": "FERRETERIA",
@@ -247123,7 +246291,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FILTRO CAFE BRIGITTA 102 X 48 UN.",
-    "price": 6100.0,
+    "price": 5993.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/48804.jpg",
     "url": "https://www.supermas.com.py/filtro-cafe-brigitta-102-x-48-un-p5754",
@@ -257785,22 +256953,6 @@
     "url": "https://www.supermas.com.py/asadera-redonda-26cm-1-l-special-airfryer-p64004",
     "brand": "",
     "measure": "1 LT",
-    "category": "VIDRIOS",
-    "subcategory": "VIDRIOS",
-    "category_path": [
-      "VIDRIOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "ASADERA VIDRIO RECTANGULAR 23X15X7 CM 1,2 L SPECIA",
-    "price": 31200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/asadera-vidrio-rectangular-23x15x7-cm-1-2-l-specia-p64006",
-    "brand": "",
-    "measure": "1,2 LT",
     "category": "VIDRIOS",
     "subcategory": "VIDRIOS",
     "category_path": [
@@ -306984,24 +306136,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TAZA C/PLATITO 220ML D/CERAMICA BLANCO ZIBO S/E REF 023417W",
-    "price": 8500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/142783-taza-cplatito-220ml-dceramica-blanco-zibo-se-ref-023417w.aspx",
-    "brand": "",
-    "measure": "220 ML",
-    "category": "bazar",
-    "subcategory": "ceramicaporcelanaloza",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "ceramicaporcelanaloza"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TAZA C/ DISEÑO INFANTIL PLAS 360ML JAGUAR REF 4166",
     "price": 8900.0,
     "currency": "Gs.",
@@ -307027,6 +306161,24 @@
     "url": "https://www.stock.com.py/products/255216-plato-hondo-gourmet-flint-rigolleau-se-62301.aspx",
     "brand": "",
     "measure": "",
+    "category": "bazar",
+    "subcategory": "ceramicaporcelanaloza",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "ceramicaporcelanaloza"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TAZA C/PLATITO 220ML D/CERAMICA BLANCO ZIBO S/E REF 023417W",
+    "price": 8500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/142783-taza-cplatito-220ml-dceramica-blanco-zibo-se-ref-023417w.aspx",
+    "brand": "",
+    "measure": "220 ML",
     "category": "bazar",
     "subcategory": "ceramicaporcelanaloza",
     "category_path": [
@@ -316255,11 +315407,34 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
-    "price": 50200.0,
+    "name": "COBERTOR P/COMIDAS X 3UN CUBRE TODO BSA",
+    "price": 18200.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/12838-foil-para-profes-30-cmx30-mts.aspx",
+    "url": "https://www.stock.com.py/products/130720-cobertor-pcomidas-x-3un-cubre-todo-bsa.aspx",
+    "brand": "",
+    "measure": "3 UN",
+    "category": "no",
+    "subcategory": "alimentos",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cuidado",
+      "y",
+      "manejo",
+      "de",
+      "alimentos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLSA CAMISILLA LAVA 1000 45X60 X100 UNIDADES",
+    "price": 30650.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287339-bolsa-camisilla-lava-1000-45x60-x100-unidades.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -316278,13 +315453,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COBERTOR P/COMIDAS X 3UN CUBRE TODO BSA",
-    "price": 18200.0,
+    "name": "BOLSA CAMISILLA LAVA 1000 25X40 X100 UNIDADES",
+    "price": 9000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/130720-cobertor-pcomidas-x-3un-cubre-todo-bsa.aspx",
+    "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
     "brand": "",
-    "measure": "3 UN",
+    "measure": "",
     "category": "no",
     "subcategory": "alimentos",
     "category_path": [
@@ -316347,34 +315522,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 45X60 X100 UNIDADES",
-    "price": 30650.0,
+    "name": "PAPEL DE ALUMINIO30 CMX30 MTS",
+    "price": 50200.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287339-bolsa-camisilla-lava-1000-45x60-x100-unidades.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOLSA CAMISILLA LAVA 1000 25X40 X100 UNIDADES",
-    "price": 9000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287355-bolsa-camisilla-lava-1000-25x40-x100-unidades.aspx",
+    "url": "https://www.stock.com.py/products/12838-foil-para-profes-30-cmx30-mts.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -364288,6 +363440,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "CRAYOLA FABER GRIP 12C",
+    "price": 10000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/27859-crayola-faber-grip-12c.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "LAPIZ COLOR FABER BICOLOR ECO 6UN 12060 CJA",
     "price": 12000.0,
     "currency": "Gs.",
@@ -371771,6 +370941,96 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "ESPONJA DE ACERO X 3UN VILEDA PACK",
+    "price": 11600.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/279210-esponja-de-acero-x-3un-vileda-pack.aspx",
+    "brand": "",
+    "measure": "3 UN",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ESPONJA WASH CAR ANATOMICA",
+    "price": 13450.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/312988-esponja-wash-car-anatomica.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ESPONJA POLIFOAM ANTIADHERENTE",
+    "price": 8900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/312989-esponja-polifoam-antiadherente.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PACK ESPONJAS MULTIUSO X4 / ALAMBRILLO G",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314926-pack-esponjas-multiuso-x4-alambrillo-g.aspx",
+    "brand": "",
+    "measure": "GR",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PACK ESPONJAS C/FIBRA X4 / 2 ESPONJAS MU",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314927-pack-esponjas-cfibra-x4-2-esponjas-mu.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ESPONJA LAVAVAJILLAS X UNID EL TIGRE PAQ",
     "price": 2950.0,
     "currency": "Gs.",
@@ -371884,96 +371144,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/308194-pack-esponjas-multiuso-x4-fibra-gratis-limcrom.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA DE ACERO X 3UN VILEDA PACK",
-    "price": 11600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279210-esponja-de-acero-x-3un-vileda-pack.aspx",
-    "brand": "",
-    "measure": "3 UN",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA WASH CAR ANATOMICA",
-    "price": 13450.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/312988-esponja-wash-car-anatomica.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA POLIFOAM ANTIADHERENTE",
-    "price": 8900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/312989-esponja-polifoam-antiadherente.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PACK ESPONJAS MULTIUSO X4 / ALAMBRILLO G",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314926-pack-esponjas-multiuso-x4-alambrillo-g.aspx",
-    "brand": "",
-    "measure": "GR",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PACK ESPONJAS C/FIBRA X4 / 2 ESPONJAS MU",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314927-pack-esponjas-cfibra-x4-2-esponjas-mu.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
@@ -420468,7 +419638,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "GEL INTIMO NIVEA NATURAL FRASCO 250ML",
-    "price": 53600.0,
+    "price": 45550.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0161711_500.jpeg",
     "url": "https://www.stock.com.py/products/27614-gel-intimo-nivea-natural-fco-250ml.aspx",
@@ -421241,7 +420411,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "DESMAQUILLANTE BIFASICO D/OJOS 125ML NIVEA FRA",
-    "price": 64100.0,
+    "price": 54500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0179231_500.jpeg",
     "url": "https://www.stock.com.py/products/151999-desmaquillante-bifasico-dojos-125ml-nivea-fra.aspx",
@@ -422705,7 +421875,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "PROTECTOR LABIAL MED REPAIR LIP CARE 4.8G NIVEA",
-    "price": 32600.0,
+    "price": 27700.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0179297_500.jpeg",
     "url": "https://www.stock.com.py/products/284756-protector-labial-med-repair-lip-care-48g-nivea.aspx",
@@ -424342,7 +423512,7 @@
     "site": "Stock",
     "site_id": "stock",
     "name": "ESCOBA PEQUEÑA 1UN DAYO",
-    "price": 13900.0,
+    "price": 11900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0213387_500.png",
     "url": "https://www.stock.com.py/products/330517-escobapequena-1un-dayo.aspx",
