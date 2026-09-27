@@ -37091,7 +37091,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CAFE EXTRA FORTE MELITTA 500  GR",
-    "price": 51825.0,
+    "price": 54300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/19938.jpg",
     "url": "https://www.supermas.com.py/cafe-extra-forte-melitta-500-gr-p2638",
@@ -107849,22 +107849,6 @@
     "url": "https://www.supermas.com.py/calabaza-x-kg-p3796",
     "brand": "",
     "measure": "KG",
-    "category": "FRUTAS Y VERDURAS",
-    "subcategory": "FRUTAS Y VERDURAS",
-    "category_path": [
-      "FRUTAS Y VERDURAS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "LECHUGA MANTECOSA X MAZO",
-    "price": 4200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2660.png",
-    "url": "https://www.supermas.com.py/lechuga-mantecosa-x-mazo-p3802",
-    "brand": "",
-    "measure": "",
     "category": "FRUTAS Y VERDURAS",
     "subcategory": "FRUTAS Y VERDURAS",
     "category_path": [
@@ -180131,7 +180115,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "QUITA MANCHA TRENET BOLILLA 120 ML",
-    "price": 13900.0,
+    "price": 13500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/29704.jpg",
     "url": "https://www.supermas.com.py/quita-mancha-trenet-bolilla-120-ml-p4333",
@@ -365604,12 +365588,12 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "FIGURAD/ OJOS DY REF.3042539",
-    "price": 7500.0,
+    "name": "KIT ESCOLAR DAYO REF 27488/489",
+    "price": 15850.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
-    "brand": "",
+    "url": "https://www.stock.com.py/products/320429-kit-escolar-dayo-ref-27488489.aspx",
+    "brand": "Dayo",
     "measure": "",
     "category": "libreria",
     "subcategory": "varios",
@@ -365802,12 +365786,12 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "KIT ESCOLAR DAYO REF 27488/489",
-    "price": 15850.0,
+    "name": "FIGURAD/ OJOS DY REF.3042539",
+    "price": 7500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320429-kit-escolar-dayo-ref-27488489.aspx",
-    "brand": "Dayo",
+    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
+    "brand": "",
     "measure": "",
     "category": "libreria",
     "subcategory": "varios",
@@ -367105,6 +367089,24 @@
     "url": "https://www.stock.com.py/products/320247-lapiz-de-color-x12pcs-9018.aspx",
     "brand": "",
     "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CRAYOLA 10UN REGULAR KIDART",
+    "price": 6500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320478-crayola-10un-regular-kidart.aspx",
+    "brand": "",
+    "measure": "10 UN",
     "category": "libreria",
     "subcategory": "color",
     "category_path": [
@@ -374401,6 +374403,96 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "ESPONJA DE ACERO X 3UN VILEDA PACK",
+    "price": 11600.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/279210-esponja-de-acero-x-3un-vileda-pack.aspx",
+    "brand": "",
+    "measure": "3 UN",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ESPONJA WASH CAR ANATOMICA",
+    "price": 13450.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/312988-esponja-wash-car-anatomica.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "ESPONJA POLIFOAM ANTIADHERENTE",
+    "price": 8900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/312989-esponja-polifoam-antiadherente.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PACK ESPONJAS MULTIUSO X4 / ALAMBRILLO G",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314926-pack-esponjas-multiuso-x4-alambrillo-g.aspx",
+    "brand": "",
+    "measure": "GR",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PACK ESPONJAS C/FIBRA X4 / 2 ESPONJAS MU",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314927-pack-esponjas-cfibra-x4-2-esponjas-mu.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ESPONJA LAVAVAJILLAS X UNID EL TIGRE PAQ",
     "price": 2950.0,
     "currency": "Gs.",
@@ -374514,96 +374606,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/308194-pack-esponjas-multiuso-x4-fibra-gratis-limcrom.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA DE ACERO X 3UN VILEDA PACK",
-    "price": 11600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279210-esponja-de-acero-x-3un-vileda-pack.aspx",
-    "brand": "",
-    "measure": "3 UN",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA WASH CAR ANATOMICA",
-    "price": 13450.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/312988-esponja-wash-car-anatomica.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA POLIFOAM ANTIADHERENTE",
-    "price": 8900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/312989-esponja-polifoam-antiadherente.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PACK ESPONJAS MULTIUSO X4 / ALAMBRILLO G",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314926-pack-esponjas-multiuso-x4-alambrillo-g.aspx",
-    "brand": "",
-    "measure": "GR",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PACK ESPONJAS C/FIBRA X4 / 2 ESPONJAS MU",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314927-pack-esponjas-cfibra-x4-2-esponjas-mu.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
