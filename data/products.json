@@ -182883,7 +182883,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LAVANDINA AYUDIN CLASICA 1Lt..",
-    "price": 6078.0,
+    "price": 6150.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/119733.jpg",
     "url": "https://www.supermas.com.py/lavandina-ayudin-clasica-1lt-p29424",
@@ -182915,7 +182915,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LAVANDINA EN GEL AYUDIN CITRICA 450cc",
-    "price": 11925.0,
+    "price": 12300.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/105451.jpg",
     "url": "https://www.supermas.com.py/lavandina-en-gel-ayudin-citrica-450cc-p30642",
@@ -189635,7 +189635,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LIMPIADOR DESINFECTANTE AYUDIN FLORAL 900ML",
-    "price": 8550.0,
+    "price": 8360.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111622.jpg",
     "url": "https://www.supermas.com.py/limpiador-desinfectante-ayudin-floral-900ml-p21057",
@@ -317793,6 +317793,23 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "ALFOMBRA P/ENTRADA 38X58 DAYO AT 009",
+    "price": 26900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/300422-alfombra-pentrada-38x58-dayo-at-009.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "decoracion",
+    "subcategory": "hogar",
+    "category_path": [
+      "decoracion",
+      "hogar"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ALFOMBRA P/ENTRADA RED 60CM DAYORO901A DAYO x 30",
     "price": 44900.0,
     "currency": "Gs.",
@@ -317815,23 +317832,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/323013-esterilla-dplast-dayo-ref34800-2.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "decoracion",
-    "subcategory": "hogar",
-    "category_path": [
-      "decoracion",
-      "hogar"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ALFOMBRA P/ENTRADA 38X58 DAYO AT 009",
-    "price": 26900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/300422-alfombra-pentrada-38x58-dayo-at-009.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "decoracion",
@@ -365612,24 +365612,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CRAYOLA 10UN REGULAR KIDART",
-    "price": 6500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320478-crayola-10un-regular-kidart.aspx",
-    "brand": "",
-    "measure": "10 UN",
-    "category": "libreria",
-    "subcategory": "color",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "color"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LAPIZ D/COL 12U DAYO REF 27215/216",
     "price": 6800.0,
     "currency": "Gs.",
@@ -374893,24 +374875,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TRAPO DE PISO MEDIA NARANJA MULTICOLOR G REFORZADO 58 X 60 CM",
-    "price": 11500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/292557-trapo-de-piso-media-naranja-multicolor-g-reforzado-58-x-60-cm.aspx",
-    "brand": "",
-    "measure": "GR",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "REJILLA BLANCA LAVA 1000 38CM X 41CM",
     "price": 4900.0,
     "currency": "Gs.",
@@ -374972,6 +374936,24 @@
     "url": "https://www.stock.com.py/products/292525-trapo-de-piso-media-naranja-blanco-reforzado-m-clasico-48-x-60-cm.aspx",
     "brand": "",
     "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO DE PISO MEDIA NARANJA MULTICOLOR G REFORZADO 58 X 60 CM",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/292557-trapo-de-piso-media-naranja-multicolor-g-reforzado-58-x-60-cm.aspx",
+    "brand": "",
+    "measure": "GR",
     "category": "limpieza",
     "subcategory": "panosfranelarejillas",
     "category_path": [
