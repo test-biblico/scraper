@@ -61890,22 +61890,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "JARABE GLUCOSA COPALSA 250  GR",
-    "price": 4200.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/17368_resultado.jpg",
-    "url": "https://www.supermas.com.py/jarabe-glucosa-copalsa-250-gr-p2079",
-    "brand": "",
-    "measure": "250 GR",
-    "category": "PREPARADO POSTRES",
-    "subcategory": "PREPARADO POSTRES",
-    "category_path": [
-      "PREPARADO POSTRES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "JALEA BRILLO AL FRIO COPALSA 1 KG",
     "price": 13450.0,
     "currency": "Gs.",
@@ -178803,7 +178787,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "AYUDIN AER DSNF EXPERT FRSCAMAT 6/332ML",
-    "price": 15075.0,
+    "price": 15550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/ayudin-aer-dsnf-expert-frscamat-6-332ml-p59076",
@@ -182947,7 +182931,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LAVANDINA AYUDIN CLASICA 1Lt..",
-    "price": 6078.0,
+    "price": 6150.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/119733.jpg",
     "url": "https://www.supermas.com.py/lavandina-ayudin-clasica-1lt-p29424",
@@ -183267,7 +183251,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LAVANDINA AYUDIN ROPA BCA 650ml DOY PACK",
-    "price": 13800.0,
+    "price": 14100.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/106117.jpg",
     "url": "https://www.supermas.com.py/lavandina-ayudin-ropa-bca-650ml-doy-pack-p32512",
@@ -189715,7 +189699,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LIMPIADOR DESINFECTANTE AYUDIN MARINA 900ml",
-    "price": 8550.0,
+    "price": 8360.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111621.jpg",
     "url": "https://www.supermas.com.py/limpiador-desinfectante-ayudin-marina-900ml-p21056",
@@ -248419,7 +248403,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FILTRO CAFE MELITTA Nª 103 x 30",
-    "price": 7013.0,
+    "price": 7150.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/48803.png",
     "url": "https://www.supermas.com.py/filtro-cafe-melitta-n-103-x-30-p5753",
@@ -248435,7 +248419,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FILTRO CAFE BRIGITTA 102 X 48 UN.",
-    "price": 6100.0,
+    "price": 5993.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/48804.jpg",
     "url": "https://www.supermas.com.py/filtro-cafe-brigitta-102-x-48-un-p5754",
@@ -249171,7 +249155,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "FILTRO MELITA CAF/ELECT.N°2",
-    "price": 7600.0,
+    "price": 7480.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/97814.png",
     "url": "https://www.supermas.com.py/filtro-melita-caf-electn-2-p14121",
@@ -287133,23 +287117,6 @@
     "subcategory": "enlatadas",
     "category_path": [
       "frutas",
-      "enlatadas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "Arvejas BIANCA 200 gr.",
-    "price": 3950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0211707_500.jpeg",
-    "url": "https://www.stock.com.py/products/28731-arveja-bianca-lata-200gr.aspx",
-    "brand": "Bianca",
-    "measure": "200 GR",
-    "category": "legumbres",
-    "subcategory": "enlatadas",
-    "category_path": [
-      "legumbres",
       "enlatadas"
     ]
   },
@@ -337688,24 +337655,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PECHUGA DE POLLO SIN PIEL DESHUESADA - CONGELADA PECHUGON xKG",
-    "price": 30000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0216300_500.jpeg",
-    "url": "https://www.stock.com.py/products/300660-pechuga-de-pollo-sin-piel-deshuesada-congelada-pechugon-xkg.aspx",
-    "brand": "",
-    "measure": "KG",
-    "category": "perecedero",
-    "subcategory": "pollos",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "pollos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "CORAZON DE POLLO CONGELADO PECHUGON xKG",
     "price": 32950.0,
     "currency": "Gs.",
@@ -365078,6 +365027,24 @@
     "url": "https://www.stock.com.py/products/320247-lapiz-de-color-x12pcs-9018.aspx",
     "brand": "",
     "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CRAYOLA 10UN REGULAR KIDART",
+    "price": 6500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320478-crayola-10un-regular-kidart.aspx",
+    "brand": "",
+    "measure": "10 UN",
     "category": "libreria",
     "subcategory": "color",
     "category_path": [
