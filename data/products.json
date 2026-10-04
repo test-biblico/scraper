@@ -362304,24 +362304,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "FIGURAD/ OJOS DY REF.3042539",
-    "price": 7500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "KIT ESCOLAR DAYO REF 27488/489",
     "price": 15850.0,
     "currency": "Gs.",
@@ -362507,6 +362489,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/326448-figurasd-ojos-ccolor-dy-ref3042540.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FIGURAD/ OJOS DY REF.3042539",
+    "price": 7500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -363618,24 +363618,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CRAYOLA FABER GRIP 12C",
-    "price": 10000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/27859-crayola-faber-grip-12c.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "color",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "color"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LAPIZ COLOR FABER BICOLOR ECO 6UN 12060 CJA",
     "price": 12000.0,
     "currency": "Gs.",
@@ -363858,6 +363840,24 @@
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/320494-lapiz-dcol-12u-dayo-ref-27217.aspx",
     "brand": "Dayo",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CRAYOLA FABER GRIP 12C",
+    "price": 10000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/27859-crayola-faber-grip-12c.aspx",
+    "brand": "",
     "measure": "",
     "category": "libreria",
     "subcategory": "color",
