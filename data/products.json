@@ -1475,7 +1475,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CHOCOLATADA APTI INSTANTANEO POWER REFIL 12 X700GR",
-    "price": 20000.0,
+    "price": 10000.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/136534.jpg",
     "url": "https://www.supermas.com.py/chocolatada-apti-instantaneo-power-refil-12-x700gr-p47254",
@@ -2329,6 +2329,22 @@
     "url": "https://www.supermas.com.py/arroz-primicia-rojo-500gr-p3130",
     "brand": "Primicia",
     "measure": "500 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ARROZ PRIMICIA AZUL 5 KG",
+    "price": 33950.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/23584.jpg",
+    "url": "https://www.supermas.com.py/arroz-primicia-azul-5-kg-p3132",
+    "brand": "Primicia",
+    "measure": "5 KG",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -13714,6 +13730,38 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "FIDEOS TALLARIN/MOÑITO xkg GRANEL",
+    "price": 7750.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3240.jpg",
+    "url": "https://www.supermas.com.py/fideos-tallarin-monito-xkg-granel-p4776",
+    "brand": "",
+    "measure": "KG",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "FIDEOS  GRANEL KG",
+    "price": 7450.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/350.png",
+    "url": "https://www.supermas.com.py/fideos-granel-kg-p4956",
+    "brand": "",
+    "measure": "KG",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "FIDEOS HILDEBRAND SPAGHETTI FINO 5 KG",
     "price": 34100.0,
     "currency": "Gs.",
@@ -16489,6 +16537,22 @@
     "url": "https://www.supermas.com.py/chicle-arcor-topline-frutilla-11gr-p2788",
     "brand": "",
     "measure": "11 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "BARRITA CAÑONAZO 25  GR",
+    "price": 1800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/21778.jpg",
+    "url": "https://www.supermas.com.py/barrita-canonazo-25-gr-p2791",
+    "brand": "",
+    "measure": "25 GR",
     "category": "ALMACEN",
     "subcategory": "ALMACEN",
     "category_path": [
@@ -31938,54 +32002,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "EXTRACTO TOMATE ZAINE 140gr DOY PACK",
-    "price": 1000.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/extracto-tomate-zaine-140gr-doy-pack-p51825",
-    "brand": "",
-    "measure": "140 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "TOMATE CUBETEADO ARCOR 400gr",
-    "price": 8250.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/tomate-cubeteado-arcor-400gr-p52838",
-    "brand": "",
-    "measure": "400 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "EXTRACTO DE TOMATE FRUTIKA 3KG",
-    "price": 30800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/extracto-de-tomate-frutika-3kg-p56874",
-    "brand": "",
-    "measure": "3 KG",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "ACEITE COCINERO OLIVA 1 LT",
     "price": 152200.0,
     "currency": "Gs.",
@@ -36514,54 +36530,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "ARROZ PRIMICIA AZUL 5 KG",
-    "price": 33950.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/23584.jpg",
-    "url": "https://www.supermas.com.py/arroz-primicia-azul-5-kg-p3132",
-    "brand": "Primicia",
-    "measure": "5 KG",
-    "category": "ARROZ",
-    "subcategory": "ARROZ",
-    "category_path": [
-      "ARROZ"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "FIDEOS TALLARIN/MOÑITO xkg GRANEL",
-    "price": 7750.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/3240.jpg",
-    "url": "https://www.supermas.com.py/fideos-tallarin-monito-xkg-granel-p4776",
-    "brand": "",
-    "measure": "KG",
-    "category": "FIDEOS",
-    "subcategory": "FIDEOS",
-    "category_path": [
-      "FIDEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "FIDEOS  GRANEL KG",
-    "price": 7450.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/350.png",
-    "url": "https://www.supermas.com.py/fideos-granel-kg-p4956",
-    "brand": "",
-    "measure": "KG",
-    "category": "FIDEOS",
-    "subcategory": "FIDEOS",
-    "category_path": [
-      "FIDEOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CAFE SOLUBLE JUAN VALDEZ LIOFILIZADO 150 GR",
     "price": 121000.0,
     "currency": "Gs.",
@@ -37513,6 +37481,22 @@
     "url": "https://www.supermas.com.py/cafe-nescafe-dolce-gusto-lungo-112gr-p9292",
     "brand": "",
     "measure": "112 GR",
+    "category": "CAFÉ",
+    "subcategory": "CAFÉ",
+    "category_path": [
+      "CAFÉ"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CAFE DOLCE GUSTO CAPPUCCINO 117,5gr.",
+    "price": 28700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/82850.jpg",
+    "url": "https://www.supermas.com.py/cafe-dolce-gusto-cappuccino-117-5gr-p9903",
+    "brand": "",
+    "measure": "117,5 GR",
     "category": "CAFÉ",
     "subcategory": "CAFÉ",
     "category_path": [
@@ -47554,6 +47538,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "GALLETITA SANDWICH NEGRESCO 90gr",
+    "price": 3200.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/123239.jpg",
+    "url": "https://www.supermas.com.py/galletita-sandwich-negresco-90gr-p33318",
+    "brand": "",
+    "measure": "90 GR",
+    "category": "GALLETITAS",
+    "subcategory": "GALLETITAS",
+    "category_path": [
+      "GALLETITAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MINI B.COOKIES LATA COLLECTION 150GR",
     "price": 34350.0,
     "currency": "Gs.",
@@ -53730,6 +53730,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PICADILLO DE CARNE INDEGA 90 gr.",
+    "price": 3400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/26130.png",
+    "url": "https://www.supermas.com.py/picadillo-de-carne-indega-90-gr-p3718",
+    "brand": "",
+    "measure": "90 GR",
+    "category": "ENLATADOS",
+    "subcategory": "ENLATADOS",
+    "category_path": [
+      "ENLATADOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ANCHOITA INDEMAR EN ACEITE 90  GR",
     "price": 30400.0,
     "currency": "Gs.",
@@ -54466,6 +54482,54 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "EXTRACTO TOMATE ZAINE 140gr DOY PACK",
+    "price": 1000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/extracto-tomate-zaine-140gr-doy-pack-p51825",
+    "brand": "",
+    "measure": "140 GR",
+    "category": "TOMATES",
+    "subcategory": "TOMATES",
+    "category_path": [
+      "TOMATES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "TOMATE CUBETEADO ARCOR 400gr",
+    "price": 8250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/tomate-cubeteado-arcor-400gr-p52838",
+    "brand": "",
+    "measure": "400 GR",
+    "category": "TOMATES",
+    "subcategory": "TOMATES",
+    "category_path": [
+      "TOMATES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "EXTRACTO DE TOMATE FRUTIKA 3KG",
+    "price": 30800.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/extracto-de-tomate-frutika-3kg-p56874",
+    "brand": "",
+    "measure": "3 KG",
+    "category": "TOMATES",
+    "subcategory": "TOMATES",
+    "category_path": [
+      "TOMATES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PURE DE TOMATE FRUTIKA 530G",
     "price": 6100.0,
     "currency": "Gs.",
@@ -54605,22 +54669,6 @@
     "subcategory": "TOMATES",
     "category_path": [
       "TOMATES"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "BARRITA CAÑONAZO 25  GR",
-    "price": 1800.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/21778.jpg",
-    "url": "https://www.supermas.com.py/barrita-canonazo-25-gr-p2791",
-    "brand": "",
-    "measure": "25 GR",
-    "category": "GOLOSINAS",
-    "subcategory": "GOLOSINAS",
-    "category_path": [
-      "GOLOSINAS"
     ]
   },
   {
@@ -68153,6 +68201,22 @@
     "url": "https://www.supermas.com.py/vinagre-primicia-alcohol-250ml-p64399",
     "brand": "Primicia",
     "measure": "250 ML",
+    "category": "VINAGRES",
+    "subcategory": "VINAGRES",
+    "category_path": [
+      "VINAGRES"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "VINAGRE PRIMICIA ALCOHOL 5Lt.",
+    "price": 23600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/vinagre-primicia-alcohol-5lt-p64400",
+    "brand": "Primicia",
+    "measure": "5 LT",
     "category": "VINAGRES",
     "subcategory": "VINAGRES",
     "category_path": [
@@ -177543,6 +177607,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/121888.jpg",
     "url": "https://www.supermas.com.py/desinfectante-pet-pino-girsol-500ml-p31767",
+    "brand": "",
+    "measure": "500 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "DESINFECTANTE PET TALCO GIR.SOL 500ml",
+    "price": 5500.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/121889.jpg",
+    "url": "https://www.supermas.com.py/desinfectante-pet-talco-girsol-500ml-p31768",
     "brand": "",
     "measure": "500 ML",
     "category": "LIMPIEZA",
@@ -363028,24 +363108,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CRAYOLA 10UN REGULAR KIDART",
-    "price": 6500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320478-crayola-10un-regular-kidart.aspx",
-    "brand": "",
-    "measure": "10 UN",
-    "category": "libreria",
-    "subcategory": "color",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "color"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LAPIZ D/COL 12U DAYO REF 27215/216",
     "price": 6800.0,
     "currency": "Gs.",
@@ -372182,24 +372244,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TRAPO DE PISO MEDIA NARANJA MULTICOLOR G REFORZADO 58 X 60 CM",
-    "price": 11500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/292557-trapo-de-piso-media-naranja-multicolor-g-reforzado-58-x-60-cm.aspx",
-    "brand": "",
-    "measure": "GR",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TRAPO DE PISO ELSON DE PRIMERA 45X50 CM",
     "price": 6100.0,
     "currency": "Gs.",
@@ -372225,6 +372269,24 @@
     "url": "https://www.stock.com.py/products/292962-trapo-de-piso-elson-de-primera-45x70-cm.aspx",
     "brand": "",
     "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO DE PISO MEDIA NARANJA MULTICOLOR G REFORZADO 58 X 60 CM",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/292557-trapo-de-piso-media-naranja-multicolor-g-reforzado-58-x-60-cm.aspx",
+    "brand": "",
+    "measure": "GR",
     "category": "limpieza",
     "subcategory": "panosfranelarejillas",
     "category_path": [
@@ -398816,6 +398878,22 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "TORTA VALERIA X KILO",
+    "price": 71500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "masitastortasfacturas",
+    "subcategory": "Masitas/Tortas/Facturas",
+    "category_path": [
+      "masitastortasfacturas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "GALLETITAS D/HOJALDRE HOJALMAR TRIANG 250GR PAQ",
     "price": 13900.0,
     "currency": "Gs.",
@@ -398853,22 +398931,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/312024-torta-bk-3kl.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "masitastortasfacturas",
-    "subcategory": "Masitas/Tortas/Facturas",
-    "category_path": [
-      "masitastortasfacturas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TORTA VALERIA X KILO",
-    "price": 71500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
     "brand": "",
     "measure": "",
     "category": "masitastortasfacturas",
@@ -409695,13 +409757,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CERA DEPILADORA \"DEPIMIEL\" ALT ADH 100GR",
-    "price": 28900.0,
+    "name": "MAQUINA QUATRO SCHICK MUJ.DES 1X2 Nº 7510322",
+    "price": 30000.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0211387_500.jpeg",
-    "url": "https://www.stock.com.py/products/202740-cera-depiladora-depimiel-alt-adh-100gr.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0216479_500.jpeg",
+    "url": "https://www.stock.com.py/products/14471-maq-quatro-schick-mujdes-1x2-no-7510322a.aspx",
     "brand": "",
-    "measure": "100 GR",
+    "measure": "",
     "category": "perfumeria",
     "subcategory": "depiladores",
     "category_path": [
@@ -409714,13 +409776,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MAQUINA QUATRO SCHICK MUJ.DES 1X2 Nº 7510322",
-    "price": 30000.0,
+    "name": "CERA DEPILADORA \"DEPIMIEL\" ALT ADH 100GR",
+    "price": 28900.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209883_500.png",
-    "url": "https://www.stock.com.py/products/14471-maq-quatro-schick-mujdes-1x2-no-7510322a.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0211387_500.jpeg",
+    "url": "https://www.stock.com.py/products/202740-cera-depiladora-depimiel-alt-adh-100gr.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "100 GR",
     "category": "perfumeria",
     "subcategory": "depiladores",
     "category_path": [
@@ -412887,29 +412949,10 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MAQUINA QUATRO SCHICK HOM DES 1X6 Nº 7510311A",
-    "price": 12600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0216478_500.jpeg",
-    "url": "https://www.stock.com.py/products/14470-maq-quatro-schick-hom-des-1x6-no-7510311a.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perfumeria",
-    "subcategory": "afeitadoras",
-    "category_path": [
-      "perfumeria",
-      "cuidado",
-      "personal",
-      "afeitadoras"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "MAQUINA XTRE SCHICK 1X2 7120201",
     "price": 16100.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209888_500.png",
+    "image": "https://www.stock.com.py/images/thumbs/0216486_500.jpeg",
     "url": "https://www.stock.com.py/products/8788-maq-xtre-schick-1x2-7120201.aspx",
     "brand": "",
     "measure": "",
@@ -412928,7 +412971,7 @@
     "name": "MAQUINA XTRE SCHICK 1X8 7080201",
     "price": 7600.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209887_500.jpeg",
+    "image": "https://www.stock.com.py/images/thumbs/0216484_500.jpeg",
     "url": "https://www.stock.com.py/products/8079-maq-xtre-schick-1x8-7080201.aspx",
     "brand": "",
     "measure": "",
@@ -412947,10 +412990,29 @@
     "name": "MAQUINA AFEITAR SHICK XTREME III 2 UN",
     "price": 16650.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209886_500.jpeg",
+    "image": "https://www.stock.com.py/images/thumbs/0216483_500.jpeg",
     "url": "https://www.stock.com.py/products/8078-maquina-afei-shick-xtreme-iii-2-un.aspx",
     "brand": "",
     "measure": "2 UN",
+    "category": "perfumeria",
+    "subcategory": "afeitadoras",
+    "category_path": [
+      "perfumeria",
+      "cuidado",
+      "personal",
+      "afeitadoras"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MAQUINA QUATRO SCHICK HOM DES 1X6 Nº 7510311A",
+    "price": 12600.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216478_500.jpeg",
+    "url": "https://www.stock.com.py/products/14470-maq-quatro-schick-hom-des-1x6-no-7510311a.aspx",
+    "brand": "",
+    "measure": "",
     "category": "perfumeria",
     "subcategory": "afeitadoras",
     "category_path": [
