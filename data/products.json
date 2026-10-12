@@ -118243,7 +118243,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ÑOQUIS PASTA PORA 400  GR",
-    "price": 4200.0,
+    "price": 4850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13492.png",
     "url": "https://www.supermas.com.py/noquis-pasta-pora-400-gr-p1442",
@@ -142738,6 +142738,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "JABON ALGABO  LIQUIDO DOY PACK CITRUS SPLASH",
+    "price": 8250.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/61031.jpg",
+    "url": "https://www.supermas.com.py/jabon-algabo-liquido-doy-pack-citrus-splash-p6093",
+    "brand": "",
+    "measure": "",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
+    "category_path": [
+      "ASEO PERSONAL"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "JABON ALGABO LIQUIDO DOY PACK  GREEN TEA",
     "price": 8250.0,
     "currency": "Gs.",
@@ -151913,10 +151929,10 @@
     "url": "https://www.supermas.com.py/tinte-kit-color-carey-465-p4937",
     "brand": "Carey",
     "measure": "",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
+    "category": "TRATAMIENTO CAPILAR",
+    "subcategory": "TRATAMIENTO CAPILAR",
     "category_path": [
-      "ASEO PERSONAL"
+      "TRATAMIENTO CAPILAR"
     ]
   },
   {
@@ -401886,26 +401902,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN P/SANWICH DESCORTEZADO BLANCO PAQ",
-    "price": 13300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287600-pan-psanwich-descortezado-blanco-paq.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perecedero",
-    "subcategory": "molde",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "de",
-      "molde"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAN SANDWICH EDWARD 500GR",
     "price": 9100.0,
     "currency": "Gs.",
@@ -401933,6 +401929,26 @@
     "url": "https://www.stock.com.py/products/305384-edward-pan-con-harina-integral-400-gr.aspx",
     "brand": "",
     "measure": "400 GR",
+    "category": "perecedero",
+    "subcategory": "molde",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "de",
+      "molde"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN P/SANWICH DESCORTEZADO BLANCO PAQ",
+    "price": 13300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287600-pan-psanwich-descortezado-blanco-paq.aspx",
+    "brand": "",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
