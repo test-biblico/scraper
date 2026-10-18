@@ -178546,22 +178546,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "DESINFECTANTE TRAD. EUCALIPTO GIR.SOL 2L",
-    "price": 15850.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/121890.jpg",
-    "url": "https://www.supermas.com.py/desinfectante-trad-eucalipto-girsol-2l-p31769",
-    "brand": "",
-    "measure": "2 LT",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "DESINFECTANTE TRAD. JAZMÍN GIR.SOL 2L",
     "price": 15850.0,
     "currency": "Gs.",
@@ -365187,24 +365171,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CRAYOLA FABER GRIP 12C",
-    "price": 10000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/27859-crayola-faber-grip-12c.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "color",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "color"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "LAPIZ COLOR FABER BICOLOR ECO 6UN 12060 CJA",
     "price": 12000.0,
     "currency": "Gs.",
@@ -400347,38 +400313,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PEPITAS LOEB BANDEJA 12 UN",
-    "price": 23500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/1462-pepitas-loeb-bja-12-un.aspx",
-    "brand": "",
-    "measure": "12 UN",
-    "category": "masitastortasfacturas",
-    "subcategory": "Masitas/Tortas/Facturas",
-    "category_path": [
-      "masitastortasfacturas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TORTA VALERIA X KILO",
-    "price": 71500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "masitastortasfacturas",
-    "subcategory": "Masitas/Tortas/Facturas",
-    "category_path": [
-      "masitastortasfacturas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GALLETITAS D/HOJALDRE HOJALMAR TRIANG 250GR PAQ",
     "price": 13900.0,
     "currency": "Gs.",
@@ -400416,6 +400350,38 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/312024-torta-bk-3kl.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "masitastortasfacturas",
+    "subcategory": "Masitas/Tortas/Facturas",
+    "category_path": [
+      "masitastortasfacturas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PEPITAS LOEB BANDEJA 12 UN",
+    "price": 23500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/1462-pepitas-loeb-bja-12-un.aspx",
+    "brand": "",
+    "measure": "12 UN",
+    "category": "masitastortasfacturas",
+    "subcategory": "Masitas/Tortas/Facturas",
+    "category_path": [
+      "masitastortasfacturas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TORTA VALERIA X KILO",
+    "price": 71500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/69128-torta-valeria-x-kilo.aspx",
     "brand": "",
     "measure": "",
     "category": "masitastortasfacturas",
@@ -402635,13 +402601,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MASA SECA LOEB 1 UN",
-    "price": 38000.0,
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
-    "measure": "1 UN",
+    "measure": "400 GR",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
@@ -402653,13 +402619,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
-    "price": 9300.0,
+    "name": "MASA SECA LOEB 1 UN",
+    "price": 38000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
     "brand": "",
-    "measure": "400 GR",
+    "measure": "1 UN",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
