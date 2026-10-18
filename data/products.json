@@ -70371,7 +70371,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MERMELADA AREGUA GUAYABA FCO 440  GR",
-    "price": 9350.0,
+    "price": 13050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88571.jpg",
     "url": "https://www.supermas.com.py/mermelada-aregua-guayaba-fco-440-gr-p11151",
@@ -74034,6 +74034,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "PECHUGA FRESCA PECHUGON X KG",
+    "price": 22150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1550.png",
+    "url": "https://www.supermas.com.py/pechuga-fresca-pechugon-x-kg-p1753",
+    "brand": "",
+    "measure": "KG",
+    "category": "CARNES Y POLLOS",
+    "subcategory": "CARNES Y POLLOS",
+    "category_path": [
+      "CARNES Y POLLOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "MUSLO FRESCO PECHUGON X KG",
     "price": 22600.0,
     "currency": "Gs.",
@@ -74313,6 +74329,22 @@
     "url": "https://www.supermas.com.py/cubitos-de-pechuga-iqf-x-800gr-pechugon-p23838",
     "brand": "",
     "measure": "800 GR",
+    "category": "CARNES Y POLLOS",
+    "subcategory": "CARNES Y POLLOS",
+    "category_path": [
+      "CARNES Y POLLOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "CORAZON FRESCA KZERO X KG",
+    "price": 35100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/1680.jpg",
+    "url": "https://www.supermas.com.py/corazon-fresca-kzero-x-kg-p27244",
+    "brand": "",
+    "measure": "KG",
     "category": "CARNES Y POLLOS",
     "subcategory": "CARNES Y POLLOS",
     "category_path": [
@@ -262146,24 +262178,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COMINO MOLIDO ARCO IRIS PAQUETE 25",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0152548_500.jpeg",
-    "url": "https://www.stock.com.py/products/4681-gr.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "almacen",
-    "subcategory": "especias",
-    "category_path": [
-      "almacen",
-      "aderezoscondimentos",
-      "especias"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "KURATU ARCO IRIS PAQUETE 15 GR",
     "price": 3400.0,
     "currency": "Gs.",
@@ -267306,6 +267320,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "ARROZ INTEGRAL LARGO FINO TIPO 1 TIO NICO 1KG",
+    "price": 6450.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0198740_500.jpeg",
+    "url": "https://www.stock.com.py/products/310609-arroz-integral-largo-fino-tipo-1-tio-nico-1kg.aspx",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "almacen",
+    "subcategory": "arroz",
+    "category_path": [
+      "almacen",
+      "alimentos",
+      "secos",
+      "arroz"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ARROZ LARGO FINO TIPO I MICKEY 500GR",
     "price": 4650.0,
     "currency": "Gs.",
@@ -268314,6 +268347,22 @@
     "url": "https://www.stock.com.py/products/7456-azucar-blanca-granulada-azukita-azpa-5kg.aspx",
     "brand": "",
     "measure": "5 KG",
+    "category": "azucarendulzantes",
+    "subcategory": "Azúcar/Endulzantes",
+    "category_path": [
+      "azucarendulzantes"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "AZUCAR BLANCA GRANULADA AZUKITA AZPA 2KG",
+    "price": 18900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0187104_500.jpeg",
+    "url": "https://www.stock.com.py/products/7455-azucar-blanca-granulada-azukita-azpa-2kg.aspx",
+    "brand": "",
+    "measure": "2 KG",
     "category": "azucarendulzantes",
     "subcategory": "Azúcar/Endulzantes",
     "category_path": [
@@ -269696,6 +269745,22 @@
     "url": "https://www.stock.com.py/products/320307-qauker-avena-integral-instantanea-750-gr.aspx",
     "brand": "",
     "measure": "750 GR",
+    "category": "cerealessemillas",
+    "subcategory": "Cereales/Semillas",
+    "category_path": [
+      "cerealessemillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BARRA COC Y CHOC BLAN SUPINO PROTEIN 30G",
+    "price": 7550.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0202765_500.jpeg",
+    "url": "https://www.stock.com.py/products/313185-barra-coc-y-choc-blan-supino-protein-30g.aspx",
+    "brand": "",
+    "measure": "30 GR",
     "category": "cerealessemillas",
     "subcategory": "Cereales/Semillas",
     "category_path": [
@@ -274131,22 +274196,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MERMELADA DURAZNO FRASCO 454 GR",
-    "price": 14900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0115434_500.jpeg",
-    "url": "https://www.stock.com.py/products/60967-mermelada-durazno-fco-454-gr.aspx",
-    "brand": "",
-    "measure": "454 GR",
-    "category": "dulcesmermeladasmiel",
-    "subcategory": "Dulces/Mermeladas/Miel",
-    "category_path": [
-      "dulcesmermeladasmiel"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "MERMELADA DURAZNO POTE 500 GR",
     "price": 8400.0,
     "currency": "Gs.",
@@ -277571,22 +277620,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GALLETITAS CRACKERS SALVADO BIANCA 130GR",
-    "price": 3650.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0198635_500.jpeg",
-    "url": "https://www.stock.com.py/products/309453-galletitas-crackers-salvado-bianca-130gr.aspx",
-    "brand": "Bianca",
-    "measure": "130 GR",
-    "category": "galletitas",
-    "subcategory": "Galletitas",
-    "category_path": [
-      "galletitas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GULLON MEGA DUO GALLETAS SANDWICH RELLENAS DE CREMA SABOR VAINILLA 500 GR",
     "price": 26500.0,
     "currency": "Gs.",
@@ -277786,22 +277819,6 @@
     "url": "https://www.stock.com.py/products/261223-galletitas-cacao-ccrema-sin-azucar-gullon-210gr-cja.aspx",
     "brand": "",
     "measure": "210 GR",
-    "category": "galletitas",
-    "subcategory": "Galletitas",
-    "category_path": [
-      "galletitas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ADRIA TORTI?AS CON RELLENO SABOR CHOCOLATE Y AVELLANAS 140 GR",
-    "price": 4800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0193666_500.jpeg",
-    "url": "https://www.stock.com.py/products/304998-adria-tortias-con-relleno-sabor-chocolate-y-avellanas-140-gr.aspx",
-    "brand": "",
-    "measure": "140 GR",
     "category": "galletitas",
     "subcategory": "Galletitas",
     "category_path": [
@@ -280086,6 +280103,23 @@
     "url": "https://www.stock.com.py/products/291447-mazzei-galleta-molida-8-semillas-500-gr.aspx",
     "brand": "",
     "measure": "500 GR",
+    "category": "harinas",
+    "subcategory": "almidon",
+    "category_path": [
+      "harinas",
+      "almidon"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FAROFA MANDIOCA PICAÑA PICANTE  AMAFIL PAQ. 250GR X UN",
+    "price": 8900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0176090_500.jpeg",
+    "url": "https://www.stock.com.py/products/252487-farofa-mandioca-picana-picante-amafil-paq-250gr-x-un.aspx",
+    "brand": "",
+    "measure": "250 GR",
     "category": "harinas",
     "subcategory": "almidon",
     "category_path": [
@@ -284397,6 +284431,23 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "MEZCLA P/PREPARAR BIZCOCHUELO S/NARANJA APTI 400GR BSA",
+    "price": 3950.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0175203_500.jpeg",
+    "url": "https://www.stock.com.py/products/286901-mezcla-ppreparar-bizcochuelo-snaranja-apti-400gr-bsa.aspx",
+    "brand": "",
+    "measure": "400 GR",
+    "category": "reposteria",
+    "subcategory": "pasteleria",
+    "category_path": [
+      "reposteria",
+      "pasteleria"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "LEVADURA INDEGA SAF INST. ROJO PAP 125 GR",
     "price": 12700.0,
     "currency": "Gs.",
@@ -287182,23 +287233,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "Arvejas BIANCA 200 gr.",
-    "price": 3950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0168967_500.jpeg",
-    "url": "https://www.stock.com.py/products/28731-arveja-bianca-lata-200gr.aspx",
-    "brand": "Bianca",
-    "measure": "200 GR",
-    "category": "legumbres",
-    "subcategory": "enlatadas",
-    "category_path": [
-      "legumbres",
-      "enlatadas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "FEIJAO ODERICH LATA 250 GR",
     "price": 14200.0,
     "currency": "Gs.",
@@ -288797,6 +288831,22 @@
     "subcategory": "Alfajores",
     "category_path": [
       "alfajores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FINI GELATINAS GUSANOS ACIDOS SABORES SURTIDOS 90 GR",
+    "price": 6850.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0216524_500.jpeg",
+    "url": "https://www.stock.com.py/products/305090-fini-gelatinas-gusanos-acidos-sabores-surtidos-90-gr.aspx",
+    "brand": "",
+    "measure": "90 GR",
+    "category": "carameloschicles",
+    "subcategory": "Caramelos/Chicles",
+    "category_path": [
+      "carameloschicles"
     ]
   },
   {
@@ -290418,22 +290468,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "FINI GELATINAS GUSANOS ACIDOS SABORES SURTIDOS 90 GR",
-    "price": 6850.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/305090-fini-gelatinas-gusanos-acidos-sabores-surtidos-90-gr.aspx",
-    "brand": "",
-    "measure": "90 GR",
-    "category": "carameloschicles",
-    "subcategory": "Caramelos/Chicles",
-    "category_path": [
-      "carameloschicles"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "CHUPETIN C/CHICLE POFT BALL TUTTI FRUTT 480GR SIMONETTO 24UN PAQ",
     "price": 12550.0,
     "currency": "Gs.",
@@ -291842,13 +291876,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "OBLEA BON O BON 3 GR",
+    "name": "OBLEA BON O BON BLANCO 30 GR",
     "price": 4100.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0174888_500.jpeg",
-    "url": "https://www.stock.com.py/products/14534-oblea-bon-o-bon-3-gr.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0174890_500.jpeg",
+    "url": "https://www.stock.com.py/products/14535-oblea-bon-o-bon-blanco-30-gr.aspx",
     "brand": "",
-    "measure": "3 GR",
+    "measure": "30 GR",
     "category": "chocolates",
     "subcategory": "Chocolates",
     "category_path": [
@@ -297586,22 +297620,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TE HIERBAS AZAFRAN ARASO 30GR ARCOIRIS PAQ",
-    "price": 23900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0158238_500.jpeg",
-    "url": "https://www.stock.com.py/products/141615-te-hierbas-azafran-araso-30gr-arcoiris-paq.aspx",
-    "brand": "",
-    "measure": "30 GR",
-    "category": "te",
-    "subcategory": "Té",
-    "category_path": [
-      "te"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TE HIERBAS BOLDO 30GR ARCOIRIS PAQ",
     "price": 6650.0,
     "currency": "Gs.",
@@ -297687,6 +297705,22 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0152597_500.jpeg",
     "url": "https://www.stock.com.py/products/5717-manzanilla-arco-paq-50-gr.aspx",
+    "brand": "",
+    "measure": "50 GR",
+    "category": "te",
+    "subcategory": "Té",
+    "category_path": [
+      "te"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLDO ARCO IRIS PAQUETE 50 GR",
+    "price": 10750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0152596_500.jpeg",
+    "url": "https://www.stock.com.py/products/5715-boldo-arco-iris-paq-50-gr.aspx",
     "brand": "",
     "measure": "50 GR",
     "category": "te",
@@ -297849,22 +297883,6 @@
     "url": "https://www.stock.com.py/products/4470-anis-arco-iris-paq-25-gr.aspx",
     "brand": "",
     "measure": "25 GR",
-    "category": "te",
-    "subcategory": "Té",
-    "category_path": [
-      "te"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TILO ARCO IRIS PAQUETE 15 GR",
-    "price": 5000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0152540_500.jpeg",
-    "url": "https://www.stock.com.py/products/4687-tilo-arco-iris-paq-15-gr.aspx",
-    "brand": "",
-    "measure": "15 GR",
     "category": "te",
     "subcategory": "Té",
     "category_path": [
@@ -298041,22 +298059,6 @@
     "url": "https://www.stock.com.py/products/4472-boldo-arco-iris-paq-15-gr.aspx",
     "brand": "",
     "measure": "15 GR",
-    "category": "te",
-    "subcategory": "Té",
-    "category_path": [
-      "te"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "AZAFRAN EN PAQUETE ARCO IRIS 10GR",
-    "price": 8650.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0152516_500.jpeg",
-    "url": "https://www.stock.com.py/products/5634-azafran-en-paquete-arco-iris-10gr.aspx",
-    "brand": "",
-    "measure": "10 GR",
     "category": "te",
     "subcategory": "Té",
     "category_path": [
@@ -303946,6 +303948,26 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "BOCADITOS DE MAIZ SABOR QUESITO JET 20GR",
+    "price": 650.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0195666_500.jpeg",
+    "url": "https://www.stock.com.py/products/305767-bocaditos-de-maiz-sabor-quesito-jet-20gr.aspx",
+    "brand": "",
+    "measure": "20 GR",
+    "category": "almacen",
+    "subcategory": "fritas",
+    "category_path": [
+      "almacen",
+      "alimentos",
+      "secos",
+      "papas",
+      "fritas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "PAPA FRITA SABOR KETCHUP RECREO 30GR",
     "price": 4000.0,
     "currency": "Gs.",
@@ -305474,13 +305496,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "BOMBILLA D/ ACERO INOX. LISA SUPERUTIL BLIS",
-    "price": 30000.0,
+    "name": "BOMBILLA LISA NEGRO GARIBALDI 1UN BLIS",
+    "price": 7900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/283975-bombilla-d-acero-inox-lisa-superutil-blis.aspx",
+    "url": "https://www.stock.com.py/products/279042-bombilla-lisa-negro-garibaldi-1un-blis.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "1 UN",
     "category": "no",
     "subcategory": "tereremate",
     "category_path": [
@@ -305539,6 +305561,46 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/284033-bombilla-d-acero-inox-lisa-black-superutil-blis.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "tereremate",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "aire",
+      "libre",
+      "tereremate"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOMBILLA ALPACA BLANCA 19CM P3000 GARIBALDI BLIS",
+    "price": 12000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/278105-bombilla-alpaca-blanca-19cm-p3000-garibaldi-blis.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "no",
+    "subcategory": "tereremate",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "aire",
+      "libre",
+      "tereremate"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOMBILLA D/ ACERO INOX. LISA SUPERUTIL BLIS",
+    "price": 30000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/283975-bombilla-d-acero-inox-lisa-superutil-blis.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -305679,46 +305741,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/172853-mate-tt-artesania-cimarrado-grande.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "tereremate",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "aire",
-      "libre",
-      "tereremate"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOMBILLA LISA NEGRO GARIBALDI 1UN BLIS",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279042-bombilla-lisa-negro-garibaldi-1un-blis.aspx",
-    "brand": "",
-    "measure": "1 UN",
-    "category": "no",
-    "subcategory": "tereremate",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "aire",
-      "libre",
-      "tereremate"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "BOMBILLA ALPACA BLANCA 19CM P3000 GARIBALDI BLIS",
-    "price": 12000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/278105-bombilla-alpaca-blanca-19cm-p3000-garibaldi-blis.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -307119,13 +307141,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ASADERA D/VRIO REC 18L DAYO LHPKP",
-    "price": 15900.0,
+    "name": "ASADERA D/VRIO RED 16L DAYO OP1.6L",
+    "price": 16900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/300657-asadera-dvrio-rec-18l-dayo-lhpkp.aspx",
+    "url": "https://www.stock.com.py/products/300651-asadera-dvrio-red-16l-dayo-op16l.aspx",
     "brand": "Dayo",
-    "measure": "18 LT",
+    "measure": "16 LT",
     "category": "bazar",
     "subcategory": "pcocina",
     "category_path": [
@@ -307139,13 +307161,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ASADERA D/VRIO RED 16L DAYO OP1.6L",
-    "price": 16900.0,
+    "name": "ASADERA D/VRIO REC 18L DAYO LHPKP",
+    "price": 15900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/300651-asadera-dvrio-red-16l-dayo-op16l.aspx",
+    "url": "https://www.stock.com.py/products/300657-asadera-dvrio-rec-18l-dayo-lhpkp.aspx",
     "brand": "Dayo",
-    "measure": "16 LT",
+    "measure": "18 LT",
     "category": "bazar",
     "subcategory": "pcocina",
     "category_path": [
@@ -308311,24 +308333,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CUCHILLO P/COCINA MANGO PLASTICO DAYO 10 REF PU323",
-    "price": 19900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "bazar",
-    "subcategory": "cubiertos",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "cubiertos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "CUCHARA D/MESA NEW COLOR NEGRO X UN TRAMONTINA S/E",
     "price": 3600.0,
     "currency": "Gs.",
@@ -308353,6 +308357,24 @@
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/270866-tabla-p-picar-madera-24-cm-x-24-cm-puzzlez-blis.aspx",
     "brand": "",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "cubiertos",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "cubiertos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CUCHILLO P/COCINA MANGO PLASTICO DAYO 10 REF PU323",
+    "price": 19900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/281945-cuchillo-pcocina-mango-plastico-dayo-10-ref-pu323.aspx",
+    "brand": "Dayo",
     "measure": "",
     "category": "bazar",
     "subcategory": "cubiertos",
@@ -311767,6 +311789,26 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "VELA DISEÑO 20 Y TANTOS 1 UN ARGOS",
+    "price": 19500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/289331-vela-diseno-20-y-tantos-1-un-argos.aspx",
+    "brand": "",
+    "measure": "1 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "ARGOS TARJETAS DE INVITACIONES FROZEN 10 UNIDADES",
     "price": 13200.0,
     "currency": "Gs.",
@@ -312087,6 +312129,86 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "VELA PALITO ROSA BLISTER 10 UND CORINTER",
+    "price": 7050.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314525-vela-palito-rosa-blister-10-und-corinter.aspx",
+    "brand": "",
+    "measure": "10 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VELA P/CUMP N 0 DAYO REF GL2120",
+    "price": 7800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/302356-vela-pcump-n-0-dayo-ref-gl2120.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBO LETRAS DAYO REF.ATS23-001",
+    "price": 4900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/322979-globo-letras-dayo-refats23-001.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JUG ANILLO CRISTAL 20 UNID",
+    "price": 6300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314471-jug-anillo-cristal-20-unid.aspx",
+    "brand": "",
+    "measure": "20 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "BLOBO PIN?ATA DAYO REF.ATS-23028",
     "price": 4900.0,
     "currency": "Gs.",
@@ -312127,111 +312249,31 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "JUG ANILLO CRISTAL 20 UNID",
-    "price": 6300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314471-jug-anillo-cristal-20-unid.aspx",
-    "brand": "",
-    "measure": "20 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBO LETRAS DAYO REF.ATS23-001",
-    "price": 4900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/322979-globo-letras-dayo-refats23-001.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBO C/DIS 13CM DAYO REF.ATS-23032",
-    "price": 6500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/322971-globo-cdis-13cm-dayo-refats-23032.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBOS C/DIS 10UN DAYO REF.ATS-23021",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/322977-globos-cdis-10un-dayo-refats-23021.aspx",
-    "brand": "Dayo",
-    "measure": "10 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBOS C/DIS 10UN DAYO REF.ATS-23018",
-    "price": 7900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323019-globos-cdis-10un-dayo-refats-23018.aspx",
-    "brand": "Dayo",
-    "measure": "10 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "GLOBO LISO ROSADO N9 25UN ARGOS PAQ",
     "price": 19600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/139791-globo-liso-rosado-n9-25un-argos-paq.aspx",
+    "brand": "",
+    "measure": "25 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBO PRO PARTY AZUL 9\" CORINTER 25 UN",
+    "price": 15350.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323513-globo-pro-party-azul-9-corinter-25-un.aspx",
     "brand": "",
     "measure": "25 UN",
     "category": "no",
@@ -312307,33 +312349,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "GLOBOS 25UN DAYO REF.ATS-23012",
-    "price": 7900.0,
+    "name": "VELA CUERNOS DE UNICORNIO 4 UN ARGOS",
+    "price": 42800.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323010-globos-25un-dayo-refats-23012.aspx",
-    "brand": "Dayo",
-    "measure": "25 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "GLOBO PRO PARTY AZUL 9\" CORINTER 25 UN",
-    "price": 15350.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/323513-globo-pro-party-azul-9-corinter-25-un.aspx",
+    "url": "https://www.stock.com.py/products/285796-vela-cuernos-de-unicornio-4-un-argos.aspx",
     "brand": "",
-    "measure": "25 UN",
+    "measure": "4 UN",
     "category": "no",
     "subcategory": "decoracion",
     "category_path": [
@@ -312407,46 +312429,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VELA CUERNOS DE UNICORNIO 4 UN ARGOS",
-    "price": 42800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/285796-vela-cuernos-de-unicornio-4-un-argos.aspx",
-    "brand": "",
-    "measure": "4 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VELA DISEÑO 20 Y TANTOS 1 UN ARGOS",
-    "price": 19500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/289331-vela-diseno-20-y-tantos-1-un-argos.aspx",
-    "brand": "",
-    "measure": "1 UN",
-    "category": "no",
-    "subcategory": "decoracion",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cotillon",
-      "decoracion"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "JUG. FUSCA GORDO 8 UNID. CORINTER",
     "price": 7650.0,
     "currency": "Gs.",
@@ -312467,11 +312449,31 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VELA P/CUMP N 0 DAYO REF GL2120",
-    "price": 7800.0,
+    "name": "GLOBOS C/DIS 10UN DAYO REF.ATS-23018",
+    "price": 7900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/302356-vela-pcump-n-0-dayo-ref-gl2120.aspx",
+    "url": "https://www.stock.com.py/products/323019-globos-cdis-10un-dayo-refats-23018.aspx",
+    "brand": "Dayo",
+    "measure": "10 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBO C/DIS 13CM DAYO REF.ATS-23032",
+    "price": 6500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/322971-globo-cdis-13cm-dayo-refats-23032.aspx",
     "brand": "Dayo",
     "measure": "",
     "category": "no",
@@ -312487,13 +312489,33 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VELA PALITO ROSA BLISTER 10 UND CORINTER",
-    "price": 7050.0,
+    "name": "GLOBOS C/DIS 10UN DAYO REF.ATS-23021",
+    "price": 7900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314525-vela-palito-rosa-blister-10-und-corinter.aspx",
-    "brand": "",
+    "url": "https://www.stock.com.py/products/322977-globos-cdis-10un-dayo-refats-23021.aspx",
+    "brand": "Dayo",
     "measure": "10 UN",
+    "category": "no",
+    "subcategory": "decoracion",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "cotillon",
+      "decoracion"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "GLOBOS 25UN DAYO REF.ATS-23012",
+    "price": 7900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/323010-globos-25un-dayo-refats-23012.aspx",
+    "brand": "Dayo",
+    "measure": "25 UN",
     "category": "no",
     "subcategory": "decoracion",
     "category_path": [
@@ -314963,13 +314985,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TENEDORCITO CORINTER ROSADO X 25UN",
-    "price": 3900.0,
+    "name": "VASO DESCARTABLE TRANS 500 ML ASIPLAST BSA",
+    "price": 26800.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/37214-tenedorcito-corinter-rosado-x-25un.aspx",
+    "url": "https://www.stock.com.py/products/148457-vaso-descartable-trans-500-ml-asiplast-bsa.aspx",
     "brand": "",
-    "measure": "25 UN",
+    "measure": "500 ML",
     "category": "no",
     "subcategory": "descartables",
     "category_path": [
@@ -315023,53 +315045,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "VASO DESCARTABLE AMARILLO 200 ML ASIPLAST BSA",
-    "price": 10300.0,
+    "name": "TENEDORCITO CORINTER ROSADO X 25UN",
+    "price": 3900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/148453-vaso-descartable-amarillo-200-ml-asiplast-bsa.aspx",
+    "url": "https://www.stock.com.py/products/37214-tenedorcito-corinter-rosado-x-25un.aspx",
     "brand": "",
-    "measure": "200 ML",
-    "category": "no",
-    "subcategory": "descartables",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "vajillas",
-      "descartables"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VASO DESCARTABLE TRANS 500 ML ASIPLAST BSA",
-    "price": 26800.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/148457-vaso-descartable-trans-500-ml-asiplast-bsa.aspx",
-    "brand": "",
-    "measure": "500 ML",
-    "category": "no",
-    "subcategory": "descartables",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "vajillas",
-      "descartables"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VASO DESCARTABLE NEGRO 200 ML ASIPLAST BSA",
-    "price": 8900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/148454-vaso-descartable-negro-200-ml-asiplast-bsa.aspx",
-    "brand": "",
-    "measure": "200 ML",
+    "measure": "25 UN",
     "category": "no",
     "subcategory": "descartables",
     "category_path": [
@@ -315123,11 +315105,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PLATO SERTPLAST 15 CRISTAL 10 UN",
-    "price": 23950.0,
+    "name": "SOPORTE P/GLOBOS 10 UN ROSA CORINTER BLIS",
+    "price": 7150.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/80008-plato-sertplast-15-cristal-10-un.aspx",
+    "url": "https://www.stock.com.py/products/279589-soporte-pglobos-10-un-rosa-corinter-blis.aspx",
     "brand": "",
     "measure": "10 UN",
     "category": "no",
@@ -315163,13 +315145,53 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SOPORTE P/GLOBOS 10 UN ROSA CORINTER BLIS",
-    "price": 7150.0,
+    "name": "PLATO SERTPLAST 15 CRISTAL 10 UN",
+    "price": 23950.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279589-soporte-pglobos-10-un-rosa-corinter-blis.aspx",
+    "url": "https://www.stock.com.py/products/80008-plato-sertplast-15-cristal-10-un.aspx",
     "brand": "",
     "measure": "10 UN",
+    "category": "no",
+    "subcategory": "descartables",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "vajillas",
+      "descartables"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VASO DESCARTABLE NEGRO 200 ML ASIPLAST BSA",
+    "price": 8900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/148454-vaso-descartable-negro-200-ml-asiplast-bsa.aspx",
+    "brand": "",
+    "measure": "200 ML",
+    "category": "no",
+    "subcategory": "descartables",
+    "category_path": [
+      "no",
+      "tradicionales",
+      "cotillon",
+      "vajillas",
+      "descartables"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VASO DESCARTABLE AMARILLO 200 ML ASIPLAST BSA",
+    "price": 10300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/148453-vaso-descartable-amarillo-200-ml-asiplast-bsa.aspx",
+    "brand": "",
+    "measure": "200 ML",
     "category": "no",
     "subcategory": "descartables",
     "category_path": [
@@ -315395,29 +315417,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0208034_500.jpeg",
     "url": "https://www.stock.com.py/products/324233-detergente-lavavajillas-limon-pixol-500m.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "no",
-    "subcategory": "alimentos",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "cotillon",
-      "cuidado",
-      "y",
-      "manejo",
-      "de",
-      "alimentos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PAPEL FILM WYDA PRE-CORTADO 21 METROS",
-    "price": 8650.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0207523_500.jpeg",
-    "url": "https://www.stock.com.py/products/325182-papel-film-wyda-pre-cortado-21-metros.aspx",
     "brand": "",
     "measure": "",
     "category": "no",
@@ -317046,13 +317045,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PIROTIN CONFESTA NRO 0B AZUL BLIS",
-    "price": 12800.0,
+    "name": "COBERTOR P/COMIDAS X 3UN CUBRE TODO BSA",
+    "price": 18200.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/278368-pirotin-confesta-nro-0b-azul-blis.aspx",
+    "url": "https://www.stock.com.py/products/130720-cobertor-pcomidas-x-3un-cubre-todo-bsa.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "3 UN",
     "category": "no",
     "subcategory": "alimentos",
     "category_path": [
@@ -317069,13 +317068,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COBERTOR P/COMIDAS X 3UN CUBRE TODO BSA",
-    "price": 18200.0,
+    "name": "PIROTIN CONFESTA NRO 0B AZUL BLIS",
+    "price": 12800.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/130720-cobertor-pcomidas-x-3un-cubre-todo-bsa.aspx",
+    "url": "https://www.stock.com.py/products/278368-pirotin-confesta-nro-0b-azul-blis.aspx",
     "brand": "",
-    "measure": "3 UN",
+    "measure": "",
     "category": "no",
     "subcategory": "alimentos",
     "category_path": [
@@ -318389,60 +318388,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COPA ROYAL 615ML SAN MARINO",
-    "price": 11700.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/288469-copa-royal-615ml-san-marino.aspx",
-    "brand": "",
-    "measure": "615 ML",
-    "category": "bazar",
-    "subcategory": "vidrio",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "vidrio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VASO NEW WEIZEN 630 CC BORMIOLI REF.666235",
-    "price": 31950.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/285601-vaso-new-weizen-630-cc-bormioli-ref666235.aspx",
-    "brand": "",
-    "measure": "630 CC",
-    "category": "bazar",
-    "subcategory": "vidrio",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "vidrio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "VASO DE VIDRIO CRISA 260 ML",
-    "price": 6900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/324819-vaso-de-vidrio-crisa-260-ml.aspx",
-    "brand": "",
-    "measure": "260 ML",
-    "category": "bazar",
-    "subcategory": "vidrio",
-    "category_path": [
-      "bazar",
-      "cocina",
-      "vidrio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PLATO PLAYO GALAXIA FLINT",
     "price": 10950.0,
     "currency": "Gs.",
@@ -318533,13 +318478,103 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SALERO D/ PLASTICO JAGUAR REF 1402",
-    "price": 2500.0,
+    "name": "VASO DE VIDRIO CRISA 260 ML",
+    "price": 6900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/293194-salero-d-plastico-jaguar-ref-1402.aspx",
+    "url": "https://www.stock.com.py/products/324819-vaso-de-vidrio-crisa-260-ml.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "260 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VASO D/VIDRIO 230ML LIFE Y LIVING REF 8301",
+    "price": 3900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/270436-vaso-dvidrio-230ml-life-y-living-ref-8301.aspx",
+    "brand": "",
+    "measure": "230 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "VASO NEW WEIZEN 630 CC BORMIOLI REF.666235",
+    "price": 31950.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/285601-vaso-new-weizen-630-cc-bormioli-ref666235.aspx",
+    "brand": "",
+    "measure": "630 CC",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "COPA D/VIDRIO P/VINO 380ML DAYO REF 11SJ3212",
+    "price": 9900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/293659-copa-dvidrio-pvino-380ml-dayo-ref-11sj3212.aspx",
+    "brand": "Dayo",
+    "measure": "380 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MANIJA ACRI P/CER 450ML SANREMO SR3010/1                     x 40",
+    "price": 8600.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/305583-manija-acri-pcer-450ml-sanremo-sr30101-x-40.aspx",
+    "brand": "",
+    "measure": "450 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "COPA ROYAL 615ML SAN MARINO",
+    "price": 11700.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/288469-copa-royal-615ml-san-marino.aspx",
+    "brand": "",
+    "measure": "615 ML",
     "category": "bazar",
     "subcategory": "vidrio",
     "category_path": [
@@ -318558,6 +318593,42 @@
     "url": "https://www.stock.com.py/products/302223-copa-dvidrio-480ml-dayo-ref11sj3517.aspx",
     "brand": "Dayo",
     "measure": "480 ML",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "COPA P/VINO LIFE Y LIVING REF 11SJ3119",
+    "price": 14900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/276165-copa-pvino-life-y-living-ref-11sj3119.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "bazar",
+    "subcategory": "vidrio",
+    "category_path": [
+      "bazar",
+      "cocina",
+      "vidrio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "SALERO D/ PLASTICO JAGUAR REF 1402",
+    "price": 2500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/293194-salero-d-plastico-jaguar-ref-1402.aspx",
+    "brand": "",
+    "measure": "",
     "category": "bazar",
     "subcategory": "vidrio",
     "category_path": [
@@ -319827,24 +319898,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ACONDICIONADOR GOTAS DE BRILLO JOHNSONS 200ML",
-    "price": 28550.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0187272_500.jpeg",
-    "url": "https://www.stock.com.py/products/152088-acondicionador-gotas-de-brillo-johnsons-200ml.aspx",
-    "brand": "",
-    "measure": "200 ML",
-    "category": "bebes",
-    "subcategory": "capilares",
-    "category_path": [
-      "bebes",
-      "perfumeria",
-      "capilares"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "SHAMPOO ALBABO BABY EXTRASUAVE 236ML",
     "price": 15500.0,
     "currency": "Gs.",
@@ -320884,6 +320937,24 @@
     "url": "https://www.stock.com.py/products/323113-panales-tam-p-huggies-supreme-care-50un.aspx",
     "brand": "Huggies",
     "measure": "50 UN",
+    "category": "bebes",
+    "subcategory": "desechables",
+    "category_path": [
+      "bebes",
+      "perfumeria",
+      "desechables"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAÑAL CONFORT SEC G 60UN PAMPERS PAQ",
+    "price": 110300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0204884_500.jpeg",
+    "url": "https://www.stock.com.py/products/273980-panal-confort-sec-g-60un-pampers-paq.aspx",
+    "brand": "",
+    "measure": "60 UN",
     "category": "bebes",
     "subcategory": "desechables",
     "category_path": [
@@ -324092,24 +324163,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CERVEZA EISENBAHN PILSEN 350ML",
-    "price": 5000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0211816_500.png",
-    "url": "https://www.stock.com.py/products/279347-cerveza-eisenbahn-pilsen-350ml.aspx",
-    "brand": "",
-    "measure": "350 ML",
-    "category": "bebidas",
-    "subcategory": "blancas",
-    "category_path": [
-      "bebidas",
-      "alcoholicas",
-      "blancas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "CERVEZA PURA MALTA EISENBAHN LATA 350 ML",
     "price": 5000.0,
     "currency": "Gs.",
@@ -324243,24 +324296,6 @@
     "url": "https://www.stock.com.py/products/325020-cerveza-stella-artois-600-ml.aspx",
     "brand": "",
     "measure": "600 ML",
-    "category": "bebidas",
-    "subcategory": "blancas",
-    "category_path": [
-      "bebidas",
-      "alcoholicas",
-      "blancas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CERVEZA PURA MALTA HEINEKEN ORIG 350ML",
-    "price": 4500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0207326_500.png",
-    "url": "https://www.stock.com.py/products/324424-cerveza-pura-malta-heineken-orig-350ml.aspx",
-    "brand": "",
-    "measure": "350 ML",
     "category": "bebidas",
     "subcategory": "blancas",
     "category_path": [
@@ -324477,6 +324512,24 @@
     "url": "https://www.stock.com.py/products/311451-cerveza-pilsen-lata-355-ml.aspx",
     "brand": "",
     "measure": "355 ML",
+    "category": "bebidas",
+    "subcategory": "blancas",
+    "category_path": [
+      "bebidas",
+      "alcoholicas",
+      "blancas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CERVEZA CONTI ZERO GRAU 473ML LAT",
+    "price": 4500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0202783_500.jpeg",
+    "url": "https://www.stock.com.py/products/312810-cerveza-conti-zero-grau-473ml-lat.aspx",
+    "brand": "",
+    "measure": "473 ML",
     "category": "bebidas",
     "subcategory": "blancas",
     "category_path": [
@@ -331364,25 +331417,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ENERGIZANTE S/AZUCAR GUARANA 330ML DARK DOG LAT",
-    "price": 13000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0215274_500.jpeg",
-    "url": "https://www.stock.com.py/products/255536-energizante-sazucar-guarana-330ml-dark-dog-lat.aspx",
-    "brand": "",
-    "measure": "330 ML",
-    "category": "bebidas",
-    "subcategory": "energizantes",
-    "category_path": [
-      "bebidas",
-      "no",
-      "alcoholicas",
-      "energizantes"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "MONSTER BEBIDA ENERGIZANTE MANGO LOCO 473 ML",
     "price": 13000.0,
     "currency": "Gs.",
@@ -337316,24 +337350,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0216318_500.jpeg",
     "url": "https://www.stock.com.py/products/276310-pechu-mila-de-pollo-pechgon-8unid.aspx",
-    "brand": "",
-    "measure": "8 UN",
-    "category": "perecedero",
-    "subcategory": "pollos",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "pollos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MILANESA DE PECHUGA DE POLLO PECHUGON 8UNID",
-    "price": 29500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0216315_500.jpeg",
-    "url": "https://www.stock.com.py/products/294606-milanesa-de-pechuga-de-pollo-pechugon-8unid.aspx",
     "brand": "",
     "measure": "8 UN",
     "category": "perecedero",
@@ -344222,6 +344238,26 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "CHORIZO BESITO OCHSI SIN PICANTE X KG",
+    "price": 42300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0139573_500.jpeg",
+    "url": "https://www.stock.com.py/products/17820-chorizo-besito-ochsi-sin-picante-xkg.aspx",
+    "brand": "Bes",
+    "measure": "KG",
+    "category": "perecedero",
+    "subcategory": "despacho",
+    "category_path": [
+      "perecedero",
+      "fiambreria",
+      "embutidos",
+      "al",
+      "despacho"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "MORCILLA PICANTE OCHSI X KG",
     "price": 37900.0,
     "currency": "Gs.",
@@ -344924,25 +344960,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CHORIZOS KNACKER OCHSI EN V 1 K",
-    "price": 61900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0138558_500.jpeg",
-    "url": "https://www.stock.com.py/products/4321-chorizos-knacker-ev-1-kg.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perecedero",
-    "subcategory": "envasadosautoservic",
-    "category_path": [
-      "perecedero",
-      "fiambreria",
-      "embutidos",
-      "envasadosautoservic"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "COMBO COCTAIL 800KG E/V XKG OCHSI PAQ",
     "price": 46700.0,
     "currency": "Gs.",
@@ -345021,6 +345038,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0138731_500.jpeg",
     "url": "https://www.stock.com.py/products/8991-pate-chorti.aspx",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "perecedero",
+    "subcategory": "pates",
+    "category_path": [
+      "perecedero",
+      "fiambreria",
+      "pates"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PATE UPISA 1 KG DE HIGADO",
+    "price": 44900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0138652_500.jpeg",
+    "url": "https://www.stock.com.py/products/6154-pate-de-higado-pza-1-kg.aspx",
     "brand": "",
     "measure": "1 KG",
     "category": "perecedero",
@@ -345137,6 +345172,26 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0211528_500.jpeg",
     "url": "https://www.stock.com.py/products/18125-salame-la-casona-tipo-milan-x-kg.aspx",
+    "brand": "",
+    "measure": "KG",
+    "category": "perecedero",
+    "subcategory": "despachofrescos",
+    "category_path": [
+      "perecedero",
+      "fiambreria",
+      "fiambres",
+      "al",
+      "despachofrescos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FIAMBRE UPISA CERVECERO X KG",
+    "price": 36900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0208304_500.jpeg",
+    "url": "https://www.stock.com.py/products/21900-fiambre-upisa-cervecero-x-kg.aspx",
     "brand": "",
     "measure": "KG",
     "category": "perecedero",
@@ -345782,13 +345837,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MORTADELA RANCHO KG.",
-    "price": 23500.0,
+    "name": "JAMON CRUDO OCHSI EN V 1 KG",
+    "price": 98200.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0138650_500.jpeg",
-    "url": "https://www.stock.com.py/products/6152-mortadela-rancho-pza-kg.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0157724_500.jpeg",
+    "url": "https://www.stock.com.py/products/650-jamon-crudo-ochsi-ev-1-kg.aspx",
     "brand": "",
-    "measure": "KG",
+    "measure": "1 KG",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -345801,13 +345856,32 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "JAMONADA E/V X 500GR",
-    "price": 44500.0,
+    "name": "CHORIZO UPISA TIPO CALABREZA EV. AL VACIO",
+    "price": 41850.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/264472-jamonada-ev-x-500gr.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0139396_500.jpeg",
+    "url": "https://www.stock.com.py/products/14443-chorizo-upisa-tipo-calabreza-ev-al-vacio.aspx",
     "brand": "",
-    "measure": "500 GR",
+    "measure": "",
+    "category": "perecedero",
+    "subcategory": "envasadosautoservici",
+    "category_path": [
+      "perecedero",
+      "fiambreria",
+      "fiambres",
+      "envasadosautoservici"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MORTADELA RANCHO KG.",
+    "price": 23500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0138650_500.jpeg",
+    "url": "https://www.stock.com.py/products/6152-mortadela-rancho-pza-kg.aspx",
+    "brand": "",
+    "measure": "KG",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -345865,6 +345939,44 @@
     "url": "https://www.stock.com.py/products/18315-salame-peperoni-feteado-paq.aspx",
     "brand": "",
     "measure": "",
+    "category": "perecedero",
+    "subcategory": "envasadosautoservici",
+    "category_path": [
+      "perecedero",
+      "fiambreria",
+      "fiambres",
+      "envasadosautoservici"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "SALAMITON OCHSI EN V 1 KG",
+    "price": 65400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/4320-salamiton-ochsi-ev-1-kg.aspx",
+    "brand": "",
+    "measure": "1 KG",
+    "category": "perecedero",
+    "subcategory": "envasadosautoservici",
+    "category_path": [
+      "perecedero",
+      "fiambreria",
+      "fiambres",
+      "envasadosautoservici"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "JAMONADA E/V X 500GR",
+    "price": 44500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/264472-jamonada-ev-x-500gr.aspx",
+    "brand": "",
+    "measure": "500 GR",
     "category": "perecedero",
     "subcategory": "envasadosautoservici",
     "category_path": [
@@ -352754,6 +352866,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "JUGUETE CAMION D/ POLICIA DY MKK230676",
+    "price": 59900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/325567-juguete-camion-d-policia-dy-mkk230676.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "jugueteria",
+    "subcategory": "rodados",
+    "category_path": [
+      "jugueteria",
+      "jugueteria",
+      "rodados"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "JUGUETE HELICO?PTERO C/ DY MKK271302",
     "price": 39900.0,
     "currency": "Gs.",
@@ -352885,24 +353015,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/325554-juguete-camioneta-dy-ref-mkl673799.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "jugueteria",
-    "subcategory": "rodados",
-    "category_path": [
-      "jugueteria",
-      "jugueteria",
-      "rodados"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "JUGUETE CAMION D/ POLICIA DY MKK230676",
-    "price": 59900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/325567-juguete-camion-d-policia-dy-mkk230676.aspx",
     "brand": "",
     "measure": "",
     "category": "jugueteria",
@@ -360307,25 +360419,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "YOGURT ANGELES SABOR PACK 6 UN",
-    "price": 8150.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0178526_500.jpeg",
-    "url": "https://www.stock.com.py/products/5534-frutilla.aspx",
-    "brand": "",
-    "measure": "6 UN",
-    "category": "perecedero",
-    "subcategory": "enteros",
-    "category_path": [
-      "perecedero",
-      "lacteos",
-      "yogures",
-      "enteros"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "YOGURT XABOR ENTERO POTE 140 GR COCO",
     "price": 2300.0,
     "currency": "Gs.",
@@ -363798,83 +363891,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COLA BLANCA 100 ML FABER CASTELL REF 220100 FCO",
-    "price": 5650.0,
+    "name": "SET D/LAPIZ C/BORRADOR/SACAPUNTA FABER",
+    "price": 15300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/281997-cola-blanca-100-ml-faber-castell-ref-220100-fco.aspx",
-    "brand": "",
-    "measure": "100 ML",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "COLA ACRICOLA 40G ACRICOLOR",
-    "price": 3000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/37903-cola-acricola-40g-acricolor.aspx",
-    "brand": "",
-    "measure": "40 GR",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "FIGURASD/ OJOS C/COLOR DY REF.3042540",
-    "price": 9500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326448-figurasd-ojos-ccolor-dy-ref3042540.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PIZARRA DIS VRIOS DAYO REF27547/48",
-    "price": 14250.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320402-pizarra-dis-vrios-dayo-ref2754748.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CARTUCHERA SOCCER DY REF.3042217",
-    "price": 23500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326439-cartuchera-soccer-dy-ref3042217.aspx",
+    "url": "https://www.stock.com.py/products/306846-set-dlapiz-cborradorsacapunta-faber.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -363978,13 +363999,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "FIGURAD/ OJOS DY REF.3042539",
-    "price": 7500.0,
+    "name": "COLA BLANCA 100 ML FABER CASTELL REF 220100 FCO",
+    "price": 5650.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
+    "url": "https://www.stock.com.py/products/281997-cola-blanca-100-ml-faber-castell-ref-220100-fco.aspx",
     "brand": "",
-    "measure": "",
+    "measure": "100 ML",
     "category": "libreria",
     "subcategory": "varios",
     "category_path": [
@@ -363996,11 +364017,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SET D/LAPIZ C/BORRADOR/SACAPUNTA FABER",
-    "price": 15300.0,
+    "name": "COLA ACRICOLA 40G ACRICOLOR",
+    "price": 3000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/306846-set-dlapiz-cborradorsacapunta-faber.aspx",
+    "url": "https://www.stock.com.py/products/37903-cola-acricola-40g-acricolor.aspx",
+    "brand": "",
+    "measure": "40 GR",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FIGURAD/ OJOS DY REF.3042539",
+    "price": 7500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -364032,11 +364071,47 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO D/MAD EN COLOR DY REF.3042533",
-    "price": 7500.0,
+    "name": "FIGURASD/ OJOS C/COLOR DY REF.3042540",
+    "price": 9500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326335-palito-dmad-en-color-dy-ref3042533.aspx",
+    "url": "https://www.stock.com.py/products/326448-figurasd-ojos-ccolor-dy-ref3042540.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PIZARRA DIS VRIOS DAYO REF27547/48",
+    "price": 14250.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320402-pizarra-dis-vrios-dayo-ref2754748.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CARTUCHERA SOCCER DY REF.3042217",
+    "price": 23500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/326439-cartuchera-soccer-dy-ref3042217.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -364086,11 +364161,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CINTA SCOTCH TRANSPARENTE 24MM",
-    "price": 4600.0,
+    "name": "PALITO D/MAD EN COLOR DY REF.3042533",
+    "price": 7500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/157853-cinta-scotch-transparente-24mm.aspx",
+    "url": "https://www.stock.com.py/products/326335-palito-dmad-en-color-dy-ref3042533.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -364104,11 +364179,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITOS C/ COLOR 4CM DY REF.3042542",
-    "price": 8000.0,
+    "name": "MINI CUTER DIS.NUBES DY REF.3042227",
+    "price": 16500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326263-palitos-c-color-4cm-dy-ref3042542.aspx",
+    "url": "https://www.stock.com.py/products/326412-mini-cuter-disnubes-dy-ref3042227.aspx",
+    "brand": "Bes",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CINTA SCOTCH TRANSPARENTE 12MM",
+    "price": 2300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/157852-cinta-scotch-transparente-12mm.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -364176,12 +364269,12 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MINI CUTER DIS.NUBES DY REF.3042227",
-    "price": 16500.0,
+    "name": "PALITOS C/ COLOR 4CM DY REF.3042542",
+    "price": 8000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326412-mini-cuter-disnubes-dy-ref3042227.aspx",
-    "brand": "Bes",
+    "url": "https://www.stock.com.py/products/326263-palitos-c-color-4cm-dy-ref3042542.aspx",
+    "brand": "",
     "measure": "",
     "category": "libreria",
     "subcategory": "varios",
@@ -364194,11 +364287,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CINTA SCOTCH TRANSPARENTE 12MM",
-    "price": 2300.0,
+    "name": "CINTA SCOTCH TRANSPARENTE 24MM",
+    "price": 4600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/157852-cinta-scotch-transparente-12mm.aspx",
+    "url": "https://www.stock.com.py/products/157853-cinta-scotch-transparente-24mm.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -364217,60 +364310,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/326249-palitos-4cm-dy-ref3042543.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "KIT ESCOLAR C/ESTUCHE DAYO REF 27493",
-    "price": 18400.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320489-kit-escolar-cestuche-dayo-ref-27493.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "CUTER PEQUEN?O DY REF.3042225",
-    "price": 7500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326365-cuter-pequeno-dy-ref3042225.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PORTA PAPEL CUBO DELUXE NEGRO ARTESCO S/E",
-    "price": 8600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/133806-porta-papel-cubo-deluxe-negro-artesco-se.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -364469,6 +364508,60 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/17236-regla-15cm-blister-acrimet.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "KIT ESCOLAR C/ESTUCHE DAYO REF 27493",
+    "price": 18400.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320489-kit-escolar-cestuche-dayo-ref-27493.aspx",
+    "brand": "Dayo",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CUTER PEQUEN?O DY REF.3042225",
+    "price": 7500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/326365-cuter-pequeno-dy-ref3042225.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PORTA PAPEL CUBO DELUXE NEGRO ARTESCO S/E",
+    "price": 8600.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/133806-porta-papel-cubo-deluxe-negro-artesco-se.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -366054,6 +366147,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "BOLIGRAFO CRISTAL ROJO REF 191631 X UN BIC BLIS",
+    "price": 2250.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0184077_500.jpeg",
+    "url": "https://www.stock.com.py/products/280990-boligrafo-cristal-rojo-ref-191631-x-un-bic-blis.aspx",
+    "brand": "",
+    "measure": "191631 UN",
+    "category": "libreria",
+    "subcategory": "marcadores",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "marcadores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "APLICADOR D/SILICONA LIFE Y LIVING REFST/030304",
     "price": 36800.0,
     "currency": "Gs.",
@@ -366241,6 +366352,24 @@
     "url": "https://www.stock.com.py/products/253831-porta-mina-duson-x-2-unidad.aspx",
     "brand": "",
     "measure": "",
+    "category": "libreria",
+    "subcategory": "marcadores",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "marcadores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "BOLIGRAFO BIC CRISTAL 3UN REFERENCIA B3-1-AR BIC",
+    "price": 9950.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0165276_500.png",
+    "url": "https://www.stock.com.py/products/18161-boligrafo-bic-cristal-3un-ref-b3-1-ar.aspx",
+    "brand": "",
+    "measure": "3 UN",
     "category": "libreria",
     "subcategory": "marcadores",
     "category_path": [
@@ -366540,11 +366669,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MARCADORES FIESTA 48 COL FABER CASTELL REF 555347",
-    "price": 92900.0,
+    "name": "MARCADOR PERMANENTE NEGRO BIC BLIS",
+    "price": 12100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/290103-marcadores-fiesta-48-col-faber-castell-ref-555347.aspx",
+    "url": "https://www.stock.com.py/products/273797-marcador-permanente-negro-bic-blis.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -366558,13 +366687,31 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "RESALTADOR CELESTE ARTESCO X UN",
-    "price": 4250.0,
+    "name": "MARCADOR FLUOR X 2PZAS FABER CASTELL S/E",
+    "price": 10500.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/253111-resaltador-celeste-artesco-x-un.aspx",
+    "url": "https://www.stock.com.py/products/144089-marcador-fluor-x-2pzas-faber-castell-se.aspx",
     "brand": "",
-    "measure": "UN",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "marcadores",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "marcadores"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MARCADOR FINO NEON 6UN FABER CASTELL",
+    "price": 9700.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/306856-marcador-fino-neon-6un-faber-castell.aspx",
+    "brand": "",
+    "measure": "6 UN",
     "category": "libreria",
     "subcategory": "marcadores",
     "category_path": [
@@ -366720,11 +366867,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MARCADOR PERMANENTE NEGRO BIC BLIS",
-    "price": 12100.0,
+    "name": "MARCADORES FIESTA 48 COL FABER CASTELL REF 555347",
+    "price": 92900.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/273797-marcador-permanente-negro-bic-blis.aspx",
+    "url": "https://www.stock.com.py/products/290103-marcadores-fiesta-48-col-faber-castell-ref-555347.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -366738,31 +366885,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MARCADOR FLUOR X 2PZAS FABER CASTELL S/E",
-    "price": 10500.0,
+    "name": "RESALTADOR CELESTE ARTESCO X UN",
+    "price": 4250.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/144089-marcador-fluor-x-2pzas-faber-castell-se.aspx",
+    "url": "https://www.stock.com.py/products/253111-resaltador-celeste-artesco-x-un.aspx",
     "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "marcadores",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "marcadores"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "MARCADOR FINO NEON 6UN FABER CASTELL",
-    "price": 9700.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/306856-marcador-fino-neon-6un-faber-castell.aspx",
-    "brand": "",
-    "measure": "6 UN",
+    "measure": "UN",
     "category": "libreria",
     "subcategory": "marcadores",
     "category_path": [
@@ -373761,6 +373890,24 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "REJILLA PAÑOLIN BLANCA (MEDIDA)",
+    "price": 3900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0175685_500.jpeg",
+    "url": "https://www.stock.com.py/products/1694-rejilla-paolin-se-1-un-blanc.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "TRAPO DE PISO PAÑOLIN PREMIUM 45x70",
     "price": 10950.0,
     "currency": "Gs.",
@@ -374247,42 +374394,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "REJILLA BLANCA LAVA 1000 38CM X 41CM",
-    "price": 4900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/296624-rejilla-blanca-lava-1000-38cm-x-41cm.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TRAPO DE PISO ELSON DE PRIMERA 45X50 CM",
-    "price": 6100.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/295026-trapo-de-piso-elson-de-primera-45x50-cm.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TRAPO DE PISO ELSON DE PRIMERA 45X70 CM",
     "price": 7600.0,
     "currency": "Gs.",
@@ -374290,6 +374401,60 @@
     "url": "https://www.stock.com.py/products/292962-trapo-de-piso-elson-de-primera-45x70-cm.aspx",
     "brand": "",
     "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO DE PISO ECONOMICO LAVA 1000 45CM X 70CM",
+    "price": 6750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/290430-trapo-de-piso-economico-lava-1000-45cm-x-70cm.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO DE PISO MEDIA NARANJA BLANCO REFORZADO M CLASICO 48 X 60 CM",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/292525-trapo-de-piso-media-naranja-blanco-reforzado-m-clasico-48-x-60-cm.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "TRAPO P/ PISO GRIS REFORZADO G 58X60CM MEDIA NARANJA",
+    "price": 11500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/271975-trapo-p-piso-gris-reforzado-g-58x60cm-media-naranja.aspx",
+    "brand": "",
+    "measure": "GR",
     "category": "limpieza",
     "subcategory": "panosfranelarejillas",
     "category_path": [
@@ -374355,24 +374520,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "REPASADOR C/BOLADOS SAN LUIS S/E X UN",
-    "price": 17000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/318626-repasador-cbolados-san-luis-se-x-un.aspx",
-    "brand": "",
-    "measure": "UN",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAÑO BETTANIN",
     "price": 7250.0,
     "currency": "Gs.",
@@ -374391,11 +374538,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TRAPO DE PISO ECONOMICO LAVA 1000 45CM X 70CM",
-    "price": 6750.0,
+    "name": "REPASADOR C/BOLADOS SAN LUIS S/E X UN",
+    "price": 17000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/290430-trapo-de-piso-economico-lava-1000-45cm-x-70cm.aspx",
+    "url": "https://www.stock.com.py/products/318626-repasador-cbolados-san-luis-se-x-un.aspx",
+    "brand": "",
+    "measure": "UN",
+    "category": "limpieza",
+    "subcategory": "panosfranelarejillas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "panosfranelarejillas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "REJILLA BLANCA LAVA 1000 38CM X 41CM",
+    "price": 4900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/296624-rejilla-blanca-lava-1000-38cm-x-41cm.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
@@ -374409,31 +374574,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "TRAPO DE PISO MEDIA NARANJA BLANCO REFORZADO M CLASICO 48 X 60 CM",
-    "price": 11500.0,
+    "name": "TRAPO DE PISO ELSON DE PRIMERA 45X50 CM",
+    "price": 6100.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/292525-trapo-de-piso-media-naranja-blanco-reforzado-m-clasico-48-x-60-cm.aspx",
+    "url": "https://www.stock.com.py/products/295026-trapo-de-piso-elson-de-primera-45x50-cm.aspx",
     "brand": "",
     "measure": "",
-    "category": "limpieza",
-    "subcategory": "panosfranelarejillas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "panosfranelarejillas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "TRAPO P/ PISO GRIS REFORZADO G 58X60CM MEDIA NARANJA",
-    "price": 11500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/271975-trapo-p-piso-gris-reforzado-g-58x60cm-media-naranja.aspx",
-    "brand": "",
-    "measure": "GR",
     "category": "limpieza",
     "subcategory": "panosfranelarejillas",
     "category_path": [
@@ -376527,13 +376674,29 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "DETERGENTE NEUTRO 500ML LAVA1000 PLUS PET",
-    "price": 4550.0,
+    "name": "INCABRIL NEUTRO DETERGENTE LAVAVAJILLAS 3L",
+    "price": 25000.0,
     "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0192331_500.jpeg",
-    "url": "https://www.stock.com.py/products/265741-detergente-neutro-500ml-lava1000-plus-pet.aspx",
+    "image": "https://www.stock.com.py/images/thumbs/0191818_500.jpeg",
+    "url": "https://www.stock.com.py/products/290270-incabril-neutro-detergente-lavavajillas-3l.aspx",
     "brand": "",
-    "measure": "500 ML",
+    "measure": "3 LT",
+    "category": "detergentes",
+    "subcategory": "Detergentes",
+    "category_path": [
+      "detergentes"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "INCABRIL LIMON DETERGENTE LAVAVAJILLAS 3L",
+    "price": 25000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0191817_500.jpeg",
+    "url": "https://www.stock.com.py/products/290258-incabril-limon-detergente-lavavajillas-3l.aspx",
+    "brand": "",
+    "measure": "3 LT",
     "category": "detergentes",
     "subcategory": "Detergentes",
     "category_path": [
@@ -376694,22 +376857,6 @@
     "url": "https://www.stock.com.py/products/2354-detergente-zitron-ep-1-lt.aspx",
     "brand": "",
     "measure": "1 LITRO",
-    "category": "detergentes",
-    "subcategory": "Detergentes",
-    "category_path": [
-      "detergentes"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "DETERGENTE LAVA 1000 NEUTRO 465ML",
-    "price": 3650.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0152371_500.jpeg",
-    "url": "https://www.stock.com.py/products/11897-detergente-lava-1000-neutro-465ml.aspx",
-    "brand": "",
-    "measure": "465 ML",
     "category": "detergentes",
     "subcategory": "Detergentes",
     "category_path": [
@@ -377942,22 +378089,6 @@
     "url": "https://www.stock.com.py/products/313219-lavandina-multisuperficies-lavanda-2-l-a.aspx",
     "brand": "",
     "measure": "2 LT",
-    "category": "lavandinas",
-    "subcategory": "Lavandinas",
-    "category_path": [
-      "lavandinas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "LAVANDINA LAVANDA AYUDIN TRIPLE PODER 1L",
-    "price": 8000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0203079_500.jpeg",
-    "url": "https://www.stock.com.py/products/303414-lavandina-lavanda-ayudin-triple-poder-1l.aspx",
-    "brand": "",
-    "measure": "1 LT",
     "category": "lavandinas",
     "subcategory": "Lavandinas",
     "category_path": [
@@ -391060,27 +391191,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "CAL AGRICOLA AGROJARDIN 600 GR CA",
-    "price": 7300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0150350_500.jpeg",
-    "url": "https://www.stock.com.py/products/2911-abono-cal-agricola-bit-600-gr.aspx",
-    "brand": "",
-    "measure": "600 GR",
-    "category": "no",
-    "subcategory": "jardineria",
-    "category_path": [
-      "no",
-      "tradicionales",
-      "jardineriapiscina",
-      "insumos",
-      "de",
-      "jardineria"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TROZO DE XAXIM CAJA 500 GR FERT",
     "price": 13700.0,
     "currency": "Gs.",
@@ -400045,23 +400155,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "RICHESTER BOLINHO ANIMADOS ZOO SABOR CHOCOLATE 40 GR",
-    "price": 2250.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0200657_500.jpeg",
-    "url": "https://www.stock.com.py/products/311608-richester-bolinho-animados-zoo-sabor-chocolate-40-gr.aspx",
-    "brand": "",
-    "measure": "40 GR",
-    "category": "confiteria",
-    "subcategory": "budines",
-    "category_path": [
-      "confiteria",
-      "budines"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BOLLO STOCK X UN S E",
     "price": 2500.0,
     "currency": "Gs.",
@@ -400567,6 +400660,25 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0211551_500.png",
     "url": "https://www.stock.com.py/products/149727-pan-fransecito-xkg-se.aspx",
+    "brand": "",
+    "measure": "KG",
+    "category": "perecedero",
+    "subcategory": "frescos",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "panes",
+      "frescos"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN SANDWICHERO XKG S/E PL",
+    "price": 13850.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0209423_500.jpeg",
+    "url": "https://www.stock.com.py/products/293639-pan-sandwichero-xkg-se-pl.aspx",
     "brand": "",
     "measure": "KG",
     "category": "perecedero",
@@ -401417,6 +401529,25 @@
   {
     "site": "Stock",
     "site_id": "stock",
+    "name": "PAN ARABE MONTE LIBANO 10UNID",
+    "price": 15900.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/0186980_500.jpeg",
+    "url": "https://www.stock.com.py/products/244662-pan-arabe-monte-libano-10unid.aspx",
+    "brand": "",
+    "measure": "10 UN",
+    "category": "perecedero",
+    "subcategory": "arabe",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "arabe"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
     "name": "TORTILLAS DE HARINA DE TRIGO LIGHT FINITAS MAZZEI 10UNID",
     "price": 10600.0,
     "currency": "Gs.",
@@ -402179,44 +402310,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PRE PIZZA TRADICIONAL 200GR PANTODOS BSA",
-    "price": 8100.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0209677_500.png",
-    "url": "https://www.stock.com.py/products/284513-pre-pizza-tradicional-200gr-pantodos-bsa.aspx",
-    "brand": "",
-    "measure": "200 GR",
-    "category": "perecedero",
-    "subcategory": "pizza",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pre",
-      "pizza"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PRE-PIZZA BLANCA GOURMET EL GERMANO 120GR",
-    "price": 9900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0187191_500.jpeg",
-    "url": "https://www.stock.com.py/products/263036-pre-pizza-blanca-gourmet-el-germano-120gr.aspx",
-    "brand": "",
-    "measure": "120 GR",
-    "category": "perecedero",
-    "subcategory": "pizza",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pre",
-      "pizza"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PRE PIZZA EDWARD 1UN",
     "price": 6500.0,
     "currency": "Gs.",
@@ -402434,24 +402527,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "SECOS A LA MANTECA LA NEGRITA PAQUETE 250GR",
-    "price": 8600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0151189_500.jpeg",
-    "url": "https://www.stock.com.py/products/28112-secos-a-la-manteca-la-negrita-paq-250gr.aspx",
-    "brand": "",
-    "measure": "250 GR",
-    "category": "perecedero",
-    "subcategory": "secos",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "secos"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "SECOS INTEGRALES LA NEGRITA 250 GR",
     "price": 8600.0,
     "currency": "Gs.",
@@ -402560,11 +402635,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -402596,11 +402671,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -417447,13 +417522,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "DOVE MEN PACK DESODORANTE EN AEROSOL PROTECCION TOTAL 2 UNIDADES 89 GR",
-    "price": 42600.0,
+    "name": "AXE DARK TEMPTATION DESODORANTE CORPORAL 150 ML",
+    "price": 27300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320139-dove-men-pack-desodorante-en-aerosol-proteccion-total-2-unidades-89-gr.aspx",
-    "brand": "Dove",
-    "measure": "89 GR",
+    "url": "https://www.stock.com.py/products/311491-axe-dark-temptation-desodorante-corporal-150-ml.aspx",
+    "brand": "",
+    "measure": "150 ML",
     "category": "perfumeria",
     "subcategory": "masculinos",
     "category_path": [
@@ -417467,13 +417542,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "AXE DARK TEMPTATION DESODORANTE CORPORAL 150 ML",
-    "price": 27300.0,
+    "name": "DOVE MEN PACK DESODORANTE EN AEROSOL PROTECCION TOTAL 2 UNIDADES 89 GR",
+    "price": 42600.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/311491-axe-dark-temptation-desodorante-corporal-150-ml.aspx",
-    "brand": "",
-    "measure": "150 ML",
+    "url": "https://www.stock.com.py/products/320139-dove-men-pack-desodorante-en-aerosol-proteccion-total-2-unidades-89-gr.aspx",
+    "brand": "Dove",
+    "measure": "89 GR",
     "category": "perfumeria",
     "subcategory": "masculinos",
     "category_path": [
@@ -425628,24 +425703,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-006",
-    "price": 3500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/336091-mediafina-dayo-pdama-soquete-md25-006.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "mision",
-    "subcategory": "ofertas",
-    "category_path": [
-      "mision",
-      "de",
-      "ofertas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "FIAMBRE TIPO MORTADELA UPISA X KG",
     "price": 33500.0,
     "currency": "Gs.",
@@ -425689,6 +425746,24 @@
     "url": "https://www.stock.com.py/products/335275-fiambre-paris-upisa-x-kg.aspx",
     "brand": "",
     "measure": "KG",
+    "category": "mision",
+    "subcategory": "ofertas",
+    "category_path": [
+      "mision",
+      "de",
+      "ofertas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "MEDIAFINA DAYO P/DAMA SOQUETE MD25-006",
+    "price": 3500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/336091-mediafina-dayo-pdama-soquete-md25-006.aspx",
+    "brand": "Dayo",
+    "measure": "",
     "category": "mision",
     "subcategory": "ofertas",
     "category_path": [
