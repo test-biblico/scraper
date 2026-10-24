@@ -92642,6 +92642,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CERVEZA BRAHMA ULTRA CERO 269ml LATA",
+    "price": 2600.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/111404.jpg",
+    "url": "https://www.supermas.com.py/cerveza-brahma-ultra-cero-269ml-lata-p20836",
+    "brand": "",
+    "measure": "269 ML",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "CERVEZA MILLER LIFE LATA 296ml",
     "price": 5450.0,
     "currency": "Gs.",
@@ -92867,7 +92883,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "CERVEZA HEINEKEN LATA 350ml",
-    "price": 4000.0,
+    "price": 5350.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/130843.jpg",
     "url": "https://www.supermas.com.py/cerveza-heineken-lata-350ml-p41358",
@@ -119719,6 +119735,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/2490.jpg",
     "url": "https://www.supermas.com.py/harina-de-maiz-primera-kg-p3410",
+    "brand": "",
+    "measure": "KG",
+    "category": "OTROS ALIMENTOS",
+    "subcategory": "OTROS ALIMENTOS",
+    "category_path": [
+      "OTROS ALIMENTOS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "ÑOQUIS LA CRIOLLA X KG",
+    "price": 12550.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/6120.jpg",
+    "url": "https://www.supermas.com.py/noquis-la-criolla-x-kg-p6125",
     "brand": "",
     "measure": "KG",
     "category": "OTROS ALIMENTOS",
@@ -194569,22 +194601,6 @@
     "url": "https://www.supermas.com.py/palita-p-basura-metalita-polifoam-p49064",
     "brand": "",
     "measure": "",
-    "category": "LIMPIEZA",
-    "subcategory": "LIMPIEZA",
-    "category_path": [
-      "LIMPIEZA"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "PACK POETTSURT.AER. 2x360ml 70% 2DA UNID",
-    "price": 20650.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/pack-poettsurtaer-2x360ml-70-2da-unid-p49456",
-    "brand": "Poett",
-    "measure": "360 ML",
     "category": "LIMPIEZA",
     "subcategory": "LIMPIEZA",
     "category_path": [
@@ -343333,46 +343349,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PICADA PARRILLERA XKG",
-    "price": 48500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/265648-picada-parrillera-xkg.aspx",
-    "brand": "",
-    "measure": "KG",
-    "category": "perecedero",
-    "subcategory": "vacio",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "carnes",
-      "al",
-      "vacio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "COSTILLITA PARRILLERO NEULAND MADURADO XKG",
-    "price": 32750.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/270241-costillita-parrillero-neuland-madurado-xkg.aspx",
-    "brand": "",
-    "measure": "KG",
-    "category": "perecedero",
-    "subcategory": "vacio",
-    "category_path": [
-      "perecedero",
-      "carnes",
-      "carnes",
-      "al",
-      "vacio"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "BRISQUET NEULAND MK x 1",
     "price": 58800.0,
     "currency": "Gs.",
@@ -343400,6 +343376,46 @@
     "url": "https://www.stock.com.py/products/303919-punta-de-pecho-neuland.aspx",
     "brand": "",
     "measure": "",
+    "category": "perecedero",
+    "subcategory": "vacio",
+    "category_path": [
+      "perecedero",
+      "carnes",
+      "carnes",
+      "al",
+      "vacio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PICADA PARRILLERA XKG",
+    "price": 48500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/265648-picada-parrillera-xkg.aspx",
+    "brand": "",
+    "measure": "KG",
+    "category": "perecedero",
+    "subcategory": "vacio",
+    "category_path": [
+      "perecedero",
+      "carnes",
+      "carnes",
+      "al",
+      "vacio"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "COSTILLITA PARRILLERO NEULAND MADURADO XKG",
+    "price": 32750.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/270241-costillita-parrillero-neuland-madurado-xkg.aspx",
+    "brand": "",
+    "measure": "KG",
     "category": "perecedero",
     "subcategory": "vacio",
     "category_path": [
@@ -405558,11 +405574,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -405594,11 +405610,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
