@@ -24770,22 +24770,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "FRANUI AMARGO POTE DE 150 GR",
-    "price": 34900.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
-    "url": "https://www.supermas.com.py/franui-amargo-pote-de-150-gr-p63246",
-    "brand": "",
-    "measure": "150 GR",
-    "category": "ALMACEN",
-    "subcategory": "ALMACEN",
-    "category_path": [
-      "ALMACEN"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "CARAMELO MASTICABLE MISKY SURT 50gr",
     "price": 1600.0,
     "currency": "Gs.",
@@ -32002,6 +31986,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "EXTRACTO FRUTIKA PERITA 140GR",
+    "price": 2150.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/68964.jpg",
+    "url": "https://www.supermas.com.py/extracto-frutika-perita-140gr-p7265",
+    "brand": "",
+    "measure": "140 GR",
+    "category": "ALMACEN",
+    "subcategory": "ALMACEN",
+    "category_path": [
+      "ALMACEN"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "COCINERO FRITOLIM MANTECA 120  GR",
     "price": 37250.0,
     "currency": "Gs.",
@@ -36003,7 +36003,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MAYONESA DICASA DOY PACK 240gr",
-    "price": 3525.0,
+    "price": 5865.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/140740.jpg",
     "url": "https://www.supermas.com.py/mayonesa-dicasa-doy-pack-240gr-p51595",
@@ -54269,22 +54269,6 @@
     "subcategory": "ENLATADOS",
     "category_path": [
       "ENLATADOS"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
-    "name": "EXTRACTO FRUTIKA PERITA 140GR",
-    "price": 2150.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/68964.jpg",
-    "url": "https://www.supermas.com.py/extracto-frutika-perita-140gr-p7265",
-    "brand": "",
-    "measure": "140 GR",
-    "category": "TOMATES",
-    "subcategory": "TOMATES",
-    "category_path": [
-      "TOMATES"
     ]
   },
   {
@@ -199555,7 +199539,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/GATO FELIX ADULTO 3kg MEGAMIX",
-    "price": 66350.0,
+    "price": 48900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/131042.jpg",
     "url": "https://www.supermas.com.py/alimp-gato-felix-adulto-3kg-megamix-p41560",
@@ -367082,24 +367066,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "FIGURAD/ OJOS DY REF.3042539",
-    "price": 7500.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "KIT ESCOLAR DAYO REF 27488/489",
     "price": 15850.0,
     "currency": "Gs.",
@@ -367303,6 +367269,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/326310-figura-brillandcorativas-dy-ref3042541.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "FIGURAD/ OJOS DY REF.3042539",
+    "price": 7500.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/326437-figurad-ojos-dy-ref3042539.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -405574,11 +405558,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
@@ -405610,11 +405594,11 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "name": "PALITIN CON SEMILLA DE SESAMO 400GR EDWARD BSA",
     "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/279474-palitin-con-semilla-de-sesamo-400gr-edward-bsa.aspx",
     "brand": "",
     "measure": "400 GR",
     "category": "perecedero",
