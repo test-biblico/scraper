@@ -11410,11 +11410,11 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "AJENJO MICKEY 30 G X 10",
-    "price": 5350.0,
+    "name": "AJENJO MICKEY 30gr",
+    "price": 5600.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/135511.jpg",
-    "url": "https://www.supermas.com.py/ajenjo-mickey-30-g-x-10-p46209",
+    "url": "https://www.supermas.com.py/ajenjo-mickey-30gr-p46209",
     "brand": "",
     "measure": "30 GR",
     "category": "ALMACEN",
@@ -33619,7 +33619,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "KETCHUP DAJUDA 400GR",
-    "price": 9000.0,
+    "price": 9500.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/24422.png",
     "url": "https://www.supermas.com.py/ketchup-dajuda-400gr-p3334",
@@ -45586,6 +45586,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "WAFFER MARILAN LIMON 115 GR",
+    "price": 4000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/87867.jpg",
+    "url": "https://www.supermas.com.py/waffer-marilan-limon-115-gr-p10942",
+    "brand": "",
+    "measure": "115 GR",
+    "category": "GALLETITAS",
+    "subcategory": "GALLETITAS",
+    "category_path": [
+      "GALLETITAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "WAFFER FRUTILLA MARILAN 115  GR",
     "price": 4000.0,
     "currency": "Gs.",
@@ -50345,6 +50361,22 @@
     "url": "https://www.supermas.com.py/chipa-piru-arco-iris-220-gr-p10841",
     "brand": "",
     "measure": "220 GR",
+    "category": "SNACKS",
+    "subcategory": "SNACKS",
+    "category_path": [
+      "SNACKS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "SNACK DORITOS QUESO 28 GR",
+    "price": 4400.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88851.png",
+    "url": "https://www.supermas.com.py/snack-doritos-queso-28-gr-p11251",
+    "brand": "",
+    "measure": "28 GR",
     "category": "SNACKS",
     "subcategory": "SNACKS",
     "category_path": [
@@ -71027,7 +71059,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MERMELADA AREGUA GUAYABA FCO 440  GR",
-    "price": 9350.0,
+    "price": 13050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88571.jpg",
     "url": "https://www.supermas.com.py/mermelada-aregua-guayaba-fco-440-gr-p11151",
@@ -71491,7 +71523,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "DULCE LECHE ILOLAY CLASICO 405gr",
-    "price": 14000.0,
+    "price": 16800.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/114501.jpg",
     "url": "https://www.supermas.com.py/dulce-leche-ilolay-clasico-405gr-p24066",
@@ -93474,6 +93506,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "ENERGIZANTE DARK DOG 330 ML",
+    "price": 11100.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/89981.png",
+    "url": "https://www.supermas.com.py/energizante-dark-dog-330-ml-p11480",
+    "brand": "",
+    "measure": "330 ML",
+    "category": "BEBIDAS",
+    "subcategory": "BEBIDAS",
+    "category_path": [
+      "BEBIDAS"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "ENERGIZANTE SUGARFREE DARK DOG 330 ML",
     "price": 11050.0,
     "currency": "Gs.",
@@ -106754,6 +106802,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "BOLLO CON DULCE DE LECHE SUPERMAS X KG",
+    "price": 29000.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/95405.png",
+    "url": "https://www.supermas.com.py/bollo-con-dulce-de-leche-supermas-x-kg-p13332",
+    "brand": "Superma",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "BOLLO C/CREMA PASTELERA SUPERMAS X KG",
     "price": 31000.0,
     "currency": "Gs.",
@@ -106786,11 +106850,59 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "CAÑONCITO DULCE SUPERMAS X KG",
+    "price": 52900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/canoncito-dulce-supermas-x-kg-p13913",
+    "brand": "Superma",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "MASITA PALMERITA X KG",
+    "price": 50900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/masita-palmerita-x-kg-p13914",
+    "brand": "",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "PIE LIMON KG",
     "price": 50400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/96947.jpg",
     "url": "https://www.supermas.com.py/pie-limon-kg-p13916",
+    "brand": "",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "BOMBA DE QUESO X KG",
+    "price": 44700.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/bomba-de-queso-x-kg-p14132",
     "brand": "",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
@@ -106823,6 +106935,22 @@
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/98987.jpg",
     "url": "https://www.supermas.com.py/budin-de-naranja-supermas-x-kg-p14512",
+    "brand": "Superma",
+    "measure": "KG",
+    "category": "PANADERIA Y CONFITERIA",
+    "subcategory": "PANADERIA Y CONFITERIA",
+    "category_path": [
+      "PANADERIA Y CONFITERIA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
+    "name": "VAINILLA SUPERMAS X KG",
+    "price": 23900.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
+    "url": "https://www.supermas.com.py/vainilla-supermas-x-kg-p18131",
     "brand": "Superma",
     "measure": "KG",
     "category": "PANADERIA Y CONFITERIA",
@@ -135986,22 +136114,6 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
-    "name": "ACONDICIONADOR DODDY DULZURA 200 GR",
-    "price": 13400.0,
-    "currency": "Gs.",
-    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/100679.jpg",
-    "url": "https://www.supermas.com.py/acondicionador-doddy-dulzura-200-gr-p238",
-    "brand": "",
-    "measure": "200 GR",
-    "category": "ASEO PERSONAL",
-    "subcategory": "ASEO PERSONAL",
-    "category_path": [
-      "ASEO PERSONAL"
-    ]
-  },
-  {
-    "site": "Supermas",
-    "site_id": "supermas",
     "name": "REPELENTE CREMA BABY BLUE 100 ML",
     "price": 11900.0,
     "currency": "Gs.",
@@ -153801,10 +153913,10 @@
     "url": "https://www.supermas.com.py/crema-peinar-sedal-sos-cera-300-ml-p6517",
     "brand": "",
     "measure": "300 ML",
-    "category": "TRATAMIENTO CAPILAR",
-    "subcategory": "TRATAMIENTO CAPILAR",
+    "category": "ASEO PERSONAL",
+    "subcategory": "ASEO PERSONAL",
     "category_path": [
-      "TRATAMIENTO CAPILAR"
+      "ASEO PERSONAL"
     ]
   },
   {
@@ -192610,6 +192722,22 @@
   {
     "site": "Supermas",
     "site_id": "supermas",
+    "name": "DESOD.AMB.SMELL FRESH CHICLE 262ml AER.",
+    "price": 23650.0,
+    "currency": "Gs.",
+    "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/122578.jpg",
+    "url": "https://www.supermas.com.py/desodambsmell-fresh-chicle-262ml-aer-p32517",
+    "brand": "",
+    "measure": "262 ML",
+    "category": "LIMPIEZA",
+    "subcategory": "LIMPIEZA",
+    "category_path": [
+      "LIMPIEZA"
+    ]
+  },
+  {
+    "site": "Supermas",
+    "site_id": "supermas",
     "name": "DESOD.AMB.SMELL FRESH BEBE 262ml AER.",
     "price": 23650.0,
     "currency": "Gs.",
@@ -198595,7 +198723,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ALIM.P/GATO FELIX ADULTO 3kg MEGAMIX",
-    "price": 66350.0,
+    "price": 48900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/131042.jpg",
     "url": "https://www.supermas.com.py/alimp-gato-felix-adulto-3kg-megamix-p41560",
@@ -365539,13 +365667,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "COLA ACRICOLA 40G ACRICOLOR",
-    "price": 3000.0,
+    "name": "KIT ESCOLAR DAYO REF 27488/489",
+    "price": 15850.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/37903-cola-acricola-40g-acricolor.aspx",
-    "brand": "",
-    "measure": "40 GR",
+    "url": "https://www.stock.com.py/products/320429-kit-escolar-dayo-ref-27488489.aspx",
+    "brand": "Dayo",
+    "measure": "",
     "category": "libreria",
     "subcategory": "varios",
     "category_path": [
@@ -365557,13 +365685,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "KIT ESCOLAR DAYO REF 27488/489",
-    "price": 15850.0,
+    "name": "COLA ACRICOLA 40G ACRICOLOR",
+    "price": 3000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320429-kit-escolar-dayo-ref-27488489.aspx",
-    "brand": "Dayo",
-    "measure": "",
+    "url": "https://www.stock.com.py/products/37903-cola-acricola-40g-acricolor.aspx",
+    "brand": "",
+    "measure": "40 GR",
     "category": "libreria",
     "subcategory": "varios",
     "category_path": [
@@ -366858,6 +366986,24 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0154462_500.jpeg",
     "url": "https://www.stock.com.py/products/3445-estuche-crayones-acrilex-est-1.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "CRAYOLA FABER GRIP 12C",
+    "price": 10000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/27859-crayola-faber-grip-12c.aspx",
     "brand": "",
     "measure": "",
     "category": "libreria",
@@ -381995,22 +382141,6 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/0172516_500.jpeg",
     "url": "https://www.stock.com.py/products/25837-limpiador-furia-antigrasa-rec-600ml.aspx",
-    "brand": "",
-    "measure": "600 ML",
-    "category": "limpiadores",
-    "subcategory": "Limpiadores",
-    "category_path": [
-      "limpiadores"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "LIMPIADOR FURIA ANTIGRASA GAT 600ML",
-    "price": 16400.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/0172515_500.jpeg",
-    "url": "https://www.stock.com.py/products/25836-limpiador-furia-antigrasa-gat-600ml.aspx",
     "brand": "",
     "measure": "600 ML",
     "category": "limpiadores",
@@ -403893,13 +404023,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
-    "price": 9300.0,
+    "name": "MASA SECA LOEB 1 UN",
+    "price": 38000.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
+    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
     "brand": "",
-    "measure": "400 GR",
+    "measure": "1 UN",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
@@ -403929,13 +404059,13 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "MASA SECA LOEB 1 UN",
-    "price": 38000.0,
+    "name": "PALITO CON TRES SEMILLAS EDWARD 400GR BSA",
+    "price": 9300.0,
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/4349-masa-seca-loeb-bit-1-un.aspx",
+    "url": "https://www.stock.com.py/products/279151-palito-con-tres-semillas-edward-400gr-bsa.aspx",
     "brand": "",
-    "measure": "1 UN",
+    "measure": "400 GR",
     "category": "perecedero",
     "subcategory": "secos",
     "category_path": [
