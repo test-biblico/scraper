@@ -3955,7 +3955,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ARROZ NORTE TIPO II BOLSA 5kg.",
-    "price": 19100.0,
+    "price": 21400.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/sin-imagen.png",
     "url": "https://www.supermas.com.py/arroz-norte-tipo-ii-bolsa-5kg-p57732",
@@ -71539,7 +71539,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "MERMELADA AREGUA GUAYABA FCO 440  GR",
-    "price": 9350.0,
+    "price": 13050.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/88571.jpg",
     "url": "https://www.supermas.com.py/mermelada-aregua-guayaba-fco-440-gr-p11151",
@@ -364898,24 +364898,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "KIT ESCOLAR DAYO REF 27488/489",
-    "price": 15850.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/320429-kit-escolar-dayo-ref-27488489.aspx",
-    "brand": "Dayo",
-    "measure": "",
-    "category": "libreria",
-    "subcategory": "varios",
-    "category_path": [
-      "libreria",
-      "escolar",
-      "varios"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "TIZAS BLANCAS 12UN REAL CJA",
     "price": 4200.0,
     "currency": "Gs.",
@@ -365013,6 +364995,24 @@
     "url": "https://www.stock.com.py/products/37903-cola-acricola-40g-acricolor.aspx",
     "brand": "",
     "measure": "40 GR",
+    "category": "libreria",
+    "subcategory": "varios",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "varios"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "KIT ESCOLAR DAYO REF 27488/489",
+    "price": 15850.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320429-kit-escolar-dayo-ref-27488489.aspx",
+    "brand": "Dayo",
+    "measure": "",
     "category": "libreria",
     "subcategory": "varios",
     "category_path": [
@@ -366417,6 +366417,24 @@
     "url": "https://www.stock.com.py/products/320478-crayola-10un-regular-kidart.aspx",
     "brand": "",
     "measure": "10 UN",
+    "category": "libreria",
+    "subcategory": "color",
+    "category_path": [
+      "libreria",
+      "escolar",
+      "color"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "LAPIZ D/COL 12U DAYO REF 27215/216",
+    "price": 6800.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/320490-lapiz-dcol-12u-dayo-ref-27215216.aspx",
+    "brand": "Dayo",
+    "measure": "",
     "category": "libreria",
     "subcategory": "color",
     "category_path": [
@@ -403333,26 +403351,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "PAN P/SANWICH DESCORTEZADO BLANCO PAQ",
-    "price": 13300.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/287600-pan-psanwich-descortezado-blanco-paq.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "perecedero",
-    "subcategory": "molde",
-    "category_path": [
-      "perecedero",
-      "panaderia",
-      "pan",
-      "de",
-      "molde"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "PAN SANDWICH EDWARD 500GR",
     "price": 9100.0,
     "currency": "Gs.",
@@ -403380,6 +403378,26 @@
     "url": "https://www.stock.com.py/products/305384-edward-pan-con-harina-integral-400-gr.aspx",
     "brand": "",
     "measure": "400 GR",
+    "category": "perecedero",
+    "subcategory": "molde",
+    "category_path": [
+      "perecedero",
+      "panaderia",
+      "pan",
+      "de",
+      "molde"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PAN P/SANWICH DESCORTEZADO BLANCO PAQ",
+    "price": 13300.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/287600-pan-psanwich-descortezado-blanco-paq.aspx",
+    "brand": "",
+    "measure": "",
     "category": "perecedero",
     "subcategory": "molde",
     "category_path": [
