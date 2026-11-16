@@ -20931,7 +20931,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "BOMBON ARCOR SURTIDO 146gr",
-    "price": 8050.0,
+    "price": 12900.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/105550.png",
     "url": "https://www.supermas.com.py/bombon-arcor-surtido-146gr-p22901",
@@ -76179,7 +76179,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "LECHE CRECIMIENTO LACTOLANDA 1 LT",
-    "price": 8050.0,
+    "price": 5550.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/63211.png",
     "url": "https://www.supermas.com.py/leche-crecimiento-lactolanda-1-lt-p6340",
@@ -120323,7 +120323,7 @@
     "site": "Supermas",
     "site_id": "supermas",
     "name": "ÑOQUIS PASTA PORA 400  GR",
-    "price": 4500.0,
+    "price": 4850.0,
     "currency": "Gs.",
     "image": "https://supermas.cdn1.dattamax.com/userfiles/images/productos/448/13492.png",
     "url": "https://www.supermas.com.py/noquis-pasta-pora-400-gr-p1442",
@@ -370635,96 +370635,6 @@
   {
     "site": "Stock",
     "site_id": "stock",
-    "name": "ESPONJA DE ACERO X 3UN VILEDA PACK",
-    "price": 11600.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/279210-esponja-de-acero-x-3un-vileda-pack.aspx",
-    "brand": "",
-    "measure": "3 UN",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA WASH CAR ANATOMICA",
-    "price": 13450.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/312988-esponja-wash-car-anatomica.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "ESPONJA POLIFOAM ANTIADHERENTE",
-    "price": 8900.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/312989-esponja-polifoam-antiadherente.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PACK ESPONJAS MULTIUSO X4 / ALAMBRILLO G",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314926-pack-esponjas-multiuso-x4-alambrillo-g.aspx",
-    "brand": "",
-    "measure": "GR",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
-    "name": "PACK ESPONJAS C/FIBRA X4 / 2 ESPONJAS MU",
-    "price": 7000.0,
-    "currency": "Gs.",
-    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
-    "url": "https://www.stock.com.py/products/314927-pack-esponjas-cfibra-x4-2-esponjas-mu.aspx",
-    "brand": "",
-    "measure": "",
-    "category": "limpieza",
-    "subcategory": "esponjas",
-    "category_path": [
-      "limpieza",
-      "hogar",
-      "esponjas"
-    ]
-  },
-  {
-    "site": "Stock",
-    "site_id": "stock",
     "name": "ESPONJA LAVAVAJILLAS X UNID EL TIGRE PAQ",
     "price": 2950.0,
     "currency": "Gs.",
@@ -370766,6 +370676,42 @@
     "currency": "Gs.",
     "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
     "url": "https://www.stock.com.py/products/230847-flowpack-vileda-dorada-caja-3x2.aspx",
+    "brand": "",
+    "measure": "",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PACK ESPONJAS MULTIUSO X4 / ALAMBRILLO G",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314926-pack-esponjas-multiuso-x4-alambrillo-g.aspx",
+    "brand": "",
+    "measure": "GR",
+    "category": "limpieza",
+    "subcategory": "esponjas",
+    "category_path": [
+      "limpieza",
+      "hogar",
+      "esponjas"
+    ]
+  },
+  {
+    "site": "Stock",
+    "site_id": "stock",
+    "name": "PACK ESPONJAS C/FIBRA X4 / 2 ESPONJAS MU",
+    "price": 7000.0,
+    "currency": "Gs.",
+    "image": "https://www.stock.com.py/images/thumbs/noDefaultImage_stock_500.gif",
+    "url": "https://www.stock.com.py/products/314927-pack-esponjas-cfibra-x4-2-esponjas-mu.aspx",
     "brand": "",
     "measure": "",
     "category": "limpieza",
